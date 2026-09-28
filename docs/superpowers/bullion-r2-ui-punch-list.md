@@ -199,11 +199,35 @@ exactly what `silent-failure-and-vendor-independence` warns about. **Criterion 4
 MET in the done-criteria doc but is currently false on the live site.**
 
 **Two separable fixes, neither of them R2:**
-1. **The guard (cheap, do this regardless):** make the freshness check assert `len(headlines) > 0`,
-   not just `generated_at` age — and refuse to commit an empty array over a populated one.
-2. **The source (the real decision):** Yahoo's `rssindex` has gone stale as a source. Per the
-   vendor-independence philosophy this wants a second feed rather than a single point of failure.
-   Owner's call — it is a scope decision, not a defect fix.
+
+1. ✅ **The guard — DONE 2026-09-28 (`b3603d0`).** The freshness step now alarms on
+   `len(headlines) == 0`, not just `generated_at` age, and distinguishes *fetch broken* (feed
+   returned nothing) from *source stale* (feed returned items, all past the 48h window) — because
+   those need different responses and look identical from outside. `fetch_bullion_news.py` records
+   `source_item_count` and `newest_item_published` to make that call possible, and prints a loud
+   stderr warning on any zero-headline run. Both new keys are read defensively; pre-2026-09-28
+   files still alarm, with a less specific reason.
+
+   Verified by extracting the guard from the YAML and replaying the **real** historical payloads
+   from git (empty file alarms; with diagnostics it names the source; feed-returns-nothing names
+   the fetcher; the 40-headline file is quiet; that file aged past 6h alarms; missing file alarms),
+   then running the real fetcher against the live feed and feeding its output to the guard.
+
+   ⚠️ **The earlier proposal to "refuse to commit an empty array over a populated one" was
+   deliberately NOT implemented.** Keeping the old file would leave `generated_at` ageing, so the
+   6h check would eventually fire — but the page would meanwhile present five-day-old items as
+   current news. That contradicts the project's own honesty bar. The empty state is *correct*
+   behaviour; the bug was only ever the silence. Fixed the silence.
+
+   Side effect worth knowing: `tests/test_fetch_bullion_news.py` (56 tests) had never run on this
+   machine — Pillow was missing, so it was uncollectable. With Pillow installed it collects and
+   **all 56 pass**. Suite is now 182 passed / 1 pre-existing failure.
+
+2. ⏳ **The source — still open, owner's call.** Yahoo's `rssindex` has stopped publishing: pulled
+   live on 2026-09-28 it returns 49 items whose newest is `2026-09-23T06:00:41Z`, **130h old and
+   growing**. This is not transient. Per the vendor-independence philosophy it wants a second feed
+   rather than a single point of failure. **Criterion 4 stays NOT MET until headlines return** —
+   the guard makes the failure visible, it does not make headlines appear.
 
 The user-visible symptom in the Market tab is `#news-list-empty` → "No recent headlines."
 

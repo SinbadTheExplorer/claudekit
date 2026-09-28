@@ -197,7 +197,7 @@ The full bar for release: criteria 1, 2, 3a, 3b and 4 met, plus R1, R2 and R3 ab
 | Criterion 2 | Built and committed (`60aa26a`), needs the panel |
 | Criterion 3a | **MET** |
 | Criterion 3b | No code at all — the only one never started |
-| Criterion 4 | ⚠️ **REGRESSED 2026-09-25**, see the table above. Was met; is not now |
+| Criterion 4 | ⚠️ **REGRESSED 2026-09-25**, see the table above. Was met; is not now. Detection fixed 2026-09-28 (`b3603d0`) — an empty feed now alarms instead of passing silently — but the **source** is still dead, so this stays NOT MET until headlines return |
 | R1 tutorials | Not started. Should add a coach step for "Set your own numbers" — that drawer is live and working but effectively undiscoverable |
 | **R2 UI pass** | ✅ **DONE 2026-09-26.** Punch list written, 8 defects fixed, re-verified at 390px and 1280px. `docs/superpowers/bullion-r2-ui-punch-list.md` |
 | R3 calibration | Not started, 17 items |
