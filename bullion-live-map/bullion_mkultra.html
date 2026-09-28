@@ -703,10 +703,15 @@
 
   .narrative-box { font-size: 12px; color: var(--text-dim); line-height: 1.6; background: var(--bg-panel2); border-radius: 0; padding: 10px; border: 1px solid var(--border); white-space: pre-wrap; }
   .health-score-row { display: flex; justify-content: space-between; align-items: center; margin-bottom: 4px; }
-  /* .health-score-row is a flex row, so its .hero-stat child would otherwise
-     shrink-to-fit its 2-digit number -- clipping the 96px .hero-stat-ghost
-     glyph (absolutely positioned inside, sized off the wrapper) via the
-     wrapper's own overflow:hidden. Let it actually claim the row's space. */
+  /* SUPERSEDED 2026-09-26 by the R2 UI pass block at the end of this sheet.
+     This rule made .hero-stat claim the whole row so the 96px .hero-stat-ghost
+     would not be clipped -- but the glyph was never actually clipped for the
+     reason assumed here. It was not absolutely positioned at all: `.hero-stat
+     > *` (a few lines above) overrides the ghost's own `position: absolute`
+     at equal specificity, so the glyph sat in normal flow and inflated this
+     row to 104px. That is fixed at the bottom of the sheet; this rule is a
+     no-op now (the later block re-declares flex on the same selector) and is
+     left only so the reasoning above is not silently lost. */
   .health-score-row .hero-stat { flex: 1 1 auto; }
   /* This file has NO generic `.hidden { display: none }` utility -- every
      other `.hidden` rule here is id-scoped (#coach.hidden, #manual-box.hidden,
@@ -956,6 +961,114 @@
     #start-screen .star.dot { opacity: 0.3; }
     #start-screen .star.line { opacity: 0.2; }
   }
+
+  /* ═══ R2 UI pass — 2026-09-26 ═══════════════════════════════════════════
+     One bounded punch list, walked at 390px and 1280px. The full list, with
+     measurements and the reasoning behind each fix, is in
+     docs/superpowers/bullion-r2-ui-punch-list.md. Kept as one block at the
+     end of the sheet so it is self-contained and revertible in one cut.
+
+     The through-line: every defect below is the SAME defect. This tab was
+     built and verified at mobile width, where it is genuinely good, and then
+     inherited a desktop layout that simply lets everything grow to the full
+     panel. Nothing here changes the brutalist identity; it stops the layout
+     from stretching past the point where it can be read.
+
+     ON SCOPING, since it is mixed on purpose: P1-1 is behind
+     `min-width: 900px` and P2-6 behind `pointer: coarse` because each is
+     wrong to apply at the other end -- mobile already reads at ~55ch, and
+     desktop density is deliberate. P1-2, P1-3, P2-5 and P3-8 are global
+     because they are plain defects at every width; each was checked at 390px
+     and reads better there too, not merely no worse. */
+
+  /* P1-1 · Prose ran 1248px / ~208-238 characters per line at 1280px against
+     a 65-75ch target. Mobile was already ~55ch, so this is desktop-only and
+     the phone layout is untouched. Two constraints: the tab stops growing
+     past a column width, and prose keeps a real measure inside it. */
+  @media (min-width: 900px) {
+    #analysis-view > *, #markets-view > * {
+      width: 100%; max-width: 900px; align-self: center;
+    }
+    .sim-note, .stats-foot, .impacts-note, .impact-why, .scenario-explain,
+    .dim-scale, .dim-shock-note, .dim-verdict, .dim-driver, .dim-why-row,
+    .dim-gap, .dim-flag, .dim-read, .dim-caveat, .dim-empty,
+    .chain-hop-why, .fed-odds-headline, .fed-odds-caveat, .narrative-box {
+      max-width: 70ch;
+    }
+  }
+
+  /* P1-2 · The score and the words that say what it means sat ~1100px apart:
+     a space-between row across the full panel with only two children.
+
+     Root cause, found while fixing that: **the ghost glyph was never actually
+     out of flow.** `.hero-stat-ghost` sets `position: absolute` at line ~222,
+     but `.hero-stat > *` sets `position: relative` at line ~226 — identical
+     specificity (0,1,0), and the later rule wins. So the 96px decorative Δ
+     was a 64x109px block sitting in normal flow: it inflated .hero-stat to
+     104px tall, pushed the score down and out of line with its own label, and
+     put the same empty wedge above the Market tab's Fed-odds headline.
+     The `z-index: 0` on the ghost and `z-index: 1` on its siblings only make
+     sense if the ghost is behind them, which is the intent being restored.
+
+     That also explains the earlier `flex: 1 1 auto` workaround on this row: it
+     was widening the box so an in-flow glyph would not be clipped. With the
+     glyph properly behind the content, the box can size to its content. */
+  .hero-stat-ghost { position: absolute; }
+  .hero-stat { min-height: 58px; display: flex; align-items: center; }
+  .health-score-row { justify-content: flex-start; gap: 16px; }
+  /* Centre the score inside its own box and centre the watermark on the same
+     axis, so the Δ reads as sitting behind the number rather than floating in
+     the gap between the number and its label. The Fed-odds card keeps the
+     ghost's default right-edge anchor — that card is full-column wide. */
+  .health-score-row .hero-stat {
+    flex: 0 0 auto; min-width: 76px; justify-content: center;
+  }
+  .health-score-row .hero-stat-ghost {
+    left: 50%; right: auto; transform: translateX(-50%);
+  }
+
+  /* P1-3 · Impact rows were full-panel blocks with the node name at the left
+     edge and its delta at the right — ~1200px of dead space between a label
+     and its own value, 11 rows of it. Cap the bordered row so the pair stays
+     scannable as a pair. */
+  .impact-item { max-width: 460px; }
+
+  /* P1-4 · #persona-orb is position:fixed at bottom-right with nothing
+     reserving space for it, so it sat on top of live content: at 1280px it
+     covered the Gold impact row's value outright, and at 390px it covered a
+     whole dimension row. Reserve its footprint (52x67 at bottom:18). */
+  #analysis-view, #markets-view { padding-bottom: 96px; }
+
+  /* P2-5 · The Live Metrics grid is 9 real cells in a 2-column grid, padded
+     by a hand-written empty 10th cell that rendered as a fully-bordered empty
+     box. The filler cell is removed from the markup; the odd last cell now
+     spans the row instead. Written as :last-child:nth-child(odd) so it stays
+     correct if the cell count ever changes. */
+  .metrics-grid .metric-cell:last-child:nth-child(odd) { grid-column: 1 / -1; }
+
+  /* P3-8 · The fieldnote badge was jammed against the node label, rendering
+     as "Oil Price (WTI)NOTE". Give it separation and make it read as a chip
+     rather than as a run-on word. */
+  .fieldnote-badge {
+    margin-left: 6px; padding: 0 4px;
+    border: 1px solid var(--border); border-radius: 0;
+  }
+
+  /* P2-6 · Touch targets. Every control measured 17-29px tall at 390px
+     (tabs 22px, toolbar buttons 24px, #disclaimer-close 21x22, drawer tags
+     17px) against a 44px WCAG 2.5.5 / platform minimum.
+     ⚠️ Scoped to `pointer: coarse` deliberately. The dense toolbar is the
+     brutalist nav that shipped on purpose; this leaves desktop pixel-for-
+     pixel identical and only grows the targets on touch devices. */
+  @media (pointer: coarse) {
+    .btn, .tab { min-height: 36px; padding-top: 8px; padding-bottom: 8px; }
+    .run-btn { min-height: 44px; }
+    #detail-close, #disclaimer-close, #coach-dismiss {
+      min-width: 40px; min-height: 40px;
+    }
+    .drawer-tag { min-height: 30px; display: inline-flex; align-items: center; }
+    .scenario-select, #history-date-input { min-height: 38px; }
+  }
 </style>
 <!-- Mk Ultra render layer: Three.js r160 (npm 0.160.0) core module, vendored
      locally at vendor/three.module.js so this page has no CDN dependency —
@@ -1128,7 +1241,6 @@
         <div class="metric-cell"><div class="metric-label">Gold</div><div class="metric-val" id="m-gold">&mdash;</div><div class="metric-sub">$/oz</div><div class="prov-sub" id="p-gold"></div></div>
         <div class="metric-cell"><div class="metric-label">Dollar</div><div class="metric-val" id="m-dxy">&mdash;</div><div class="metric-sub">DXY index</div><div class="prov-sub" id="p-dxy"></div></div>
         <div class="metric-cell"><div class="metric-label">WTI Oil</div><div class="metric-val" id="m-wti">&mdash;</div><div class="metric-sub">$/bbl</div><div class="prov-sub" id="p-wti"></div></div>
-        <div class="metric-cell"></div>
       </div>
       <div class="state-alert normal" id="state-alert" style="margin-top:8px">&#x2713; Stable &mdash; risk-on, normal policy</div>
       <div class="sim-note" id="live-provenance" style="margin-top:6px"></div>
@@ -2566,9 +2678,19 @@ const Renderer = (function () {
       if (cosAngle < -0.05) { el.style.display = 'none'; return; } // back hemisphere, facing away from camera
       const proj = projectToScreen(pos, w, h);
       if (!proj) { el.style.display = 'none'; return; }
-      el.style.left = proj.x + 'px';
-      el.style.top = (proj.y + (m.userData.isHub ? 15 : 10)) + 'px';
       el.style.display = 'block';
+      // R2 UI pass: labels are translate(-50%) and the container is
+      // overflow:hidden, so a node projecting near an edge lost half its
+      // text -- "Commercial Banks" rendered as "ercial Banks" at left:-35px
+      // on every fresh 390px load, deterministically, not as a camera
+      // artifact. Clamp the centre so the whole label stays on screen.
+      // Width is cached per label (the text never changes) rather than
+      // measured each frame, which would thrash layout in the rAF loop.
+      if (!el._labelW) el._labelW = el.offsetWidth;
+      const halfW = el._labelW / 2;
+      const maxX = Math.max(halfW + 2, w - halfW - 2);
+      el.style.left = Math.min(Math.max(proj.x, halfW + 2), maxX) + 'px';
+      el.style.top = (proj.y + (m.userData.isHub ? 15 : 10)) + 'px';
     });
   }
 

@@ -26,7 +26,7 @@ anything).
 | 2 | The five existing dimensions (Credit, Volatility, Equity valuation, Funding, Safe assets) each read tight or loose with their drivers explained per the bar below, and the panel can restate one in their own words. | **BUILT 2026-09-25, uncommitted.** Five rows render beneath the retained score, verified in headless Chrome. Still needs the stage-5 panel to actually close. |
 | 3a | Data refreshes unattended and `generated_at` is never older than 48h on a market week. | **MET.** `daily-data.yml` cron `7 10 * * *`; 29 fields; verified fresh 2026-09-25T15:07Z. |
 | 3b | A daily report of the driving numbers plus the analysis arrives on the owner's phone/inbox without the owner opening the site. | **NOT MET — does not exist.** No report generator, no delivery channel in this repo. |
-| 4 | Headlines refresh unattended on market days and are scoped to the financial fields the map tracks. | **MET.** `news-hourly.yml` cron `11 13-21 * * 1-5`; 40 headlines, verified 2026-09-24T21:27Z. |
+| 4 | Headlines refresh unattended on market days and are scoped to the financial fields the map tracks. | ⚠️ **NO LONGER MET — regressed 2026-09-25.** Was MET (40 headlines, 2026-09-24T21:27Z). Live `news.json` has carried `"headlines": []` since the 2026-09-25T17:55Z run. Cause is upstream, not code: Yahoo's `rssindex` froze, newest item 2026-09-23T06:00Z, so the 48h filter correctly empties the list. The cron still reports `success` because the freshness gate only checks `generated_at`, which every run rewrites. See `bullion-r2-ui-punch-list.md` §BUG-A. **Blocks release.** |
 
 Two of four are already met and were met before this file existed. That is worth stating plainly:
 the gap was never capability, it was that nothing recorded when a thing was done.
@@ -187,6 +187,25 @@ true rather than technically false the first time FRED changes an endpoint.
 Released: tag a version (`v1.0`), write a short changelog of what it does and what it does not do,
 and stop. Not buried — it works, it is public, and it is the strongest thing in the portfolio.
 
-The full bar for release: criteria 1, 2, 3a, 3b and 4 met, plus R1, R2 and R3 above. Criteria 3a
-and 4 were already met on 2026-09-25. Criterion 2 is built and committed (`60aa26a`) but still
-needs the panel. Criterion 3b is the only one with no code at all.
+The full bar for release: criteria 1, 2, 3a, 3b and 4 met, plus R1, R2 and R3 above.
+
+**Status as of 2026-09-26:**
+
+| Item | State |
+|---|---|
+| Criterion 1 | Infrastructure done, needs the stage-5 panel |
+| Criterion 2 | Built and committed (`60aa26a`), needs the panel |
+| Criterion 3a | **MET** |
+| Criterion 3b | No code at all — the only one never started |
+| Criterion 4 | ⚠️ **REGRESSED 2026-09-25**, see the table above. Was met; is not now |
+| R1 tutorials | Not started. Should add a coach step for "Set your own numbers" — that drawer is live and working but effectively undiscoverable |
+| **R2 UI pass** | ✅ **DONE 2026-09-26.** Punch list written, 8 defects fixed, re-verified at 390px and 1280px. `docs/superpowers/bullion-r2-ui-punch-list.md` |
+| R3 calibration | Not started, 17 items |
+
+⚠️ Criterion 4 regressing after being recorded MET is the argument for re-checking a "met"
+criterion at release time rather than trusting the cell. It went false without anything in this
+repo changing, and without any alarm firing.
+
+**Scope note, 2026-09-26:** the owner authorised R2 to carry a *bolder visual pass* alongside the
+defect list. That is a declared scope change, recorded here so this doc and the punch list do not
+disagree about what R2 was allowed to be.
