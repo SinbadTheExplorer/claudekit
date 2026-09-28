@@ -118,10 +118,41 @@ jobs:
               source_count = doc.get("source_item_count")
               newest_raw = doc.get("newest_item_published")
 
+              # Per-source health FIRST. Once there are several feeds, the
+              # aggregate checks below go quiet the moment any one of them is
+              # healthy -- so a single frozen source hides behind the others
+              # and we are back to the silence this whole gate exists to
+              # break, just one level up. A source that returns items but
+              # nothing fresh is the exact shape of the 2026-09-24 failure.
+              sources = doc.get("sources") or {}
+              down    = [s.get("label", k) for k, s in sources.items() if not s.get("ok")]
+              empty   = [s.get("label", k) for k, s in sources.items()
+                         if s.get("ok") and s.get("fetched") == 0]
+              frozen  = [(s.get("label", k), s.get("fetched"), s.get("newest"))
+                         for k, s in sources.items()
+                         if s.get("ok") and s.get("fetched") and not s.get("fresh")]
+
               if age_hours > STALE_AFTER_HOURS:
                   stale, reason = True, (
                       f"news.json has not been regenerated for {age_hours:.1f}h "
                       f"(threshold {STALE_AFTER_HOURS}h) -- the fetch step is failing.")
+              elif frozen:
+                  bits = "; ".join(f"{n} ({f} items, newest {w})" for n, f, w in frozen)
+                  stale, reason = True, (
+                      f"SOURCE FROZEN: {bits}. Returning items but none inside the "
+                      f"{MAX_AGE_HOURS}h window means that feed has stopped being "
+                      f"updated. {count} headlines still shipped from the other "
+                      f"sources, so the tab looks fine -- it is one vendor going "
+                      f"quiet, and it does not come back on its own.")
+              elif down:
+                  stale, reason = True, (
+                      f"SOURCE DOWN: {', '.join(down)} could not be fetched. "
+                      f"{count} headlines shipped from the rest.")
+              elif empty:
+                  stale, reason = True, (
+                      f"SOURCE UNPARSEABLE: {', '.join(empty)} fetched but yielded no "
+                      f"items -- its feed format has probably changed. {count} "
+                      f"headlines shipped from the rest.")
               elif count == 0:
                   if source_count == 0:
                       stale, reason = True, (
@@ -140,7 +171,11 @@ jobs:
                           "news.json is fresh but contains zero headlines, and "
                           "carries no pre-filter diagnostics to say why.")
               else:
-                  stale, reason = False, f"{count} headlines, {age_hours:.1f}h old."
+                  mix = ", ".join(
+                      f"{s.get('label', k)} {s.get('contributed', '?')}"
+                      for k, s in sources.items()) or "single source"
+                  stale, reason = False, (
+                      f"{count} headlines, {age_hours:.1f}h old ({mix}).")
 
               print(f"stale={'true' if stale else 'false'}")
               print(f"age_hours={age_hours:.1f}")

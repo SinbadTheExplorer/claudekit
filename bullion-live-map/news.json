@@ -1,4 +1,365 @@
 {
-  "generated_at": "2026-09-25T17:55:40Z",
-  "headlines": []
+  "generated_at": "2026-09-28T16:42:13Z",
+  "headlines": [
+    {
+      "category": "other",
+      "headline": "Supply glut, lab-grown alternatives: What's behind the fall of diamond prices to record lows",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/09/26/whats-behind-the-fall-of-diamond-prices-to-record-lows.html",
+      "published": "2026-09-28T16:37:28Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "tech",
+      "headline": "Nvidia is right: Its stock is a bargain by this measure",
+      "image": "news-images/d22a8947cdac3f3a30e3a8c3.jpg",
+      "link": "https://www.marketwatch.com/story/nvidia-is-right-its-stock-is-a-bargain-95cee6ca?mod=mw_rss_topstories",
+      "published": "2026-09-28T16:33:00Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "US Equity Indexes Fall in Midday Trading",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-fall-midday-163207279.html?.tsrc=rss",
+      "published": "2026-09-28T16:32:07Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "industrials",
+      "headline": "Trump to announce planned $15 billion steel plant, would be largest in U.S. history",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/09/28/trump-steel-plant-iowa.html",
+      "published": "2026-09-28T16:29:28Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Whole Foods co-founder shares tips for launching a successful second act: 'I'm relearning some lessons'",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/09/28/whole-foods-co-founders-3-tips-for-launching-a-successful-second-act.html",
+      "published": "2026-09-28T16:26:28Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Meta hires MongoDB CEO CJ Desai to lead enterprise unit. MongoDB shares crater",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/09/28/mongodb-meta-cj-desai.html",
+      "published": "2026-09-28T16:16:47Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Ex-Disney CEO Bob Chapek says he raised concerns with the board 'weekly' during Iger power battle",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/09/28/disney-bob-chapek-bob-iger-power-battle-board.html",
+      "published": "2026-09-28T16:02:17Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "SpaceX launches its massive Starship rocket into orbit for the first time",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/09/28/spacex-prepares-to-send-starship-rocket-to-orbit-for-first-time.html",
+      "published": "2026-09-28T16:01:50Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "\u2018I\u2019d rather be on a beach in Bali\u2019: My husband resents my $8 million net worth. Should I pay for his retirement?",
+      "image": "news-images/cd15525214f58765225c02d0.jpg",
+      "link": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
+      "published": "2026-09-28T16:00:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Nvidia says it can keep AI models under control \u2014 plus, what to do about Boeing's dip",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/09/28/nvidia-says-it-can-control-ai-models-plus-how-to-act-on-boeings-dip.html",
+      "published": "2026-09-28T15:50:54Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Stock Market Today: Dow Dives, Gold Stocks Melt; Chips Tumble But Nvidia Rises On This Move (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/6b34a52f-8642-3ca8-8589-c9e25040f485/stock-market-today%3A-dow.html?.tsrc=rss",
+      "published": "2026-09-28T15:37:55Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "These Gen Z-ers are choosing ETFs over sports bets. How younger investors told us they\u2019re building wealth.",
+      "image": "news-images/e0349a8ec215402f3d8fc291.jpg",
+      "link": "https://www.marketwatch.com/story/how-is-gen-z-investing-their-money-over-a-dozen-share-their-strategies-for-todays-market-c8a418da?mod=mw_rss_topstories",
+      "published": "2026-09-28T15:13:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "international",
+      "headline": "Five arrested over alleged bomb plot at UK air base used by U.S.; Iran denies link",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/09/28/iran-war-trump-hormuz.html",
+      "published": "2026-09-28T15:04:31Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "\u2018I want to make her proud\u2019: My mother, a divorc\u00e9e, died and I\u2019m her executor. Do I need to file for probate?",
+      "image": "news-images/4053d2fe9856f6dffa032fbb.jpg",
+      "link": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
+      "published": "2026-09-28T15:00:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "From $6 eggs to $50,000 cars, these charts show how inflation has defined the past 5 years",
+      "image": "news-images/fa9459abc9528ebd58f63eaa.jpg",
+      "link": "https://www.marketwatch.com/story/from-6-eggs-to-50-000-cars-these-charts-show-how-inflation-has-defined-the-past-5-years-3c7b9ab9?mod=mw_rss_topstories",
+      "published": "2026-09-28T14:57:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Choosing these AI-exposed college majors could dent your job prospects \u2014 and lower your pay",
+      "image": "news-images/57cd60e822a8a6800d9e1fdd.jpg",
+      "link": "https://www.marketwatch.com/story/choosing-these-ai-exposed-college-majors-could-dent-your-job-prospects-and-lower-your-pay-b80576cb?mod=mw_rss_topstories",
+      "published": "2026-09-28T14:55:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Nvidia share buyback plan gets $150 billion boost",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/09/28/nvidia-share-buyback-plan-gets-150-billion-boost.html",
+      "published": "2026-09-28T14:46:36Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "industrials",
+      "headline": "Boeing Stock Falls On New 737 Issue, This One Affects Landings",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/a816b4dc-90a5-3456-9e9d-48c713638ea7/boeing-stock-falls-on-new-737.html?.tsrc=rss",
+      "published": "2026-09-28T14:44:37Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "The Dow Is on Pace for Its Worst September in 3 Years",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/dc558779-f28b-3450-8b92-51aaf010d0f8/the-dow-is-on-pace-for-its.html?.tsrc=rss",
+      "published": "2026-09-28T14:36:54Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "energy",
+      "headline": "Oil prices rise as Trump rejects Iranian proposal to reopen Strait of Hormuz",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/09/28/oil-price-today-wti-brent-trump-iran.html",
+      "published": "2026-09-28T14:34:23Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "\u2018We lived within our means\u2019: I earned $30,000 as a pastor and still retired comfortably. Why don\u2019t you tell people that?",
+      "image": null,
+      "link": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
+      "published": "2026-09-28T14:30:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Treasury yields edge higher amid pressure on global government bonds",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/09/28/treasury-yields-bonds-selloff.html",
+      "published": "2026-09-28T14:28:25Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Nvidia makes a statement with historic $150 billion buyback announcement",
+      "image": "news-images/dde81ff6956e4deb398a5a19.jpg",
+      "link": "https://www.marketwatch.com/story/nvidia-makes-a-statement-with-historic-150-billion-buyback-announcement-bfab5a22?mod=mw_rss_topstories",
+      "published": "2026-09-28T14:28:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "New grads say employers set the bar too high for entry-level roles: 'No job is willing to give you that first experience'",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/09/28/new-grads-entry-level-job-experience.html",
+      "published": "2026-09-28T14:26:51Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Are investors still confident the Fed can tame inflation as yields sell off further?",
+      "image": null,
+      "link": "https://finance.yahoo.com/video/investors-still-confident-fed-tame-141537544.html?.tsrc=rss",
+      "published": "2026-09-28T14:15:37Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Treasury Secretary Scott Bessent hires Wall Street economist David Zervos",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/09/28/david-zervos-treasury-department-scott-bessent.html",
+      "published": "2026-09-28T14:14:45Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "energy",
+      "headline": "Pre-Markets in Red on Higher Oil Prices and Yields",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/articles/pre-markets-red-higher-oil-141400938.html?.tsrc=rss",
+      "published": "2026-09-28T14:14:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "These surprising risk factors may explain why some older people are more vulnerable to scams",
+      "image": "news-images/7db6bac338d6fdca2897fe0f.jpg",
+      "link": "https://www.marketwatch.com/story/these-under-the-radar-risk-factors-may-explain-why-some-older-people-are-more-vulnerable-to-scams-865182dc?mod=mw_rss_topstories",
+      "published": "2026-09-28T14:12:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "crypto",
+      "headline": "\u2018I\u2019m never selling\u2019: I\u2019m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
+      "image": "news-images/d446a26d5399cc81f27f1853.jpg",
+      "link": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
+      "published": "2026-09-28T14:11:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Meta's Muse agent is attacking one of the economy's most profitable weak spots",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/09/27/meta-muse-ai-personal-agent.html",
+      "published": "2026-09-28T14:03:43Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "energy",
+      "headline": "Dow Slips Over 350 Points, Nasdaq And S&P 500 Also In The Red As Treasury Yields, Crude Oil Prices Rise",
+      "image": null,
+      "link": "https://stocktwits.com/news-articles/markets/equity/dow-slips-over-350-points-nasdaq-and-sp-500-also-in-the-red-as-treasury-yields-crude-oil-prices-rise/cZMSvn0RBQ8?.tsrc=rss",
+      "published": "2026-09-28T13:54:34Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Dow drops 377 points as oil prices and Treasury yields rise",
+      "image": null,
+      "link": "https://qz.com/dow-drops-oil-prices-treasury-yields-climb-092826?.tsrc=rss",
+      "published": "2026-09-28T13:53:12Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "financials",
+      "headline": "Dow Falls 400 Points as Wall Street Frets About Iran",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/88cb91bd-bea4-3137-8104-b247b36f7e64/dow-falls-400-points-as-wall.html?.tsrc=rss",
+      "published": "2026-09-28T13:34:47Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "federal",
+      "headline": "Big Week of Jobs & Inflation Data, Micron Earnings",
+      "image": null,
+      "link": "https://finance.yahoo.com/economy/articles/big-week-jobs-inflation-data-133100490.html?.tsrc=rss",
+      "published": "2026-09-28T13:31:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "energy",
+      "headline": "Dow, S&P 500 and Nasdaq open lower as oil climbs, yields hit new highs",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=f0f1232f-d30a-4e49-9101-536ebef975c0&amp;mod=mw_rss_bulletins",
+      "published": "2026-09-28T13:30:55Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Meta, Google, Amazon, Microsoft draw Sen. Warren questions about AI tax subsidies",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/09/28/warren-senate-ai-subsidies-meta-google-amazon-microsoft.html",
+      "published": "2026-09-28T13:24:39Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "energy",
+      "headline": "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Monday as Oil Prices Rise",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/articles/exchange-traded-funds-equity-futures-131704585.html?.tsrc=rss",
+      "published": "2026-09-28T13:17:04Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "SpaceX is moments away from a monumental Starship launch",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=b3815ce9-228d-4b1f-8df7-1f6098fedd91&amp;mod=mw_rss_bulletins",
+      "published": "2026-09-28T12:39:45Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Economic calendar: A busy week includes consumer confidence, inflation data",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=81af69a6-40c3-44aa-8776-51d60963a9eb&amp;mod=mw_rss_bulletins",
+      "published": "2026-09-28T12:03:08Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "10-year U.S. Treasury yield reaches highest level since 2007",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=10819435-4724-4bb9-a289-f577d4174703&amp;mod=mw_rss_bulletins",
+      "published": "2026-09-28T09:41:14Z",
+      "sentiment": "neutral"
+    }
+  ],
+  "newest_item_published": "2026-09-28T16:37:28Z",
+  "source_item_count": 69,
+  "sources": {
+    "cnbc": {
+      "contributed": 15,
+      "error": null,
+      "fetched": 30,
+      "fresh": 28,
+      "label": "CNBC",
+      "newest": "2026-09-28T16:37:28Z",
+      "ok": true
+    },
+    "marketwatch": {
+      "contributed": 10,
+      "error": null,
+      "fetched": 10,
+      "fresh": 10,
+      "label": "MarketWatch",
+      "newest": "2026-09-28T16:33:00Z",
+      "ok": true
+    },
+    "mw_bulletins": {
+      "contributed": 4,
+      "error": null,
+      "fetched": 10,
+      "fresh": 5,
+      "label": "MW Bulletins",
+      "newest": "2026-09-28T13:30:55Z",
+      "ok": true
+    },
+    "yahoo_dji": {
+      "contributed": 11,
+      "error": null,
+      "fetched": 19,
+      "fresh": 17,
+      "label": "Yahoo Finance",
+      "newest": "2026-09-28T16:32:07Z",
+      "ok": true
+    }
+  }
 }

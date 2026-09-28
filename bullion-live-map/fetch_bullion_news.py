@@ -27,7 +27,63 @@ from datetime import datetime, timedelta, timezone
 from PIL import Image
 from email.utils import parsedate_to_datetime
 
-NEWS_RSS_URL = "https://finance.yahoo.com/news/rssindex"
+# ─── NEWS SOURCES ──────────────────────────────────────────────────────────
+# Four feeds across four independent vendors. That count is the point, not a
+# nice-to-have: this file ran on ONE feed until 2026-09-28, and when
+# https://finance.yahoo.com/news/rssindex quietly stopped being regenerated on
+# 2026-09-24 the Markets tab simply emptied and stayed empty. Nothing was
+# broken here -- the 48h filter correctly refused to present four-day-old
+# items as current news -- but a single source means one vendor's neglect is
+# indistinguishable from the feature being switched off.
+#
+# The dead endpoint is deliberately NOT in this list. Evidence it is
+# abandoned rather than briefly down, gathered 2026-09-28: it still returns
+# HTTP 200 and 49 items, but its `last-modified` header and its own channel
+# `pubDate` agree on 2026-09-24T12:21 GMT and have not moved since, while
+# `age: 439` against `cache-control: max-age=600` shows the CDN re-fetching
+# from origin every 10 minutes and getting the same frozen document back. It
+# also still declares `ttl: 5`, asking to be polled every five minutes, and
+# carries stray items from 2024-11 and 2025-01. Yahoo's RSS infrastructure is
+# fine -- the per-ticker endpoint below is live and current -- so this is one
+# abandoned endpoint, not a vendor exit.
+#
+# Each entry is (key, label, url). `key` is stable and appears in news.json's
+# per-source diagnostics, so renaming one breaks continuity of the alarm --
+# add and remove whole entries rather than renaming keys.
+#
+# Sources were chosen on measured on-topic rate, not on reputation alone.
+# Method: pull each feed's fresh-48h items, run classify_category over them,
+# and count how many land somewhere other than the "other" catch-all. Run
+# 2026-09-28:
+#
+#   Yahoo ^DJI      17 fresh   88% on-topic
+#   MW Bulletins     5 fresh   80%
+#   CNBC Top News   26 fresh   69%
+#   MW Top Stories  10 fresh   40%   <- the only source carrying images
+#   Yahoo ^GSPC     16 fresh   44%
+#   BBC Business    19 fresh   21%   <- rejected
+#
+# BBC Business was tried first and dropped: at 21% it was filling the tab with
+# UK domestic stories (Welsh tourism tax, rail nationalisation) that have
+# nothing to do with a map of the US financial system. MW Top Stories is kept
+# despite 40% because it is the only feed of the set that ships thumbnails,
+# and its share is capped like every other source.
+#
+# Google News search feeds scored better than all of these (82% on-topic, 99
+# fresh) and were still rejected: their links are opaque news.google.com
+# redirects rather than publisher URLs, and the results mix wire copy with
+# marketing blogs, which fails the "reputable sources" bar in criterion 2.
+#
+# MarketWatch appears twice, so a Dow Jones outage costs two of four sources.
+# That is a known weakness, accepted because the per-source alarm below makes
+# it loud rather than silent; swapping one for another vendor is a two-line
+# change here.
+NEWS_SOURCES = [
+    ("cnbc",         "CNBC",          "https://www.cnbc.com/id/100003114/device/rss/rss.html"),
+    ("yahoo_dji",    "Yahoo Finance", "https://feeds.finance.yahoo.com/rss/2.0/headline?s=^DJI&region=US&lang=en-US"),
+    ("marketwatch",  "MarketWatch",   "https://feeds.content.dowjones.io/public/rss/mw_topstories"),
+    ("mw_bulletins", "MW Bulletins",  "https://feeds.content.dowjones.io/public/rss/mw_bulletins"),
+]
 # Anchored to the script's own directory, not the caller's CWD -- GitHub
 # Actions `run:` steps default CWD to the repo root, so a bare relative
 # path here silently wrote to the wrong location for 3+ days (see the
@@ -181,6 +237,120 @@ def parse_rss_items(xml_text):
 def filter_recent(items, now, max_age_hours=MAX_AGE_HOURS):
     cutoff = now - timedelta(hours=max_age_hours)
     return [i for i in items if i["published"] >= cutoff]
+
+
+_DEDUPE_STRIP = re.compile(r"[^a-z0-9 ]+")
+
+
+def _dedupe_key(item):
+    """Normalised title, used to spot the same story arriving twice.
+
+    Title rather than link, because a syndicated story reaches two vendors
+    under two URLs but near-identical wording. Punctuation and case are
+    stripped so "Fed holds rates steady" and "Fed holds rates steady." are
+    one story.
+    """
+    t = _DEDUPE_STRIP.sub("", item["title"].lower())
+    return " ".join(t.split())
+
+
+def dedupe_items(items):
+    """Keep the first occurrence of each story, and of each link.
+
+    Order matters: callers pass items in NEWS_SOURCES order, so an earlier
+    source wins a tie. That keeps the choice of which vendor's wording to
+    show deterministic instead of depending on which fetch finished first.
+    """
+    seen_titles, seen_links, out = set(), set(), []
+    for i in items:
+        tk, lk = _dedupe_key(i), i["link"]
+        if tk in seen_titles or lk in seen_links:
+            continue
+        seen_titles.add(tk)
+        seen_links.add(lk)
+        out.append(i)
+    return out
+
+
+def select_headlines(by_source, max_headlines=MAX_HEADLINES):
+    """Blend per-source lists into one recency-ordered set.
+
+    Takes an even slice of each contributing source first, then backfills
+    from whatever is left over, then sorts the result by recency.
+
+    The two-pass shape is what makes a dead source harmless. A plain
+    recency sort would let the highest-volume feed crowd the others out, so
+    losing that feed would change the mix drastically. A fixed per-source cap
+    with no backfill has the opposite failure: when a source dies its slots go
+    unfilled and the tab quietly ships fewer headlines than it could. Taking
+    an even share and then topping up from the remainder keeps the mix broad
+    when every source is healthy and still fills the page when one is not.
+    """
+    live = [k for k, items in by_source.items() if items]
+    if not live:
+        return []
+
+    share = max(1, -(-max_headlines // len(live)))   # ceil
+    picked, leftovers = [], []
+    for key in by_source:
+        items = sorted(by_source[key], key=lambda i: i["published"], reverse=True)
+        picked.extend(items[:share])
+        leftovers.extend(items[share:])
+
+    if len(picked) < max_headlines:
+        leftovers.sort(key=lambda i: i["published"], reverse=True)
+        picked.extend(leftovers[:max_headlines - len(picked)])
+
+    picked.sort(key=lambda i: i["published"], reverse=True)
+    return picked[:max_headlines]
+
+
+def collect_sources(now, sources=NEWS_SOURCES):
+    """Fetch every source, and report on each one individually.
+
+    Returns (by_source, stats). A source that raises is recorded and skipped;
+    one vendor being down must never cost us the other three.
+
+    `stats` is what makes a single dead source detectable. Aggregate counts
+    cannot do it: once there are four feeds, one freezing leaves the total
+    healthy and the failure is invisible again -- the exact bug this whole
+    change exists to stop, one level up. Per-source `fresh` is the signal,
+    because a frozen feed keeps returning items (Yahoo's returned 49) and
+    only the timestamps give it away.
+    """
+    by_source, stats = {}, {}
+    for key, label, url in sources:
+        entry = {"label": label, "ok": False, "fetched": 0, "fresh": 0,
+                 "contributed": 0, "newest": None, "error": None}
+        try:
+            xml_text = fetch_news_rss(url)
+        except Exception as e:                      # noqa: BLE001 - any failure is just "this source is down"
+            entry["error"] = f"{type(e).__name__}: {e}"
+            stats[key] = entry
+            by_source[key] = []
+            print(f"  {label}: FETCH FAILED -- {entry['error']}", file=sys.stderr)
+            continue
+
+        parsed = parse_rss_items(xml_text)
+        entry["ok"] = True
+        entry["fetched"] = len(parsed)
+        if parsed:
+            newest = max(i["published"] for i in parsed)
+            entry["newest"] = newest.strftime("%Y-%m-%dT%H:%M:%SZ")
+
+        recent = filter_listicles(filter_recent(parsed, now))
+        # Tag each item with where it came from, so counting a source's
+        # contribution later is a field lookup rather than an identity test
+        # against the original lists.
+        for i in recent:
+            i["source"] = key
+        entry["fresh"] = len(recent)
+        by_source[key] = recent
+        stats[key] = entry
+
+        note = "" if recent else "  <-- nothing inside the freshness window"
+        print(f"  {label}: {len(parsed)} fetched, {len(recent)} fresh{note}")
+    return by_source, stats
 
 
 _LISTICLE_TITLE = re.compile(r"^\d+\s")
@@ -352,7 +522,7 @@ def prune_dangling_images(images_dir, referenced_filenames):
 
 
 def build_news_envelope(items, generated_at, source_item_count=None,
-                        newest_item_published=None):
+                        newest_item_published=None, sources=None):
     """Build news.json.
 
     `source_item_count` and `newest_item_published` describe the feed as it
@@ -384,10 +554,16 @@ def build_news_envelope(items, generated_at, source_item_count=None,
         "headlines": headlines,
         "source_item_count": source_item_count,
         "newest_item_published": newest_item_published,
+        # Per-source health. The aggregates above cannot see one feed dying
+        # behind three healthy ones; this can. Consumed by news-hourly.yml.
+        "sources": sources if sources is not None else {},
     }
 
 
-def fetch_news_rss(url=NEWS_RSS_URL, timeout=15):
+def fetch_news_rss(url, timeout=15):
+    """Fetch one feed. `url` is required -- there is no default source any
+    more, and a default would quietly reintroduce the single point of failure
+    this module was restructured to remove."""
     req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
     with urllib.request.urlopen(req, timeout=timeout) as resp:
         return resp.read().decode("utf-8", errors="replace")
@@ -395,39 +571,45 @@ def fetch_news_rss(url=NEWS_RSS_URL, timeout=15):
 
 def main():
     now = datetime.now(timezone.utc)
-    try:
-        xml_text = fetch_news_rss()
-    except (urllib.error.URLError, urllib.error.HTTPError, TimeoutError) as e:
-        # Same philosophy as fetch_bullion_data.py: a failed fetch leaves
-        # yesterday's news.json in place rather than writing an empty or
-        # truncated ticker. This is a quality-of-life feature, not
-        # load-bearing data -- it is not worth failing the whole daily cron
-        # over, but it must not go silently stale either, so this prints
-        # loudly to stderr for the workflow log to catch.
-        print(f"News fetch failed ({e}); leaving existing {NEWS_OUT_PATH} untouched.",
-              file=sys.stderr)
+
+    print(f"Fetching {len(NEWS_SOURCES)} news sources:")
+    by_source, stats = collect_sources(now)
+
+    if not any(s["ok"] for s in stats.values()):
+        # Every vendor unreachable at once is almost always us, not them --
+        # no network in the runner, or DNS. Same philosophy as
+        # fetch_bullion_data.py: leave the existing news.json alone rather
+        # than overwrite good data with nothing, and exit non-zero so the
+        # step is visibly unhappy.
+        print(f"All {len(NEWS_SOURCES)} sources failed to fetch; leaving existing "
+              f"{NEWS_OUT_PATH} untouched.", file=sys.stderr)
         sys.exit(1)
 
-    all_items = parse_rss_items(xml_text)
-    # Captured before filtering: the newest thing the SOURCE is publishing,
-    # which is the number that actually diagnoses a zero-headline run.
-    newest_published = max((i["published"] for i in all_items), default=None)
+    # Dedupe across sources before selecting, so a story syndicated to three
+    # vendors does not take three of the slots. NEWS_SOURCES order breaks
+    # ties, which keeps the winner deterministic run to run.
+    merged = dedupe_items([i for key in by_source for i in by_source[key]])
+    kept_by_source = {key: [] for key in by_source}
+    for i in merged:
+        kept_by_source[i["source"]].append(i)
 
-    items = filter_recent(all_items, now)
-    items = filter_listicles(items)
-    items = items[:MAX_HEADLINES]
+    items = select_headlines(kept_by_source)
+    for key in stats:
+        stats[key]["contributed"] = sum(1 for i in items if i.get("source") == key)
 
     sync_news_images(items, IMAGES_DIR)
+
+    all_fetched = sum(s["fetched"] for s in stats.values())
+    newest_overall = max(
+        (s["newest"] for s in stats.values() if s["newest"]), default=None)
 
     generated_at = now.strftime("%Y-%m-%dT%H:%M:%SZ")
     envelope = build_news_envelope(
         items,
         generated_at,
-        source_item_count=len(all_items),
-        newest_item_published=(
-            newest_published.strftime("%Y-%m-%dT%H:%M:%SZ")
-            if newest_published else None
-        ),
+        source_item_count=all_fetched,
+        newest_item_published=newest_overall,
+        sources=stats,
     )
 
     referenced = {
@@ -442,30 +624,39 @@ def main():
         f.write("\n")
 
     kept = len(envelope["headlines"])
+    mix = ", ".join(f"{s['label']} {s['contributed']}" for s in stats.values())
     print(f"Wrote {NEWS_OUT_PATH} with {kept} headlines "
-          f"(of {len(all_items)} fetched, filtered to last {MAX_AGE_HOURS}h).")
+          f"(of {all_fetched} fetched across {len(NEWS_SOURCES)} sources, "
+          f"filtered to last {MAX_AGE_HOURS}h) -- {mix}.")
 
-    # A zero-headline run is not an error -- refusing to present four-day-old
-    # items as current news is the 48h filter doing its job, and overwriting
-    # them would be worse than showing nothing. But it must never pass
-    # quietly: on 2026-09-25 this exact state persisted for days behind a
-    # green cron because the only thing anyone checked was generated_at,
-    # which this script rewrites on every run regardless. Say it loudly here,
-    # and let the workflow's freshness gate turn it into an alarm.
-    if kept == 0:
-        if not all_items:
-            print("WARNING: the feed returned no items at all -- fetching is "
-                  "broken, not merely stale.", file=sys.stderr)
-        else:
-            age = ""
-            if newest_published:
-                hours = (now - newest_published).total_seconds() / 3600
-                age = (f" Newest item is {newest_published:%Y-%m-%dT%H:%M:%SZ}"
-                       f" ({hours:.0f}h old).")
-            print(f"WARNING: all {len(all_items)} items from the feed are older "
-                  f"than {MAX_AGE_HOURS}h, so news.json is now empty. The "
-                  f"SOURCE has gone stale, not this fetcher.{age}",
+    # Neither of the warnings below is an error. Refusing to present
+    # four-day-old items as current news is the 48h filter doing its job, and
+    # one vendor going quiet is not worth failing a run that still has three.
+    # But neither may pass silently: on 2026-09-25 exactly this state ran for
+    # days behind a green cron, because the only thing anyone checked was
+    # generated_at, which this script rewrites every run regardless. Say it
+    # here, and let the workflow's freshness gate raise it.
+    for s in stats.values():
+        if not s["ok"]:
+            print(f"WARNING: {s['label']} could not be fetched ({s['error']}).",
                   file=sys.stderr)
+        elif s["fetched"] == 0:
+            print(f"WARNING: {s['label']} returned no parseable items -- its "
+                  f"feed format may have changed.", file=sys.stderr)
+        elif s["fresh"] == 0:
+            age = ""
+            if s["newest"]:
+                newest = datetime.strptime(s["newest"], "%Y-%m-%dT%H:%M:%SZ").replace(
+                    tzinfo=timezone.utc)
+                age = (f" Its newest item is {s['newest']} "
+                       f"({(now - newest).total_seconds() / 3600:.0f}h old).")
+            print(f"WARNING: {s['label']} returned {s['fetched']} items but none "
+                  f"inside the {MAX_AGE_HOURS}h window -- this source looks "
+                  f"FROZEN, the way Yahoo's rssindex did.{age}", file=sys.stderr)
+
+    if kept == 0:
+        print(f"WARNING: news.json is now EMPTY -- no source produced anything "
+              f"inside the {MAX_AGE_HOURS}h window.", file=sys.stderr)
 
 
 if __name__ == "__main__":
