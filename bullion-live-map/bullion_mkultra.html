@@ -1046,13 +1046,12 @@
      correct if the cell count ever changes. */
   .metrics-grid .metric-cell:last-child:nth-child(odd) { grid-column: 1 / -1; }
 
-  /* P3-8 · The fieldnote badge was jammed against the node label, rendering
-     as "Oil Price (WTI)NOTE". Give it separation and make it read as a chip
-     rather than as a run-on word. */
-  .fieldnote-badge {
-    margin-left: 6px; padding: 0 4px;
-    border: 1px solid var(--border); border-radius: 0;
-  }
+  /* P3-8 · SUPERSEDED 2026-09-28. This gave the field-note badge separation
+     so it stopped rendering as "Oil Price (WTI)NOTE" against a node label.
+     The owner then asked for the badge to come off the nodes entirely, so
+     the collision it fixed no longer exists and the chip styling is gone
+     with it. The badge survives only on per-link rows in the detail panel,
+     where the original rule (~line 436) already styles it correctly. */
 
   /* P2-6 · Touch targets. Every control measured 17-29px tall at 390px
      (tabs 22px, toolbar buttons 24px, #disclaimer-close 21x22, drawer tags
@@ -2005,6 +2004,11 @@ PLUMBING_LINKS.forEach(pl => {
 // yield→equit (|t|=2.0, n=197, own stat text already says "no stable coefficient"). See
 // docs/superpowers/specs/2026-08-07-bullion-mkultra-fieldnote-bar-design.md for the full
 // per-link table — this is a considered count, not an oversight to "fix" by lowering the bar.
+// ⚠️ UNUSED as of 2026-09-28. Its only two consumers were the node-level
+// field-note badges on the 3D labels and the 2D board cards, both removed at
+// the owner's request. Kept, with the reasoning above, because it is the
+// cheap half of restoring node-level signposting if that is ever wanted --
+// the per-link badge in the detail panel does not need it.
 const FIELDNOTE_NODE_IDS = new Set();
 LINKS.forEach(l => { if (l.fieldNote) { FIELDNOTE_NODE_IDS.add(l.s); FIELDNOTE_NODE_IDS.add(l.t); } });
 // Shared title text for the field-note discoverability badge (note) — used on board cards,
@@ -2626,13 +2630,11 @@ const Renderer = (function () {
         textShadow: '0 1px 3px rgba(0,0,0,0.85), 0 0 6px rgba(0,0,0,0.55)',
         display: 'none', willChange: 'transform, left, top',
       });
-      if (FIELDNOTE_NODE_IDS.has(d.id)) {
-        const badge = document.createElement('span');
-        badge.className = 'fieldnote-badge';
-        badge.textContent = 'note';
-        badge.title = FIELDNOTE_TITLE;
-        el.appendChild(badge);
-      }
+      // 2026-09-28: no field-note badge on 3D node labels. Owner's call --
+      // it rendered as gold "NOTE" jammed against the label ("Oil Price
+      // (WTI)NOTE") on every flagged node at once, which read as clutter on
+      // the map rather than as a signpost. The badge still appears where it
+      // marks one specific thing: the per-link rows in the detail panel.
       labelContainer.appendChild(el);
       labelEls[d.id] = el;
     });
@@ -3623,13 +3625,9 @@ function buildBoard() {
       // the inline group color for non-hub cards, or it beats the CSS rule.
       if (!n.isHub) card.style.borderLeftColor = GROUP_COLOR[n.group] || '#8891a6';
       card.appendChild(document.createTextNode(n.label));
-      if (FIELDNOTE_NODE_IDS.has(n.id)) {
-        const badge = document.createElement('span');
-        badge.className = 'fieldnote-badge';
-        badge.textContent = 'note';
-        badge.title = FIELDNOTE_TITLE;
-        card.appendChild(badge);
-      }
+      // Node-level field-note badge removed 2026-09-28, same call as the 3D
+      // labels above -- these two are the same signpost on the same nodes,
+      // so leaving it on only one view would be inconsistent.
       card.setAttribute('aria-label', n.label);
       card.dataset.id = n.id;
       card.addEventListener('click', event => {
