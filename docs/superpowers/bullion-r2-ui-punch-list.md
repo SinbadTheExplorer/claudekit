@@ -223,11 +223,46 @@ MET in the done-criteria doc but is currently false on the live site.**
    machine — Pillow was missing, so it was uncollectable. With Pillow installed it collects and
    **all 56 pass**. Suite is now 182 passed / 1 pre-existing failure.
 
-2. ⏳ **The source — still open, owner's call.** Yahoo's `rssindex` has stopped publishing: pulled
-   live on 2026-09-28 it returns 49 items whose newest is `2026-09-23T06:00:41Z`, **130h old and
-   growing**. This is not transient. Per the vendor-independence philosophy it wants a second feed
-   rather than a single point of failure. **Criterion 4 stays NOT MET until headlines return** —
-   the guard makes the failure visible, it does not make headlines appear.
+2. ✅ **The source — FIXED 2026-09-28 (`0eab97e`).** Yahoo's `rssindex` is abandoned, not briefly
+   down: it returns HTTP 200 and 49 items, but its `last-modified` header and its own channel
+   `pubDate` both read `2026-09-24T12:21 GMT` and have not moved, while `age: 439` against
+   `cache-control: max-age=600` shows the CDN re-fetching every 10 minutes and getting the same
+   frozen document. It still declares `ttl: 5`. Yahoo's RSS estate is fine — the per-ticker
+   endpoint is live — so this is one dead endpoint, not a vendor exit.
+
+   It is replaced by **four feeds across three vendors**, fetched independently; one failing is
+   recorded and skipped, never fatal. Sources were chosen on *measured* on-topic rate (each feed's
+   fresh items scored through `classify_category`), not reputation:
+
+   | Feed | Fresh 48h | On-topic | Verdict |
+   |---|---|---|---|
+   | Yahoo Finance `^DJI` | 17 | **88%** | in |
+   | MarketWatch Bulletins | 5 | **80%** | in |
+   | CNBC Top News | 26 | **69%** | in |
+   | MarketWatch Top Stories | 10 | 40% | in — the only source with thumbnails |
+   | BBC Business | 19 | **21%** | **rejected** |
+   | Google News search | 99 | 82% | **rejected** |
+
+   BBC was in the first cut and pulled: at 21% it filled the tab with Welsh tourism tax and rail
+   nationalisation. Google News scored best on paper and was rejected anyway — opaque
+   `news.google.com` redirect links rather than publisher URLs, and results mixing wire copy with
+   marketing blogs, which fails criterion 2's "reputable sources".
+
+   **The alarm now asserts per source, which is the real fix.** A total-only guard is useless with
+   four feeds: one freezing leaves the total healthy and hides behind the others — the original bug
+   one level up. `news.json` carries `ok`/`fetched`/`fresh`/`contributed`/`newest` per source, and
+   the workflow alarms on any one being **down**, **unparseable**, or **frozen** (returning items
+   but none inside the 48h window — exactly Yahoo's shape). Verified: *one frozen source among
+   three healthy, 40 headlines shipped → `stale=true`.*
+
+   Live result: 40 headlines from 69 fetched, balanced CNBC 15 / Yahoo 11 / MarketWatch 10 /
+   Bulletins 4, **62% on-topic vs the old mix's 52%**, thumbnails intact, rendered and checked in a
+   browser. `news.json` and `news-images/` are committed so the site recovers on merge rather than
+   waiting for the cron.
+
+   ⚠️ **Criterion 4 is not MET until this is merged to `main` and one unattended cron run
+   succeeds.** The code is verified; "refreshes unattended" is a claim about the deployed cron, and
+   nothing here proves that yet.
 
 The user-visible symptom in the Market tab is `#news-list-empty` → "No recent headlines."
 
