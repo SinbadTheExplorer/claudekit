@@ -79,6 +79,19 @@ jobs:
         # succeeded, generated_at is seconds old regardless of how long
         # the previous gap was; it's only stale if fetching has actually
         # been failing.
+        #
+        # FIXED 2026-09-28. The paragraph above was right in intent and
+        # wrong in execution: it checked generated_at, which this job
+        # rewrites on EVERY run whether or not a single headline survived.
+        # So the one state it could never detect was the one that happened
+        # -- headlines: [] behind a green cron, for days, with no issue ever
+        # opened on the news-pipeline-stale label. An empty array is now
+        # itself an alarm condition, and the two causes are reported
+        # separately because they need different responses:
+        #   fetch broken -> re-run / fix the fetcher (our problem)
+        #   source stale -> the upstream feed stopped publishing; re-running
+        #                   changes nothing and a second feed is the fix
+        # See docs/superpowers/bullion-r2-ui-punch-list.md, BUG-A.
         id: freshness
         run: |
           python3 - <<'PY' >> "$GITHUB_OUTPUT"
@@ -86,22 +99,61 @@ jobs:
           from datetime import datetime, timezone
 
           STALE_AFTER_HOURS = 6
+          MAX_AGE_HOURS = 48  # mirrors fetch_bullion_news.MAX_AGE_HOURS
+
+          def parse_ts(raw):
+              return datetime.strptime(raw, "%Y-%m-%dT%H:%M:%SZ").replace(
+                  tzinfo=timezone.utc)
+
           try:
               with open("bullion-live-map/news.json") as f:
-                  generated_at_raw = json.load(f)["generated_at"]
-              generated_at = datetime.strptime(
-                  generated_at_raw, "%Y-%m-%dT%H:%M:%SZ"
-              ).replace(tzinfo=timezone.utc)
-              age_hours = (datetime.now(timezone.utc) - generated_at).total_seconds() / 3600
-              stale = age_hours > STALE_AFTER_HOURS
+                  doc = json.load(f)
+
+              now = datetime.now(timezone.utc)
+              age_hours = (now - parse_ts(doc["generated_at"])).total_seconds() / 3600
+              count = len(doc.get("headlines", []))
+
+              # Pre-filter diagnostics; absent on files written before
+              # 2026-09-28, so never assume they are there.
+              source_count = doc.get("source_item_count")
+              newest_raw = doc.get("newest_item_published")
+
+              if age_hours > STALE_AFTER_HOURS:
+                  stale, reason = True, (
+                      f"news.json has not been regenerated for {age_hours:.1f}h "
+                      f"(threshold {STALE_AFTER_HOURS}h) -- the fetch step is failing.")
+              elif count == 0:
+                  if source_count == 0:
+                      stale, reason = True, (
+                          "The feed returned no items at all. Fetching is broken, "
+                          "not merely stale.")
+                  elif newest_raw:
+                      newest_age = (now - parse_ts(newest_raw)).total_seconds() / 3600
+                      stale, reason = True, (
+                          f"SOURCE STALE: the feed returned {source_count} items but "
+                          f"its newest is {newest_raw} ({newest_age:.0f}h old), past "
+                          f"the {MAX_AGE_HOURS}h window, so every one was filtered "
+                          f"out. Re-running will not help -- the upstream feed has "
+                          f"stopped publishing. Needs a second source.")
+                  else:
+                      stale, reason = True, (
+                          "news.json is fresh but contains zero headlines, and "
+                          "carries no pre-filter diagnostics to say why.")
+              else:
+                  stale, reason = False, f"{count} headlines, {age_hours:.1f}h old."
+
               print(f"stale={'true' if stale else 'false'}")
               print(f"age_hours={age_hours:.1f}")
+              print(f"headline_count={count}")
+              print(f"reason={reason}")
           except Exception as e:
               # Missing file, unparseable JSON, missing/malformed
               # generated_at -- any of these mean the pipeline is broken,
               # not just slow.
               print("stale=true")
-              print(f"age_hours=unknown ({e})")
+              print("age_hours=unknown")
+              print("headline_count=unknown")
+              print(f"reason=Could not read news.json: {e!r}")
           PY
 
       - name: Ensure the news-pipeline-stale label exists
@@ -123,13 +175,39 @@ jobs:
 
       - name: Report staleness to the alarm issue
         if: steps.freshness.outputs.stale == 'true'
+        # Values reach the script through env, NOT through `${{ }}`
+        # interpolation into the JS source. `reason` is free text and the
+        # error path puts repr(e) in it, which routinely contains an
+        # apostrophe -- interpolated into a single-quoted JS string that is a
+        # syntax error, and it would fire precisely when the alarm is most
+        # needed. env keeps it data.
+        env:
+          AGE_HOURS: ${{ steps.freshness.outputs.age_hours }}
+          HEADLINE_COUNT: ${{ steps.freshness.outputs.headline_count }}
+          REASON: ${{ steps.freshness.outputs.reason }}
         uses: actions/github-script@v7
         with:
           script: |
             const runUrl = `${context.serverUrl}/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId}`;
-            const ageHours = '${{ steps.freshness.outputs.age_hours }}';
+            const ageHours = process.env.AGE_HOURS;
+            const headlineCount = process.env.HEADLINE_COUNT;
+            const reason = process.env.REASON;
             const now = new Date().toISOString();
-            const body = `**${now}** — news.json is stale (age: ${ageHours}h, threshold: 6h).\nRun: ${runUrl}`;
+            const body = [
+              `**${now}** — the Markets tab has no usable news.`,
+              ``,
+              `**What is wrong:** ${reason}`,
+              ``,
+              `| | |`,
+              `|---|---|`,
+              `| headlines in news.json | **${headlineCount}** |`,
+              `| news.json age | ${ageHours}h (threshold 6h) |`,
+              `| run | ${runUrl} |`,
+              ``,
+              `Note that a zero-headline run still reports \`success\` and still`,
+              `commits — \`generated_at\` is rewritten every run. That is why this`,
+              `alarm checks the headline count, not the timestamp.`,
+            ].join('\n');
 
             const { data: issues } = await github.rest.issues.listForRepo({
               owner: context.repo.owner,

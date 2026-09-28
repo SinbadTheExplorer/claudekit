@@ -351,7 +351,24 @@ def prune_dangling_images(images_dir, referenced_filenames):
     return deleted
 
 
-def build_news_envelope(items, generated_at):
+def build_news_envelope(items, generated_at, source_item_count=None,
+                        newest_item_published=None):
+    """Build news.json.
+
+    `source_item_count` and `newest_item_published` describe the feed as it
+    arrived, BEFORE any filtering, and exist so a zero-headline run can be
+    diagnosed without re-fetching. They are what separates the two failure
+    modes that otherwise look identical from outside:
+
+      - source_item_count == 0  -> the feed returned nothing; fetching broke.
+      - source_item_count > 0 and headlines == []  -> the feed returned items
+        but every one of them is older than MAX_AGE_HOURS; the SOURCE has gone
+        stale, and no amount of re-running fixes it.
+
+    The second case is what happened on 2026-09-25: 49 items arrived and all
+    49 were older than 48h, because Yahoo's rssindex stopped publishing on
+    2026-09-23. See docs/superpowers/bullion-r2-ui-punch-list.md.
+    """
     headlines = []
     for i in items:
         headlines.append({
@@ -362,7 +379,12 @@ def build_news_envelope(items, generated_at):
             "category": classify_category(i["title"]),
             "image": i.get("image"),
         })
-    return {"generated_at": generated_at, "headlines": headlines}
+    return {
+        "generated_at": generated_at,
+        "headlines": headlines,
+        "source_item_count": source_item_count,
+        "newest_item_published": newest_item_published,
+    }
 
 
 def fetch_news_rss(url=NEWS_RSS_URL, timeout=15):
@@ -386,15 +408,27 @@ def main():
               file=sys.stderr)
         sys.exit(1)
 
-    items = parse_rss_items(xml_text)
-    items = filter_recent(items, now)
+    all_items = parse_rss_items(xml_text)
+    # Captured before filtering: the newest thing the SOURCE is publishing,
+    # which is the number that actually diagnoses a zero-headline run.
+    newest_published = max((i["published"] for i in all_items), default=None)
+
+    items = filter_recent(all_items, now)
     items = filter_listicles(items)
     items = items[:MAX_HEADLINES]
 
     sync_news_images(items, IMAGES_DIR)
 
     generated_at = now.strftime("%Y-%m-%dT%H:%M:%SZ")
-    envelope = build_news_envelope(items, generated_at)
+    envelope = build_news_envelope(
+        items,
+        generated_at,
+        source_item_count=len(all_items),
+        newest_item_published=(
+            newest_published.strftime("%Y-%m-%dT%H:%M:%SZ")
+            if newest_published else None
+        ),
+    )
 
     referenced = {
         h["image"].split("/", 1)[1] for h in envelope["headlines"] if h.get("image")
@@ -407,9 +441,31 @@ def main():
         json.dump(envelope, f, indent=2, sort_keys=True)
         f.write("\n")
 
-    print(f"Wrote {NEWS_OUT_PATH} with {len(envelope['headlines'])} headlines "
-          f"(of {len(parse_rss_items(xml_text))} fetched, filtered to last "
-          f"{MAX_AGE_HOURS}h).")
+    kept = len(envelope["headlines"])
+    print(f"Wrote {NEWS_OUT_PATH} with {kept} headlines "
+          f"(of {len(all_items)} fetched, filtered to last {MAX_AGE_HOURS}h).")
+
+    # A zero-headline run is not an error -- refusing to present four-day-old
+    # items as current news is the 48h filter doing its job, and overwriting
+    # them would be worse than showing nothing. But it must never pass
+    # quietly: on 2026-09-25 this exact state persisted for days behind a
+    # green cron because the only thing anyone checked was generated_at,
+    # which this script rewrites on every run regardless. Say it loudly here,
+    # and let the workflow's freshness gate turn it into an alarm.
+    if kept == 0:
+        if not all_items:
+            print("WARNING: the feed returned no items at all -- fetching is "
+                  "broken, not merely stale.", file=sys.stderr)
+        else:
+            age = ""
+            if newest_published:
+                hours = (now - newest_published).total_seconds() / 3600
+                age = (f" Newest item is {newest_published:%Y-%m-%dT%H:%M:%SZ}"
+                       f" ({hours:.0f}h old).")
+            print(f"WARNING: all {len(all_items)} items from the feed are older "
+                  f"than {MAX_AGE_HOURS}h, so news.json is now empty. The "
+                  f"SOURCE has gone stale, not this fetcher.{age}",
+                  file=sys.stderr)
 
 
 if __name__ == "__main__":
