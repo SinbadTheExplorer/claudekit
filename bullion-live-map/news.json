@@ -1,52 +1,284 @@
 {
-  "generated_at": "2026-09-29T02:01:28Z",
+  "generated_at": "2026-09-29T17:10:01Z",
   "headlines": [
     {
-      "category": "energy",
-      "headline": "Oil extends gains as Middle East supply concerns persist",
+      "category": "federal",
+      "headline": "Stock Market Today: Dow Dips As Key Treasury Yield Hits 24-Year High; Nvidia Tests Buy Point (Live Coverage)",
       "image": null,
-      "link": "https://www.cnbc.com/2026/09/29/oil-prices-today-brent-wti-hormuz.html",
-      "published": "2026-09-29T01:53:31Z",
-      "sentiment": "bullish"
+      "link": "https://finance.yahoo.com/m/8757314c-41ab-383f-89ee-51177c4ae956/stock-market-today%3A-dow-dips.html?.tsrc=rss",
+      "published": "2026-09-29T17:05:27Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Could SpaceX be worth $12 trillion one day? Citi says Starship gets it a step closer.",
+      "image": "news-images/760701b0b4a2085a252aa9f0.jpg",
+      "link": "https://www.marketwatch.com/story/could-spacex-be-worth-12-trillion-one-day-citi-says-starship-gets-it-a-step-closer-6ce44961?mod=mw_rss_topstories",
+      "published": "2026-09-29T16:59:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "New AI-powered government website uses Gemini, Grok, Trump official Gebbia says",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/09/29/trump-ai-gemini-grok.html",
+      "published": "2026-09-29T16:55:13Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Consumer optimism slides to lowest since 2014 as fears escalate over rising prices and jobs",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/09/29/consumer-optimism-slides-sharply-as-fears-escalate-over-rising-prices-and-jobs.html",
+      "published": "2026-09-29T16:52:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "consumer",
+      "headline": "El Pollo Loco to open first New York restaurant as it aims to become national chicken chain",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/09/29/el-pollo-loco-opens-first-new-york-restaurant.html",
+      "published": "2026-09-29T16:47:21Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Stock Market Midday, Sept. 29: Stocks Edge Lower Despite $2 Trillion Anthropic Valuation",
+      "image": null,
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/09/29/stock-market-midday-sept-29-stocks-edge-lower-despite-usd2-trillion-anthropic-valuation/?.tsrc=rss",
+      "published": "2026-09-29T16:46:54Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Here\u2019s what Netflix skeptics are getting wrong about the stock, according to an analyst",
+      "image": "news-images/f360b96e28e0aac06083a614.jpg",
+      "link": "https://www.marketwatch.com/story/heres-what-netflix-skeptics-are-getting-wrong-about-the-stock-according-to-an-analyst-40436696?mod=mw_rss_topstories",
+      "published": "2026-09-29T16:45:00Z",
+      "sentiment": "neutral"
     },
     {
       "category": "tech",
-      "headline": "Samsung to inject $1 billion into Nvidia- and KKR-backed AI infrastructure firm",
+      "headline": "The hidden messages the bond market is sending about the AI boom and the stock market",
+      "image": "news-images/78da0a46329436f817342200.jpg",
+      "link": "https://www.marketwatch.com/story/the-hidden-messages-the-bond-market-is-sending-about-the-ai-boom-and-the-stock-market-5c9495ba?mod=mw_rss_topstories",
+      "published": "2026-09-29T16:44:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Bank of England policymaker says raising interest rates \u2018not compelling\u2019",
       "image": null,
-      "link": "https://www.cnbc.com/2026/09/29/samsung-investment-nvidia-kkr-ai-helix-digital.html",
-      "published": "2026-09-29T01:48:52Z",
+      "link": "https://uk.finance.yahoo.com/news/bank-england-policymaker-says-raising-163707674.html?.tsrc=rss",
+      "published": "2026-09-29T16:37:07Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "US Equity Indexes Fall in Midday Trading",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-fall-midday-163521425.html?.tsrc=rss",
+      "published": "2026-09-29T16:35:21Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "\u2018I\u2019d rather be on a beach in Bali\u2019: My husband resents my $8 million net worth. Should I pay for his retirement?",
+      "image": "news-images/cd15525214f58765225c02d0.jpg",
+      "link": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
+      "published": "2026-09-29T16:30:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "You might be shocked by how many stocks are in a bear market right now",
+      "image": "news-images/d9e9792143dcb47360e2c387.jpg",
+      "link": "https://www.marketwatch.com/story/you-might-be-shocked-by-how-many-stocks-are-in-a-bear-market-right-now-017c9cd8?mod=mw_rss_topstories",
+      "published": "2026-09-29T16:24:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Education Department extends deadline for student loan interest rate discount",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/09/29/trump-officials-extend-student-loan-interest-rate-discount-deadline.html",
+      "published": "2026-09-29T16:23:28Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Hassett: 'We're still working our way out from' Biden Covid spending",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/09/29/hassett-trump-economy-biden-covid.html",
+      "published": "2026-09-29T16:20:19Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "\u2018I want to make her proud\u2019: My mother, a divorc\u00e9e, died and I\u2019m her executor. Do I need to file for probate?",
+      "image": "news-images/4053d2fe9856f6dffa032fbb.jpg",
+      "link": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
+      "published": "2026-09-29T16:15:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "industrials",
+      "headline": "Cramer weighs in on Goldman amid CEO succession talks \u2014 plus, Boeing bounces back",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/09/29/cramers-take-on-goldman-ceo-succession-plus-boeing-bounces-back.html",
+      "published": "2026-09-29T16:08:12Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "America's Canadian import restrictions come into force. Here are the products barred from entry",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/09/29/canada-import-ban-trade-war.html",
+      "published": "2026-09-29T15:57:43Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Microsoft shares might be rangebound. Here's how you can still make money",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/09/29/microsoft-shares-might-be-rangebound-heres-how-you-can-still-make-money.html",
+      "published": "2026-09-29T15:56:13Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Property Play: Homeowners are sitting on record equity \u2013 and not using it",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/09/29/homeowners-are-sitting-on-record-equity-and-not-using-it.html",
+      "published": "2026-09-29T15:54:12Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Gina Raimondo thinks AI ultimately will create jobs. It's the initial mass layoffs wave that worries her",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/09/29/ai-job-losses-layoffs.html",
+      "published": "2026-09-29T15:46:04Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "\u2018I have $400,000 in equity\u2019: I\u2019m 80 years old. Should I move out of my house because of dangerous stairs?",
+      "image": "news-images/7e4974532942e9f17b27b458.jpg",
+      "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
+      "published": "2026-09-29T15:45:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Top Midday Stories: OpenAI Nearing $70 Billion in Recurring Annual Revenue; Oura Postpones IPO Due to Market Uncertainty",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-openai-nearing-154436264.html?.tsrc=rss",
+      "published": "2026-09-29T15:44:36Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Job openings are low, hiring is weak: The U.S. labor market won\u2019t improve soon",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=ff82f379-34dd-4e4e-ad96-cce23c944544&amp;mod=mw_rss_bulletins",
+      "published": "2026-09-29T15:39:26Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "I don\u2019t want to spend $800 on flights to see my family for Thanksgiving. Can I break this holiday tradition?",
+      "image": "news-images/57fd62ad6be09369e5598576.jpg",
+      "link": "https://www.marketwatch.com/story/spending-800-to-see-my-family-this-thanksgiving-is-a-financial-burden-how-can-i-push-for-a-cheaper-flight-c6dd1fdf?mod=mw_rss_topstories",
+      "published": "2026-09-29T15:29:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Job openings are low and hiring is weak. Why the U.S. labor market won\u2019t get better soon.",
+      "image": "news-images/78924d53286366d6042a541e.jpg",
+      "link": "https://www.marketwatch.com/story/job-openings-are-low-and-hiring-is-weak-why-the-u-s-labor-market-wont-get-better-soon-18292734?mod=mw_rss_topstories",
+      "published": "2026-09-29T15:21:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Stocks Slip as 30-Year Treasury Yield Hits 5.6%",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/5ecc7cca-be0e-3509-be10-7dca3bc34cf6/stocks-slip-as-30-year.html?.tsrc=rss",
+      "published": "2026-09-29T15:16:06Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "healthcare",
+      "headline": "Medicare Advantage plans will be cheaper next year. Here\u2019s the new cost.",
+      "image": "news-images/05cd23323c614de85af81139.jpg",
+      "link": "https://www.marketwatch.com/story/medicare-advantage-plans-will-be-cheaper-next-year-heres-the-new-cost-2f7ab55b?mod=mw_rss_topstories",
+      "published": "2026-09-29T15:16:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "industrials",
+      "headline": "Why Boeing Stock Is Bouncing After the Latest 737 MAX Delay",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/0b347097-a2fc-3d29-aa1f-c2a78347fdad/why-boeing-stock-is-bouncing.html?.tsrc=rss",
+      "published": "2026-09-29T14:24:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Dow Slips as Bond Markets Take a Breather",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/241053dd-1feb-3b81-958e-62ff1de2b9f2/dow-slips-as-bond-markets.html?.tsrc=rss",
+      "published": "2026-09-29T14:00:16Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Tech stocks rise as Treasury yields and oil prices pull back",
+      "image": null,
+      "link": "https://qz.com/tech-stocks-nasdaq-treasury-yields-oil-prices-092926?.tsrc=rss",
+      "published": "2026-09-29T13:57:10Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Nasdaq opens higher as chip stocks lead; oil, bond yields hold steady",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=9d3b4f92-a5e0-42d4-9548-9fd84c3e9298&amp;mod=mw_rss_bulletins",
+      "published": "2026-09-29T13:30:50Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Tuesday as Investors Weigh Tech Rebound",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-131149164.html?.tsrc=rss",
+      "published": "2026-09-29T13:11:49Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Economic calendar: data on home prices, consumer confidence and job openings",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=0e4286f7-3940-4b49-9813-6236857cfbdf&amp;mod=mw_rss_bulletins",
+      "published": "2026-09-29T11:31:21Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Oura postpones IPO, citing market uncertainty: markets live",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=c1696bdf-cdeb-45d9-b28e-09d19fbc4fe2&amp;mod=mw_rss_bulletins",
+      "published": "2026-09-29T10:05:59Z",
       "sentiment": "neutral"
     },
     {
       "category": "other",
       "headline": "Anthropic\u2019s potential $2 trillion IPO comes with the following fine print",
-      "image": "news-images/1203e0c6fd0699b9a151b2ce.jpg",
-      "link": "https://www.marketwatch.com/story/anthropics-potential-2-trillion-ipo-comes-with-the-following-fine-print-99d3cb90?mod=mw_rss_topstories",
-      "published": "2026-09-29T01:31:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "U.S. stock futures flat after soaring yields, AI jitters dent Wall St",
       "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-flat-soaring-012817114.html?.tsrc=rss",
-      "published": "2026-09-29T01:28:17Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "international",
-      "headline": "Luckin Coffee, flush with investor cash, weighs entry into Middle East markets",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/09/29/luckin-coffee-mubadala-middle-east-temasek-centurium-capital.html",
-      "published": "2026-09-29T01:10:41Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "industrials",
-      "headline": "Dow Jones Futures: Trump Sparks Stock Market Losses; Elon Musk-Led SpaceX, Tesla In Focus",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/35969249-b51b-3ba3-8c6c-a06251d1d0ec/dow-jones-futures%3A-trump.html?.tsrc=rss",
-      "published": "2026-09-29T00:50:55Z",
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=5c142428-b107-402a-8a6e-5df0881550cd&amp;mod=mw_rss_bulletins",
+      "published": "2026-09-29T03:00:05Z",
       "sentiment": "neutral"
     },
     {
@@ -58,22 +290,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "tech",
-      "headline": "AMD makes a big bet on the next era of AI with World Labs acquisition",
-      "image": "news-images/b70db3534ccaa899a920b358.jpg",
-      "link": "https://www.marketwatch.com/story/amd-makes-a-big-bet-on-the-next-era-of-ai-7f8a3b3c?mod=mw_rss_topstories",
-      "published": "2026-09-29T00:03:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Review & Preview: Rainy Days and Mondays",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/f5d90cdf-d4b5-3270-bbe8-4e53ea636440/review-%26-preview%3A-rainy-days.html?.tsrc=rss",
-      "published": "2026-09-28T23:55:00Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "other",
       "headline": "Dolly Parton planned for her estate. Fight with nephew shows why that matters.",
       "image": null,
@@ -82,91 +298,19 @@
       "sentiment": "neutral"
     },
     {
-      "category": "other",
-      "headline": "OpenAI abandons plan to release upcoming model as safety concerns escalate",
+      "category": "tech",
+      "headline": "This AI startup has only 14 employees, and a fresh $10 billion valuation",
       "image": null,
-      "link": "https://www.cnbc.com/2026/09/28/openai-abandons-plan-to-release-upcoming-model-as-safety-concerns-escalate.html",
-      "published": "2026-09-28T23:19:46Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "international",
-      "headline": "S&P 500, Dow, Nasdaq Drop Under Pressure From Elevated Yields As Investors Shrug Off Trump\u2019s Iran Sanction Relief \u2014 NVDA, BA, AMD, NVTS, CBRS In Focus",
-      "image": null,
-      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-nasdaq-drop-under-pressure-from-elevated-yields/cZMjBLyRBXW?.tsrc=rss",
-      "published": "2026-09-28T23:07:58Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "international",
-      "headline": "CNBC's The China Connection newsletter: Spectacle-heavy Trump-Xi summit was more about domestic messaging",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/09/28/cnbcs-the-china-connection-trump-xi-summit-about-domestic-messaging.html",
-      "published": "2026-09-28T23:00:01Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "\u2018We lived within our means\u2019: I earned $30,000 as a pastor and still retired comfortably. Why don\u2019t you tell people that?",
-      "image": "news-images/026037cd003f83820c0b950f.jpg",
-      "link": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
-      "published": "2026-09-28T23:00:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "LeBron James is already boosting ticket and merchandise demand for Philadelphia 76ers",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/09/28/lebron-james-boosts-ticket-jersey-demand-for-nba-philadelphia-76ers.html",
-      "published": "2026-09-28T22:49:39Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "\u2018I want to make her proud\u2019: My mother, a divorc\u00e9e, died and I\u2019m her executor. Do I need to file for probate?",
-      "image": "news-images/4053d2fe9856f6dffa032fbb.jpg",
-      "link": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
-      "published": "2026-09-28T22:45:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "crypto",
-      "headline": "\u2018I\u2019m never selling\u2019: I\u2019m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
-      "image": "news-images/aa07473070d9a451ddf522e9.jpg",
-      "link": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
-      "published": "2026-09-28T22:35:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "AMD briefly joined the $1 trillion club. Cramer says its monster run isn\u2019t over",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/09/28/jim-cramer-amd-lisa-su-agentic-ai.html",
-      "published": "2026-09-28T22:27:10Z",
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=460930ff-6c2f-4d16-b190-5a114815a6a1&amp;mod=mw_rss_bulletins",
+      "published": "2026-09-28T22:24:33Z",
       "sentiment": "neutral"
     },
     {
       "category": "tech",
-      "headline": "SpaceX\u2019s next big growth engine isn\u2019t rockets \u2014 it\u2019s this play on AI power, analysts say",
-      "image": "news-images/9d204657e924071c635ab48e.jpg",
-      "link": "https://www.marketwatch.com/story/spacexs-next-big-growth-engine-isnt-rockets-its-this-play-on-ai-power-analysts-say-11963aeb?mod=mw_rss_topstories",
-      "published": "2026-09-28T22:03:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Feds can't withhold counterterrorism funds from states to force election admin changes, judge rules",
+      "headline": "AMD makes a big bet on the next era of AI with World Labs acquisition",
       "image": null,
-      "link": "https://www.cnbc.com/2026/09/28/elections-dhs-counterterrorism.html",
-      "published": "2026-09-28T21:52:10Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Khanna to introduce AI safety bill with ban on 'recursive' technology until safeguards exist",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/09/28/khanna-ai-safety-bill.html",
-      "published": "2026-09-28T21:43:40Z",
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=93ecda1c-d415-41cc-be2e-e0d91984ba2b&amp;mod=mw_rss_bulletins",
+      "published": "2026-09-28T22:01:15Z",
       "sentiment": "neutral"
     },
     {
@@ -176,162 +320,18 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=86d49520-5b4a-43a7-bdde-398848e77b92&amp;mod=mw_rss_bulletins",
       "published": "2026-09-28T21:31:36Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Nvidia makes a statement with historic $150 billion buyback announcement",
-      "image": "news-images/dde81ff6956e4deb398a5a19.jpg",
-      "link": "https://www.marketwatch.com/story/nvidia-makes-a-statement-with-historic-150-billion-buyback-announcement-bfab5a22?mod=mw_rss_topstories",
-      "published": "2026-09-28T21:27:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "MongoDB\u2019s stock is down nearly 20% as CEO decamps to Meta",
-      "image": "news-images/d3adffd71d65e5bacc9f4d79.jpg",
-      "link": "https://www.marketwatch.com/story/mongodbs-stock-is-down-more-than-20-as-ceo-decamps-to-meta-ad66a942?mod=mw_rss_topstories",
-      "published": "2026-09-28T21:23:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "industrials",
-      "headline": "Trump announces plan for $15 billion steel plant, would be largest in U.S. history",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/09/28/trump-steel-plant-iowa.html",
-      "published": "2026-09-28T21:20:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "This AI startup has only 14 employees \u2014 and a fresh $10 billion valuation",
-      "image": "news-images/471c8a315809f03a05f9c08d.jpg",
-      "link": "https://www.marketwatch.com/story/this-ai-startup-has-only-14-employees-and-a-fresh-10-billion-valuation-5466e081?mod=mw_rss_topstories",
-      "published": "2026-09-28T21:19:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "financials",
-      "headline": "Update: Wall Street Dips as US-Iran Standoff Keeps Traders Anxious",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-dips-us-iran-211514161.html?.tsrc=rss",
-      "published": "2026-09-28T21:15:14Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "VirTra, Inc. (VTSI) Suffers a Larger Drop Than the General Market: Key Insights",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/virtra-inc-vtsi-suffers-larger-211505562.html?.tsrc=rss",
-      "published": "2026-09-28T21:15:05Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "industrials",
-      "headline": "Steel Dynamics (STLD) Registers a Bigger Fall Than the Market: Important Facts to Note",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/steel-dynamics-stld-registers-bigger-211505772.html?.tsrc=rss",
-      "published": "2026-09-28T21:15:05Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "energy",
-      "headline": "Crescent Energy (CRGY) Falls More Steeply Than Broader Market: What Investors Need to Know",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/crescent-energy-crgy-falls-more-211504846.html?.tsrc=rss",
-      "published": "2026-09-28T21:15:04Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "other",
-      "headline": "Why PagSeguro Digital Ltd. (PAGS) Dipped More Than Broader Market Today",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-pagseguro-digital-ltd-pags-211504926.html?.tsrc=rss",
-      "published": "2026-09-28T21:15:04Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Kinsale Capital Group, Inc. (KNSL) Suffers a Larger Drop Than the General Market: Key Insights",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/kinsale-capital-group-inc-knsl-211504472.html?.tsrc=rss",
-      "published": "2026-09-28T21:15:04Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "other",
-      "headline": "Superior Group (SGC) Declines More Than Market: Some Information for Investors",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/superior-group-sgc-declines-more-211504939.html?.tsrc=rss",
-      "published": "2026-09-28T21:15:04Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Here's Why D.R. Horton (DHI) Fell More Than Broader Market",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/heres-why-d-r-horton-211503553.html?.tsrc=rss",
-      "published": "2026-09-28T21:15:03Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "\u2018I\u2019d rather be on a beach in Bali\u2019: My husband resents my $8 million net worth. Should I pay for his retirement?",
-      "image": "news-images/cd15525214f58765225c02d0.jpg",
-      "link": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
-      "published": "2026-09-28T21:00:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "As bond yields surge, Wall Street wonders how much more tech stocks can take",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=3f65b38a-25be-4630-8ca5-b5498726c20f&amp;mod=mw_rss_bulletins",
-      "published": "2026-09-28T20:46:13Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "federal",
-      "headline": "Dow, S&P 500 and Nasdaq close lower as Treasury yields keep climbing",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=3727e089-5b3d-46b3-935e-a06c61966a63&amp;mod=mw_rss_bulletins",
-      "published": "2026-09-28T20:03:52Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "U.S. stocks down in final hour as 10-year Treasury yield climbs above 5.2%",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=56cf5505-52a5-40f0-99f2-ae142f1250b6&amp;mod=mw_rss_bulletins",
-      "published": "2026-09-28T19:03:52Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "SpaceX sends Starship rocket into orbit for first time \u2014 but not without hiccups",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=11962400-d5aa-4724-a4bf-e80bb7ee8ca2&amp;mod=mw_rss_bulletins",
-      "published": "2026-09-28T18:05:16Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "energy",
-      "headline": "Dow, S&P 500 and Nasdaq open lower as oil climbs, yields hit new highs",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=f0f1232f-d30a-4e49-9101-536ebef975c0&amp;mod=mw_rss_bulletins",
-      "published": "2026-09-28T13:30:55Z",
-      "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-09-29T01:53:31Z",
-  "source_item_count": 70,
+  "newest_item_published": "2026-09-29T17:05:27Z",
+  "source_item_count": 69,
   "sources": {
     "cnbc": {
       "contributed": 10,
       "error": null,
       "fetched": 30,
-      "fresh": 29,
+      "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-09-29T01:53:31Z",
+      "newest": "2026-09-29T16:55:13Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,25 +340,25 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-09-29T01:31:00Z",
+      "newest": "2026-09-29T16:59:00Z",
       "ok": true
     },
     "mw_bulletins": {
-      "contributed": 8,
+      "contributed": 10,
       "error": null,
       "fetched": 10,
       "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-09-29T00:07:50Z",
+      "newest": "2026-09-29T15:39:26Z",
       "ok": true
     },
     "yahoo_dji": {
-      "contributed": 12,
+      "contributed": 10,
       "error": null,
-      "fetched": 20,
-      "fresh": 20,
+      "fetched": 19,
+      "fresh": 18,
       "label": "Yahoo Finance",
-      "newest": "2026-09-29T01:28:17Z",
+      "newest": "2026-09-29T17:05:27Z",
       "ok": true
     }
   }
