@@ -1,12 +1,172 @@
 {
-  "generated_at": "2026-09-29T17:10:01Z",
+  "generated_at": "2026-09-29T18:35:57Z",
   "headlines": [
     {
       "category": "federal",
-      "headline": "Stock Market Today: Dow Dips As Key Treasury Yield Hits 24-Year High; Nvidia Tests Buy Point (Live Coverage)",
+      "headline": "Education Department extends deadline for student loan interest rate discount",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/09/29/trump-officials-extend-student-loan-interest-rate-discount-deadline.html",
+      "published": "2026-09-29T18:28:03Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Good news for OpenAI is great news for Oracle\u2019s stock \u2014 here\u2019s why",
+      "image": "news-images/e4912438ac27ef5afddfe08d.jpg",
+      "link": "https://www.marketwatch.com/story/good-news-for-openai-is-great-news-for-oracles-stock-heres-why-993b6a5f?mod=mw_rss_topstories",
+      "published": "2026-09-29T18:28:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Update: Equities Drop Intraday, Yields Rise as Traders Parse Macro Data",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/equities-drop-intraday-yields-rise-182514452.html?.tsrc=rss",
+      "published": "2026-09-29T18:25:14Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "Disney laying off around 300 employees in latest cuts under new CEO Josh D'Amaro",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/09/29/disney-layoffs-josh-damaro.html",
+      "published": "2026-09-29T18:21:27Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Property Play: Homeowners are sitting on record equity \u2013 and not using it",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/09/29/homeowners-are-sitting-on-record-equity-and-not-using-it.html",
+      "published": "2026-09-29T18:19:31Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Stock Market Today: Dow Dips As Key Treasury Yield Jumps; Nvidia, Energy Play Test Entries (Live Coverage)",
       "image": null,
       "link": "https://finance.yahoo.com/m/8757314c-41ab-383f-89ee-51177c4ae956/stock-market-today%3A-dow-dips.html?.tsrc=rss",
-      "published": "2026-09-29T17:05:27Z",
+      "published": "2026-09-29T18:19:18Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "tech",
+      "headline": "Dow Jones Software Leader Microsoft, Palantir, Micron, Palo Alto In Or Near Buy Zones",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/6c841e39-941b-3c2e-a976-277baf5769f2/dow-jones-software-leader.html?.tsrc=rss",
+      "published": "2026-09-29T18:07:02Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "consumer",
+      "headline": "Alaska Airlines CEO 'not overly concerned' about new Boeing Max 10 delay",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/09/29/boeing-max-delay-alaska-airlines-ceo.html",
+      "published": "2026-09-29T18:03:56Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Trump Accounts will auto-enroll children, potentially adding 60 million accounts: Treasury",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/09/29/trump-accounts-auto-enroll.html",
+      "published": "2026-09-29T18:01:58Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "energy",
+      "headline": "Sector Update: Energy Stocks Softer Tuesday Afternoon",
+      "image": null,
+      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-softer-tuesday-175902711.html?.tsrc=rss",
+      "published": "2026-09-29T17:59:02Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Tech leaders arrive at White House for AI luncheon with Trump",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/09/29/tech-white-house-ai-lunch-trump.html",
+      "published": "2026-09-29T17:58:39Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "healthcare",
+      "headline": "Medicare Advantage plans will be cheaper next year. Here\u2019s the new cost.",
+      "image": "news-images/05cd23323c614de85af81139.jpg",
+      "link": "https://www.marketwatch.com/story/medicare-advantage-plans-will-be-cheaper-next-year-heres-the-new-cost-2f7ab55b?mod=mw_rss_topstories",
+      "published": "2026-09-29T17:45:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "international",
+      "headline": "Update: US Equity Indexes Fall in Midday Trading as Consumer Sentiment Slumps Amid Growing Geopolitical Tensions",
+      "image": null,
+      "link": "https://finance.yahoo.com/economy/articles/us-equity-indexes-fall-midday-173858633.html?.tsrc=rss",
+      "published": "2026-09-29T17:38:58Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "international",
+      "headline": "Jamie Dimon has a plan to revive the West: A 'big, beautiful' deal with Europe",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/09/29/jamie-dimon-europe-trade.html",
+      "published": "2026-09-29T17:34:18Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "I\u2019m 77, pay rent and live off Social Security, but I help homeless people. Why are so many people going hungry?",
+      "image": "news-images/0937f629f3947a851a1621d6.jpg",
+      "link": "https://www.marketwatch.com/story/im-77-pay-rent-and-live-off-social-security-but-i-help-homeless-people-why-are-so-many-people-going-hungry-5818465f?mod=mw_rss_topstories",
+      "published": "2026-09-29T17:30:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Stocks Slip as 30-Year Treasury Yield Hits 5.6%",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/5ecc7cca-be0e-3509-be10-7dca3bc34cf6/stocks-slip-as-30-year.html?.tsrc=rss",
+      "published": "2026-09-29T17:28:08Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "consumer",
+      "headline": "El Pollo Loco to open first New York restaurant as it aims to become national chicken chain",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/09/29/el-pollo-loco-opens-first-new-york-restaurant.html",
+      "published": "2026-09-29T17:26:48Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Meta is bringing Muse AI to small businesses \u2014 and it already has a huge head start",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/09/29/meta-is-bringing-muse-ai-to-small-businesses-and-it-already-has-a-huge-head-start.html",
+      "published": "2026-09-29T17:26:06Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Bank of England policymaker says raising interest rates \u2018not compelling\u2019",
+      "image": null,
+      "link": "https://uk.finance.yahoo.com/news/bank-england-policymaker-says-raising-163707674.html?.tsrc=rss",
+      "published": "2026-09-29T17:20:58Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Could SpaceX be worth $12 trillion one day? Citi says Starship gets it closer.",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=bdf15b60-c29f-4753-a719-e29700d65caa&amp;mod=mw_rss_bulletins",
+      "published": "2026-09-29T17:19:33Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Trump government ads were funded by Homeland Security, WSJ reports",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/09/29/trump-ads-cbp-dhs-taxpayer-funding-election.html",
+      "published": "2026-09-29T17:16:53Z",
       "sentiment": "neutral"
     },
     {
@@ -15,30 +175,6 @@
       "image": "news-images/760701b0b4a2085a252aa9f0.jpg",
       "link": "https://www.marketwatch.com/story/could-spacex-be-worth-12-trillion-one-day-citi-says-starship-gets-it-a-step-closer-6ce44961?mod=mw_rss_topstories",
       "published": "2026-09-29T16:59:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "New AI-powered government website uses Gemini, Grok, Trump official Gebbia says",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/09/29/trump-ai-gemini-grok.html",
-      "published": "2026-09-29T16:55:13Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Consumer optimism slides to lowest since 2014 as fears escalate over rising prices and jobs",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/09/29/consumer-optimism-slides-sharply-as-fears-escalate-over-rising-prices-and-jobs.html",
-      "published": "2026-09-29T16:52:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "consumer",
-      "headline": "El Pollo Loco to open first New York restaurant as it aims to become national chicken chain",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/09/29/el-pollo-loco-opens-first-new-york-restaurant.html",
-      "published": "2026-09-29T16:47:21Z",
       "sentiment": "neutral"
     },
     {
@@ -60,17 +196,9 @@
     {
       "category": "tech",
       "headline": "The hidden messages the bond market is sending about the AI boom and the stock market",
-      "image": "news-images/78da0a46329436f817342200.jpg",
+      "image": "news-images/5fafb1ed4bb5f781b0d01480.jpg",
       "link": "https://www.marketwatch.com/story/the-hidden-messages-the-bond-market-is-sending-about-the-ai-boom-and-the-stock-market-5c9495ba?mod=mw_rss_topstories",
       "published": "2026-09-29T16:44:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Bank of England policymaker says raising interest rates \u2018not compelling\u2019",
-      "image": null,
-      "link": "https://uk.finance.yahoo.com/news/bank-england-policymaker-says-raising-163707674.html?.tsrc=rss",
-      "published": "2026-09-29T16:37:07Z",
       "sentiment": "neutral"
     },
     {
@@ -98,67 +226,11 @@
       "sentiment": "neutral"
     },
     {
-      "category": "federal",
-      "headline": "Education Department extends deadline for student loan interest rate discount",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/09/29/trump-officials-extend-student-loan-interest-rate-discount-deadline.html",
-      "published": "2026-09-29T16:23:28Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Hassett: 'We're still working our way out from' Biden Covid spending",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/09/29/hassett-trump-economy-biden-covid.html",
-      "published": "2026-09-29T16:20:19Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "other",
       "headline": "\u2018I want to make her proud\u2019: My mother, a divorc\u00e9e, died and I\u2019m her executor. Do I need to file for probate?",
       "image": "news-images/4053d2fe9856f6dffa032fbb.jpg",
       "link": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
       "published": "2026-09-29T16:15:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "industrials",
-      "headline": "Cramer weighs in on Goldman amid CEO succession talks \u2014 plus, Boeing bounces back",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/09/29/cramers-take-on-goldman-ceo-succession-plus-boeing-bounces-back.html",
-      "published": "2026-09-29T16:08:12Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "other",
-      "headline": "America's Canadian import restrictions come into force. Here are the products barred from entry",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/09/29/canada-import-ban-trade-war.html",
-      "published": "2026-09-29T15:57:43Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Microsoft shares might be rangebound. Here's how you can still make money",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/09/29/microsoft-shares-might-be-rangebound-heres-how-you-can-still-make-money.html",
-      "published": "2026-09-29T15:56:13Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Property Play: Homeowners are sitting on record equity \u2013 and not using it",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/09/29/homeowners-are-sitting-on-record-equity-and-not-using-it.html",
-      "published": "2026-09-29T15:54:12Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Gina Raimondo thinks AI ultimately will create jobs. It's the initial mass layoffs wave that worries her",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/09/29/ai-job-losses-layoffs.html",
-      "published": "2026-09-29T15:46:04Z",
       "sentiment": "neutral"
     },
     {
@@ -186,75 +258,11 @@
       "sentiment": "neutral"
     },
     {
-      "category": "other",
-      "headline": "I don\u2019t want to spend $800 on flights to see my family for Thanksgiving. Can I break this holiday tradition?",
-      "image": "news-images/57fd62ad6be09369e5598576.jpg",
-      "link": "https://www.marketwatch.com/story/spending-800-to-see-my-family-this-thanksgiving-is-a-financial-burden-how-can-i-push-for-a-cheaper-flight-c6dd1fdf?mod=mw_rss_topstories",
-      "published": "2026-09-29T15:29:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Job openings are low and hiring is weak. Why the U.S. labor market won\u2019t get better soon.",
-      "image": "news-images/78924d53286366d6042a541e.jpg",
-      "link": "https://www.marketwatch.com/story/job-openings-are-low-and-hiring-is-weak-why-the-u-s-labor-market-wont-get-better-soon-18292734?mod=mw_rss_topstories",
-      "published": "2026-09-29T15:21:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Stocks Slip as 30-Year Treasury Yield Hits 5.6%",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/5ecc7cca-be0e-3509-be10-7dca3bc34cf6/stocks-slip-as-30-year.html?.tsrc=rss",
-      "published": "2026-09-29T15:16:06Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "healthcare",
-      "headline": "Medicare Advantage plans will be cheaper next year. Here\u2019s the new cost.",
-      "image": "news-images/05cd23323c614de85af81139.jpg",
-      "link": "https://www.marketwatch.com/story/medicare-advantage-plans-will-be-cheaper-next-year-heres-the-new-cost-2f7ab55b?mod=mw_rss_topstories",
-      "published": "2026-09-29T15:16:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "industrials",
-      "headline": "Why Boeing Stock Is Bouncing After the Latest 737 MAX Delay",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/0b347097-a2fc-3d29-aa1f-c2a78347fdad/why-boeing-stock-is-bouncing.html?.tsrc=rss",
-      "published": "2026-09-29T14:24:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Dow Slips as Bond Markets Take a Breather",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/241053dd-1feb-3b81-958e-62ff1de2b9f2/dow-slips-as-bond-markets.html?.tsrc=rss",
-      "published": "2026-09-29T14:00:16Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Tech stocks rise as Treasury yields and oil prices pull back",
-      "image": null,
-      "link": "https://qz.com/tech-stocks-nasdaq-treasury-yields-oil-prices-092926?.tsrc=rss",
-      "published": "2026-09-29T13:57:10Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "tech",
       "headline": "Nasdaq opens higher as chip stocks lead; oil, bond yields hold steady",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=9d3b4f92-a5e0-42d4-9548-9fd84c3e9298&amp;mod=mw_rss_bulletins",
       "published": "2026-09-29T13:30:50Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Tuesday as Investors Weigh Tech Rebound",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-131149164.html?.tsrc=rss",
-      "published": "2026-09-29T13:11:49Z",
       "sentiment": "neutral"
     },
     {
@@ -312,17 +320,9 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=93ecda1c-d415-41cc-be2e-e0d91984ba2b&amp;mod=mw_rss_bulletins",
       "published": "2026-09-28T22:01:15Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "U.S., China agree to $60 billion in tariff cuts. But rare earths remain a snag.",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=86d49520-5b4a-43a7-bdde-398848e77b92&amp;mod=mw_rss_bulletins",
-      "published": "2026-09-28T21:31:36Z",
-      "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-09-29T17:05:27Z",
+  "newest_item_published": "2026-09-29T18:28:03Z",
   "source_item_count": 69,
   "sources": {
     "cnbc": {
@@ -331,7 +331,7 @@
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-09-29T16:55:13Z",
+      "newest": "2026-09-29T18:28:03Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,7 +340,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-09-29T16:59:00Z",
+      "newest": "2026-09-29T18:28:00Z",
       "ok": true
     },
     "mw_bulletins": {
@@ -349,7 +349,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-09-29T15:39:26Z",
+      "newest": "2026-09-29T17:19:33Z",
       "ok": true
     },
     "yahoo_dji": {
@@ -358,7 +358,7 @@
       "fetched": 19,
       "fresh": 18,
       "label": "Yahoo Finance",
-      "newest": "2026-09-29T17:05:27Z",
+      "newest": "2026-09-29T18:25:14Z",
       "ok": true
     }
   }
