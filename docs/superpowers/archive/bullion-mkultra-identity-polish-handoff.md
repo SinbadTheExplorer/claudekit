@@ -22,7 +22,7 @@ and pushed.
 
 ## How to resume (do this first)
 
-1. Confirm state: `git -C ~/minhthanh0403/claude-projects/claudekit log --oneline -6` should
+1. Confirm state: `git -C ~/claude-projects/claudekit log --oneline -6` should
    show `de39d4d` at `HEAD` on `main`. `git rev-list --left-right --count origin/main...main`
    should read `0  0` — **fully pushed, nothing pending.**
 2. **Do not re-run the critique or brainstorming for the P1 work** — it's done. If you want to

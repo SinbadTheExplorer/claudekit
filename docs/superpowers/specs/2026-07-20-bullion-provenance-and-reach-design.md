@@ -60,7 +60,7 @@ questions and a single mechanism answers them.
 - **Graceful degradation is mandatory.** The map must stay usable when
   `data.json` is missing, malformed, or an older schema. It currently falls
   back to a simulated baseline; that behaviour is preserved and made visible.
-- **Deployment URL:** `https://nguyenminhthanh0403-hub.github.io/claudekit/bullion-live-map/`
+- **Deployment URL:** `https://sinbadtheexplorer.github.io/claudekit/bullion-live-map/`
 
 ---
 
@@ -299,8 +299,8 @@ across scrapers — so the deployment URL is hardcoded:
 <meta property="og:type" content="website">
 <meta property="og:title" content="Bullion Mk11 — US Financial System Constellation">
 <meta property="og:description" content="An interactive map of how the US financial system actually connects — live Treasury yields, inflation, gold and volatility, with every causal link explained in plain English.">
-<meta property="og:url" content="https://nguyenminhthanh0403-hub.github.io/claudekit/bullion-live-map/bullion_mk11_constellation.html">
-<meta property="og:image" content="https://nguyenminhthanh0403-hub.github.io/claudekit/bullion-live-map/preview-card.png">
+<meta property="og:url" content="https://sinbadtheexplorer.github.io/claudekit/bullion-live-map/bullion_mk11_constellation.html">
+<meta property="og:image" content="https://sinbadtheexplorer.github.io/claudekit/bullion-live-map/preview-card.png">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">

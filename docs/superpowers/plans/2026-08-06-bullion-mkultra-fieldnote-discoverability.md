@@ -52,7 +52,7 @@ Substitute the exact text given in each step for `__PROBE_SCRIPT__`, ending in
 `console.log('PROBE_RESULT:' + JSON.stringify(result))`.
 
 **Chrome-MCP visual check**, reused in Task 6: navigate a tab to
-`file:///Users/thanhnguyen/minhthanh0403/claude-projects/claudekit/bullion-live-map/bullion_mkultra.html`
+`file://~/claude-projects/claudekit/bullion-live-map/bullion_mkultra.html`
 (this is pre-push, so the live Pages URL doesn't have these changes yet), screenshot, and check
 `read_console_messages` for 0 errors.
 
@@ -528,7 +528,7 @@ either way).
 - [ ] **Step 4: Consolidated Chrome-MCP pass**
 
 Open the local file in a fresh tab
-(`file:///Users/thanhnguyen/minhthanh0403/claude-projects/claudekit/bullion-live-map/bullion_mkultra.html`).
+(`file://~/claude-projects/claudekit/bullion-live-map/bullion_mkultra.html`).
 In one session: check the Overview board for the pencil mark on "Credit Markets" / "Equity
 Markets" / "US Dollar (DXY)" / "Oil Price (WTI)" cards; open "Credit Markets"' detail panel and
 confirm the "Equity Markets" row carries the mark; step through onboarding to "That card is the

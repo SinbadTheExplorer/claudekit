@@ -78,7 +78,7 @@ the Audit Log. See the thesis and full detail in:
 1. **Finish Task 1's review gate.** Generate the review package and dispatch a task
    reviewer (a small stdlib-Python diff — a mid/cheap model reviewer is fine):
    ```
-   SKILL=/Users/thanhnguyen/.claude/plugins/cache/claude-plugins-official/superpowers/6.1.1/skills/subagent-driven-development
+   SKILL=~/.claude/plugins/cache/claude-plugins-official/superpowers/6.1.1/skills/subagent-driven-development
    "$SKILL/scripts/review-package" 2e2d7cd 80f3359    # prints a diff-file path
    ```
    Give the reviewer: the diff path, `.superpowers/sdd/task-1-brief.md`,

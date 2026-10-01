@@ -24,7 +24,7 @@ posture as every prior ad-hoc tuning session in this project.
 
 ## How to resume (do this first)
 
-1. Confirm state: `git -C ~/minhthanh0403/claude-projects/claudekit log --oneline
+1. Confirm state: `git -C ~/claude-projects/claudekit log --oneline
    c900ad3..HEAD` should show exactly **1 commit, `5224605`**, on `main`. `git status
    --short` should be clean except the standing "Not mine" untracked noise (list
    below) plus one new marker file, `audio/narration/.johnny_tempo90_done.txt`
@@ -67,9 +67,9 @@ tree (modulo standing untracked noise).
   byte-for-byte from `generate_narration.py` (parity enforced by
   `test_generate_narration.py`'s manifest tests). **Public URLs, both now serving the
   full 39-node Johnny set:**
-  - `https://nguyenminhthanh0403-hub.github.io/claudekit/bullion-live-map/` (redirects
+  - `https://sinbadtheexplorer.github.io/claudekit/bullion-live-map/` (redirects
     to the current 2D version, Mk18)
-  - `https://nguyenminhthanh0403-hub.github.io/claudekit/bullion-live-map/bullion_mkultra.html`
+  - `https://sinbadtheexplorer.github.io/claudekit/bullion-live-map/bullion_mkultra.html`
     (3D Mk Ultra fork — separate permanent URL, updated in the same commit)
 - **All 39** `bullion-live-map/audio/narration/johnny-*.mp3` — regenerated fresh at
   `JOHNNY_TEMPO=0.9` and committed (the original 6 pilot clips are also regenerated at
@@ -172,6 +172,6 @@ tree (modulo standing untracked noise).
 - Reference clips: `bullion-live-map/audio/voice_sample/{user_voice.wav,
   jamie_sample.wav, actor_sample.wav}` — all pre-existing, untouched this session.
 - GitHub Pages deploy verification: no `gh` CLI on this machine — use `curl -s
-  "https://api.github.com/repos/nguyenminhthanh0403-hub/claudekit/actions/runs?per_page=5"`
+  "https://api.github.com/repos/SinbadTheExplorer/claudekit/actions/runs?per_page=5"`
   (public API, works unauthenticated) and check the run for the relevant commit shows
   `completed`/`success`. Confirmed working this session for `5224605`.

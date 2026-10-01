@@ -56,7 +56,7 @@ Output: PASS/FAIL/WARNING report. FAILs go back to builder. WARNINGs are reporte
 
 ## The Implementation Plan
 
-Full plan: `/Users/thanhnguyen/.Codex/plans/20260629-rippling-honking-lark.md`
+Full plan: `~/.Codex/plans/20260629-rippling-honking-lark.md`
 
 ### Priority Order for Node Addition
 

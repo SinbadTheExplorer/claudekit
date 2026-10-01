@@ -25,7 +25,7 @@ more field notes or lowering the authoring bar — this pass only makes the exis
 
 ## How to resume (do this first)
 
-1. Confirm state: `git -C ~/minhthanh0403/claude-projects/claudekit log --oneline -9` should show
+1. Confirm state: `git -C ~/claude-projects/claudekit log --oneline -9` should show
    `cf3a6a3` at `HEAD` on `main`. `git rev-list --left-right --count origin/main...main` should
    read `0  0` — **fully pushed, nothing pending, confirmed live on GitHub Pages at this SHA.**
 2. **Do not re-run brainstorming, planning, or the critique for this work** — it's done and

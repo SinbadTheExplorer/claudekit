@@ -121,7 +121,7 @@ affect it — this step just confirms no accidental cross-contamination).
 - [ ] **Step 6: Commit**
 
 ```bash
-cd /Users/thanhnguyen/minhthanh0403/claude-projects/claudekit
+cd ~/claude-projects/claudekit
 git add bullion-live-map/bullion_mk18.html bullion-live-map/bullion_mkultra.html
 git commit -m "Dim persona orb to match node resting opacity, brighten on hover/active"
 ```
@@ -270,7 +270,7 @@ Expected: 96/96 passing, unchanged.
 - [ ] **Step 8: Commit**
 
 ```bash
-cd /Users/thanhnguyen/minhthanh0403/claude-projects/claudekit
+cd ~/claude-projects/claudekit
 git add bullion-live-map/bullion_mk18.html bullion-live-map/bullion_mkultra.html
 git commit -m "Replace persona orb emoji with original translucent SVG glyphs"
 ```

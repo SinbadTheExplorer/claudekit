@@ -27,7 +27,7 @@ autoplay, on the Bullion financial map (`bullion-live-map/bullion_mk18.html` and
 
 ## How to resume (do this first)
 
-1. Confirm state: `git -C ~/minhthanh0403/claude-projects/claudekit log --oneline -5`
+1. Confirm state: `git -C ~/claude-projects/claudekit log --oneline -5`
    should show `21cc1ea` (merge commit) at HEAD on `main`. `git rev-list --left-right
    --count origin/main...main` should read `0 0` — **fully pushed, nothing local-only.**
    `git status --short` should show only the usual pre-existing untracked noise (see
@@ -35,7 +35,7 @@ autoplay, on the Bullion financial map (`bullion-live-map/bullion_mk18.html` and
 2. Read the main checkout's ledger in full — it's the authoritative record of Tasks
    1-3 and the merge.
 3. **Check whether a second Claude Code session is still active** in the worktree at
-   `~/minhthanh0403/claude-projects/claudekit/.claude/worktrees/bullion-persona-toggle-frontend`
+   `~/claude-projects/claudekit/.claude/worktrees/bullion-persona-toggle-frontend`
    (branch `worktree-bullion-persona-toggle-frontend`) — it may still be working on Task
    6. If that session is gone/idle, this session should pick up Task 6 itself (either in
    that same worktree, or directly on `main` — worktree isolation no longer matters much

@@ -13,7 +13,7 @@ After finance-planner has produced a structured node + link spec and you are rea
 4. Confirm no node with the same `id` already exists (grep for the id)
 
 ```bash
-grep -n "id:'" /Users/thanhnguyen/minhthanh0403/claude-projects/claudekit/financial-map.html | grep "YOUR_NEW_ID"
+grep -n "id:'" ~/claude-projects/claudekit/financial-map.html | grep "YOUR_NEW_ID"
 ```
 
 ## Node Insertion
@@ -42,10 +42,10 @@ Add new links BEFORE that `];`:
 Run these checks before marking done:
 ```bash
 # Check for syntax errors — node count should be a number, not NaN
-grep -c "{ id:'" /Users/thanhnguyen/minhthanh0403/claude-projects/claudekit/financial-map.html
+grep -c "{ id:'" ~/claude-projects/claudekit/financial-map.html
 
 # Confirm new node ID appears exactly once
-grep -c "id:'NEW_ID'" /Users/thanhnguyen/minhthanh0403/claude-projects/claudekit/financial-map.html
+grep -c "id:'NEW_ID'" ~/claude-projects/claudekit/financial-map.html
 ```
 
 Expected: node ID appears exactly 1 time in the file (in the NODES array).

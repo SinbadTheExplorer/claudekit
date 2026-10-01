@@ -33,7 +33,7 @@ progress file to check.
 
 ## How to resume (do this first)
 
-1. Confirm branch/head: `git -C ~/minhthanh0403/claude-projects/claudekit log --oneline -3`
+1. Confirm branch/head: `git -C ~/claude-projects/claudekit log --oneline -3`
    should show `2c79324` at HEAD on `main`. `git rev-list --left-right --count
    origin/main...main` should read `0 0` — **Phase 1 is fully pushed and live; this
    debugging effort has made zero commits so far.** `git status --short` should show only
@@ -58,7 +58,7 @@ plus one scratch experiment (below).
 **Scratch workspace / traps:**
 - ⚠️ **The A/B test clips live in this SESSION's scratchpad directory, which is
   session-specific and will almost certainly NOT exist for a fresh session:**
-  `/private/tmp/claude-501/-Users-thanhnguyen/d022e4c7-b0c8-45b7-b57c-1f7cc93ad44f/scratchpad/voice-test/`
+  `/private/tmp/claude-501/-Users-me/d022e4c7-b0c8-45b7-b57c-1f7cc93ad44f/scratchpad/voice-test/`
   containing `baseline_cfg05.wav` (cfg_weight=0.5, the pipeline's current default),
   `cfg08.wav` (cfg_weight=0.8, the hypothesis test), and `test_cfg_weight.py`. **Do not
   assume these paths are valid — check first.** The full script content is reproduced
@@ -144,7 +144,7 @@ Nothing shipped yet for this debugging effort — it's still root-cause investig
 1. Ask the user: does `cfg08.wav` sound more like you than `baseline_cfg05.wav`? (Paths
    above — if the session-specific scratch dir is gone, regenerate both first using the
    script reproduced below, in this session's own scratchpad, pointing `ROOT` at
-   `~/minhthanh0403/claude-projects/claudekit/bullion-live-map`.)
+   `~/claude-projects/claudekit/bullion-live-map`.)
 2. Branch on the answer:
    - **cfg08 is better:** confirm on a second node's text (different sentence, same
      cfg_weight=0.8) before considering it validated. Then decide with the user whether
@@ -177,7 +177,7 @@ user can A/B by ear. Scratch-only, not part of the project."""
 import sys
 from pathlib import Path
 
-ROOT = Path("/Users/thanhnguyen/minhthanh0403/claude-projects/claudekit/bullion-live-map")
+ROOT = Path("~/claude-projects/claudekit/bullion-live-map")
 VOICE_SAMPLE = ROOT / "audio" / "voice_sample" / "user_voice.wav"
 OUT_DIR = Path(__file__).resolve().parent
 
@@ -207,7 +207,7 @@ print("DONE")
 
 Run with:
 ```bash
-cd <scratchpad-dir> && source ~/minhthanh0403/claude-projects/claudekit/bullion-live-map/.venv-narration/bin/activate && python3 test_cfg_weight.py
+cd <scratchpad-dir> && source ~/claude-projects/claudekit/bullion-live-map/.venv-narration/bin/activate && python3 test_cfg_weight.py
 ```
 
 If it gets killed partway through (has happened before, twice now, in this project — a

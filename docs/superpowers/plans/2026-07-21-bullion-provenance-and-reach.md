@@ -16,11 +16,11 @@
 - **No new runtime dependencies.** `fetch_bullion_data.py` uses only the Python standard library.
 - **Neither `pytest` nor `node` is installed.** Python tests use stdlib `unittest`; JS tests use a headless-Chrome HTML runner. Do not add install steps.
 - **Chrome path:** `/Applications/Google Chrome.app/Contents/MacOS/Google Chrome`
-- **Deployment URL:** `https://nguyenminhthanh0403-hub.github.io/claudekit/bullion-live-map/`
+- **Deployment URL:** `https://sinbadtheexplorer.github.io/claudekit/bullion-live-map/`
 - **Freshness is judged on `published`, never `ref_date`.**
 - **Tolerances:** `daily` 7 days, `monthly` 45 days, `fomc` none. Per-field override: `wti_px` 10 days.
 - **Palette (from the map's own CSS):** `--bg-deep #05060a`, `--gold #d4b869`, `--text-dim #8891a6`, `--amber #e0b15a`.
-- **Working directory for all commands:** `~/minhthanh0403/claude-projects/claudekit/`
+- **Working directory for all commands:** `~/claude-projects/claudekit/`
 - Commit after every task. Do not push — pushing requires the user's terminal.
 
 ## File Structure
@@ -91,7 +91,7 @@ Create `bullion-live-map/preview-card.svg`:
 Run:
 
 ```bash
-cd ~/minhthanh0403/claude-projects/claudekit/bullion-live-map && \
+cd ~/claude-projects/claudekit/bullion-live-map && \
 "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome" \
   --headless --disable-gpu --screenshot=preview-card.png \
   --window-size=1200,630 --default-background-color=00000000 \
@@ -127,8 +127,8 @@ In `bullion_mk11_constellation.html`, immediately after the `<title>` line (line
 <meta property="og:type" content="website">
 <meta property="og:title" content="Bullion Mk11 — US Financial System Constellation">
 <meta property="og:description" content="An interactive map of how the US financial system actually connects — live Treasury yields, inflation, gold and volatility, with every causal link explained in plain English.">
-<meta property="og:url" content="https://nguyenminhthanh0403-hub.github.io/claudekit/bullion-live-map/bullion_mk11_constellation.html">
-<meta property="og:image" content="https://nguyenminhthanh0403-hub.github.io/claudekit/bullion-live-map/preview-card.png">
+<meta property="og:url" content="https://sinbadtheexplorer.github.io/claudekit/bullion-live-map/bullion_mk11_constellation.html">
+<meta property="og:image" content="https://sinbadtheexplorer.github.io/claudekit/bullion-live-map/preview-card.png">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
@@ -139,7 +139,7 @@ In `bullion_mk11_constellation.html`, immediately after the `<title>` line (line
 Run:
 
 ```bash
-cd ~/minhthanh0403/claude-projects/claudekit/bullion-live-map && \
+cd ~/claude-projects/claudekit/bullion-live-map && \
 python3 -c "
 import re
 h=open('bullion_mk11_constellation.html',encoding='utf-8').read()
@@ -159,7 +159,7 @@ Expected: `all 8 OG tags present in <head>` then `OK`.
 Then open the map in Chrome and confirm it renders as before:
 
 ```bash
-open -a "Google Chrome" ~/minhthanh0403/claude-projects/claudekit/bullion-live-map/bullion_mk11_constellation.html
+open -a "Google Chrome" ~/claude-projects/claudekit/bullion-live-map/bullion_mk11_constellation.html
 ```
 
 Confirm the constellation draws and no console errors appear.
@@ -167,7 +167,7 @@ Confirm the constellation draws and no console errors appear.
 - [ ] **Step 6: Commit**
 
 ```bash
-cd ~/minhthanh0403/claude-projects/claudekit && \
+cd ~/claude-projects/claudekit && \
 git add bullion-live-map/preview-card.svg bullion-live-map/preview-card.png bullion-live-map/bullion_mk11_constellation.html && \
 git commit -m "Add social preview card and Open Graph tags
 
@@ -291,7 +291,7 @@ if __name__ == "__main__":
 Run:
 
 ```bash
-cd ~/minhthanh0403/claude-projects/claudekit && \
+cd ~/claude-projects/claudekit && \
 python3 -m unittest discover -s bullion-live-map/tests -v
 ```
 
@@ -343,7 +343,7 @@ def freshness_verdict(cadence, published, today, override_days=None):
 Run:
 
 ```bash
-cd ~/minhthanh0403/claude-projects/claudekit && \
+cd ~/claude-projects/claudekit && \
 python3 -m unittest discover -s bullion-live-map/tests -v
 ```
 
@@ -352,7 +352,7 @@ Expected: `Ran 12 tests` and `OK`.
 - [ ] **Step 5: Commit**
 
 ```bash
-cd ~/minhthanh0403/claude-projects/claudekit && \
+cd ~/claude-projects/claudekit && \
 git add bullion-live-map/fetch_bullion_data.py bullion-live-map/tests/test_fetch_bullion_data.py && \
 git commit -m "Add freshness verdict judged on publication date
 
@@ -462,7 +462,7 @@ class TestParseYahooChart(unittest.TestCase):
 Run:
 
 ```bash
-cd ~/minhthanh0403/claude-projects/claudekit && \
+cd ~/claude-projects/claudekit && \
 python3 -m unittest discover -s bullion-live-map/tests -v
 ```
 
@@ -602,7 +602,7 @@ In `main()`, replace the two fetch loops (currently lines 161-173) with:
 Run:
 
 ```bash
-cd ~/minhthanh0403/claude-projects/claudekit && \
+cd ~/claude-projects/claudekit && \
 python3 -m unittest discover -s bullion-live-map/tests -v
 ```
 
@@ -613,7 +613,7 @@ Expected: `Ran 19 tests` and `OK`.
 Run:
 
 ```bash
-cd ~/minhthanh0403/claude-projects/claudekit/bullion-live-map && python3 fetch_bullion_data.py
+cd ~/claude-projects/claudekit/bullion-live-map && python3 fetch_bullion_data.py
 ```
 
 Expected: `Wrote .../data.json with ~366 dated entries.` and no tracebacks. The file's shape has not changed yet — that is Task 4.
@@ -621,7 +621,7 @@ Expected: `Wrote .../data.json with ~366 dated entries.` and no tracebacks. The 
 - [ ] **Step 7: Commit**
 
 ```bash
-cd ~/minhthanh0403/claude-projects/claudekit && \
+cd ~/claude-projects/claudekit && \
 git add bullion-live-map/fetch_bullion_data.py bullion-live-map/tests/test_fetch_bullion_data.py && \
 git commit -m "Capture FRED publication dates and extract pure parsers
 
@@ -706,7 +706,7 @@ class TestBuildEnvelope(unittest.TestCase):
 Run:
 
 ```bash
-cd ~/minhthanh0403/claude-projects/claudekit && \
+cd ~/claude-projects/claudekit && \
 python3 -m unittest discover -s bullion-live-map/tests -v
 ```
 
@@ -807,7 +807,7 @@ Replace the write block and summary in `main()` (currently lines 179-192) with:
 Run:
 
 ```bash
-cd ~/minhthanh0403/claude-projects/claudekit && \
+cd ~/claude-projects/claudekit && \
 python3 -m unittest discover -s bullion-live-map/tests -v
 ```
 
@@ -818,7 +818,7 @@ Expected: `Ran 25 tests` and `OK`.
 Run:
 
 ```bash
-cd ~/minhthanh0403/claude-projects/claudekit/bullion-live-map && \
+cd ~/claude-projects/claudekit/bullion-live-map && \
 python3 fetch_bullion_data.py && \
 python3 -c "
 import json
@@ -838,7 +838,7 @@ If any field reports `FLAGGED` on this first real run, stop and investigate befo
 - [ ] **Step 7: Commit**
 
 ```bash
-cd ~/minhthanh0403/claude-projects/claudekit && \
+cd ~/claude-projects/claudekit && \
 git add bullion-live-map/fetch_bullion_data.py bullion-live-map/tests/test_fetch_bullion_data.py bullion-live-map/data.json && \
 git commit -m "Write schema v2 envelope with per-field provenance
 
@@ -937,7 +937,7 @@ fetch('../bullion_mk11_constellation.html')
 The runner `fetch`es a sibling file, which `file://` blocks, so serve the directory:
 
 ```bash
-cd ~/minhthanh0403/claude-projects/claudekit/bullion-live-map && \
+cd ~/claude-projects/claudekit/bullion-live-map && \
 python3 -m http.server 8899 >/dev/null 2>&1 &
 sleep 1 && \
 "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome" \
@@ -991,7 +991,7 @@ Expected: 14 `PASS` lines, then `14/14 passed` and `RESULT: PASS`.
 - [ ] **Step 5: Confirm the map still loads**
 
 ```bash
-open -a "Google Chrome" ~/minhthanh0403/claude-projects/claudekit/bullion-live-map/bullion_mk11_constellation.html
+open -a "Google Chrome" ~/claude-projects/claudekit/bullion-live-map/bullion_mk11_constellation.html
 ```
 
 Confirm the constellation renders and the console shows no errors.
@@ -999,7 +999,7 @@ Confirm the constellation renders and the console shows no errors.
 - [ ] **Step 6: Commit**
 
 ```bash
-cd ~/minhthanh0403/claude-projects/claudekit && \
+cd ~/claude-projects/claudekit && \
 git add bullion-live-map/bullion_mk11_constellation.html bullion-live-map/tests/freshness_test.html && \
 git commit -m "Mirror the freshness verdict in JS with a Chrome test harness
 
@@ -1202,7 +1202,7 @@ No new failure UI is added — `renderLiveProvenance` already handles it. This s
 verifies the existing behaviour survived the loader rewrite.
 
 ```bash
-cd ~/minhthanh0403/claude-projects/claudekit/bullion-live-map && \
+cd ~/claude-projects/claudekit/bullion-live-map && \
 python3 -m http.server 8899 >/dev/null 2>&1 &
 sleep 1 && mv data.json /tmp/data-hidden.json && \
 open -a "Google Chrome" http://localhost:8899/bullion_mk11_constellation.html
@@ -1224,7 +1224,7 @@ Expected: 23 `PASS` lines, `23/23 passed`, `RESULT: PASS`.
 Fixture 1 — v2 data (the real `data.json` from Task 4):
 
 ```bash
-cd ~/minhthanh0403/claude-projects/claudekit/bullion-live-map && \
+cd ~/claude-projects/claudekit/bullion-live-map && \
 python3 -m http.server 8899 >/dev/null 2>&1 &
 sleep 1 && open -a "Google Chrome" http://localhost:8899/bullion_mk11_constellation.html
 ```
@@ -1236,7 +1236,7 @@ Confirm the Live Data button still reads "Live Data".
 Fixture 2 — v1 data:
 
 ```bash
-cd ~/minhthanh0403/claude-projects/claudekit/bullion-live-map && \
+cd ~/claude-projects/claudekit/bullion-live-map && \
 # NB: locate the last v1 commit by content, not by a fixed HEAD~N offset —
 # review-fix commits shift history. `aad4067^` was correct as of 2026-07-21.
 git show "$(git log --format=%H -- bullion-live-map/data.json | sed -n 2p)":bullion-live-map/data.json > /tmp/v1-data.json && \
@@ -1251,7 +1251,7 @@ Confirm: map renders, `BULLION_PROVENANCE.schema` is `1`, all field states are
 Fixture 3 — missing data:
 
 ```bash
-cd ~/minhthanh0403/claude-projects/claudekit/bullion-live-map && \
+cd ~/claude-projects/claudekit/bullion-live-map && \
 mv data.json /tmp/data-hidden.json && \
 open -a "Google Chrome" http://localhost:8899/bullion_mk11_constellation.html
 ```
@@ -1266,7 +1266,7 @@ Repeat fixture 1 at the 640px breakpoint using Chrome's device toolbar.
 - [ ] **Step 8: Commit**
 
 ```bash
-cd ~/minhthanh0403/claude-projects/claudekit && \
+cd ~/claude-projects/claudekit && \
 git add bullion-live-map/bullion_mk11_constellation.html bullion-live-map/tests/freshness_test.html && \
 git commit -m "Read schema v2 provenance and make fetch failure visible
 
@@ -1455,7 +1455,7 @@ warning text appear, then restore the file with `git checkout bullion-live-map/d
 - [ ] **Step 8: Commit**
 
 ```bash
-cd ~/minhthanh0403/claude-projects/claudekit && \
+cd ~/claude-projects/claudekit && \
 git add bullion-live-map/bullion_mk11_constellation.html bullion-live-map/tests/freshness_test.html && \
 git commit -m "Show reference period and publication date on lagging metrics
 
@@ -1627,7 +1627,7 @@ shows the pre-existing all-simulated message.
 - [ ] **Step 9: Run the full test suite**
 
 ```bash
-cd ~/minhthanh0403/claude-projects/claudekit && \
+cd ~/claude-projects/claudekit && \
 python3 -m unittest discover -s bullion-live-map/tests -v
 ```
 
@@ -1636,7 +1636,7 @@ Expected: `Ran 33 tests`, `OK`. Then re-run the Chrome runner: `44/44 passed`.
 - [ ] **Step 10: Commit**
 
 ```bash
-cd ~/minhthanh0403/claude-projects/claudekit && \
+cd ~/claude-projects/claudekit && \
 git add bullion-live-map/bullion_mk11_constellation.html bullion-live-map/tests/freshness_test.html && \
 git commit -m "Replace the single fetched_at stamp with per-field freshness
 

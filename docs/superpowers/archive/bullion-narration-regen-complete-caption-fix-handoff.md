@@ -23,7 +23,7 @@ fixing, same posture as the sessions before it.
 
 ## How to resume (do this first)
 
-1. Confirm state: `git -C ~/minhthanh0403/claude-projects/claudekit log --oneline
+1. Confirm state: `git -C ~/claude-projects/claudekit log --oneline
    a3a58e7..HEAD` should show exactly **2 commits, `f470c74` then `cfbe7fc`**, on `main`,
    already **pushed** (`git log --oneline origin/main..HEAD` empty). `git status --short`
    clean except the standing "Not mine" untracked noise (list below).
@@ -169,7 +169,7 @@ noise below).
    clear any leaked lock, and don't wrap the Chrome invocation in a shell `timeout ...`
    command (macOS doesn't have one) — use the Bash tool's own timeout parameter.
 4. **Deploy check** — `curl -s
-   "https://api.github.com/repos/nguyenminhthanh0403-hub/claudekit/actions/runs?per_page=5"`
+   "https://api.github.com/repos/SinbadTheExplorer/claudekit/actions/runs?per_page=5"`
    and confirm the run for `cfbe7fc` shows `completed`/`success`.
 5. Open follow-up idea (discussed, not started, not blocking): make the raw-WAV cache
    content-hash-keyed instead of filename-keyed, so an edited script auto-invalidates its

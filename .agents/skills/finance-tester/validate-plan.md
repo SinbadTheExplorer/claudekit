@@ -9,7 +9,7 @@ After the finance-builder completes a session of adding nodes/links.
 
 Read the plan file:
 ```
-/Users/thanhnguyen/.claude/plans/rippling-honking-lark.md
+~/.claude/plans/rippling-honking-lark.md
 ```
 
 Extract the list of required nodes from the "Missing layers" section.
@@ -18,7 +18,7 @@ Extract the list of required nodes from the "Missing layers" section.
 
 Read the HTML file:
 ```
-/Users/thanhnguyen/minhthanh0403/claude-projects/claudekit/financial-map.html
+~/claude-projects/claudekit/financial-map.html
 ```
 
 ## Step 3: Cross-Reference Checks

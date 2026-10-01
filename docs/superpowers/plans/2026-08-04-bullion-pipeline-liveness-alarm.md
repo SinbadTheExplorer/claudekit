@@ -15,7 +15,7 @@
 - **Applies only to `bullion_mk18.html` and `bullion_mkultra.html`.** `bullion_mk11.html`–`bullion_mk17.html` are frozen byte-for-byte; never edit them.
 - **No new secrets.** Layer 2 uses only `secrets.GITHUB_TOKEN`. SMTP/email was explicitly rejected in the spec.
 - **`#pipeline-alarm[hidden]{display:none}` must ship from the start** — an id-selector `display` rule otherwise beats the UA `[hidden]` rule (exact bug the `#board-view` element shipped once already).
-- **Repo:** `nguyenminhthanh0403-hub/claudekit` on GitHub, work happens directly on `main` (no feature branch, by standing project convention).
+- **Repo:** `SinbadTheExplorer/claudekit` on GitHub, work happens directly on `main` (no feature branch, by standing project convention).
 - **`gh` CLI and `pyyaml` are NOT installed in this environment.** Any GitHub API call in this plan uses `curl` with a token pulled via `git credential fill`, never `gh`. YAML syntax is validated by the live `workflow_dispatch` run in Task 4, not a static linter.
 
 ---
@@ -636,7 +636,7 @@ git push
 
 ## Task 4: Live-fire verification of the workflow alarm
 
-**This task creates real, publicly visible artifacts on `nguyenminhthanh0403-hub/claudekit`: a GitHub Actions run, a GitHub issue (assigned to the repo owner), and a deliberate temporary breakage of the production data-fetch step on `main`. Do not run any step in this task without the user's explicit go-ahead first — this is exactly the class of action the project's own instructions call out as needing confirmation (visible to others, modifies CI/CD, temporarily degrades a shared/production path).**
+**This task creates real, publicly visible artifacts on `SinbadTheExplorer/claudekit`: a GitHub Actions run, a GitHub issue (assigned to the repo owner), and a deliberate temporary breakage of the production data-fetch step on `main`. Do not run any step in this task without the user's explicit go-ahead first — this is exactly the class of action the project's own instructions call out as needing confirmation (visible to others, modifies CI/CD, temporarily degrades a shared/production path).**
 
 **Files:**
 - Modify then revert: `.github/workflows/daily-data.yml` (one line, temporarily)
@@ -683,20 +683,20 @@ git push
 
 ```bash
 curl -s -X POST -H "Authorization: token $TOKEN" -H "Accept: application/vnd.github+json" \
-  https://api.github.com/repos/nguyenminhthanh0403-hub/claudekit/actions/workflows/daily-data.yml/dispatches \
+  https://api.github.com/repos/SinbadTheExplorer/claudekit/actions/workflows/daily-data.yml/dispatches \
   -d '{"ref":"main"}'
 ```
 
-Poll `https://api.github.com/repos/nguyenminhthanh0403-hub/claudekit/actions/workflows/daily-data.yml/runs` (same auth header) until the newest run's `status` is `completed` and `conclusion` is `failure`.
+Poll `https://api.github.com/repos/SinbadTheExplorer/claudekit/actions/workflows/daily-data.yml/runs` (same auth header) until the newest run's `status` is `completed` and `conclusion` is `failure`.
 
 - [ ] **Step 4: Confirm an issue was created and assigned**
 
 ```bash
 curl -s -H "Authorization: token $TOKEN" -H "Accept: application/vnd.github+json" \
-  "https://api.github.com/repos/nguyenminhthanh0403-hub/claudekit/issues?labels=pipeline-alarm&state=open"
+  "https://api.github.com/repos/SinbadTheExplorer/claudekit/issues?labels=pipeline-alarm&state=open"
 ```
 
-Expected: exactly one issue, titled `Daily data fetch is failing`, with `assignees` containing `nguyenminhthanh0403-hub`, and a body naming the failing step (`Fetch live financial data`) and a run URL.
+Expected: exactly one issue, titled `Daily data fetch is failing`, with `assignees` containing `SinbadTheExplorer`, and a body naming the failing step (`Fetch live financial data`) and a run URL.
 
 - [ ] **Step 5: Dispatch a second broken run and confirm it comments rather than duplicating**
 
@@ -704,7 +704,7 @@ Repeat Step 3, wait for `conclusion: failure` again, then repeat Step 4's query.
 
 ```bash
 curl -s -H "Authorization: token $TOKEN" -H "Accept: application/vnd.github+json" \
-  "https://api.github.com/repos/nguyenminhthanh0403-hub/claudekit/issues/<issue_number>/comments"
+  "https://api.github.com/repos/SinbadTheExplorer/claudekit/issues/<issue_number>/comments"
 ```
 
 Expected: one comment, dated today, naming the failing step again.
@@ -729,7 +729,7 @@ Expected: zero open issues with the `pipeline-alarm` label. Then confirm the pre
 
 ```bash
 curl -s -H "Authorization: token $TOKEN" -H "Accept: application/vnd.github+json" \
-  "https://api.github.com/repos/nguyenminhthanh0403-hub/claudekit/issues/<issue_number>"
+  "https://api.github.com/repos/SinbadTheExplorer/claudekit/issues/<issue_number>"
 ```
 
 - [ ] **Step 8: Clean up**
@@ -755,7 +755,7 @@ This was already approved as part of the design (per the outage handoff: "the re
 ```bash
 TOKEN=$(printf 'protocol=https\nhost=github.com\n' | git credential fill 2>/dev/null | sed -n 's/^password=//p')
 curl -s -X PUT -H "Authorization: token $TOKEN" -H "Accept: application/vnd.github+json" \
-  https://api.github.com/repos/nguyenminhthanh0403-hub/claudekit/subscription \
+  https://api.github.com/repos/SinbadTheExplorer/claudekit/subscription \
   -d '{"subscribed": true}'
 unset TOKEN
 ```
@@ -792,7 +792,7 @@ Both non-zero. Then check the Actions run list (not `curl -sI` against the live 
 ```bash
 TOKEN=$(printf 'protocol=https\nhost=github.com\n' | git credential fill 2>/dev/null | sed -n 's/^password=//p')
 curl -s -H "Authorization: token $TOKEN" -H "Accept: application/vnd.github+json" \
-  "https://api.github.com/repos/nguyenminhthanh0403-hub/claudekit/actions/workflows/daily-data.yml/runs?per_page=1"
+  "https://api.github.com/repos/SinbadTheExplorer/claudekit/actions/workflows/daily-data.yml/runs?per_page=1"
 unset TOKEN
 ```
 

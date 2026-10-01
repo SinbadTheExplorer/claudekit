@@ -115,28 +115,28 @@ Expected: plays a British voice reading the test sentence. If `say` errors here,
 
 - [ ] **Step 4: Run the existing extraction tests to confirm no regression**
 
-Run: `cd ~/minhthanh0403/claude-projects/claudekit/bullion-live-map && python3 -m unittest scripts.test_generate_narration -v`
+Run: `cd ~/claude-projects/claudekit/bullion-live-map && python3 -m unittest scripts.test_generate_narration -v`
 Expected: `TestExtractNodeTexts` and `TestHtmlEntityRoundTrip` PASS (unaffected — `extract_node_texts` wasn't touched). `TestManifestCompleteness.test_every_manifest_file_exists_and_nonempty` will currently still PASS too, since it only checks the *old* Chatterbox files still exist on disk — that's expected; Step 5 replaces them in place.
 
 - [ ] **Step 5: Regenerate all 39 Alfred clips**
 
-Run: `cd ~/minhthanh0403/claude-projects/claudekit/bullion-live-map && python3 scripts/generate_narration.py`
+Run: `cd ~/claude-projects/claudekit/bullion-live-map && python3 scripts/generate_narration.py`
 Expected: 39 lines of `wrote .../audio/narration/node-<id>.mp3`, no traceback. No venv needed — this no longer imports `torchaudio`/`chatterbox`, plain `python3` works. This should take well under a minute (`say` is near-instant per clip, unlike the old CPU-bound Chatterbox inference).
 
 - [ ] **Step 6: Re-run the test suite against the regenerated files**
 
-Run: `cd ~/minhthanh0403/claude-projects/claudekit/bullion-live-map && python3 -m unittest scripts.test_generate_narration -v`
+Run: `cd ~/claude-projects/claudekit/bullion-live-map && python3 -m unittest scripts.test_generate_narration -v`
 Expected: all tests PASS, same count as Step 4 — now against real `say`-generated files instead of the old Chatterbox ones.
 
 - [ ] **Step 7: Ask the user to confirm the voice sounds right (cannot be automated)**
 
-Run: `afplay ~/minhthanh0403/claude-projects/claudekit/bullion-live-map/audio/narration/node-fed.mp3`
+Run: `afplay ~/claude-projects/claudekit/bullion-live-map/audio/narration/node-fed.mp3`
 Ask the user: does this sound like the intended British "Jamie (Premium)" voice, at a natural pace, clearly the *actual* voice replacing the bad-accent Chatterbox clone? Do not proceed to Task 2 until they confirm — if it sounds wrong, this is a Task 1 bug (wrong voice name, wrong rate), not something to paper over.
 
 - [ ] **Step 8: Commit**
 
 ```bash
-cd ~/minhthanh0403/claude-projects/claudekit
+cd ~/claude-projects/claudekit
 git add bullion-live-map/scripts/generate_narration.py bullion-live-map/audio/narration/
 git commit -m "$(cat <<'EOF'
 Swap narration engine from Chatterbox clone to macOS say (Alfred)
@@ -182,7 +182,7 @@ JOHNNY_SCRIPTS = {
 
 Run:
 ```bash
-cd ~/minhthanh0403/claude-projects/claudekit/bullion-live-map
+cd ~/claude-projects/claudekit/bullion-live-map
 say -v "Jamie (Premium)" -r 170 -o /tmp/johnny_r170.aiff "Gold. Old-world chrome, choom, no batteries, no code, can't be hacked, can't be printed."
 say -v "Jamie (Premium)" -r 150 -o /tmp/johnny_r150.aiff "Gold. Old-world chrome, choom, no batteries, no code, can't be hacked, can't be printed."
 afplay /tmp/johnny_r170.aiff && afplay /tmp/johnny_r150.aiff
@@ -202,18 +202,18 @@ In `generate_narration.py`, add after the existing Alfred `for node in nodes:` l
 
 - [ ] **Step 4: Run generation and confirm all 6 Johnny clips are produced**
 
-Run: `cd ~/minhthanh0403/claude-projects/claudekit/bullion-live-map && python3 scripts/generate_narration.py`
+Run: `cd ~/claude-projects/claudekit/bullion-live-map && python3 scripts/generate_narration.py`
 Expected: the existing 39 `node-<id>.mp3` lines, plus 6 new `johnny-<id>.mp3` lines (`johnny-fed.mp3`, `johnny-gold.mp3`, `johnny-vix.mp3`, `johnny-sec.mp3`, `johnny-repo.mp3`, `johnny-yield.mp3`).
 
 - [ ] **Step 5: Ask the user to confirm Johnny sounds right (cannot be automated)**
 
-Run: `afplay ~/minhthanh0403/claude-projects/claudekit/bullion-live-map/audio/narration/johnny-fed.mp3`
+Run: `afplay ~/claude-projects/claudekit/bullion-live-map/audio/narration/johnny-fed.mp3`
 Ask the user: does the persona land — same British voice as Alfred, but a distinctly slower/looser rocker delivery, with the script's attitude coming through? If not, adjust `JOHNNY_RATE` and regenerate (Step 4) before moving on.
 
 - [ ] **Step 6: Commit**
 
 ```bash
-cd ~/minhthanh0403/claude-projects/claudekit
+cd ~/claude-projects/claudekit
 git add bullion-live-map/scripts/generate_narration.py bullion-live-map/audio/narration/
 git commit -m "$(cat <<'EOF'
 Add Johnny rocker persona: 6 pilot scripts and generated clips
@@ -286,7 +286,7 @@ Then update the two call sites inside `TestManifestCompleteness` that used `self
 
 - [ ] **Step 2: Run the suite to confirm this refactor alone doesn't break anything**
 
-Run: `cd ~/minhthanh0403/claude-projects/claudekit/bullion-live-map && python3 -m unittest scripts.test_generate_narration -v`
+Run: `cd ~/claude-projects/claudekit/bullion-live-map && python3 -m unittest scripts.test_generate_narration -v`
 Expected: same PASS count as Task 1 Step 6 — this step only renamed/relocated a helper, no behavior change.
 
 - [ ] **Step 3: Add the `TestJohnnyPersona` test class**
@@ -333,13 +333,13 @@ class TestJohnnyPersona(unittest.TestCase):
 
 - [ ] **Step 4: Run the suite and confirm the new tests fail for the expected reason**
 
-Run: `cd ~/minhthanh0403/claude-projects/claudekit/bullion-live-map && python3 -m unittest scripts.test_generate_narration -v`
+Run: `cd ~/claude-projects/claudekit/bullion-live-map && python3 -m unittest scripts.test_generate_narration -v`
 Expected: `test_johnny_scripts_cover_exactly_the_pilot_six` and the nonempty/file-existence tests PASS (Task 2 already satisfies these). The four `mk18`/`mkultra` manifest/caption-text tests FAIL with a `ValueError`/`substring not found` from `_js_object_keys`/`_johnny_scripts_from_html` — expected, since `JOHNNY_MANIFEST`/`JOHNNY_SCRIPTS` don't exist in either HTML file yet. This is the correct red state; Task 4 turns it green.
 
 - [ ] **Step 5: Commit**
 
 ```bash
-cd ~/minhthanh0403/claude-projects/claudekit
+cd ~/claude-projects/claudekit
 git add bullion-live-map/scripts/test_generate_narration.py
 git commit -m "$(cat <<'EOF'
 Add Johnny coverage and JS/Python text-sync tests
@@ -454,7 +454,7 @@ Replace with:
 - [ ] **Step 5: Manually verify the toggle actually switches audio**
 
 This is UI behavior with no automated test in this project (per the standing "audible correctness can't be automated" idiom) — verify by hand:
-1. Serve the files: `cd ~/minhthanh0403/claude-projects/claudekit/bullion-live-map && python3 -m http.server 8791` (or reuse a server already running, per the project's existing dev convention — check with `lsof -i :8791` first).
+1. Serve the files: `cd ~/claude-projects/claudekit/bullion-live-map && python3 -m http.server 8791` (or reuse a server already running, per the project's existing dev convention — check with `lsof -i :8791` first).
 2. Open `http://localhost:8791/bullion_mkultra.html` in Chrome, open dev tools console (expect 0 errors on load).
 3. Click the new "🎤 Alfred" button — it should read "🎤 Johnny" and highlight after one click.
 4. Open the "fed" node, click 🔊 — confirm (by ear) it now plays the Johnny clip, not Alfred's.
@@ -466,7 +466,7 @@ Report the outcome; do not proceed to Task 5 until this passes.
 - [ ] **Step 6: Commit**
 
 ```bash
-cd ~/minhthanh0403/claude-projects/claudekit
+cd ~/claude-projects/claudekit
 git add bullion-live-map/bullion_mk18.html bullion-live-map/bullion_mkultra.html
 git commit -m "$(cat <<'EOF'
 Add Alfred/Johnny persona toggle to both HTML files
@@ -598,7 +598,7 @@ Report the outcome before proceeding to Task 6.
 - [ ] **Step 7: Commit**
 
 ```bash
-cd ~/minhthanh0403/claude-projects/claudekit
+cd ~/claude-projects/claudekit
 git add bullion-live-map/bullion_mk18.html bullion-live-map/bullion_mkultra.html
 git commit -m "$(cat <<'EOF'
 Add synced captions to narration playback
@@ -673,7 +673,7 @@ Report the outcome before considering this task done.
 - [ ] **Step 4: Commit**
 
 ```bash
-cd ~/minhthanh0403/claude-projects/claudekit
+cd ~/claude-projects/claudekit
 git add bullion-live-map/bullion_mk18.html bullion-live-map/bullion_mkultra.html
 git commit -m "$(cat <<'EOF'
 Add session-scoped autoplay on first node open
@@ -694,7 +694,7 @@ EOF
 
 - [ ] **Step 1: Run the full Python suite**
 
-Run: `cd ~/minhthanh0403/claude-projects/claudekit/bullion-live-map && python3 -m unittest discover -s tests && python3 -m unittest test_calibrate && python3 -m unittest scripts.test_generate_narration -v`
+Run: `cd ~/claude-projects/claudekit/bullion-live-map && python3 -m unittest discover -s tests && python3 -m unittest test_calibrate && python3 -m unittest scripts.test_generate_narration -v`
 Expected: all PASS, including every `TestJohnnyPersona` test from Task 3 (now green, since Tasks 4–5 supplied `JOHNNY_MANIFEST`/`JOHNNY_SCRIPTS` in both HTML files).
 
 - [ ] **Step 2: Full manual click-through in real Chrome, both files**

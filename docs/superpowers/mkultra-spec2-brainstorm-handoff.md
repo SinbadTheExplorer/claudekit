@@ -24,7 +24,7 @@ feels intentionally designed, with a personal touch. We are running this through
 
 ## How to resume (do this first)
 
-1. Confirm branch state: `git -C ~/minhthanh0403/claude-projects/claudekit log --oneline -3`
+1. Confirm branch state: `git -C ~/claude-projects/claudekit log --oneline -3`
    should show `3bfc9e5` (or later) at HEAD on `main`; `git rev-list --left-right --count
    origin/main...main` should read `0  0`.
 2. **Do not re-run `superpowers:brainstorming`'s clarifying-questions step** — all the

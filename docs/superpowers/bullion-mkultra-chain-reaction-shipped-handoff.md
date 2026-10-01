@@ -202,7 +202,7 @@ none urgent:
 - Push verification: a successful `git push` is **not** proof of a successful deploy. Check
   the authenticated Actions API: `TOKEN=$(printf "protocol=https\nhost=github.com\n" | git
   credential fill 2>/dev/null | sed -n 's/^password=//p')`, then `curl -H "Authorization:
-  token $TOKEN" https://api.github.com/repos/nguyenminhthanh0403-hub/claudekit/actions/runs`
+  token $TOKEN" https://api.github.com/repos/SinbadTheExplorer/claudekit/actions/runs`
   and confirm the "pages build and deployment" run for your commit SHA shows
   `completed`/`success`.
 - Mutation-testing a new regression guard: before trusting a new test, deliberately break the

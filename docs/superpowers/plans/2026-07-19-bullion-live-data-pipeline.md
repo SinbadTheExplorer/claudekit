@@ -32,7 +32,7 @@
 - [ ] **Step 1: Create the directory and move both files**
 
 ```bash
-cd "/Users/thanhnguyen/minhthanh0403/claude-projects/claudekit"
+cd "~/claude-projects/claudekit"
 mkdir -p bullion-live-map
 mv ~/Downloads/bullion_mk11_constellation.html bullion-live-map/bullion_mk11_constellation.html
 mv ~/Downloads/fetch_bullion_data.py bullion-live-map/fetch_bullion_data.py
@@ -153,7 +153,7 @@ Expected: no output, exit code 0.
 - [ ] **Step 1: Run it**
 
 ```bash
-cd "/Users/thanhnguyen/minhthanh0403/claude-projects/claudekit/bullion-live-map"
+cd "~/claude-projects/claudekit/bullion-live-map"
 python3 fetch_bullion_data.py
 ```
 
@@ -330,7 +330,7 @@ fetch('data.json')
 
 Run: `python3 -c "import re; s = open('bullion-live-map/bullion_mk11_constellation.html').read(); assert s.count('<script') == s.count('</script>') + s.count('/>'); print('script tag count OK, length', len(s))"`
 
-Run from the repo root (`cd "/Users/thanhnguyen/minhthanh0403/claude-projects/claudekit"` first if not already there).
+Run from the repo root (`cd "~/claude-projects/claudekit"` first if not already there).
 
 Expected: `script tag count OK, length <some number close to the original ~486KB>` — no Python exception.
 
@@ -347,7 +347,7 @@ Expected: `script tag count OK, length <some number close to the original ~486KB
 - [ ] **Step 1: Serve the folder locally**
 
 ```bash
-cd "/Users/thanhnguyen/minhthanh0403/claude-projects/claudekit/bullion-live-map"
+cd "~/claude-projects/claudekit/bullion-live-map"
 python3 -m http.server 8899
 ```
 
@@ -402,7 +402,7 @@ fi
 - [ ] **Step 2: Make it executable**
 
 ```bash
-chmod +x "/Users/thanhnguyen/minhthanh0403/claude-projects/claudekit/bullion-live-map/run_daily_update.sh"
+chmod +x "~/claude-projects/claudekit/bullion-live-map/run_daily_update.sh"
 ```
 
 - [ ] **Step 3: Test the no-op branch (safe — does not push)**
@@ -410,7 +410,7 @@ chmod +x "/Users/thanhnguyen/minhthanh0403/claude-projects/claudekit/bullion-liv
 This must run *after* Task 7 has committed today's `data.json`, so that re-running the fetch produces no diff. Run it now only if Task 7 is already done; otherwise do this step immediately after Task 7 instead, before Task 8.
 
 ```bash
-cd "/Users/thanhnguyen/minhthanh0403/claude-projects/claudekit/bullion-live-map"
+cd "~/claude-projects/claudekit/bullion-live-map"
 ./run_daily_update.sh
 ```
 
@@ -428,7 +428,7 @@ Do not run this script on a day `data.json`'s latest date is stale relative to t
 - [ ] **Step 1: Stage exactly these four files (not the repo's other pre-existing untracked files)**
 
 ```bash
-cd "/Users/thanhnguyen/minhthanh0403/claude-projects/claudekit"
+cd "~/claude-projects/claudekit"
 git add bullion-live-map/bullion_mk11_constellation.html bullion-live-map/fetch_bullion_data.py bullion-live-map/data.json bullion-live-map/run_daily_update.sh
 git status
 ```
@@ -487,17 +487,17 @@ Expected: no output (empty grep result — the job is no longer registered).
 
 **Files:** none (infra/config only)
 
-This task is gated on a prerequisite outside this plan's control: push access to `nguyenminhthanh0403-hub/claudekit` from this Mac. As of the design phase, the cached GitHub credentials belonged to a different account (`tamphuc0503-nrc`) with no write access. The user was going to fix this via `gh auth login` as `nguyenminhthanh0403-hub`.
+This task is gated on a prerequisite outside this plan's control: push access to `SinbadTheExplorer/claudekit` from this Mac. As of the design phase, the cached GitHub credentials belonged to a different account (`tamphuc0503-nrc`) with no write access. The user was going to fix this via `gh auth login` as `SinbadTheExplorer`.
 
 - [ ] **Step 1: Check whether push access is fixed**
 
 ```bash
-cd "/Users/thanhnguyen/minhthanh0403/claude-projects/claudekit"
+cd "~/claude-projects/claudekit"
 git push --dry-run origin main 2>&1
 ```
 
 Expected if fixed: no `Permission ... denied` / `403` line (may print `To https://github.com/...` and a `main -> main` line, or nothing if already up to date).
-Expected if not fixed: the same `Permission to nguyenminhthanh0403-hub/claudekit.git denied to <account>` / `403` error as before.
+Expected if not fixed: the same `Permission to SinbadTheExplorer/claudekit.git denied to <account>` / `403` error as before.
 
 If not fixed: **stop this task here** and tell the user push access still isn't working — don't proceed to Steps 2–4 or attempt any workaround (e.g. force-pushing, switching remotes) without asking them first.
 
@@ -511,13 +511,13 @@ Expected: succeeds, prints the new commit range pushed to `main`.
 
 - [ ] **Step 3: Enable GitHub Pages**
 
-Go to `https://github.com/nguyenminhthanh0403-hub/claudekit/settings/pages` (via browser automation if the user is signed into that account in Chrome, otherwise ask the user to do it) and set Source = "Deploy from a branch", Branch = `main`, folder = `/ (root)`. Note for the user: this makes everything at the repo root — including `financial-map.html`, `CLAUDE.md`, and the PDF — publicly reachable via the Pages URL, not just `bullion-live-map/`. Confirm that's acceptable before enabling (it likely already is, if `claudekit` is a public GitHub repo, but worth a one-line confirmation since Pages makes it a browsable website rather than just a git history).
+Go to `https://github.com/SinbadTheExplorer/claudekit/settings/pages` (via browser automation if the user is signed into that account in Chrome, otherwise ask the user to do it) and set Source = "Deploy from a branch", Branch = `main`, folder = `/ (root)`. Note for the user: this makes everything at the repo root — including `financial-map.html`, `CLAUDE.md`, and the PDF — publicly reachable via the Pages URL, not just `bullion-live-map/`. Confirm that's acceptable before enabling (it likely already is, if `claudekit` is a public GitHub repo, but worth a one-line confirmation since Pages makes it a browsable website rather than just a git history).
 
-Expected: after a minute or two, `https://nguyenminhthanh0403-hub.github.io/claudekit/bullion-live-map/bullion_mk11_constellation.html` loads the map and its metrics populate (same check as Task 5 Step 2, but against the live Pages URL instead of `localhost:8899`).
+Expected: after a minute or two, `https://sinbadtheexplorer.github.io/claudekit/bullion-live-map/bullion_mk11_constellation.html` loads the map and its metrics populate (same check as Task 5 Step 2, but against the live Pages URL instead of `localhost:8899`).
 
 - [ ] **Step 4: Set up the cloud scheduled routine**
 
-Invoke the `schedule` skill to create a daily 6:00am America/New_York cloud routine against the `nguyenminhthanh0403-hub/claudekit` repo that runs `bullion-live-map/run_daily_update.sh`, with the FRED API key (currently at `~/.config/bullion/fred_api_key` locally — read its value, don't just reference the path, since the cloud routine can't read this Mac's filesystem) stored as whatever secret mechanism the `schedule` skill provides. Follow that skill's own instructions for the exact setup flow — it determines the repo-access and secret-storage mechanics, which weren't prescribed in the design.
+Invoke the `schedule` skill to create a daily 6:00am America/New_York cloud routine against the `SinbadTheExplorer/claudekit` repo that runs `bullion-live-map/run_daily_update.sh`, with the FRED API key (currently at `~/.config/bullion/fred_api_key` locally — read its value, don't just reference the path, since the cloud routine can't read this Mac's filesystem) stored as whatever secret mechanism the `schedule` skill provides. Follow that skill's own instructions for the exact setup flow — it determines the repo-access and secret-storage mechanics, which weren't prescribed in the design.
 
 Expected: the `schedule` skill confirms the routine is created and reports its next scheduled run time.
 

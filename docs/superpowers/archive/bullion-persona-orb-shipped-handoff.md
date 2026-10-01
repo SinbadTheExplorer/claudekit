@@ -29,7 +29,7 @@ independently of.
 
 ## How to resume (do this first)
 
-1. Confirm state: `git -C ~/minhthanh0403/claude-projects/claudekit log --oneline -3`
+1. Confirm state: `git -C ~/claude-projects/claudekit log --oneline -3`
    should show `2e8fda3` at HEAD on `main`. `git rev-list --left-right --count
    origin/main...main` should read `0 0` — **fully pushed, nothing held back** (unlike
    every prior handoff in this project, there is no "hold" state right now). `git status
@@ -42,16 +42,16 @@ independently of.
    trust this handoff for that part.)
 3. **GitHub Pages is confirmed fixed and live as of this handoff** — do not re-litigate
    this unless something looks freshly broken again. Verified:
-   `curl -s "https://nguyenminhthanh0403-hub.github.io/claudekit/bullion-live-map/bullion_mkultra.html?v=$(date +%s)" | grep -c persona-orb`
+   `curl -s "https://sinbadtheexplorer.github.io/claudekit/bullion-live-map/bullion_mkultra.html?v=$(date +%s)" | grep -c persona-orb`
    returned `15` (and the same for `bullion_mk18.html`) after the `_config.yml` fix
-   deployed successfully (`https://github.com/nguyenminhthanh0403-hub/claudekit/actions` —
+   deployed successfully (`https://github.com/SinbadTheExplorer/claudekit/actions` —
    the `2e8fda3` "pages build and deployment" run shows `completed`/`success`). See "What
    has changed" below for the full story — this was a real, pre-existing infra outage
    unrelated to the orb feature, not a caching delay.
 4. **Immediate next action:** get the user's own live-browser confirmation that the orb
    looks/feels right (the one thing this session's automation could never verify — see
    "What has failed" below). Link:
-   `https://nguyenminhthanh0403-hub.github.io/claudekit/bullion-live-map/bullion_mkultra.html`
+   `https://sinbadtheexplorer.github.io/claudekit/bullion-live-map/bullion_mkultra.html`
 
 ## Current state (active files)
 

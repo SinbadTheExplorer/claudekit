@@ -27,7 +27,7 @@ the prior handoff had designed but not built:
 
 ## How to resume (do this first)
 
-1. Confirm branch/head: `git -C ~/minhthanh0403/claude-projects/claudekit log --oneline -5`
+1. Confirm branch/head: `git -C ~/claude-projects/claudekit log --oneline -5`
    should show `ceeb353` (voice Task 2) at HEAD on `main`, with `34f2dda`/`48dd496` (Task 1)
    and `c87b972` (UI-fixes plan, fully done) below it.
    `git rev-list --left-right --count origin/main...main` should read `0 0` — **everything

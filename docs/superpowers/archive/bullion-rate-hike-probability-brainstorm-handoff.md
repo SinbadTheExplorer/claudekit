@@ -20,7 +20,7 @@ record. Nothing has been implemented.
 
 ## How to resume (do this first)
 
-1. Confirm you're on `main` in `/Users/thanhnguyen/minhthanh0403/claude-projects/claudekit`, working subdir `bullion-live-map/`.
+1. Confirm you're on `main` in `~/claude-projects/claudekit`, working subdir `bullion-live-map/`.
 2. Read the **Design** section below in full — it's the only record of what was decided and why.
 3. Do NOT re-brainstorm from scratch. The design was presented to the user in chat and approved ("good, write a hand off we implement later"). Treat it as approved; only revisit a point if you hit a blocker the design didn't anticipate (see Open Questions).
 4. **Immediate next action:** verify whether Kalshi's public markets-read endpoint needs an API key/account signup or is truly anonymous-read. This was ambiguous from a web search during brainstorming and blocks writing the fetch function. Check `https://help.kalshi.com` / their API docs directly, or just try an unauthenticated `GET` against a known market endpoint.

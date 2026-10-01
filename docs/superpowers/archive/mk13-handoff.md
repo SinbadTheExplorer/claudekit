@@ -39,7 +39,7 @@ of this work; leave them).
 
 **The live map + versioning scheme** (all in `bullion-live-map/`):
 - `index.html` — permanent front door; redirects to the current version. **The public
-  share URL is the folder:** `https://nguyenminhthanh0403-hub.github.io/claudekit/bullion-live-map/`
+  share URL is the folder:** `https://sinbadtheexplorer.github.io/claudekit/bullion-live-map/`
 - `bullion_mk12.html` — the current Mk12 map (the real deliverable).
 - `bullion_mk11.html` — genuine Mk11 restored from `2e2d7cd`, a browsable archive.
 - `bullion_mk11_constellation.html` — now a REDIRECT STUB (→ `./index.html`) so

@@ -27,7 +27,7 @@ prior ad-hoc narration/tuning session in this project.
 
 ## How to resume (do this first)
 
-1. Confirm state: `git -C ~/minhthanh0403/claude-projects/claudekit log --oneline
+1. Confirm state: `git -C ~/claude-projects/claudekit log --oneline
    cfbe7fc..HEAD` should show exactly **2 commits**, `f0b3ada` (not from this session — the
    user committed the pre-existing `narration-regen-workflow` skill directly) then `62a83eb`
    (this session's work), on `main`, **pushed** (`git log --oneline origin/main..HEAD`
@@ -230,4 +230,4 @@ prior ad-hoc narration/tuning session in this project.
   Bash tool since it's the user's own local session.
 - `git push` works directly from the Bash tool (`GIT_TERMINAL_PROMPT=0 git push origin
   main`); `gh` is NOT installed — deploy verification uses the public Actions API:
-  `curl -s "https://api.github.com/repos/nguyenminhthanh0403-hub/claudekit/actions/runs?per_page=5"`.
+  `curl -s "https://api.github.com/repos/SinbadTheExplorer/claudekit/actions/runs?per_page=5"`.

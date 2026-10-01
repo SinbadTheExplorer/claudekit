@@ -24,7 +24,7 @@ non-Mac users (phones, other browsers) can view live over the web.
   runs this at 9am daily but is broken: macOS blocks a bare launchd-invoked
   `python3` from reading `~/Downloads` ("Operation not permitted").
 - `~/Downloads` is not a git repo. The only repo with a real GitHub remote
-  is `claudekit` (`origin` → `github.com/nguyenminhthanh0403-hub/claudekit`,
+  is `claudekit` (`origin` → `github.com/SinbadTheExplorer/claudekit`,
   tracks `main`), which currently holds an unrelated map (`financial-map.html`).
 - The keychain-cached GitHub credentials on this Mac belong to a different
   account (`tamphuc0503-nrc`) with no write access to this repo.

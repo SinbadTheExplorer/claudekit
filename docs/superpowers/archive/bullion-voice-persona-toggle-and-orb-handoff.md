@@ -27,7 +27,7 @@ Two goals, now tangled together (see "Sequencing" below):
 
 ## How to resume (do this first)
 
-1. Confirm state: `git -C ~/minhthanh0403/claude-projects/claudekit log --oneline -3`
+1. Confirm state: `git -C ~/claude-projects/claudekit log --oneline -3`
    should show `bd4012d` (Task 6) at HEAD on `main`, one commit past `21cc1ea` (the Tasks
    1-5 merge). `git rev-list --left-right --count origin/main...main` should read `0 1` —
    **one commit ahead of origin, not yet pushed** (deliberate — user said hold). `git status

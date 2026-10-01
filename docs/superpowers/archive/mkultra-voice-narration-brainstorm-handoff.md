@@ -19,7 +19,7 @@ design wasn't finished being presented before the user asked for this handoff in
 
 ## How to resume (do this first)
 
-1. Confirm nothing has changed: `git -C ~/minhthanh0403/claude-projects/claudekit log --oneline -1` should still show `ec47e64` at HEAD on `main` (this brainstorm session made zero code changes — pure conversation). `git rev-list --left-right --count origin/main...main` should read `0  0`.
+1. Confirm nothing has changed: `git -C ~/claude-projects/claudekit log --oneline -1` should still show `ec47e64` at HEAD on `main` (this brainstorm session made zero code changes — pure conversation). `git rev-list --left-right --count origin/main...main` should read `0  0`.
 2. Re-invoke `superpowers:brainstorming` to continue — do NOT restart from scratch. Every decision in "What has changed" below is locked in and should not be re-asked.
 3. Read the "What has changed" section below — it's the authority on what's already settled.
 4. **Immediate next action:** ask the user to confirm **Approach 1** (see below) — it was proposed and recommended but the conversation paused before the user explicitly said yes/no. Once confirmed, finish the brainstorming skill's "Present design" step in full (architecture, data flow, error handling), write the spec doc to `docs/superpowers/specs/2026-07-29-bullion-voice-narration-design.md` (adjust date if resumed later), get user sign-off, then invoke `writing-plans`.
@@ -68,7 +68,7 @@ over any vaguer recollection:
   later asks for live synthesis instead of static files.
 - **Delivery mechanism:** generate audio files once, offline, on the user's own machine (this
   session's Bash tool operates directly on the user's real Mac — `darwin`, home dir
-  `/Users/thanhnguyen` — not a sandboxed cloud VM, so a future session can plausibly run the
+  `~` — not a sandboxed cloud VM, so a future session can plausibly run the
   actual model install + generation via Bash). Expect real setup cost: Python env, a multi-GB
   model download, and slow-ish CPU-only inference (no GPU assumed) — this was flagged to the
   user as a risk, not yet tested.

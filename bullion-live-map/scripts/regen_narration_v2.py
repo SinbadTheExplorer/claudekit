@@ -22,7 +22,7 @@ import gc
 import sys
 from pathlib import Path
 
-PROJECT_SCRIPTS = Path("/Users/thanhnguyen/minhthanh0403/claude-projects/claudekit/bullion-live-map/scripts")
+PROJECT_SCRIPTS = Path("~/claude-projects/claudekit/bullion-live-map/scripts")
 sys.path.insert(0, str(PROJECT_SCRIPTS))
 import generate_narration as gn
 

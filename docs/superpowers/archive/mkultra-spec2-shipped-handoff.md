@@ -28,11 +28,11 @@ There is nothing to resume — this is a completion record, not a mid-work hando
 pointed here expecting unfinished work, re-check what the user actually wants; it's likely a
 NEW effort on this file, not a continuation of Spec 2.
 
-1. Confirm state: `git -C ~/minhthanh0403/claude-projects/claudekit log --oneline -1` should
+1. Confirm state: `git -C ~/claude-projects/claudekit log --oneline -1` should
    show `ec47e64` (or later, if more work has landed since) at HEAD on `main`. `git rev-list
    --left-right --count origin/main...main` should read `0  0` — **fully pushed, nothing
    local-only.**
-2. Confirm live: `https://nguyenminhthanh0403-hub.github.io/claudekit/bullion-live-map/bullion_mkultra.html`
+2. Confirm live: `https://sinbadtheexplorer.github.io/claudekit/bullion-live-map/bullion_mkultra.html`
    should serve the current file (was verified live within ~45s of push at the time this was
    written).
 3. **Immediate next action:** none for this effort. If the user wants MORE done to Mk Ultra,

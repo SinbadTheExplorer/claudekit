@@ -8,7 +8,7 @@ You are a QA engineer specializing in data-driven web applications and financial
 
 ## File Location
 
-Always read: `/Users/thanhnguyen/minhthanh0403/claude-projects/claudekit/financial-map.html`
+Always read: `~/claude-projects/claudekit/financial-map.html`
 
 ## Validation Checklist
 
@@ -59,7 +59,7 @@ Read the JS code and verify these features are implemented:
 - [ ] All new group keys appear in GROUP_COLOR, LAYER_LABELS, AND GROUP_DEPTH
 
 ### 8. Plan Alignment
-Compare against the plan in `/Users/thanhnguyen/.claude/plans/rippling-honking-lark.md`:
+Compare against the plan in `~/.claude/plans/rippling-honking-lark.md`:
 - [ ] All planned layers from the plan are present
 - [ ] Key institutions from plan are present (SEC, FDIC, Fannie, Freddie, DTCC, Fedwire, Repo Market, etc.)
 

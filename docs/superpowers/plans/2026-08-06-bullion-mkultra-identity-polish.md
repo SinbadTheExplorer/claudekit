@@ -50,7 +50,7 @@ Substitute the exact text given in each step for `__PROBE_SCRIPT__`, ending in
 `console.log('PROBE_RESULT:' + JSON.stringify(result))`.
 
 **Chrome-MCP visual check**, reused in Task 4: navigate a tab to
-`file:///Users/thanhnguyen/minhthanh0403/claude-projects/claudekit/bullion-live-map/bullion_mkultra.html`
+`file://~/claude-projects/claudekit/bullion-live-map/bullion_mkultra.html`
 (this is pre-push, so the live Pages URL doesn't have these changes yet), screenshot, and check
 `read_console_messages` for 0 errors.
 
@@ -481,7 +481,7 @@ either way).
 
 - [ ] **Step 3: Consolidated Chrome-MCP pass**
 
-Open the local file in a fresh tab (`file:///Users/thanhnguyen/minhthanh0403/claude-projects/claudekit/bullion-live-map/bullion_mkultra.html`).
+Open the local file in a fresh tab (`file://~/claude-projects/claudekit/bullion-live-map/bullion_mkultra.html`).
 In one session: hover/drag the globe (cursor), open a node detail panel and the relationship
 breakdown (text sizes), open the legend/layer panel (palette). Screenshot each. Confirm
 `read_console_messages` shows 0 errors across the whole pass.

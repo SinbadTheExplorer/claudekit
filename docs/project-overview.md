@@ -1,7 +1,7 @@
 # Bullion Mk1 — Project Overview
 
 **Type:** Personal learning and teaching tool  
-**Owner:** Thanh Nguyen (Business student, strong accounting background)  
+**Owner:** SinbadTheExplorer (Business student, strong accounting background)  
 **Status:** V1 complete as of June 2026  
 
 ---

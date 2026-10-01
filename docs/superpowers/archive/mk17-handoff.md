@@ -11,7 +11,7 @@ Mk17 added **13 new free live-data fields** to the durable daily pipeline and wi
 
 ## How to resume (do this first)
 
-1. Confirm you're on `main`, synced: `git -C ~/minhthanh0403/claude-projects/claudekit log --oneline -1` should show `688a70e Mk17: bump calibration report header Mk12->Mk17`, and `git rev-list --left-right --count origin/main...main` should be `0  0`. Mk17 = commits `d37eb6f..688a70e`.
+1. Confirm you're on `main`, synced: `git -C ~/claude-projects/claudekit log --oneline -1` should show `688a70e Mk17: bump calibration report header Mk12->Mk17`, and `git rev-list --left-right --count origin/main...main` should be `0  0`. Mk17 = commits `d37eb6f..688a70e`.
 2. **There is nothing to resume for Mk17 — it is shipped and live.** Read the ledger `.superpowers/sdd/progress.md` if you need the full build story; trust the ledger + `git log` over any recollection.
 3. For NEW work (a Mk18, a fix, a beginner-usability pass), re-invoke the workflow from scratch: `superpowers:brainstorming` → `writing-plans` → `subagent-driven-development`. Follow the project's versioning discipline (see caveats).
 4. **Immediate next action:** none required — the effort is complete. If continuing, the highest-value next thing the user flagged is a **beginner-usability pass** (see What's next); confirm with the user first.
@@ -39,7 +39,7 @@ Mk17 added **13 new free live-data fields** to the durable daily pipeline and wi
 
 ## What has changed
 
-- Mk17 shipped: `main` moved `711aba1 → 688a70e` (11 commits: spec, plan, 8 task commits, 1 cosmetic). Pushed to `origin/main`. **Live confirmed:** both `https://nguyenminhthanh0403-hub.github.io/claudekit/bullion-live-map/` and `…/bullion_mk17.html` return HTTP 200, and the live file carries `id="m-nfci"` + "Mk17 Column Constellation".
+- Mk17 shipped: `main` moved `711aba1 → 688a70e` (11 commits: spec, plan, 8 task commits, 1 cosmetic). Pushed to `origin/main`. **Live confirmed:** both `https://sinbadtheexplorer.github.io/claudekit/bullion-live-map/` and `…/bullion_mk17.html` return HTTP 200, and the live file carries `id="m-nfci"` + "Mk17 Column Constellation".
 - Tests green: `python3 -m unittest discover -s tests` = 41/41; `python3 -m unittest test_calibrate` = 11/11.
 - Calibration: 6 of 9 candidate links MEASURED (sofr←ffr, hy_oas←vix, xlk←spx, xlf←spx, xle←wti_px, mortgage_30y←us10y); adopted with FITTED slopes into ELASTICITY + BACKTEST_MAP. 3 DIRECTIONAL (ffr→tbill, spx→xle sign-flip, spx→xlp) NOT adopted.
 

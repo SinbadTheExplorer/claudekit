@@ -153,7 +153,7 @@ Expected: near-black background (no navy, no visible star/nebula gradient textur
 - [ ] **Step 5: Commit**
 
 ```bash
-cd /Users/thanhnguyen/minhthanh0403/claude-projects/claudekit
+cd ~/claude-projects/claudekit
 git add bullion-live-map/bullion_mkultra.html
 git commit -m "$(cat <<'EOF'
 Bullion Mk Ultra redesign 1/9: design tokens, base type, flatten starfield
@@ -1109,7 +1109,7 @@ Screenshot the Analysis tab in full (scroll through: scenario grid, manual drive
 - [ ] **Step 11: Commit**
 
 ```bash
-cd /Users/thanhnguyen/minhthanh0403/claude-projects/claudekit
+cd ~/claude-projects/claudekit
 git add bullion-live-map/bullion_mkultra.html
 git commit -m "$(cat <<'EOF'
 Bullion Mk Ultra redesign 8b/9: Analysis-tab + detail-panel internals restyle

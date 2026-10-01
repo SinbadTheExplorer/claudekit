@@ -27,7 +27,7 @@ save progress and clear the session before the design was finalized into a writt
 
 ## How to resume (do this first)
 
-1. Confirm branch/head: `git -C ~/minhthanh0403/claude-projects/claudekit log --oneline
+1. Confirm branch/head: `git -C ~/claude-projects/claudekit log --oneline
    -5` should show `20a4bb7` at HEAD on `main`. `git rev-list --left-right --count
    origin/main...main` should read `0 1` — **`main` is 1 commit ahead of origin,
    unpushed.** `git status --short` should show only the standard pre-existing untracked
@@ -69,14 +69,14 @@ only the standard pre-existing untracked noise (see "Not mine") plus this handof
 **Scratch workspace / traps:**
 - ⚠️ **All audio A/B samples from this session live in THIS session's scratchpad, which
   will not exist for a fresh session:**
-  `/private/tmp/claude-501/-Users-thanhnguyen/bea05920-826f-4dfb-9dec-6a1a9106e45d/scratchpad/voice-test/`
+  `/private/tmp/claude-501/-Users-me/bea05920-826f-4dfb-9dec-6a1a9106e45d/scratchpad/voice-test/`
   — `daniel_standard.aiff`, `jamie_premium.aiff`, `jamie_premium_v2.aiff`,
   `system_default.aiff`, `rate_test.aiff`, `rate_default.aiff`, `pitch_test.aiff`,
   `pitch_plain.aiff`, `jamie_r200.aiff`, `rate_default_check.aiff`. None are needed to
   resume — they were disposable listening aids. Regenerate on demand:
   `say -v "Jamie (Premium)" -r <N> "<text>" -o <path>.aiff`.
 - ⚠️ **The word-timing feasibility spike** lives at
-  `/private/tmp/claude-501/-Users-thanhnguyen/bea05920-826f-4dfb-9dec-6a1a9106e45d/scratchpad/word_timing_spike.swift`
+  `/private/tmp/claude-501/-Users-me/bea05920-826f-4dfb-9dec-6a1a9106e45d/scratchpad/word_timing_spike.swift`
   (+ output `spike_out.caf`) — also session-scratch, will vanish. Full script and result
   reproduced below so nothing is lost; **do not re-run it expecting a different
   result without a genuinely new approach** (see "What has failed" below).

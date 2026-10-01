@@ -23,7 +23,7 @@ implementation plan was written, self-reviewed, and committed.
 
 ## How to resume (do this first)
 
-1. Confirm branch state: `git -C ~/minhthanh0403/claude-projects/claudekit log --oneline -3`
+1. Confirm branch state: `git -C ~/claude-projects/claudekit log --oneline -3`
    should show `f3627b7` at HEAD on `main`. `git rev-list --left-right --count
    origin/main...main` should read `0  2` — **local `main` is 2 commits ahead of
    `origin/main`** (`e61b428`, `f3627b7`), not yet pushed. This is expected, not a problem to
@@ -115,7 +115,7 @@ correctly left in place). **Never `git add .`/`-A`.**
 4. Confirm with the user, then `git push origin main` (carries the 2 pending local commits plus
    whatever implementation produced).
 5. Confirm the live Pages URL serves the update within ~30-90s:
-   `https://nguyenminhthanh0403-hub.github.io/claudekit/bullion-live-map/bullion_mkultra.html`
+   `https://sinbadtheexplorer.github.io/claudekit/bullion-live-map/bullion_mkultra.html`
 
 ## Verification idioms used in this project (for the resuming session)
 

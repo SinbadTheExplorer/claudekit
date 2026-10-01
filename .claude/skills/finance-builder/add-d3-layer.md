@@ -43,7 +43,7 @@ Depth values: 3=core (Fed, FFR), 2=important, 1=peripheral.
 
 After editing, check that all three appear:
 ```bash
-grep -E "silver|cobalt|violet|iron|dkblue|indigo" /Users/thanhnguyen/minhthanh0403/claude-projects/claudekit/financial-map.html | head -20
+grep -E "silver|cobalt|violet|iron|dkblue|indigo" ~/claude-projects/claudekit/financial-map.html | head -20
 ```
 
 Each new key should appear exactly 3 times: once in GROUP_COLOR, once in LAYER_LABELS, once in GROUP_DEPTH.

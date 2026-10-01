@@ -21,7 +21,7 @@ outright. Resolves the deferred `bullion-thamie-voice-blend-idea` project memory
 
 ## How to resume (do this first)
 
-1. Confirm state: `git -C ~/minhthanh0403/claude-projects/claudekit log --oneline
+1. Confirm state: `git -C ~/claude-projects/claudekit log --oneline
    06332ba..HEAD` should show 8 commits ending at `635d053`, on `main`. Then run `git
    status --short` — it will show **~47 modified/uncommitted files** (45 `.mp3`s +
    `generate_narration.py` + `test_voice_blend.py`). This uncommitted state is real,
@@ -215,7 +215,7 @@ untracked plan/spec docs from unrelated prior work. **Never `git add .`/`-A`.**
   `.gitignore`: `audio/voice_sample/*` plus 3 per-file negations) — a deliberate privacy
   tradeoff the user explicitly approved (the user's raw voice recording is now public on
   the GitHub Pages repo, not just processed narration output).
-- GitHub Pages deploy verification: `gh run list --repo nguyenminhthanh0403-hub/claudekit
+- GitHub Pages deploy verification: `gh run list --repo SinbadTheExplorer/claudekit
   --limit 3` and check the run for the relevant commit shows `completed`/`success` — don't
   trust `curl -sI <pages-url>`/`last-modified` header timing alone, confirmed unreliable in
   a prior session (see `bullion-persona-orb-shipped-handoff.md`).

@@ -23,7 +23,7 @@ considering full ~39-node coverage.
 
 ## How to resume (do this first)
 
-1. Confirm nothing has drifted: `git -C ~/minhthanh0403/claude-projects/claudekit log --oneline -1` should show `201b89b` at HEAD on `main`. `git rev-list --left-right --count origin/main...main` should read `0  1` — the spec commit exists locally but has **not been pushed**.
+1. Confirm nothing has drifted: `git -C ~/claude-projects/claudekit log --oneline -1` should show `201b89b` at HEAD on `main`. `git rev-list --left-right --count origin/main...main` should read `0  1` — the spec commit exists locally but has **not been pushed**.
 2. Read the committed spec in full: `docs/superpowers/specs/2026-07-30-bullion-voice-narration-design.md`. It is the authority on every design decision — architecture, file naming, error handling, testing — trust it over this summary.
 3. **Immediate next action:** the brainstorming skill's flow is at the "user reviews written spec" gate — ask the user to review the committed spec file and confirm they're happy with it (they approved the design conversationally already, but have not yet explicitly reviewed the committed file). Once they confirm, invoke `writing-plans` to produce the implementation plan. Do not invoke any other skill first.
 

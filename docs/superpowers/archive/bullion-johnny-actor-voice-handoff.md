@@ -20,7 +20,7 @@ for its rate/meanness tweaks).
 
 ## How to resume (do this first)
 
-1. Confirm state: `git -C ~/minhthanh0403/claude-projects/claudekit log --oneline 06332ba..HEAD` should show 9 commits ending at `0b9fa7f`, on `main`. Then run `git status --short` — it will show **45 modified `.mp3`s + `generate_narration.py` + `test_voice_blend.py` modified, plus `scripts/spike_johnny_actor_blend.py` untracked**. This is real, intentional, in-progress work from this session — not stray noise.
+1. Confirm state: `git -C ~/claude-projects/claudekit log --oneline 06332ba..HEAD` should show 9 commits ending at `0b9fa7f`, on `main`. Then run `git status --short` — it will show **45 modified `.mp3`s + `generate_narration.py` + `test_voice_blend.py` modified, plus `scripts/spike_johnny_actor_blend.py` untracked**. This is real, intentional, in-progress work from this session — not stray noise.
 2. Read this handoff in full before touching anything. The prior handoff is only needed for older history (Tasks 1-3, the removed meanness pitch-shift) — this handoff supersedes it for anything about Johnny's blend composition or the personas' speaking rate.
 3. **Immediate next action:** get the user's **explicit** listening confirmation on rate 218 (both personas) and Johnny's new actor-dominant blend. They replayed `johnny-gold.mp3` twice at rate 218 this session but never said an explicit "yes"/"sounds good"/"ship it" before this handoff was requested — do not commit, and do not assume the replays constitute sign-off.
 
@@ -94,4 +94,4 @@ top of.
 - **Audible correctness is never automatable in this project** — every voice/rate change ends in a real human listening pass (`afplay` or the live browser), never inferred from clean test runs or exit codes. Reconfirmed repeatedly this session across two rate iterations and two blend-weight iterations.
 - Required macOS voices: `Jamie (Premium)` (`en_GB`) and `Tom (Enhanced)` (`en_US`) — unchanged this session, see prior handoff for install path.
 - Reference clips: `bullion-live-map/audio/voice_sample/{user_voice.wav, tom_sample.wav, jamie_sample.wav, actor_sample.wav}` — first 3 committed (`635d053`); `actor_sample.wav` **not yet committed or negated** (see traps above).
-- GitHub Pages deploy verification: `gh run list --repo nguyenminhthanh0403-hub/claudekit --limit 3`, check the run for the relevant commit shows `completed`/`success` — don't trust `curl -sI <pages-url>`/`last-modified` header timing alone.
+- GitHub Pages deploy verification: `gh run list --repo SinbadTheExplorer/claudekit --limit 3`, check the run for the relevant commit shows `completed`/`success` — don't trust `curl -sI <pages-url>`/`last-modified` header timing alone.

@@ -26,7 +26,7 @@ tuning session in this project.
 
 ## How to resume (do this first)
 
-1. Confirm state: `git -C ~/minhthanh0403/claude-projects/claudekit log --oneline
+1. Confirm state: `git -C ~/claude-projects/claudekit log --oneline
    5224605..HEAD` should show exactly **1 commit, `a4b2838`**, on `main`. `git status
    --short` should be clean except the standing "Not mine" untracked noise (list below).
 2. **This commit is NOT pushed** — `git log --oneline origin/main..HEAD` shows `a4b2838`;
@@ -276,6 +276,6 @@ convention, see the prior handoffs):
   this session (`which ffmpeg` → `/opt/homebrew/bin/ffmpeg`; `.venv-narration/bin`
   exists with a populated venv).
 - GitHub Pages deploy verification: no `gh` CLI on this machine — use `curl -s
-  "https://api.github.com/repos/nguyenminhthanh0403-hub/claudekit/actions/runs?per_page=5"`
+  "https://api.github.com/repos/SinbadTheExplorer/claudekit/actions/runs?per_page=5"`
   (public API, works unauthenticated) and check the run for the relevant commit shows
   `completed`/`success`. Not needed this session since nothing was pushed.

@@ -9,8 +9,8 @@ Mk14 "Fidelity & Truth" and Mk15 "Breadth & Depth" are **DONE, MERGED to `main`,
 - Plan (Mk14/Mk15, fully executed): `docs/superpowers/plans/2026-07-24-bullion-mk14-mk15.md` (untracked)
 - Progress ledger + full per-task record + final-review Minors (recovery map): `.superpowers/sdd/progress.md`
 - Prior handoff (mid-Mk13, now historical): `docs/superpowers/mk13-handoff.md`
-- Merged PR: https://github.com/nguyenminhthanh0403-hub/claudekit/pull/2 (closed, merged)
-- Live map (permanent folder URL): https://nguyenminhthanh0403-hub.github.io/claudekit/bullion-live-map/
+- Merged PR: https://github.com/SinbadTheExplorer/claudekit/pull/2 (closed, merged)
+- Live map (permanent folder URL): https://sinbadtheexplorer.github.io/claudekit/bullion-live-map/
 
 ## How to resume (do this first)
 
@@ -37,7 +37,7 @@ untracked items remain — see "Not mine" below). The feature branch `bullion-mk
 
 **The live map + versioning scheme** (all in `bullion-live-map/`):
 - `index.html` — permanent redirect front door; now points at `bullion_mk15.html`. **The public
-  share URL is the folder:** `https://nguyenminhthanh0403-hub.github.io/claudekit/bullion-live-map/`.
+  share URL is the folder:** `https://sinbadtheexplorer.github.io/claudekit/bullion-live-map/`.
   NEVER rename `index.html`.
 - `bullion_mk15.html` — the current live Mk15 map (39 nodes, 93 links).
 - `bullion_mk14.html`, `bullion_mk13.html`, `bullion_mk12.html`, `bullion_mk11.html` — browsable archives.
@@ -134,7 +134,7 @@ To ship any of these: small fixes can stay in `bullion_mk15.html` (still Mk15), 
 - **Redirect checks:** `grep -oE 'bullion_mk[0-9]+\.html' bullion-live-map/index.html` → `bullion_mk15.html`;
   the legacy stub → `./index.html`.
 - **Confirm a push/deploy landed:** `git show origin/main:<path>`; for Pages,
-  `curl -s -o /dev/null -w "%{http_code}" https://nguyenminhthanh0403-hub.github.io/claudekit/bullion-live-map/bullion_mk15.html`
+  `curl -s -o /dev/null -w "%{http_code}" https://sinbadtheexplorer.github.io/claudekit/bullion-live-map/bullion_mk15.html`
   (200). Pages CDN caches ~5 min, so a stale live URL right after a push is normal.
 - **git/PR:** `gh` is NOT installed. Push works from the Bash tool (`GIT_TERMINAL_PROMPT=0 git push`).
   PR create/merge is via the GitHub API + `curl` using the token from `git credential fill`

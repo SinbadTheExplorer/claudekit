@@ -17,7 +17,7 @@ wrong-signed arrows nothing was checking, and stopped the teaching copy assertin
 
 ## How to resume (do this first)
 
-1. Confirm you are on `main`, synced: `git -C ~/minhthanh0403/claude-projects/claudekit log --oneline -1` should show `f7a90e6 Add the honesty-pass session handoff`, and `git rev-list --left-right --count origin/main...main` should be `0  0`. This effort is `a3f26bb..f7a90e6` — **11 commits** on top of Mk17's `688a70e`, working tree clean of tracked changes.
+1. Confirm you are on `main`, synced: `git -C ~/claude-projects/claudekit log --oneline -1` should show `f7a90e6 Add the honesty-pass session handoff`, and `git rev-list --left-right --count origin/main...main` should be `0  0`. This effort is `a3f26bb..f7a90e6` — **11 commits** on top of Mk17's `688a70e`, working tree clean of tracked changes.
 2. **There is nothing to resume for Spec 1 — it is shipped and live.** `index.html` → `bullion_mk18.html`, both HTTP 200 on Pages.
 3. For Spec 2 (the queued work), start from scratch with `superpowers:brainstorming` → `writing-plans`. The four approved decisions are already recorded in "What's next" below — do not re-litigate them.
 4. **Immediate next action:** none required. If continuing, brainstorm **Spec 2, the Mk Ultra experience pass** (beginner legibility + visual elevation + motion + WebGL fallback), whose scope the user already chose.

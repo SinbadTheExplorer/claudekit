@@ -180,7 +180,7 @@ Expected: PASS (2 tests)
 - [ ] **Step 5: Commit**
 
 ```bash
-cd /Users/thanhnguyen/minhthanh0403/claude-projects/claudekit
+cd ~/claude-projects/claudekit
 git add bullion-live-map/backfill_baseline.py bullion-live-map/tests/test_backfill_baseline.py
 git commit -m "Mk Ultra macro engine: backfill_baseline.py fetch + stats foundation"
 ```
@@ -343,7 +343,7 @@ Expected: PASS (all tests, ~9)
 - [ ] **Step 5: Commit**
 
 ```bash
-cd /Users/thanhnguyen/minhthanh0403/claude-projects/claudekit
+cd ~/claude-projects/claudekit
 git add bullion-live-map/backfill_baseline.py bullion-live-map/tests/test_backfill_baseline.py
 git commit -m "Mk Ultra macro engine: PCA weighting + percentile table"
 ```
@@ -556,7 +556,7 @@ Expected: stderr prints `BASELINE_STATS refreshed: 15 fields, 101 percentile poi
 - [ ] **Step 7: Commit**
 
 ```bash
-cd /Users/thanhnguyen/minhthanh0403/claude-projects/claudekit
+cd ~/claude-projects/claudekit
 git add bullion-live-map/backfill_baseline.py bullion-live-map/tests/test_backfill_baseline.py bullion-live-map/bullion_mkultra.html
 git commit -m "Mk Ultra macro engine: splice real BASELINE_STATS into bullion_mkultra.html"
 ```
@@ -770,7 +770,7 @@ Expected: PASS (2 tests) — if `node` is not installed, expect `SKIPPED`, not a
 - [ ] **Step 5: Commit**
 
 ```bash
-cd /Users/thanhnguyen/minhthanh0403/claude-projects/claudekit
+cd ~/claude-projects/claudekit
 git add bullion-live-map/bullion_mkultra.html bullion-live-map/tests/test_macro_engine_js_parity.py
 git commit -m "Mk Ultra macro engine: add computeCompositeScore"
 ```
@@ -883,7 +883,7 @@ Expected: PASS (5 tests total, or SKIPPED if no `node`)
 - [ ] **Step 5: Commit**
 
 ```bash
-cd /Users/thanhnguyen/minhthanh0403/claude-projects/claudekit
+cd ~/claude-projects/claudekit
 git add bullion-live-map/bullion_mkultra.html bullion-live-map/tests/test_macro_engine_js_parity.py
 git commit -m "Mk Ultra macro engine: add computeNodeMultipliers reusing NODE_ELASTICITY"
 ```
@@ -1001,7 +1001,7 @@ Expected: PASS (6 tests total, or SKIPPED if no `node`)
 - [ ] **Step 5: Commit**
 
 ```bash
-cd /Users/thanhnguyen/minhthanh0403/claude-projects/claudekit
+cd ~/claude-projects/claudekit
 git add bullion-live-map/backfill_baseline.py bullion-live-map/bullion_mkultra.html bullion-live-map/tests/test_macro_engine_js_parity.py
 git commit -m "Mk Ultra macro engine: add buildMacroNarrative"
 ```
@@ -1101,7 +1101,7 @@ Per this project's standing convention (isolated `--user-data-dir`), launch head
 - [ ] **Step 7: Commit**
 
 ```bash
-cd /Users/thanhnguyen/minhthanh0403/claude-projects/claudekit
+cd ~/claude-projects/claudekit
 git add bullion-live-map/bullion_mkultra.html
 git commit -m "Mk Ultra: wire macro engine into UI, remove dead AI call, rename button"
 ```
@@ -1155,7 +1155,7 @@ Launch headless Chrome, click the audit-log open control, confirm via a DOM read
 - [ ] **Step 4: Commit**
 
 ```bash
-cd /Users/thanhnguyen/minhthanh0403/claude-projects/claudekit
+cd ~/claude-projects/claudekit
 git add bullion-live-map/bullion_mkultra.html
 git commit -m "Mk Ultra: surface macro engine methodology in the audit log"
 ```

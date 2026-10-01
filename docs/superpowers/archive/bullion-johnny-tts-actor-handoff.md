@@ -24,7 +24,7 @@ directly from the hired actor's recording with no `say` scaffold and no blend.
 
 ## How to resume (do this first)
 
-1. Confirm state: `git -C ~/minhthanh0403/claude-projects/claudekit log --oneline
+1. Confirm state: `git -C ~/claude-projects/claudekit log --oneline
    b4c8e0b..HEAD` should show exactly 1 commit, `c900ad3`, on `main`. `git status --short`
    should be clean except the standing "Not mine" untracked noise (list below). Confirmed
    fully pushed (`+0 -0` vs `origin/main`) and the GitHub Pages deploy for `c900ad3`
@@ -178,7 +178,7 @@ directly from the hired actor's recording with no `say` scaffold and no blend.
   actor_sample.wav}` — `tom_sample.wav` is gone, no longer needed.
 - GitHub Pages deploy verification: **no `gh` CLI installed on this machine** (confirmed
   this session, contradicting a stale note in an older handoff). Use `curl -s
-  "https://api.github.com/repos/nguyenminhthanh0403-hub/claudekit/actions/runs?per_page=5"`
+  "https://api.github.com/repos/SinbadTheExplorer/claudekit/actions/runs?per_page=5"`
   (public API, works unauthenticated for this public repo) and check the run for the
   relevant commit shows `completed`/`success`. Don't trust `curl -sI <pages-url>`/
   `last-modified` header timing alone.

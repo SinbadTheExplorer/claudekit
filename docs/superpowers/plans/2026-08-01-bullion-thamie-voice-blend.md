@@ -182,7 +182,7 @@ Play both files for the user (`afplay audio/voice_sample/spike_output/alfred_ble
 - [ ] **Step 5: Commit the spike script**
 
 ```bash
-cd /Users/thanhnguyen/minhthanh0403/claude-projects/claudekit
+cd ~/claude-projects/claudekit
 git add bullion-live-map/scripts/spike_voice_blend.py
 git commit -m "$(cat <<'EOF'
 Add throwaway spike script validating the voice-blend mechanism
@@ -552,7 +552,7 @@ module-level import time.
 - [ ] **Step 6: Commit**
 
 ```bash
-cd /Users/thanhnguyen/minhthanh0403/claude-projects/claudekit
+cd ~/claude-projects/claudekit
 git add bullion-live-map/scripts/generate_narration.py bullion-live-map/scripts/test_voice_blend.py
 git commit -m "$(cat <<'EOF'
 Add production voice-blend helpers to generate_narration.py
@@ -717,7 +717,7 @@ Expected: PASS, same 7 tests from Task 2.
 - [ ] **Step 6: Commit**
 
 ```bash
-cd /Users/thanhnguyen/minhthanh0403/claude-projects/claudekit
+cd ~/claude-projects/claudekit
 git add bullion-live-map/scripts/generate_narration.py bullion-live-map/audio/narration/ bullion-live-map/audio/voice_sample/tom_sample.wav bullion-live-map/audio/voice_sample/jamie_sample.wav
 git status --short
 ```
@@ -785,7 +785,7 @@ explicitly), ask the user directly whether to push now — a fresh yes/no for
 this session, never reusing a prior session's "hold" or "yes". If yes:
 
 ```bash
-cd /Users/thanhnguyen/minhthanh0403/claude-projects/claudekit
+cd ~/claude-projects/claudekit
 git push origin main
 ```
 
@@ -797,7 +797,7 @@ deployed cleanly — check Actions, since a `curl -sI`/`last-modified` check
 alone can't distinguish "still deploying" from "build failed"):
 
 ```bash
-gh run list --repo nguyenminhthanh0403-hub/claudekit --limit 3
+gh run list --repo SinbadTheExplorer/claudekit --limit 3
 ```
 
 Expected: the run for this push's commit shows `completed`/`success`.

@@ -187,7 +187,7 @@ This is a safe, working intermediate state: `applyPersonaToggle()` still runs (c
 
 - [ ] **Step 7: Manually verify the orb appears and the app still works**
 
-1. Serve the files: `cd ~/minhthanh0403/claude-projects/claudekit/bullion-live-map && python3 -m http.server 8791` (check `lsof -i :8791` first in case a server from a prior session is already running).
+1. Serve the files: `cd ~/claude-projects/claudekit/bullion-live-map && python3 -m http.server 8791` (check `lsof -i :8791` first in case a server from a prior session is already running).
 2. Open `http://localhost:8791/bullion_mk18.html` in Chrome with dev tools open — confirm **0 console errors** on load (this is the critical check for Step 6's crash risk).
 3. Confirm a blue circular orb with 🎩 and the label "Alfred" appears bottom-right, gently breathing (scale/opacity pulsing every ~3.6s).
 4. Confirm the map still loads and node clicks still open the detail panel normally — the orb isn't clickable yet (expected, Task 2 wires that), but nothing else in the app should be broken.
@@ -200,7 +200,7 @@ Report the outcome before proceeding to Task 2.
 - [ ] **Step 8: Commit**
 
 ```bash
-cd ~/minhthanh0403/claude-projects/claudekit
+cd ~/claude-projects/claudekit
 git add bullion-live-map/bullion_mk18.html bullion-live-map/bullion_mkultra.html
 git commit -m "$(cat <<'EOF'
 Replace persona-toggle-btn with the persona orb component
@@ -285,7 +285,7 @@ Report the outcome before proceeding to Task 3.
 - [ ] **Step 3: Commit**
 
 ```bash
-cd ~/minhthanh0403/claude-projects/claudekit
+cd ~/claude-projects/claudekit
 git add bullion-live-map/bullion_mk18.html bullion-live-map/bullion_mkultra.html
 git commit -m "$(cat <<'EOF'
 Wire click/keyboard persona toggle on the orb
@@ -429,7 +429,7 @@ Report the outcome before proceeding to Task 4.
 - [ ] **Step 5: Commit**
 
 ```bash
-cd ~/minhthanh0403/claude-projects/claudekit
+cd ~/claude-projects/claudekit
 git add bullion-live-map/bullion_mk18.html bullion-live-map/bullion_mkultra.html
 git commit -m "$(cat <<'EOF'
 Sync the orb's pulse to narration playback
@@ -539,7 +539,7 @@ Report the outcome before proceeding to Task 5.
 - [ ] **Step 5: Commit**
 
 ```bash
-cd ~/minhthanh0403/claude-projects/claudekit
+cd ~/claude-projects/claudekit
 git add bullion-live-map/bullion_mk18.html bullion-live-map/bullion_mkultra.html
 git commit -m "$(cat <<'EOF'
 Add first-visit nudge to the persona orb
@@ -572,7 +572,7 @@ For each of `bullion_mk18.html` and `bullion_mkultra.html`:
 
 - [ ] **Step 2: Re-run the existing Python suite to confirm no regression**
 
-Run: `cd ~/minhthanh0403/claude-projects/claudekit/bullion-live-map && python3 -m unittest discover -s tests && python3 -m unittest test_calibrate && python3 -m unittest scripts.test_generate_narration -v`
+Run: `cd ~/claude-projects/claudekit/bullion-live-map && python3 -m unittest discover -s tests && python3 -m unittest test_calibrate && python3 -m unittest scripts.test_generate_narration -v`
 Expected: all PASS, same count as the prior toggle plan's Task 7 (96/96) — this feature is pure front-end and shouldn't have touched anything the Python suite covers; this step exists only to confirm that's actually true, not assumed.
 
 - [ ] **Step 3: Ask the user whether to push now**

@@ -9,7 +9,7 @@ After the finance-builder adds new code features (not just nodes/links). Also ru
 
 ### Check 1: API Key Integration
 ```bash
-grep -n "getApiKey\|anthropic_key\|sessionStorage" /Users/thanhnguyen/minhthanh0403/claude-projects/claudekit/financial-map.html
+grep -n "getApiKey\|anthropic_key\|sessionStorage" ~/claude-projects/claudekit/financial-map.html
 ```
 **Expected**: 
 - `getApiKey` function defined
@@ -19,13 +19,13 @@ grep -n "getApiKey\|anthropic_key\|sessionStorage" /Users/thanhnguyen/minhthanh0
 
 ### Check 2: Expert Mode Edge Toggle
 ```bash
-grep -n "graphLinkSel\|display.*expertMode\|expertMode.*display" /Users/thanhnguyen/minhthanh0403/claude-projects/claudekit/financial-map.html
+grep -n "graphLinkSel\|display.*expertMode\|expertMode.*display" ~/claude-projects/claudekit/financial-map.html
 ```
 **Expected**: `_graphLinkSel.style('display'` inside `toggleExpertMode`
 
 ### Check 3: "What Breaks?" Panel
 ```bash
-grep -n "dp-breaks\|breaks" /Users/thanhnguyen/minhthanh0403/claude-projects/claudekit/financial-map.html | head -20
+grep -n "dp-breaks\|breaks" ~/claude-projects/claudekit/financial-map.html | head -20
 ```
 **Expected**:
 - `id="dp-breaks"` in HTML section
@@ -34,20 +34,20 @@ grep -n "dp-breaks\|breaks" /Users/thanhnguyen/minhthanh0403/claude-projects/cla
 
 ### Check 4: All New Layer Groups Consistent
 ```bash
-grep -n "silver\|cobalt\|violet\|iron\|dkblue\|indigo" /Users/thanhnguyen/minhthanh0403/claude-projects/claudekit/financial-map.html | grep -v "^\s*//"
+grep -n "silver\|cobalt\|violet\|iron\|dkblue\|indigo" ~/claude-projects/claudekit/financial-map.html | grep -v "^\s*//"
 ```
 **Expected**: Each of the 6 new keys appears in GROUP_COLOR, LAYER_LABELS, AND GROUP_DEPTH (3 occurrences each minimum, plus however many nodes use them).
 
 ### Check 5: No Broken JS (syntax spot-check)
 ```bash
-grep -c "{ id:'" /Users/thanhnguyen/minhthanh0403/claude-projects/claudekit/financial-map.html
-grep -c "{s:'" /Users/thanhnguyen/minhthanh0403/claude-projects/claudekit/financial-map.html
+grep -c "{ id:'" ~/claude-projects/claudekit/financial-map.html
+grep -c "{s:'" ~/claude-projects/claudekit/financial-map.html
 ```
 **Expected**: Both return integer counts ≥ 20 (nodes) and 46 (links) respectively.
 
 ### Check 6: Anthropic CORS Header
 ```bash
-grep -n "anthropic-dangerous-direct-browser-access" /Users/thanhnguyen/minhthanh0403/claude-projects/claudekit/financial-map.html
+grep -n "anthropic-dangerous-direct-browser-access" ~/claude-projects/claudekit/financial-map.html
 ```
 **Expected**: This header must be present in the fetch call or the browser will block the API request.
 

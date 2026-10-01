@@ -26,7 +26,7 @@ Authorities:
 **Branch:** `main`, 2 commits ahead of `0de4f5c` (both pushed; `main == origin/main == 2577c2b`).
 
 **Files created / changed:**
-- `bullion-live-map/bullion_mkultra.html` — **NEW, committed in `2577c2b`.** The 3D version. Live at `https://nguyenminhthanh0403-hub.github.io/claudekit/bullion-live-map/bullion_mkultra.html`. All changes are in its inline `<script>`/`<style>` + an ESM importmap in `<head>`.
+- `bullion-live-map/bullion_mkultra.html` — **NEW, committed in `2577c2b`.** The 3D version. Live at `https://sinbadtheexplorer.github.io/claudekit/bullion-live-map/bullion_mkultra.html`. All changes are in its inline `<script>`/`<style>` + an ESM importmap in `<head>`.
 - `bullion-live-map/bullion_mk15.html` — **changed in `accfde1`** (phone fix). SHA-256 now `ebfaaaf60a63d5732e7363c758a8cee43f75bfbdbc95f2838063e590546eb55f`. Mk Ultra was seeded from this exact file, then verified to keep it byte-identical.
 
 **Files later work will modify (untouched so far):**

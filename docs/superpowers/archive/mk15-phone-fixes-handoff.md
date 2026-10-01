@@ -8,8 +8,8 @@ Make the **live Mk15 map look good and behave correctly on phones.** The map was
 
 - Prior handoff (the Mk14/Mk15 build — still the authority on the map itself): `docs/superpowers/mk15-handoff.md`
 - Progress ledger for the build (recovery map): `.superpowers/sdd/progress.md`
-- Live map (permanent folder URL): https://nguyenminhthanh0403-hub.github.io/claudekit/bullion-live-map/
-- Direct Mk15 URL: https://nguyenminhthanh0403-hub.github.io/claudekit/bullion-live-map/bullion_mk15.html
+- Live map (permanent folder URL): https://sinbadtheexplorer.github.io/claudekit/bullion-live-map/
+- Direct Mk15 URL: https://sinbadtheexplorer.github.io/claudekit/bullion-live-map/bullion_mk15.html
 
 ## How to resume (do this first)
 
@@ -61,5 +61,5 @@ Make the **live Mk15 map look good and behave correctly on phones.** The map was
 
 - **Serve locally:** `cd bullion-live-map && python3 -m http.server 8731` → `http://localhost:8731/bullion_mk15.html` (file:// is blocked by the Chrome extension; must use http).
 - **Reproduce the PHONE bug:** a narrow window alone is NOT enough — you must force a *tall* stage. In the page console: set `#app` to e.g. `width:390px; height:1500px` and dispatch a `resize` event, then observe the rows stretch. With the fix in place, `fitAppToViewport()` (fired on resize) clamps height back to the visible viewport and the map renders compact/framed. Landscape (desktop, width ≥ 560px) uses the column layout and is unaffected.
-- **Confirm live deploy after a push:** `curl -s "https://nguyenminhthanh0403-hub.github.io/claudekit/bullion-live-map/bullion_mk15.html?cb=$RANDOM" | grep -c "fitAppToViewport"` — poll until > 0 (GitHub Pages rebuild takes ~30–60s).
+- **Confirm live deploy after a push:** `curl -s "https://sinbadtheexplorer.github.io/claudekit/bullion-live-map/bullion_mk15.html?cb=$RANDOM" | grep -c "fitAppToViewport"` — poll until > 0 (GitHub Pages rebuild takes ~30–60s).
 - **Deploy flow:** this project commits **directly to `main`** (no PR) with `Mk15:`-prefixed messages; GitHub Pages serves `main`. Push only when the user asks.

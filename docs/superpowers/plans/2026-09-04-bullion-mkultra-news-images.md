@@ -1082,7 +1082,7 @@ Expected: all pass, count matches the running total from Task 6, Step 6 (178, as
 - [ ] **Step 2: Real end-to-end run of the fetch script, from the repo root (this is what actually exercises the Task 1 bug fix)**
 
 ```bash
-cd /Users/thanhnguyen/minhthanh0403/claude-projects/claudekit
+cd ~/claude-projects/claudekit
 python3 bullion-live-map/fetch_bullion_news.py
 ls -la bullion-live-map/news-images/ | head -20
 python3 -c "import json; d=json.load(open('bullion-live-map/news.json')); print(len(d['headlines']), 'headlines'); print(sum(1 for h in d['headlines'] if h['image']), 'with images'); print(d['headlines'][0])"
@@ -1117,7 +1117,7 @@ The end-to-end run in Step 2 wrote real files into the working tree (`bullion-li
 This can only be verified after the plan is merged to `main` — GitHub only runs the `schedule:` trigger for workflows on the default branch:
 
 1. After merging, either wait for the next `11 13-21 * * 1-5` window or trigger it manually: `workflow_dispatch` via the GitHub UI, or `curl -X POST -H "Authorization: token $TOKEN" .../actions/workflows/news-hourly.yml/dispatches -d '{"ref":"main"}'` (do not type a real token into this session — same rule as every other credential in this project; run any authenticated call yourself outside Claude Code, or use the UI button).
-2. Poll `https://api.github.com/repos/nguyenminhthanh0403-hub/claudekit/actions/workflows/news-hourly.yml/runs?per_page=3` for `conclusion: success`, then confirm via the jobs API (same idiom used to diagnose the original bug in this plan's "Pre-existing bug" section) that the "Check news.json freshness" step's output was `stale=false`.
+2. Poll `https://api.github.com/repos/SinbadTheExplorer/claudekit/actions/workflows/news-hourly.yml/runs?per_page=3` for `conclusion: success`, then confirm via the jobs API (same idiom used to diagnose the original bug in this plan's "Pre-existing bug" section) that the "Check news.json freshness" step's output was `stale=false`.
 3. Leave it running for a few real days, then spot-check: has `bullion-live-map/news.json`'s `generated_at` actually been advancing hour over hour during market hours (`git log --oneline -- bullion-live-map/news.json` should now show a commit roughly every hour on weekdays, not the "2 commits total, ever" pattern that motivated Task 1)? This is the real proof the original bug is fixed, not just the local simulation in Task 7.
 4. Do not synthetically force a real `news-pipeline-stale` GitHub issue to test the alarm end-to-end (e.g. by temporarily breaking the script in production) — that's a disproportionate way to test a safety net. Task 7's local simulation already proves the alarm's decision logic is correct; trust it, and let the alarm prove itself the only time it matters, which is if a real future regression happens.
 

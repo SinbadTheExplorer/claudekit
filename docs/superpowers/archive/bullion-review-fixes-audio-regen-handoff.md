@@ -24,7 +24,7 @@ direct review-feedback fixing, same posture as prior ad-hoc tuning sessions in t
 
 ## How to resume (do this first)
 
-1. Confirm state: `git -C ~/minhthanh0403/claude-projects/claudekit log --oneline
+1. Confirm state: `git -C ~/claude-projects/claudekit log --oneline
    a4b2838..HEAD` should show exactly **1 commit, `a3a58e7`**, on `main`, already **pushed**
    (`git log --oneline origin/main..HEAD` empty). `git status --short` clean except the
    standing "Not mine" untracked noise (list below) plus two NEW untracked files this
@@ -271,6 +271,6 @@ below).
   never inferred from clean test runs or exit codes. (This session's push was an explicit,
   informed, one-time exception — see the caveats section.)
 - GitHub Pages deploy verification: no `gh` CLI on this machine — use `curl -s
-  "https://api.github.com/repos/nguyenminhthanh0403-hub/claudekit/actions/runs?per_page=5"`
+  "https://api.github.com/repos/SinbadTheExplorer/claudekit/actions/runs?per_page=5"`
   and check the run for commit `a3a58e7` shows `completed`/`success`. Not checked this
   session (focus was code + regen, not deploy).

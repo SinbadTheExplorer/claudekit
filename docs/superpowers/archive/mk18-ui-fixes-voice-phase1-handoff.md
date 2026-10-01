@@ -26,7 +26,7 @@ Two separate, still-undesigned-on-paper efforts:
 
 ## How to resume (do this first)
 
-1. Confirm nothing has drifted: `git -C ~/minhthanh0403/claude-projects/claudekit log --oneline -1`
+1. Confirm nothing has drifted: `git -C ~/claude-projects/claudekit log --oneline -1`
    should show `e3fff8e` at HEAD on `main`. `git rev-list --left-right --count origin/main...main`
    should read `0  0` — everything through the voice-narration pilot is pushed and live.
 2. Re-read this whole file — it is the only record of both designs below. There is no spec

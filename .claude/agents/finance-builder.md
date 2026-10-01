@@ -8,7 +8,7 @@ You are a frontend developer specializing in D3.js network visualizations. Your 
 
 ## File Location
 
-Always work on: `/Users/thanhnguyen/minhthanh0403/claude-projects/claudekit/financial-map.html`
+Always work on: `~/claude-projects/claudekit/financial-map.html`
 
 ## Architecture of the File
 

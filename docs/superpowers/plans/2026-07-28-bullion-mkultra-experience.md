@@ -70,9 +70,9 @@ instance real WebGL; Task 6 explicitly runs a second time **without** those flag
 the no-WebGL fallback path using genuinely-absent WebGL rather than a mock.
 
 **Chrome-MCP visual check**, reused per-task: navigate a tab to
-`https://nguyenminhthanh0403-hub.github.io/claudekit/bullion-live-map/bullion_mkultra.html`
+`https://sinbadtheexplorer.github.io/claudekit/bullion-live-map/bullion_mkultra.html`
 (the live Pages URL) is only valid *after* a push — during development, navigate instead to
-`file:///Users/thanhnguyen/minhthanh0403/claude-projects/claudekit/bullion-live-map/bullion_mkultra.html`,
+`file://~/claude-projects/claudekit/bullion-live-map/bullion_mkultra.html`,
 screenshot, and check `read_console_messages` for 0 errors.
 
 ---
@@ -159,7 +159,7 @@ via `read_console_messages`.
 - [ ] **Step 6: Commit**
 
 ```bash
-cd ~/minhthanh0403/claude-projects/claudekit
+cd ~/claude-projects/claudekit
 git add bullion-live-map/bullion_mkultra.html
 git commit -m "Mk Ultra: Times New Roman for all headers and titles"
 ```
@@ -246,7 +246,7 @@ same `GROUP_COLOR` map). Confirm 0 console errors.
 - [ ] **Step 6: Commit**
 
 ```bash
-cd ~/minhthanh0403/claude-projects/claudekit
+cd ~/claude-projects/claudekit
 git add bullion-live-map/bullion_mkultra.html
 git commit -m "Mk Ultra: re-space the GROUP_COLOR palette to fix crowded purples/blues and the gold collision"
 ```
@@ -345,7 +345,7 @@ right is unaffected. Confirm 0 console errors.
 - [ ] **Step 6: Commit**
 
 ```bash
-cd ~/minhthanh0403/claude-projects/claudekit
+cd ~/claude-projects/claudekit
 git add bullion-live-map/bullion_mkultra.html
 git commit -m "Mk Ultra: promote the Bullion wordmark + monogram into the in-app header"
 ```
@@ -431,7 +431,7 @@ appearance changed). Confirm 0 console errors.
 - [ ] **Step 6: Commit**
 
 ```bash
-cd ~/minhthanh0403/claude-projects/claudekit
+cd ~/claude-projects/claudekit
 git add bullion-live-map/bullion_mkultra.html
 git commit -m "Mk Ultra: custom compass-rose cursor signals the globe is drag-to-spin"
 ```
@@ -526,7 +526,7 @@ render must not leave a stray empty `<div>`). Confirm 0 console errors.
 - [ ] **Step 6: Commit**
 
 ```bash
-cd ~/minhthanh0403/claude-projects/claudekit
+cd ~/claude-projects/claudekit
 git add bullion-live-map/bullion_mkultra.html
 git commit -m "Mk Ultra: add first-person field notes on the two links the honesty pass corrected"
 ```
@@ -679,7 +679,7 @@ Delete the throwaway copy afterward.
 - [ ] **Step 6: Freeze check**
 
 ```bash
-cd ~/minhthanh0403/claude-projects/claudekit/bullion-live-map
+cd ~/claude-projects/claudekit/bullion-live-map
 shasum -a 256 bullion_mk15.html bullion_mk16.html bullion_mk17.html bullion_mk18.html
 ```
 
@@ -688,7 +688,7 @@ Compare against the hashes recorded before Task 1 — all four must match exactl
 - [ ] **Step 7: Commit**
 
 ```bash
-cd ~/minhthanh0403/claude-projects/claudekit
+cd ~/claude-projects/claudekit
 git add bullion-live-map/bullion_mkultra.html
 git commit -m "Mk Ultra: replace the silent black void with a real WebGL/CDN fallback card"
 ```
@@ -703,4 +703,4 @@ git commit -m "Mk Ultra: replace the silent black void with a real WebGL/CDN fal
 - `git push origin main` (confirm with the user first, per this project's standing practice of
   pushing directly once local verification passes).
 - Confirm the live Pages URL serves the update within ~30-90s:
-  `https://nguyenminhthanh0403-hub.github.io/claudekit/bullion-live-map/bullion_mkultra.html`
+  `https://sinbadtheexplorer.github.io/claudekit/bullion-live-map/bullion_mkultra.html`
