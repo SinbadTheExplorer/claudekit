@@ -85,7 +85,7 @@ claudekit/
 ├── financial-map.html                 ← The interactive map (primary deliverable)
 ├── Interest Rates Presentation.pdf   ← Companion slide deck (interest rates node)
 ├── interest-rate-claude-ai.md         ← Source transcript for interest rate content
-├── LICENSE                            ← Apache 2.0 (fill in year + owner before publishing)
+├── LICENSE                            ← All rights reserved (was Apache 2.0 before 2026-10-01)
 └── .claude/
     ├── agents/
     │   ├── finance-planner.md         ← Planning agent
