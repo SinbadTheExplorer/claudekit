@@ -1,20 +1,252 @@
 {
-  "generated_at": "2026-10-01T18:49:50Z",
+  "generated_at": "2026-10-01T23:07:48Z",
   "headlines": [
+    {
+      "category": "federal",
+      "headline": "Dow Jones Futures: Stocks Rise Off Support As Yields Tumble, Micron, Meta In Focus; Tesla, Jobs Report Due",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/f6c899dd-7f15-3879-b266-51980008982d/dow-jones-futures%3A-stocks.html?.tsrc=rss",
+      "published": "2026-10-01T23:03:46Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "South Korean President Lee pushes back on Alaska LNG project after Trump touts Seoul's participation",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/01/trump-south-korea-investment-alaska-lng-nuclear-power.html",
+      "published": "2026-10-01T23:01:03Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "More older adults are now living in poverty as Social Security cuts loom",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=18251478-2c25-4f7b-8920-d669359ed18c&amp;mod=mw_rss_bulletins",
+      "published": "2026-10-01T22:27:02Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Accenture stock rallies after earnings beat expectations",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/01/accenture-rallies-more-than-20percent-after-earnings-beat-heads-for-best-day-ever.html",
+      "published": "2026-10-01T21:40:30Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "consumer",
+      "headline": "Nike shares drop as retailer posts disappointing sales, announces layoffs as part of restructuring",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/01/nike-nke-q1-2027-earnings.html",
+      "published": "2026-10-01T21:34:44Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "Mattel shares rise after reports of takeover interest from Authentic Brands Group",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/01/mattel-authentic-brands-takeover-interest.html",
+      "published": "2026-10-01T21:32:19Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "The hidden silver lining of high interest rates: safer, cheaper retirement income",
+      "image": "news-images/3385359c290ebedce76dc026.jpg",
+      "link": "https://www.marketwatch.com/story/the-hidden-silver-lining-of-high-interest-rates-safer-cheaper-retirement-income-36e2e077?mod=mw_rss_topstories",
+      "published": "2026-10-01T21:27:00Z",
+      "sentiment": "neutral"
+    },
     {
       "category": "other",
       "headline": "General Motor Q3 sales drop 5.5%, while Toyota buoyed by EVs, hybrids",
       "image": null,
       "link": "https://www.cnbc.com/2026/10/01/us-auto-sales-q3.html",
-      "published": "2026-10-01T18:43:00Z",
+      "published": "2026-10-01T21:25:33Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "federal",
+      "headline": "Update: US Equity Indexes Edge Up as Treasury Yields Fall From Highest in Two Decades After October Fed Rate-Increase Bets Drop",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-edge-treasury-212442043.html?.tsrc=rss",
+      "published": "2026-10-01T21:24:42Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "federal",
+      "headline": "Treasury yields fall from multiyear highs",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/01/us-treasury-bond-yield.html",
+      "published": "2026-10-01T21:17:31Z",
       "sentiment": "bearish"
     },
     {
       "category": "other",
-      "headline": "Nike's new Caitlin Clark shoes are already almost sold out",
+      "headline": "Update: S&P 500 Snaps 3-Day Losing Streak as Yields Fall",
       "image": null,
-      "link": "https://www.cnbc.com/2026/10/01/nikes-new-caitlin-clark-shoes-are-already-almost-sold-out.html",
-      "published": "2026-10-01T18:39:40Z",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-snaps-3-day-211616601.html?.tsrc=rss",
+      "published": "2026-10-01T21:16:16Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "Zoetis (ZTS) Stock Sinks As Market Gains: Here's Why",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/zoetis-zts-stock-sinks-market-211505094.html?.tsrc=rss",
+      "published": "2026-10-01T21:15:05Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "VICI Properties Inc. (VICI) Stock Declines While Market Improves: Some Information for Investors",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/vici-properties-inc-vici-stock-211505398.html?.tsrc=rss",
+      "published": "2026-10-01T21:15:05Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Ralph Lauren (RL) Outperforms Broader Market: What You Need to Know",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ralph-lauren-rl-outperforms-broader-211504446.html?.tsrc=rss",
+      "published": "2026-10-01T21:15:04Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "T. Rowe Price (TROW) Surpasses Market Returns: Some Facts Worth Knowing",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-trow-surpasses-211504592.html?.tsrc=rss",
+      "published": "2026-10-01T21:15:04Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Ginkgo Bioworks Holdings, Inc. (DNA) Stock Falls Amid Market Uptick: What Investors Need to Know",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ginkgo-bioworks-holdings-inc-dna-211504256.html?.tsrc=rss",
+      "published": "2026-10-01T21:15:04Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "Sunrun (RUN) Stock Drops Despite Market Gains: Important Facts to Note",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sunrun-run-stock-drops-despite-211504788.html?.tsrc=rss",
+      "published": "2026-10-01T21:15:04Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Hamilton Insurance (HG) Outpaces Stock Market Gains: What You Should Know",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/hamilton-insurance-hg-outpaces-stock-211503744.html?.tsrc=rss",
+      "published": "2026-10-01T21:15:03Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "Annaly Capital Management (NLY) Stock Dips While Market Gains: Key Facts",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/annaly-capital-management-nly-stock-211503986.html?.tsrc=rss",
+      "published": "2026-10-01T21:15:03Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "consumer",
+      "headline": "Trump could target three Fed governors. Removing them may be harder than it looks",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/01/trump-fed-powell-lisa-cook-michael-barr-removal.html",
+      "published": "2026-10-01T21:14:49Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Nike\u2019s troubles are mounting, and sales could fall further",
+      "image": "news-images/0d2a7e7e139e9c55bc9b937f.jpg",
+      "link": "https://www.marketwatch.com/story/nikes-troubles-are-mounting-and-sales-could-fall-further-2c19699d?mod=mw_rss_topstories",
+      "published": "2026-10-01T21:09:00Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "The stock market is anything but normal right now \u2014 and these charts show it",
+      "image": "news-images/15b38fd33147001b0cecbbf3.jpg",
+      "link": "https://www.marketwatch.com/story/the-stock-market-is-anything-but-normal-right-now-and-these-charts-show-it-91ea187d?mod=mw_rss_topstories",
+      "published": "2026-10-01T21:01:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "consumer",
+      "headline": "Here\u2019s how much more groceries, clothing and household appliances could cost as diesel prices keep surging",
+      "image": "news-images/9032ad94d1eed01b38c594c8.jpg",
+      "link": "https://www.marketwatch.com/story/heres-how-much-more-groceries-clothing-and-household-appliances-could-cost-as-diesel-prices-keep-surging-771c9247?mod=mw_rss_topstories",
+      "published": "2026-10-01T20:58:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Republicans sabotaged their own bill to prevent people in Congress from trading stocks. Why?",
+      "image": "news-images/40357137b6ea6882c69826d6.jpg",
+      "link": "https://www.marketwatch.com/story/republicans-sabotaged-their-own-bill-to-prevent-people-in-congress-from-trading-stocks-why-828ef40d?mod=mw_rss_topstories",
+      "published": "2026-10-01T20:58:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "industrials",
+      "headline": "Boeing engineers and technical workers approve new contract, avoiding strike",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/01/boeing-contract-engineers-technical-workers.html",
+      "published": "2026-10-01T20:52:52Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "energy",
+      "headline": "Europe\u2019s winter energy crunch may already be underway. Two U.S. stocks that may benefit",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/01/europes-winter-energy-crunch-may-already-be-underway-two-us-stocks-that-may-benefit.html",
+      "published": "2026-10-01T20:41:38Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "SpaceX launches Google AI chips into orbit in push toward space-based data centers",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/01/spacex-to-launch-google-ai-chips-to-orbit-with-planet-labs-satellites.html",
+      "published": "2026-10-01T20:31:42Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Bond yields suddenly retreat from recent highs as buyers step back into the Treasury market",
+      "image": "news-images/cecc1be3f5a62a3f4ef01985.jpg",
+      "link": "https://www.marketwatch.com/story/bond-yields-suddenly-retreat-from-recent-highs-as-buyers-step-back-into-the-treasury-market-e3840e3d?mod=mw_rss_topstories",
+      "published": "2026-10-01T20:28:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "The Treasury Department started Trump accounts for 60 million kids \u2014 but families still have to take this step if they want one",
+      "image": "news-images/2c83498cbfc79cf7ca8128cc.jpg",
+      "link": "https://www.marketwatch.com/story/the-treasury-department-started-trump-accounts-for-60-million-kids-but-families-still-have-to-take-this-step-if-they-want-one-003d9282?mod=mw_rss_topstories",
+      "published": "2026-10-01T20:14:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Dow, S&P 500 and Nasdaq end higher to cap volatile session as chip stocks rally",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=17101d87-aef3-436b-b738-2b1bc37fa3b1&amp;mod=mw_rss_bulletins",
+      "published": "2026-10-01T20:02:12Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "federal",
+      "headline": "Dow flat, S&P and Nasdaq up in final hour as Treasury yields pull back \u2014 live",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=6d21bc23-b161-48eb-926f-f434fddc206b&amp;mod=mw_rss_bulletins",
+      "published": "2026-10-01T19:03:11Z",
       "sentiment": "neutral"
     },
     {
@@ -26,91 +258,11 @@
       "sentiment": "bearish"
     },
     {
-      "category": "international",
-      "headline": "Treasury sanctions operation targets Iran's auto, rail industries in latest economic attack",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/01/treasury-sanctions-iran-auto-rail.html",
-      "published": "2026-10-01T18:37:16Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Google unveils latest AI model, but Wall Street wants a breakout personal agent",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/01/google-gemini-4-arrives-as-wall-street-shifts-to-personal-agents.html",
-      "published": "2026-10-01T18:29:49Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "other",
-      "headline": "Update: Equities Rise Intraday as Yields Fluctuate",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/equities-rise-intraday-yields-fluctuate-182630303.html?.tsrc=rss",
-      "published": "2026-10-01T18:26:30Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "energy",
-      "headline": "Brent oil jumps more than 4% as U.S. reportedly sends third aircraft carrier to Middle East",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/01/oil-prices-today-wti-brent.html",
-      "published": "2026-10-01T18:23:29Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "federal",
-      "headline": "Update: US Equity Indexes Rise as Treasury Yields Slide, Fed Rate-Increase Bets Fade Following Manufacturing, Labor Market Data",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-rise-treasury-181953431.html?.tsrc=rss",
-      "published": "2026-10-01T18:19:53Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "other",
       "headline": "This silent alarm in the bond market tells you which stocks to buy and which to avoid",
       "image": "news-images/178533bd2e66c3b9aada9db7.jpg",
       "link": "https://www.marketwatch.com/story/this-silent-alarm-in-the-bond-market-tells-you-which-stocks-to-buy-and-which-to-avoid-4568ac53?mod=mw_rss_topstories",
       "published": "2026-10-01T18:10:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Former LinkedIn chief Roslansky to leave Microsoft, following other exec departures",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/01/linkedin-chief-roslansky-microsoft-exit.html",
-      "published": "2026-10-01T18:01:03Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Stock Market Today: Nasdaq Charges Higher As Yields Ease; Apple Slides, Intel Gains (Live Coverage)",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/5f6e8554-d4a8-3f1c-bce8-2f5074e2e587/stock-market-today%3A-nasdaq.html?.tsrc=rss",
-      "published": "2026-10-01T17:59:01Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "energy",
-      "headline": "Sector Update: Energy Stocks Rise Thursday Afternoon",
-      "image": null,
-      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-rise-thursday-175708688.html?.tsrc=rss",
-      "published": "2026-10-01T17:57:08Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "consumer",
-      "headline": "Top Citadel Strategist Sees October Offering A Good Entry Point To Retail Investors Ahead Of Earnings Season",
-      "image": null,
-      "link": "https://stocktwits.com/news-articles/markets/equity/top-citadel-strategist-sees-october-offering-a-good-entry-point-to-retail-investors-ahead-of-earnings-season/cZD0fGiRB04?.tsrc=rss",
-      "published": "2026-10-01T17:28:59Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "New York City's 'click to cancel' subscription rule takes effect, joining states with similar laws",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/01/new-york-city-click-to-cancel-subscription-rule-in-effect.html",
-      "published": "2026-10-01T17:26:33Z",
       "sentiment": "neutral"
     },
     {
@@ -130,108 +282,12 @@
       "sentiment": "neutral"
     },
     {
-      "category": "other",
-      "headline": "Judge dismisses Reflecting Pool case permanently, cites risk Trump will force new charges",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/01/reflecting-pool-vandalism-dismissed-hearn-trump.html",
-      "published": "2026-10-01T16:56:34Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "federal",
-      "headline": "Trump Accounts have auto-enrolled more than 60 million children, Treasury says",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/01/treasury-trump-accounts-auto-enroll-more-than-60-million-children.html",
-      "published": "2026-10-01T16:52:22Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "realestate",
-      "headline": "This couple took out an adjustable-rate mortgage when rates were over 8%. Here\u2019s how it worked out.",
-      "image": "news-images/25f708a9b1f90a635a60d967.jpg",
-      "link": "https://www.marketwatch.com/story/this-couple-took-out-an-adjustable-rate-mortgage-when-rates-were-over-8-heres-how-it-worked-out-d52e592a?mod=mw_rss_topstories",
-      "published": "2026-10-01T16:51:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "consumer",
-      "headline": "Next OpenAIs and Anthropics may come straight to retail market. Here's what to know before investing",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/01/sec-private-equity-hedge-funds-stock-investing.html",
-      "published": "2026-10-01T16:50:28Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Mark Zuckerberg is coming for Apple\u2019s empire",
-      "image": "news-images/7d4742df56fcd10ec23de866.jpg",
-      "link": "https://www.marketwatch.com/story/metas-mark-zuckerberg-is-coming-for-apples-empire-f34d1f92?mod=mw_rss_topstories",
-      "published": "2026-10-01T16:47:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Stocks Fall as Bond Selloff Eases",
-      "image": null,
-      "link": "https://www.wsj.com/finance/ai-stock-rally-checked-by-relentless-treasury-selloff-c434b12e?.tsrc=rss",
-      "published": "2026-10-01T16:40:00Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "energy",
-      "headline": "Update: US Equity Indexes Fall as Crude Oil Jumps Amid Divergent Manufacturing, Labor Market Reports",
-      "image": null,
-      "link": "https://finance.yahoo.com/economy/articles/us-equity-indexes-fall-crude-162914757.html?.tsrc=rss",
-      "published": "2026-10-01T16:29:14Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "other",
-      "headline": "Bond Yields Turn Around, But Stocks Don\u2019t Follow",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/8841c62a-29fc-3bf3-a1e3-b0b9ef62cae9/bond-yields-turn-around%2C-but.html?.tsrc=rss",
-      "published": "2026-10-01T16:27:24Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Stock Market Midday, Oct. 1: Stocks Edge Lower as Treasury Yields Surge to 24-Year High",
-      "image": null,
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/10/01/stock-market-midday-oct-1-stocks-edge-lower-as-treasury-yields-surge-to-24-year-high/?.tsrc=rss",
-      "published": "2026-10-01T16:20:33Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "other",
-      "headline": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
-      "image": "news-images/f442d2fdfb35dfd87a1b06d2.jpg",
-      "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
-      "published": "2026-10-01T16:16:00Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "realestate",
       "headline": "30-year mortgage rate posts biggest jump in 4 years \u2014 to nearly 7.3%",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=070ff3bb-865d-4bcd-b046-eb0241cb33dc&amp;mod=mw_rss_bulletins",
       "published": "2026-10-01T16:08:30Z",
       "sentiment": "bullish"
-    },
-    {
-      "category": "realestate",
-      "headline": "30-year mortgage rate posts biggest jump in four years \u2014 to nearly 7.3%",
-      "image": "news-images/36052f0c28e6b4f07c3727b5.jpg",
-      "link": "https://www.marketwatch.com/story/30-year-mortgage-rate-posts-biggest-jump-in-four-years-e288f596?mod=mw_rss_topstories",
-      "published": "2026-10-01T16:06:00Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "industrials",
-      "headline": "Tesla\u2019s delivery report is just around the corner. Expect a sales drop.",
-      "image": "news-images/6d0f07cad29ee95339a9cb78.jpg",
-      "link": "https://www.marketwatch.com/story/teslas-delivery-report-is-just-around-the-corner-expect-a-sales-drop-45d5503b?mod=mw_rss_topstories",
-      "published": "2026-10-01T15:43:00Z",
-      "sentiment": "bearish"
     },
     {
       "category": "federal",
@@ -251,30 +307,6 @@
     },
     {
       "category": "federal",
-      "headline": "U.S. manufacturers say inflation is bad and not getting any better",
-      "image": "news-images/5101297c04d513a2c441fa07.jpg",
-      "link": "https://www.marketwatch.com/story/u-s-manufacturers-say-inflation-is-bad-and-not-getting-any-better-8281edef?mod=mw_rss_topstories",
-      "published": "2026-10-01T15:19:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "\u2018We lived within our means\u2019: I earned $30,000 as a pastor and still retired comfortably. Why don\u2019t you tell people that?",
-      "image": "news-images/026037cd003f83820c0b950f.jpg",
-      "link": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
-      "published": "2026-10-01T15:00:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Dow, S&P 500, Nasdaq open higher to start October 2026",
-      "image": null,
-      "link": "https://qz.com/dow-sp500-nasdaq-october-gains-ai-stocks-100126?.tsrc=rss",
-      "published": "2026-10-01T14:06:19Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
       "headline": "Stocks look set to rise following weekly unemployment data \u2014 live coverage",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=2cfd317a-4dda-440d-96ea-2016076c4ca8&amp;mod=mw_rss_bulletins",
@@ -288,42 +320,10 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=d3ef03c1-600d-4924-ac02-351fc49c61e1&amp;mod=mw_rss_bulletins",
       "published": "2026-10-01T12:27:35Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "U.S. dollar hits 18-month high as euro stumbles \u2014 live market updates",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=18b4b9af-1ef0-47f5-aa9c-3c6832160eb9&amp;mod=mw_rss_bulletins",
-      "published": "2026-10-01T11:58:29Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "federal",
-      "headline": "Yields on the 10-year and 30-year Treasurys reach highs not seen since 2002",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=1e73224a-fd5f-4691-bee8-cc7b80a0a54f&amp;mod=mw_rss_bulletins",
-      "published": "2026-10-01T07:59:41Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "These bond strategies can help you get a safe 5% return on your cash",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=e1bffe06-46db-4726-8e75-c33d15fc62eb&amp;mod=mw_rss_bulletins",
-      "published": "2026-09-30T23:35:20Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Google shows it\u2019s not out of the AI race just yet",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=22550d2e-81e9-411b-a222-febc4be97e75&amp;mod=mw_rss_bulletins",
-      "published": "2026-09-30T22:54:19Z",
-      "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-10-01T18:43:00Z",
-  "source_item_count": 68,
+  "newest_item_published": "2026-10-01T23:03:46Z",
+  "source_item_count": 69,
   "sources": {
     "cnbc": {
       "contributed": 10,
@@ -331,7 +331,7 @@
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-10-01T18:43:00Z",
+      "newest": "2026-10-01T23:01:03Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,25 +340,25 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-10-01T18:38:00Z",
+      "newest": "2026-10-01T21:27:00Z",
       "ok": true
     },
     "mw_bulletins": {
-      "contributed": 10,
+      "contributed": 9,
       "error": null,
       "fetched": 10,
       "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-10-01T17:12:44Z",
+      "newest": "2026-10-01T22:27:02Z",
       "ok": true
     },
     "yahoo_dji": {
-      "contributed": 10,
+      "contributed": 11,
       "error": null,
-      "fetched": 18,
-      "fresh": 17,
+      "fetched": 19,
+      "fresh": 19,
       "label": "Yahoo Finance",
-      "newest": "2026-10-01T18:26:30Z",
+      "newest": "2026-10-01T23:03:46Z",
       "ok": true
     }
   }
