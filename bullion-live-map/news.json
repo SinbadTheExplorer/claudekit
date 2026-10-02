@@ -1,21 +1,269 @@
 {
-  "generated_at": "2026-10-02T18:21:45Z",
+  "generated_at": "2026-10-02T22:56:24Z",
   "headlines": [
+    {
+      "category": "other",
+      "headline": "Why Western Digital and Seagate are seeing big stock drops today",
+      "image": "news-images/5651ad47d51c3888c43bd7b7.jpg",
+      "link": "https://www.marketwatch.com/story/why-western-digital-and-seagate-are-seeing-big-stock-drops-today-6b16d95e?mod=mw_rss_topstories",
+      "published": "2026-10-02T22:42:00Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "tech",
+      "headline": "Cerebras stock hits post-IPO low, tumbling 20% for the week on Nvidia pressure and lockup expiration",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/02/cerebras-stock-hits-post-ipo-low-on-nvidia-pressure-lockup-expiration.html",
+      "published": "2026-10-02T22:38:49Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "financials",
+      "headline": "Tesla sold a lot more EVs than Wall Street expected, and the stock is surging",
+      "image": "news-images/cacfe9123758f00d2e952582.jpg",
+      "link": "https://www.marketwatch.com/story/tesla-ev-sales-beat-wall-streets-expectations-again-and-the-stock-jumps-294a4f53?mod=mw_rss_topstories",
+      "published": "2026-10-02T22:29:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "S&P 500, Nasdaq, Dow End Week Higher As Weak Jobs Report Cools Rate Hike Bets \u2014 NVDA, BA, SPCX, RIVN, APLD In Focus",
+      "image": null,
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-dow-end-week-higher-as-weak-jobs-report-cools-rate-hike-bets-nvda-ba-spcx-rivn-apld-in-focus/cZDjq3URBKF?.tsrc=rss",
+      "published": "2026-10-02T22:28:59Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "I\u2019m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
+      "image": "news-images/af2c801bf2d07059a5c59ad0.jpg",
+      "link": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
+      "published": "2026-10-02T22:10:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "DOJ says it will not reopen criminal probe into former Fed Chair Powell",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/02/doj-says-it-will-not-reopen-criminal-probe-into-former-fed-chair-powell.html",
+      "published": "2026-10-02T22:01:17Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Switching jobs to get higher pay works best in these industries",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=b5269eb8-a846-4ab7-9b4a-79d1bb3444c3&amp;mod=mw_rss_bulletins",
+      "published": "2026-10-02T21:55:49Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Falling wages, soaring energy prices and inflation: It\u2019s beginning to look a lot like the 1970s",
+      "image": "news-images/68865ca37e7ed498b658ef9d.jpg",
+      "link": "https://www.marketwatch.com/story/falling-wages-soaring-energy-prices-and-inflation-its-beginning-to-look-a-lot-like-the-1970s-d645cbca?mod=mw_rss_topstories",
+      "published": "2026-10-02T21:54:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Why Equinix (EQIX) Outpaced the Stock Market Today",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-equinix-eqix-outpaced-stock-211502399.html?.tsrc=rss",
+      "published": "2026-10-02T21:15:02Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Vita Coco Company, Inc. (COCO) Stock Dips While Market Gains: Key Facts",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/vita-coco-company-inc-coco-211502536.html?.tsrc=rss",
+      "published": "2026-10-02T21:15:02Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "Astera Labs, Inc. (ALAB) Stock Drops Despite Market Gains: Important Facts to Note",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/astera-labs-inc-alab-stock-211502033.html?.tsrc=rss",
+      "published": "2026-10-02T21:15:02Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Stock Market Today: Nasdaq Leads Charge On Rate Hopes; Nvidia Hits Highs",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/94ae67df-681f-315f-b45f-941eaadbc7c6/stock-market-today%3A-nasdaq.html?.tsrc=rss",
+      "published": "2026-10-02T21:05:24Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Anthropic to invest $100 million to train AI engineer talent",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/02/anthropic-to-invest-100-million-to-train-ai-engineer-talent.html",
+      "published": "2026-10-02T21:03:06Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Why Star Bulk Carriers (SBLK) Outpaced the Stock Market Today",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-star-bulk-carriers-sblk-210005046.html?.tsrc=rss",
+      "published": "2026-10-02T21:00:05Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Tyson Foods (TSN) Beats Stock Market Upswing: What Investors Need to Know",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tyson-foods-tsn-beats-stock-210005602.html?.tsrc=rss",
+      "published": "2026-10-02T21:00:05Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "healthcare",
+      "headline": "Tenet Healthcare (THC) Outpaces Stock Market Gains: What You Should Know",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tenet-healthcare-thc-outpaces-stock-210004556.html?.tsrc=rss",
+      "published": "2026-10-02T21:00:04Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "Why Lightspeed Commerce Inc. (LSPD) Outpaced the Stock Market Today",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-lightspeed-commerce-inc-lspd-210004893.html?.tsrc=rss",
+      "published": "2026-10-02T21:00:04Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Trip.com (TCOM) Stock Falls Amid Market Uptick: What Investors Need to Know",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/trip-com-tcom-stock-falls-210003258.html?.tsrc=rss",
+      "published": "2026-10-02T21:00:03Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "BigBear.ai Holdings, Inc. (BBAI) Stock Dips While Market Gains: Key Facts",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bigbear-ai-holdings-inc-bbai-210003196.html?.tsrc=rss",
+      "published": "2026-10-02T21:00:03Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "Why mixing politics with your stock portfolio might be costing you money",
+      "image": "news-images/781fd1c69ead31856f46693d.jpg",
+      "link": "https://www.marketwatch.com/story/why-mixing-politics-with-your-stock-portfolio-might-be-costing-you-money-5b4aabfb?mod=mw_rss_topstories",
+      "published": "2026-10-02T20:43:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Does AI have a soul? Pope Leo and Anthropic clash.",
+      "image": "news-images/b2440f3a884f73532213b50b.jpg",
+      "link": "https://www.marketwatch.com/story/does-ai-have-a-soul-pope-leo-and-anthropic-clash-0c1669fb?mod=mw_rss_topstories",
+      "published": "2026-10-02T20:40:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
+      "image": "news-images/f442d2fdfb35dfd87a1b06d2.jpg",
+      "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
+      "published": "2026-10-02T20:30:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "international",
+      "headline": "Europe\u2019s leaders rush to release diesel from stockpiles as fuel shock hangs over U.S. midterms",
+      "image": "news-images/cfbacf7ee38b059b1df6dacb.jpg",
+      "link": "https://www.marketwatch.com/story/europes-leaders-rush-to-release-diesel-from-stockpiles-as-fuel-shock-hangs-over-u-s-midterms-80bf0f38?mod=mw_rss_topstories",
+      "published": "2026-10-02T20:26:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "This city saw 1 in 3 home sellers slash their asking price in September to attract reluctant buyers",
+      "image": "news-images/76c3fe7759227c6c6fd1a754.jpg",
+      "link": "https://www.marketwatch.com/story/this-city-saw-1-in-3-home-sellers-slash-their-asking-price-in-september-to-attract-reluctant-buyers-7f16a0c3?mod=mw_rss_topstories",
+      "published": "2026-10-02T20:26:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Saving your retirement could come down to this simple writing exercise",
+      "image": "news-images/559b89c45e60c870bb8f60d4.jpg",
+      "link": "https://www.marketwatch.com/story/saving-your-retirement-could-come-down-to-this-simple-writing-exercise-c25734a9?mod=mw_rss_topstories",
+      "published": "2026-10-02T20:24:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "energy",
+      "headline": "Oil prices lower as G7 nations to release diesel stocks, Saudis reportedly plan attack on Houthis",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/02/oil-wti-brent-diesel-stock-release-europe.html",
+      "published": "2026-10-02T20:04:42Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "10-year Treasury yield ticks higher despite weaker-than-expected jobs report",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/02/treasury-yields-bonds-nonfarm-payrolls.html",
+      "published": "2026-10-02T20:03:56Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Nasdaq closes just below record, Dow and S&P 500 also rally after soft jobs data",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=54ee2651-bf9c-45dd-bd51-78586eb7db62&amp;mod=mw_rss_bulletins",
+      "published": "2026-10-02T20:03:52Z",
+      "sentiment": "bullish"
+    },
     {
       "category": "international",
       "headline": "G7 nations to release diesel stocks as wars in Europe and Middle East constrain fuel supplies",
       "image": null,
       "link": "https://www.cnbc.com/2026/10/02/diesel-oil-trump-europe-export-ban.html",
-      "published": "2026-10-02T18:21:13Z",
+      "published": "2026-10-02T19:25:36Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "FAA says Boeing 737 Max software glitch not a flight-safety issue",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/02/faa-says-boeing-737-max-10-software-glitch-not-a-flight-safety-issue.html",
+      "published": "2026-10-02T19:19:15Z",
       "sentiment": "neutral"
     },
     {
       "category": "other",
-      "headline": "Friday's rally in the S&P 500 might not be enough, but Linde is out of this world",
+      "headline": "Nasdaq flirting with record high in final hour, while Dow and S&P 500 also climb",
       "image": null,
-      "link": "https://www.cnbc.com/2026/10/02/fridays-rally-in-the-sp-500-might-not-be-enough-but-linde-is-out-of-this-world.html",
-      "published": "2026-10-02T18:03:35Z",
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=30749d42-0925-4d35-9a8a-6912e3796f0e&amp;mod=mw_rss_bulletins",
+      "published": "2026-10-02T19:12:09Z",
       "sentiment": "bullish"
+    },
+    {
+      "category": "tech",
+      "headline": "How AI is redefining Wall Street jobs \u2014 and boosting demand for this new 'hottest skill' by 1,721%",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html",
+      "published": "2026-10-02T18:49:03Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "David Ellison says combined Paramount and Warner Bros. Discovery will be named Skydance",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/02/paramount-warner-bros-discovery-skydance.html",
+      "published": "2026-10-02T18:31:49Z",
+      "sentiment": "neutral"
     },
     {
       "category": "federal",
@@ -26,156 +274,12 @@
       "sentiment": "bullish"
     },
     {
-      "category": "federal",
-      "headline": "Update: Equities Rise Intraday Following Weak Jobs Report",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/equities-rise-intraday-following-weak-175908768.html?.tsrc=rss",
-      "published": "2026-10-02T17:59:08Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "healthcare",
       "headline": "Why Lilly and Novo are betting on amylin to power a new wave of obesity drugs after GLP-1s",
       "image": null,
       "link": "https://www.cnbc.com/2026/10/02/lilly-novo-amylin-obesity-drugs.html",
       "published": "2026-10-02T17:55:26Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "energy",
-      "headline": "Sector Update: Energy Stocks Edge Higher Friday Afternoon",
-      "image": null,
-      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-edge-higher-175507197.html?.tsrc=rss",
-      "published": "2026-10-02T17:55:07Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "10-year Treasury yield ticks higher despite weaker-than-expected jobs report",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/02/treasury-yields-bonds-nonfarm-payrolls.html",
-      "published": "2026-10-02T17:54:42Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "How much higher can bond yields rise \u2014 and what does it mean for stocks?",
-      "image": "news-images/12e73773340378fbddd1bdf6.jpg",
-      "link": "https://www.marketwatch.com/story/how-much-higher-can-bond-yields-rise-and-what-does-it-mean-for-stocks-12883d6c?mod=mw_rss_topstories",
-      "published": "2026-10-02T17:48:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "international",
-      "headline": "Europe\u2019s leaders rush to release diesel from stockpiles as fuel shock hangs over U.S. midterms",
-      "image": "news-images/cfbacf7ee38b059b1df6dacb.jpg",
-      "link": "https://www.marketwatch.com/story/europes-leaders-rush-to-release-diesel-from-stockpiles-as-fuel-shock-hangs-over-u-s-midterms-80bf0f38?mod=mw_rss_topstories",
-      "published": "2026-10-02T17:48:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Men are losing ground in the labor market. Here's why",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/02/men-labor-market-jobs-report.html",
-      "published": "2026-10-02T17:38:59Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Why bond investors quickly lost their enthusiasm for weak jobs figures",
-      "image": "news-images/9925640dc2321f7642444c7a.jpg",
-      "link": "https://www.marketwatch.com/story/why-bond-investors-quickly-lost-their-enthusiasm-for-weak-labor-figures-7a9727da?mod=mw_rss_topstories",
-      "published": "2026-10-02T17:38:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
-      "image": "news-images/f442d2fdfb35dfd87a1b06d2.jpg",
-      "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
-      "published": "2026-10-02T17:30:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "The U.S. can\u2019t find enough of this critical machine component to win the humanoid-robots race",
-      "image": "news-images/b4f09baf11048b4361b36b40.jpg",
-      "link": "https://www.marketwatch.com/story/to-win-the-humanoid-robots-race-the-u-s-needs-this-critical-machine-component-thats-hard-to-find-ca244571?mod=mw_rss_topstories",
-      "published": "2026-10-02T17:29:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "energy",
-      "headline": "Sector Update: Energy",
-      "image": null,
-      "link": "https://finance.yahoo.com/energy/articles/sector-energy-172310043.html?.tsrc=rss",
-      "published": "2026-10-02T17:23:10Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Ford fends off Hyundai to retain No. 3 U.S. sales position in third quarter",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/02/ford-q3-sales.html",
-      "published": "2026-10-02T17:20:33Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "energy",
-      "headline": "Oil prices mixed as G7 nations to release diesel stocks",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/02/oil-wti-brent-diesel-stock-release-europe.html",
-      "published": "2026-10-02T17:18:28Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "realestate",
-      "headline": "This couple took out an adjustable-rate mortgage at 6.8% in 2023. Here\u2019s how it\u2019s worked out.",
-      "image": "news-images/6a0708a0c29d1d0693167f21.jpg",
-      "link": "https://www.marketwatch.com/story/this-couple-took-out-an-adjustable-rate-mortgage-when-rates-were-over-8-heres-how-it-worked-out-d52e592a?mod=mw_rss_topstories",
-      "published": "2026-10-02T17:04:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "consumer",
-      "headline": "\u2018I don\u2019t want to die on the sales floor\u2019: I\u2019m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
-      "image": "news-images/fbd65e42a0c2d1d5695eded7.jpg",
-      "link": "https://www.marketwatch.com/story/i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-19-50-an-hour-at-a-big-box-store-when-can-i-finally-retire-369abcf9?mod=mw_rss_topstories",
-      "published": "2026-10-02T17:03:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Is AI growth helping markets look past oil and rate hike scares?",
-      "image": null,
-      "link": "https://finance.yahoo.com/video/ai-growth-helping-markets-look-165650917.html?.tsrc=rss",
-      "published": "2026-10-02T16:56:50Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "energy",
-      "headline": "Update: US Equity Indexes Jump as Weak Jobs Report Slashes Fed Policy Tightening Bias, Crude Oil Slumps",
-      "image": null,
-      "link": "https://finance.yahoo.com/economy/policy/articles/us-equity-indexes-jump-weak-165639328.html?.tsrc=rss",
-      "published": "2026-10-02T16:56:39Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "other",
-      "headline": "American starts letting customers mix cash and miles for tickets",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/02/american-airlines-tickets-cash-miles.html",
-      "published": "2026-10-02T16:49:55Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Stock Market Midday, Oct. 2: Stocks Rally as Weak Jobs Data Cools Fed Rate Hike Bets",
-      "image": null,
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/10/02/stock-market-midday-oct-2-stocks-rally-as-weak-jobs-data-cools-fed-rate-hike-bets/?.tsrc=rss",
-      "published": "2026-10-02T16:40:23Z",
-      "sentiment": "bullish"
     },
     {
       "category": "other",
@@ -186,84 +290,12 @@
       "sentiment": "neutral"
     },
     {
-      "category": "healthcare",
-      "headline": "Your health insurance premiums may take a big jump in 2027 \u2014 here's why",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/02/health-insurance-premiums-2027-inflation-aca-obamacare.html",
-      "published": "2026-10-02T16:26:57Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "other",
-      "headline": "1.7 million skilled trade jobs will open annually through 2035, report says\u2014experts don't know who will fill them",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/02/1point7-million-skilled-trade-jobs-to-open-annually-through-2035-report-says.html",
-      "published": "2026-10-02T16:15:01Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Update: US Equity Indexes Rise as Downbeat Nonfarm Payrolls Slash Hawkish Outlook for Fed Policy",
-      "image": null,
-      "link": "https://finance.yahoo.com/economy/policy/articles/us-equity-indexes-rise-downbeat-160244465.html?.tsrc=rss",
-      "published": "2026-10-02T16:02:44Z",
-      "sentiment": "bullish"
-    },
-    {
       "category": "international",
       "headline": "Europe\u2019s leaders agree to release diesel stockpiles after pressure from Trump",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=ed65190b-9b38-4402-a12c-f5b87b130f7c&amp;mod=mw_rss_bulletins",
       "published": "2026-10-02T15:51:03Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "More than 10 million older adults are now living in poverty as Social Security cuts loom: \u2018I don\u2019t know how anyone is making it\u2019",
-      "image": "news-images/503ef3edc7120ea1941ef93c.jpg",
-      "link": "https://www.marketwatch.com/story/more-than-10-million-older-adults-are-now-living-in-poverty-as-social-security-cuts-loom-i-dont-know-how-anyone-is-making-it-237ab798?mod=mw_rss_topstories",
-      "published": "2026-10-02T15:49:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Bond Yields Are Back Up and Stocks Are Losing Steam",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/1d9e0b7e-55f6-3d5e-a518-84dbc6122c94/bond-yields-are-back-up-and.html?.tsrc=rss",
-      "published": "2026-10-02T15:33:19Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "\u2018Complete disruption of the economy is all but certain\u2019: Top jobs and home prices are at risk, a new report on AI says",
-      "image": "news-images/647a4cbcbb8c633c48bafaad.jpg",
-      "link": "https://www.marketwatch.com/story/another-viral-ai-doomsday-report-claims-its-over-why-home-prices-could-take-a-hit-as-screen-based-jobs-disappear-4bed48bc?mod=mw_rss_topstories",
-      "published": "2026-10-02T15:18:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "\u2018We lived within our means\u2019: I earned $30,000 as a pastor and still retired comfortably. Why don\u2019t you tell people that?",
-      "image": "news-images/026037cd003f83820c0b950f.jpg",
-      "link": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
-      "published": "2026-10-02T15:00:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "The U.S. Economy Added 29,000 Jobs in September, Far Fewer Than Expected. Here's Why That's Good News for the Stock Market Right Now.",
-      "image": null,
-      "link": "https://www.fool.com/investing/2026/10/02/the-u-s-economy-added-29-000-jobs-in-september-far-fewer-than-expected-here-s-why-that-s-good-news-for-the-stock-market-right-now/?.tsrc=rss",
-      "published": "2026-10-02T14:46:01Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Dow Jumps 400 Points, Nasdaq Hits Record High After Jobs Report \u2014 BlackRock\u2019s Rosenberg Calls Data \u2018Dovish\u2019",
-      "image": null,
-      "link": "https://stocktwits.com/news-articles/markets/equity/dow-jumps-400-points-nasdaq-hits-record-high-after-jobs-report-black-rock-s-rosenberg-calls-data-dovish/cZDjW8uRBKO?.tsrc=rss",
-      "published": "2026-10-02T14:41:13Z",
-      "sentiment": "bullish"
     },
     {
       "category": "other",
@@ -288,42 +320,10 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=ae3423ce-1a6b-4bbe-93f3-c0f9ec0ce0c2&amp;mod=mw_rss_bulletins",
       "published": "2026-10-02T12:32:19Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "The latest jobs report is just moments away. Follow our coverage here.",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=11dd79ec-4041-43f3-a25d-0f90ce5d7646&amp;mod=mw_rss_bulletins",
-      "published": "2026-10-02T12:24:30Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Economic calendar: September's jobs report takes the main stage",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=5de20202-5f5c-4a4d-80c5-8534b984e288&amp;mod=mw_rss_bulletins",
-      "published": "2026-10-02T11:24:11Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "financials",
-      "headline": "French bonds further deteriorate, hitting European bank stocks",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=194a5bc3-f250-41e7-8a14-1fd34caadbb4&amp;mod=mw_rss_bulletins",
-      "published": "2026-10-02T09:39:07Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "industrials",
-      "headline": "Tesla\u2019s delivery report is just around the corner. Expect a sales drop.",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=a05cc531-1860-41a1-aac9-ab62b16f71f9&amp;mod=mw_rss_bulletins",
-      "published": "2026-10-01T23:32:50Z",
-      "sentiment": "bearish"
     }
   ],
-  "newest_item_published": "2026-10-02T18:21:13Z",
-  "source_item_count": 68,
+  "newest_item_published": "2026-10-02T22:42:00Z",
+  "source_item_count": 69,
   "sources": {
     "cnbc": {
       "contributed": 10,
@@ -331,7 +331,7 @@
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-10-02T18:21:13Z",
+      "newest": "2026-10-02T22:38:49Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,25 +340,25 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-10-02T17:48:00Z",
+      "newest": "2026-10-02T22:42:00Z",
       "ok": true
     },
     "mw_bulletins": {
-      "contributed": 10,
+      "contributed": 9,
       "error": null,
       "fetched": 10,
       "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-10-02T18:01:07Z",
+      "newest": "2026-10-02T21:55:49Z",
       "ok": true
     },
     "yahoo_dji": {
-      "contributed": 10,
+      "contributed": 11,
       "error": null,
-      "fetched": 18,
-      "fresh": 15,
+      "fetched": 19,
+      "fresh": 19,
       "label": "Yahoo Finance",
-      "newest": "2026-10-02T17:59:08Z",
+      "newest": "2026-10-02T22:28:59Z",
       "ok": true
     }
   }
