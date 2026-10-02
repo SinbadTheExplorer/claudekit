@@ -136,9 +136,13 @@ CADENCE_TOLERANCE_DAYS = {
 # reporting normally -- the 45-day monthly default would false-alarm on a
 # single day's routine slip. 60 gives roughly the same cushion ratio
 # wti_px's override gives over ITS observed lag.
+# Raised to 75 on 2026-10-01: the USA alone sat on end-of-July data at
+# 62 days while the other ten had August, so the basket (which is only as
+# fresh as its slowest reporter) false-alarmed. One country a month behind is
+# a routine reporting slip; a second missed month would still flag.
 FIELD_TOLERANCE_OVERRIDE = {
     "wti_px": 10,
-    "cb_gold_reserves": 60,
+    "cb_gold_reserves": 75,
 }
 
 SCHEMA_VERSION = 2

@@ -7310,7 +7310,7 @@ document.getElementById('audit-log-btn').addEventListener('click', openAuditLog)
 // comments and asserts the same cases as the Python suite — renaming or
 // removing the markers breaks that test, which is intended.
 const CADENCE_TOLERANCE_DAYS = { daily: 7, weekly: 10, monthly: 45, quarterly: 210, fomc: null };
-const FIELD_TOLERANCE_OVERRIDE = { wti_px: 10, cb_gold_reserves: 60 };
+const FIELD_TOLERANCE_OVERRIDE = { wti_px: 10, cb_gold_reserves: 75 };
 
 function freshnessVerdict(cadence, published, today, overrideDays) {
   if (published == null || cadence === 'fomc') return { state: 'unknown', ageDays: null };
