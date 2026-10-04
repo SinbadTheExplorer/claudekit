@@ -43,16 +43,16 @@
     "fed_decision_kalshi": {
       "cadence": "fomc",
       "class": "measured",
-      "published": "2026-10-03",
-      "ref_date": "2026-10-03",
+      "published": "2026-10-04",
+      "ref_date": "2026-10-04",
       "source": "Kalshi KXFED ladder, bucketed against FRED DFEDTARU",
       "value": {
         "buckets": {
           "cut25": 0.0,
           "cut50plus": 0.005,
-          "hike25": 0.16,
+          "hike25": 0.185,
           "hike50plus": 0.01,
-          "hold": 0.825
+          "hold": 0.8
         },
         "current_upper": 4.0,
         "event": "KXFED-26OCT",
@@ -62,14 +62,14 @@
     "fed_decision_polymarket": {
       "cadence": "fomc",
       "class": "measured",
-      "published": "2026-10-03",
-      "ref_date": "2026-10-03",
+      "published": "2026-10-04",
+      "ref_date": "2026-10-04",
       "source": "Polymarket 'Fed Decision' event",
       "value": {
         "buckets": {
           "cut25": 0.0045,
           "cut50plus": 0.0025,
-          "hike25": 0.175,
+          "hike25": 0.165,
           "hike50plus": 0.0045,
           "hold": 0.825
         },
@@ -254,7 +254,7 @@
       "value": 80.53
     }
   },
-  "generated_at": "2026-10-03T14:39:31Z",
+  "generated_at": "2026-10-04T15:16:08Z",
   "history": {
     "2025-10-01": {
       "m2": 22249.8,
@@ -262,21 +262,8 @@
     },
     "2025-10-03": {
       "dow": 46758.28,
-      "dxy": 97.72,
-      "ffr": 4.09,
-      "gold_px": 3908.9,
-      "hy_oas": 2.8,
-      "ig_oas": 0.75,
       "nasdaq": 22780.51,
-      "nfci": -0.53,
-      "rrp": 25.4,
-      "sofr": 4.18,
       "spx": 6715.79,
-      "tbill_3m": 3.87,
-      "us10y": 4.13,
-      "us2y": 3.58,
-      "vix": 16.6,
-      "wti_px": 61.65,
       "xle": 44.46,
       "xlf": 53.72,
       "xlk": 142.36,
