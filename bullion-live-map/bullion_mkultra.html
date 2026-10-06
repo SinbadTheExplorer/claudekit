@@ -3941,7 +3941,9 @@ function formatHeadlineTime(iso) {
 function buildNewsItem(h) {
   const a = document.createElement('a');
   a.className = 'news-item sentiment-' + (h.sentiment || 'neutral');
-  a.href = h.link;
+  // Second line of defense behind fetch_bullion_news.py's own check: a
+  // javascript: link here would run on click, and this page's CSP allows it.
+  if (/^https?:\/\//i.test(String(h.link || ''))) a.href = h.link;
   a.target = '_blank';
   a.rel = 'noopener noreferrer';
 

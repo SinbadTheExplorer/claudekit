@@ -221,13 +221,20 @@ def parse_rss_items(xml_text):
         pub_m = re.search(r"<pubDate>(.*?)</pubDate>", block, re.S)
         if not (title_m and link_m and pub_m):
             continue
+        link = link_m.group(1).strip()
+        # The page assigns this straight to an <a href>. A feed item whose link
+        # is javascript: (or data:, vbscript:, ...) would run script in the
+        # visitor's browser on click, and the page CSP's 'unsafe-inline'
+        # does not block javascript: URLs -- so only plain web links pass.
+        if not re.match(r"https?://", link, re.I):
+            continue
         published = _parse_pub_date(pub_m.group(1).strip())
         if published is None:
             continue
         image_m = re.search(r'<media:content[^>]*\burl="([^"]*)"', block)
         items.append({
             "title": html.unescape(title_m.group(1).strip()),
-            "link": link_m.group(1).strip(),
+            "link": link,
             "published": published,
             "image_url": image_m.group(1).strip() if image_m else None,
         })
