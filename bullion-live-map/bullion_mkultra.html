@@ -5994,7 +5994,12 @@ function playNarration(file, persona, text) {
   });
   return audio;
 }
-let narrationPersona = localStorage.getItem('bullion-narration-persona') === 'johnny' ? 'johnny' : 'alfred';
+// Storage access throws (SecurityError) when the visitor's browser blocks
+// site data, and an uncaught throw here halts the rest of this script --
+// news, live data and every later panel. Treat blocked storage as empty.
+function storageGet(k) { try { return localStorage.getItem(k); } catch (e) { return null; } }
+function storageSet(k, v) { try { localStorage.setItem(k, v); } catch (e) {} }
+let narrationPersona = storageGet('bullion-narration-persona') === 'johnny' ? 'johnny' : 'alfred';
 const ALFRED_ICON_SVG = '<svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true">' +
   '<path d="M7 15 L17 15 L17 17 L7 17 Z" fill="#fff" fill-opacity="0.55"/>' +
   '<path d="M9 6 L15 6 L15 15 L9 15 Z" fill="#fff" fill-opacity="0.55"/>' +
@@ -6019,7 +6024,7 @@ function applyPersonaToggle() {
 }
 function toggleNarrationPersona() {
   narrationPersona = narrationPersona === 'alfred' ? 'johnny' : 'alfred';
-  localStorage.setItem('bullion-narration-persona', narrationPersona);
+  storageSet('bullion-narration-persona', narrationPersona);
   applyPersonaToggle();
   dismissOrbNudge();
   if (narrationPersona === 'johnny') maybeShowJohnnyDisclaimer();
@@ -6029,8 +6034,8 @@ function toggleNarrationPersona() {
 // cynical, cyberpunk-flavored voice is inspired by Cyberpunk 2077's Johnny
 // Silverhand, and this reminds people they can switch back to Alfred.
 function maybeShowJohnnyDisclaimer() {
-  if (localStorage.getItem('bullion-johnny-disclaimer-seen')) return;
-  localStorage.setItem('bullion-johnny-disclaimer-seen', '1');
+  if (storageGet('bullion-johnny-disclaimer-seen')) return;
+  storageSet('bullion-johnny-disclaimer-seen', '1');
   const tip = document.getElementById('johnny-disclaimer-tip');
   if (!tip) return;
   tip.hidden = false;

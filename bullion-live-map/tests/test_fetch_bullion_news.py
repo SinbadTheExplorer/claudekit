@@ -22,6 +22,7 @@ from fetch_bullion_news import (
     sync_news_images,
     prune_dangling_images,
     build_news_envelope,
+    _fetch_image_bytes,
     CATEGORY_LABELS,
 )
 
@@ -118,6 +119,11 @@ class TestParseRssItems(unittest.TestCase):
         ) + "</channel></rss>"
         items = parse_rss_items(rss)
         self.assertEqual([i["link"] for i in items], ["HTTPS://www.cnbc.com/ok.html"])
+
+    def test_image_fetch_refuses_non_http_schemes(self):
+        for url in ("file:///etc/passwd", "ftp://example.com/a.jpg", "data:image/png;base64,AA"):
+            with self.assertRaises(urllib.error.URLError):
+                _fetch_image_bytes(url, timeout=1)
 
     def test_no_items_returns_empty_list(self):
         self.assertEqual(parse_rss_items("<rss><channel></channel></rss>"), [])
