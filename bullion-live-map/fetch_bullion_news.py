@@ -456,10 +456,22 @@ def resize_thumbnail_bytes(data, max_dimension=IMAGE_MAX_DIMENSION, quality=IMAG
         return out.getvalue()
 
 
+IMAGE_MAX_BYTES = 5 * 1024 * 1024
+
+
 def _fetch_image_bytes(url, timeout):
+    # image_url comes straight from a feed. urlopen also speaks file:// and
+    # ftp://, so a hostile item could otherwise point it at the runner's own
+    # disk; and an unbounded read() lets one huge response exhaust memory.
+    # Both raise URLError so sync_news_images' existing handler skips them.
+    if not re.match(r"https?://", url, re.I):
+        raise urllib.error.URLError(f"refusing non-http(s) image URL scheme")
     req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
     with urllib.request.urlopen(req, timeout=timeout) as resp:
-        return resp.read()
+        data = resp.read(IMAGE_MAX_BYTES + 1)
+    if len(data) > IMAGE_MAX_BYTES:
+        raise urllib.error.URLError(f"image larger than {IMAGE_MAX_BYTES} bytes")
+    return data
 
 
 def sync_news_images(items, images_dir, fetch=None):
