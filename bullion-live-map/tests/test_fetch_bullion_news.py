@@ -104,6 +104,21 @@ class TestParseRssItems(unittest.TestCase):
         self.assertEqual(items[1]["title"],
                           "Dow, S&P 500, Nasdaq drop as bond yields weigh on stocks")
 
+    def test_drops_items_whose_link_is_not_http(self):
+        rss = "<rss><channel>" + "".join(
+            f"<item><title>T{n}</title><link>{link}</link>"
+            f"<pubDate>2026-09-01T16:50:13Z</pubDate></item>"
+            for n, link in enumerate([
+                "javascript:alert(1)",
+                " JavaScript:alert(1)",
+                "data:text/html,<script>alert(1)</script>",
+                "//evil.example/x",
+                "HTTPS://www.cnbc.com/ok.html",
+            ])
+        ) + "</channel></rss>"
+        items = parse_rss_items(rss)
+        self.assertEqual([i["link"] for i in items], ["HTTPS://www.cnbc.com/ok.html"])
+
     def test_no_items_returns_empty_list(self):
         self.assertEqual(parse_rss_items("<rss><channel></channel></rss>"), [])
 
