@@ -19,18 +19,18 @@
     "dow": {
       "cadence": "daily",
       "class": "measured",
-      "published": "2026-10-05",
-      "ref_date": "2026-10-05",
+      "published": "2026-10-06",
+      "ref_date": "2026-10-06",
       "source": "Yahoo ^DJI",
-      "value": 51362.17
+      "value": 51564.99
     },
     "dxy": {
       "cadence": "daily",
       "class": "measured",
-      "published": "2026-10-05",
-      "ref_date": "2026-10-05",
+      "published": "2026-10-06",
+      "ref_date": "2026-10-06",
       "source": "Yahoo DX-Y.NYB",
-      "value": 102.18
+      "value": 101.87
     },
     "fed_bs": {
       "cadence": "weekly",
@@ -43,16 +43,16 @@
     "fed_decision_kalshi": {
       "cadence": "fomc",
       "class": "measured",
-      "published": "2026-10-05",
-      "ref_date": "2026-10-05",
+      "published": "2026-10-06",
+      "ref_date": "2026-10-06",
       "source": "Kalshi KXFED ladder, bucketed against FRED DFEDTARU",
       "value": {
         "buckets": {
           "cut25": 0.0,
           "cut50plus": 0.005,
-          "hike25": 0.19,
+          "hike25": 0.175,
           "hike50plus": 0.01,
-          "hold": 0.795
+          "hold": 0.81
         },
         "current_upper": 4.0,
         "event": "KXFED-26OCT",
@@ -62,16 +62,16 @@
     "fed_decision_polymarket": {
       "cadence": "fomc",
       "class": "measured",
-      "published": "2026-10-05",
-      "ref_date": "2026-10-05",
+      "published": "2026-10-06",
+      "ref_date": "2026-10-06",
       "source": "Polymarket 'Fed Decision' event",
       "value": {
         "buckets": {
           "cut25": 0.0045,
           "cut50plus": 0.0015,
-          "hike25": 0.205,
-          "hike50plus": 0.0045,
-          "hold": 0.785
+          "hike25": 0.165,
+          "hike50plus": 0.0035,
+          "hold": 0.825
         },
         "event": "fed-decision-in-october-20260617190323537",
         "meeting_close": "2026-10-29"
@@ -80,34 +80,34 @@
     "ffr": {
       "cadence": "daily",
       "class": "measured",
-      "published": "2026-10-02",
-      "ref_date": "2026-10-01",
+      "published": "2026-10-05",
+      "ref_date": "2026-10-02",
       "source": "FRED DFF",
       "value": 3.88
     },
     "gold_px": {
       "cadence": "daily",
       "class": "measured",
-      "published": "2026-10-05",
-      "ref_date": "2026-10-05",
+      "published": "2026-10-06",
+      "ref_date": "2026-10-06",
       "source": "Yahoo GC=F",
-      "value": 4169.5
+      "value": 4188.5
     },
     "hy_oas": {
       "cadence": "daily",
       "class": "measured",
-      "published": "2026-10-02",
-      "ref_date": "2026-10-02",
+      "published": "2026-10-05",
+      "ref_date": "2026-10-05",
       "source": "FRED BAMLH0A0HYM2",
-      "value": 3.1
+      "value": 3.12
     },
     "ig_oas": {
       "cadence": "daily",
       "class": "measured",
-      "published": "2026-10-02",
-      "ref_date": "2026-10-02",
+      "published": "2026-10-05",
+      "ref_date": "2026-10-05",
       "source": "FRED BAMLC0A0CM",
-      "value": 0.85
+      "value": 0.84
     },
     "m2": {
       "cadence": "monthly",
@@ -128,10 +128,10 @@
     "nasdaq": {
       "cadence": "daily",
       "class": "measured",
-      "published": "2026-10-05",
-      "ref_date": "2026-10-05",
+      "published": "2026-10-06",
+      "ref_date": "2026-10-06",
       "source": "Yahoo ^IXIC",
-      "value": 27520.35
+      "value": 27652.8
     },
     "nfci": {
       "cadence": "weekly",
@@ -160,42 +160,42 @@
     "sofr": {
       "cadence": "daily",
       "class": "measured",
-      "published": "2026-10-05",
-      "ref_date": "2026-10-02",
+      "published": "2026-10-06",
+      "ref_date": "2026-10-05",
       "source": "FRED SOFR",
-      "value": 3.88
+      "value": 3.89
     },
     "spx": {
       "cadence": "daily",
       "class": "measured",
-      "published": "2026-10-05",
-      "ref_date": "2026-10-05",
+      "published": "2026-10-06",
+      "ref_date": "2026-10-06",
       "source": "Yahoo ^GSPC",
-      "value": 7787.05
+      "value": 7830.66
     },
     "tbill_3m": {
       "cadence": "daily",
       "class": "measured",
-      "published": "2026-10-02",
-      "ref_date": "2026-10-01",
+      "published": "2026-10-05",
+      "ref_date": "2026-10-02",
       "source": "FRED DTB3",
-      "value": 4.0
+      "value": 4.01
     },
     "us10y": {
       "cadence": "daily",
       "class": "measured",
-      "published": "2026-10-02",
-      "ref_date": "2026-10-01",
+      "published": "2026-10-05",
+      "ref_date": "2026-10-02",
       "source": "FRED DGS10",
-      "value": 5.24
+      "value": 5.28
     },
     "us2y": {
       "cadence": "daily",
       "class": "measured",
-      "published": "2026-10-02",
-      "ref_date": "2026-10-01",
+      "published": "2026-10-05",
+      "ref_date": "2026-10-02",
       "source": "FRED DGS2",
-      "value": 4.78
+      "value": 4.83
     },
     "usd_reserve_share": {
       "cadence": "quarterly",
@@ -208,10 +208,10 @@
     "vix": {
       "cadence": "daily",
       "class": "measured",
-      "published": "2026-10-02",
-      "ref_date": "2026-10-02",
+      "published": "2026-10-05",
+      "ref_date": "2026-10-05",
       "source": "FRED VIXCLS",
-      "value": 15.3
+      "value": 15.5
     },
     "wti_px": {
       "cadence": "daily",
@@ -224,44 +224,41 @@
     "xle": {
       "cadence": "daily",
       "class": "measured",
-      "published": "2026-10-05",
-      "ref_date": "2026-10-05",
+      "published": "2026-10-06",
+      "ref_date": "2026-10-06",
       "source": "Yahoo XLE",
-      "value": 63.41
+      "value": 63.92
     },
     "xlf": {
       "cadence": "daily",
       "class": "measured",
-      "published": "2026-10-05",
-      "ref_date": "2026-10-05",
+      "published": "2026-10-06",
+      "ref_date": "2026-10-06",
       "source": "Yahoo XLF",
-      "value": 53.93
+      "value": 54.03
     },
     "xlk": {
       "cadence": "daily",
       "class": "measured",
-      "published": "2026-10-05",
-      "ref_date": "2026-10-05",
+      "published": "2026-10-06",
+      "ref_date": "2026-10-06",
       "source": "Yahoo XLK",
-      "value": 201.12
+      "value": 202.4
     },
     "xlp": {
       "cadence": "daily",
       "class": "measured",
-      "published": "2026-10-05",
-      "ref_date": "2026-10-05",
+      "published": "2026-10-06",
+      "ref_date": "2026-10-06",
       "source": "Yahoo XLP",
-      "value": 80.85
+      "value": 81.89
     }
   },
-  "generated_at": "2026-10-05T19:12:45Z",
+  "generated_at": "2026-10-06T16:39:15Z",
   "history": {
     "2025-10-01": {
       "m2": 22249.8,
       "nfp_mom": -140.0
-    },
-    "2025-10-05": {
-      "ffr": 4.09
     },
     "2025-10-06": {
       "dow": 46694.97,
@@ -6050,6 +6047,7 @@
     "2026-10-02": {
       "dow": 51176.96,
       "dxy": 101.93,
+      "ffr": 3.88,
       "gold_px": 4162.3,
       "hy_oas": 3.1,
       "ig_oas": 0.85,
@@ -6057,6 +6055,9 @@
       "rrp": 1.5,
       "sofr": 3.88,
       "spx": 7722.72,
+      "tbill_3m": 4.01,
+      "us10y": 5.28,
+      "us2y": 4.83,
       "vix": 15.3,
       "xle": 62.82,
       "xlf": 53.49,
@@ -6064,16 +6065,31 @@
       "xlp": 80.53
     },
     "2026-10-05": {
-      "dow": 51362.17,
-      "dxy": 102.18,
-      "gold_px": 4169.5,
-      "nasdaq": 27520.35,
+      "dow": 51267.9,
+      "dxy": 102.17,
+      "gold_px": 4156.8,
+      "hy_oas": 3.12,
+      "ig_oas": 0.84,
+      "nasdaq": 27477.31,
       "rrp": 1.0,
-      "spx": 7787.05,
-      "xle": 63.41,
-      "xlf": 53.93,
-      "xlk": 201.12,
-      "xlp": 80.85
+      "sofr": 3.89,
+      "spx": 7773.95,
+      "vix": 15.5,
+      "xle": 63.45,
+      "xlf": 53.88,
+      "xlk": 200.93,
+      "xlp": 81.04
+    },
+    "2026-10-06": {
+      "dow": 51564.99,
+      "dxy": 101.87,
+      "gold_px": 4188.5,
+      "nasdaq": 27652.8,
+      "spx": 7830.66,
+      "xle": 63.92,
+      "xlf": 54.03,
+      "xlk": 202.4,
+      "xlp": 81.89
     }
   },
   "schema": 2
