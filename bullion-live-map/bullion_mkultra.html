@@ -629,6 +629,25 @@
     50%      { transform: translateY(4px); }
   }
 
+  /* First-open tips: one short card the first time a visitor opens each
+     menu, game-tutorial style. Never repeats; "Turn off tips" silences all;
+     "Show tips again" (Analysis tab) brings them back. */
+  #tip-card {
+    position: fixed; z-index: 30; width: min(300px, calc(100vw - 32px));
+    background: var(--bg-panel); border: 1px solid var(--gold-dim, var(--border));
+    padding: 12px 14px 10px; box-shadow: 0 10px 32px rgba(0,0,0,0.55);
+    color: var(--text); font-size: 12.5px; line-height: 1.5;
+  }
+  #tip-card.hidden { display: none; }
+  #tip-eyebrow { font-size: 10px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--accent); margin-bottom: 4px; }
+  #tip-title { margin: 0 0 4px; font-size: 13px; color: var(--gold); font-weight: 600; }
+  #tip-body { color: var(--text-dim); }
+  #tip-body b { color: var(--text); font-weight: 600; }
+  #tip-actions { margin-top: 10px; display: flex; justify-content: space-between; align-items: center; gap: 8px; }
+  #tip-ok { padding: 5px 12px; font-size: 12px; }
+  .tip-link { background: none; border: none; padding: 0; font: inherit; font-size: 11px; color: var(--text-dim); text-decoration: underline; text-underline-offset: 2px; cursor: pointer; }
+  .tip-link:hover { color: var(--accent); }
+
   @media (max-width: 640px) {
     #header h1 { font-size: 17px; }
     #header .subtitle { display: none; }
@@ -1219,7 +1238,7 @@
         <button class="btn" id="reset-shock-btn">Reset</button>
       </div>
       <div class="scenario-explain" id="scenario-explain">Pick a scenario to see a one-line summary of what it simulates.</div>
-      <div class="sim-note" style="margin-top:8px">Baseline is a simulated mid-2024 snapshot, not a live feed. Running a scenario expands the whole map so you can see every node recolor. Multipliers are illustrative and directionally sourced, not calibrated.</div>
+      <div class="sim-note" style="margin-top:8px">Scenarios start from today&rsquo;s live numbers, or from a fixed mid-2024 snapshot if you switch the map to Simulated. Running a scenario expands the whole map so you can see every node recolor. Multipliers are illustrative and directionally sourced, not calibrated.</div>
     </div>
 
     <div id="manual-section">
@@ -1286,6 +1305,8 @@
       <button class="run-btn" id="run-ai-btn" style="margin-top:8px">Run macro analysis &#x2197;</button>
       <div style="text-align:center;margin-top:6px">
         <button type="button" class="disclaimer-link" id="disclaimer-link">Disclaimer &amp; privacy</button>
+        &nbsp;&middot;&nbsp;
+        <button type="button" class="tip-link" id="tips-replay">Show tips again</button>
       </div>
     </div>
 
@@ -4165,7 +4186,7 @@ const COACH = [
 ];
 let coachStep = 0;
 let coachDone = false;
-try { if (sessionStorage.getItem('bullionCoachDone') === '1') coachDone = true; } catch (e) {}
+if (storageGet('bullion-coach-done') === '1') coachDone = true;
 let interacted = false;
 function renderCoach() {
   const card = document.getElementById('coach');
@@ -4186,7 +4207,7 @@ function coachAdvance() {
 }
 function dismissCoach() {
   coachDone = true;
-  try { sessionStorage.setItem('bullionCoachDone', '1'); } catch (e) {}
+  storageSet('bullion-coach-done', '1');
   const card = document.getElementById('coach');
   if (card) card.classList.add('hidden');
 }
@@ -7566,6 +7587,16 @@ fetch('data.json')
 loadNewsList();
 </script>
 
+<div id="tip-card" class="hidden" role="dialog" aria-labelledby="tip-title" aria-describedby="tip-body" aria-live="polite">
+  <div id="tip-eyebrow">Tip</div>
+  <h3 id="tip-title"></h3>
+  <div id="tip-body"></div>
+  <div id="tip-actions">
+    <button type="button" class="tip-link" id="tip-off">Turn off tips</button>
+    <button type="button" class="btn" id="tip-ok">Got it</button>
+  </div>
+</div>
+
 <div id="disclaimer-overlay">
   <div id="disclaimer-modal" role="dialog" aria-modal="true" aria-labelledby="disclaimer-heading">
     <button id="disclaimer-close" aria-label="Close">&times;</button>
@@ -7574,7 +7605,7 @@ loadNewsList();
     <p>This is a personal learning and teaching tool. Its causal links, calibrated coefficients, backtest / &ldquo;model accuracy&rdquo; figures, AI-generated commentary, health scores and impact multipliers are illustrative and may be simplified, outdated, or wrong; the backtest measures same-day co-movement on historical data and is not a forecast. Nothing here is investment, financial, legal, or tax advice, a recommendation to buy or sell anything, or a prediction. The author is not a licensed financial adviser. Do your own research and consult a qualified professional before making any financial decision. The tool is provided &ldquo;as is,&rdquo; without warranty of any kind, and the author accepts no liability for any loss arising from its use.</p>
     <h4>Privacy</h4>
     <p>This site sets no cookies, uses no analytics, and collects no personal data. It loads live market data from a <code>data.json</code> file and news headlines from a <code>news.json</code> file, both served from this same site and refreshed by an automated pipeline. The macro analysis feature and the news bar's bullish/bearish tagging both run as deterministic, local calculations &mdash; no request, state, or API key is ever sent anywhere for either. The page is hosted on GitHub Pages, whose provider may process your IP address to serve it, under its own privacy policy.</p>
-    <p>Two settings are remembered in your own browser&rsquo;s local storage, never sent anywhere: which narrator voice you picked, and whether you have seen the Johnny voice notice. Clearing your browser&rsquo;s site data erases them.</p>
+    <p>A few settings are remembered in your own browser&rsquo;s local storage, never sent anywhere: which narrator voice you picked, and which tips and notices you have already seen. Clearing your browser&rsquo;s site data erases them.</p>
     <p>This site is intended for adult learners and is not directed to children under 13. It does not knowingly collect any information from anyone, including children.</p>
     <h4>Contact &amp; copyright</h4>
     <p>Questions, corrections or concerns: open an issue at <a href="https://github.com/SinbadTheExplorer/claudekit/issues" target="_blank" rel="noopener noreferrer">github.com/SinbadTheExplorer/claudekit/issues</a>. &copy; 2026 SinbadTheExplorer. All rights reserved.</p>
@@ -7604,6 +7635,140 @@ loadNewsList();
     if (!e.target.closest || !e.target.closest('#disclaimer-modal')) close();
   });
   document.addEventListener('keydown', function(e){ if (e.key === 'Escape') close(); });
+})();
+</script>
+
+<script>
+// ── First-open tips ───────────────────────────────────────────────────────
+// Game-tutorial style: the first time a visitor opens a menu or tool, one
+// short card explains it, then never again. Copy describes what the UI does
+// (checked against the handlers it sits on), never a causal claim.
+// Features that already teach themselves are deliberately absent: the node
+// card (coach step 2), the narrator orb (its own nudge + Johnny notice) and
+// the Audit Log (opens in its own tab with its own explanation).
+(function(){
+  var TIPS = {
+    market:    { anchor: '#markets-indices', title: 'Market: today’s numbers',
+      body: 'Live index prices, market-implied odds for the next Fed decision, and recent headlines. Tap an index card to open it on Yahoo Finance. The <b>▲ / ▼</b> on a headline comes from simple keyword counting, not a judgement of the story.' },
+    analysis:  { anchor: '#analysis-view .drawer-label', title: 'Analysis: your lab bench',
+      body: 'Every tool here runs on the map’s model. A good first move: pick a scenario at the top and press <b>Run</b>, then switch back to Causal Link to watch it spread.' },
+    board:     { anchor: '#causal-subview-toggle', title: 'Flat view',
+      body: 'The same nodes and links, laid out in columns instead of a 3D globe. Easier to read on small screens. Press <b>3D</b> to go back.' },
+    live:      { anchor: '#live-toggle-btn', title: 'Live vs simulated',
+      body: '<b>Live Data</b> uses the latest market numbers from the daily data update. <b>Simulated</b> swaps in a fixed mid-2024 snapshot, so you can study the model without today’s noise.' },
+    expand:    { anchor: '#expand-all-btn', title: 'Every node, all at once',
+      body: 'The map opens on its 9 most-connected nodes to stay readable. <b>Expand All</b> shows the rest; <b>Collapse All</b> goes back.' },
+    scenario:  { anchor: '#run-scenario-btn', title: 'Watch the shock spread',
+      body: 'Every node recolours by how this scenario pushes it, and <b>Shock impact</b> (under Live metrics) lists each move in % from baseline. Read the direction and rough size, not exact levels. <b>Reset</b> clears it.' },
+    manual:    { anchor: '#manual-box', title: 'Be the Fed',
+      body: 'Drag any of the five drivers. Yields, stocks, gold and every node colour recalculate from how far you pushed them. <b>Reset to baseline</b> undoes it.' },
+    history:   { anchor: '#history-date-input', title: 'Time machine',
+      body: 'The metrics now show that day’s data instead of today’s. Press <b>Today</b> to come back to live numbers.' },
+    macro:     { anchor: '#run-ai-btn', title: 'What the score means',
+      body: 'It scores financial stress across five areas (credit, volatility, stocks, funding and safe assets), each compared with its own history. It is a fixed formula run in your browser, not an AI chatbot.' },
+    trends:    { anchor: '#trends-box', title: 'Cheat sheet',
+      body: 'For every driver: what rises, falls or shifts when it goes up. More arrows mean a stronger link; <b>?</b> means the direction isn’t verified yet.' },
+    customize: { anchor: '#node-picker-box', title: 'Make it your own',
+      body: 'Untick a node to hide it from the 3D map. <b>Copy link</b> (bottom-left of the map) saves your layout in a link you can share.' },
+    chain:     { anchor: '#chain-results', title: 'Follow the dominoes',
+      body: 'These are the routes between your two nodes, up to 3 steps long. Each step is one cause-and-effect link on the map.' }
+  };
+  var card = document.getElementById('tip-card');
+  var current = null, anchorEl = null;
+
+  function seen(key)   { return storageGet('bullion-tip-' + key) === '1'; }
+  function tipsOff()   { return storageGet('bullion-tips-off') === '1'; }
+  function blocked() {
+    // Never stack on the start screen, the "Start here" coach or the disclaimer.
+    var start = document.getElementById('start-screen');
+    var coach = document.getElementById('coach');
+    var disc  = document.getElementById('disclaimer-overlay');
+    return (start && !start.classList.contains('hidden'))
+        || (coach && coach.getClientRects().length > 0)   // offsetParent is always null for position:fixed
+        || (disc && disc.classList.contains('visible'));
+  }
+  function place() {
+    if (card.classList.contains('hidden')) return;
+    var vw = window.innerWidth, vh = window.innerHeight;
+    if (vw <= 640) {  // phones: dock along the bottom edge
+      card.style.left = '8px'; card.style.right = '8px'; card.style.width = 'auto';
+      card.style.top = 'auto'; card.style.bottom = '12px';
+      return;
+    }
+    card.style.right = 'auto'; card.style.bottom = 'auto'; card.style.width = '';
+    var w = card.offsetWidth, h = card.offsetHeight;
+    var r = anchorEl ? anchorEl.getBoundingClientRect() : null;
+    var top, left;
+    if (!r || (!r.width && !r.height)) { top = 80; left = (vw - w) / 2; }
+    else {
+      top = r.bottom + 10;
+      if (top + h > vh - 12) top = r.top - h - 10;
+      left = r.left;
+    }
+    card.style.top  = Math.max(12, Math.min(top, vh - h - 12)) + 'px';
+    card.style.left = Math.max(16, Math.min(left, vw - w - 16)) + 'px';
+  }
+  function show(key) {
+    var t = TIPS[key];
+    if (!t || tipsOff() || seen(key) || blocked()) return;
+    current = key;
+    anchorEl = document.querySelector(t.anchor);
+    document.getElementById('tip-title').textContent = t.title;
+    document.getElementById('tip-body').innerHTML = t.body;  // static copy above, never external data
+    card.classList.remove('hidden');
+    place();
+  }
+  function hide(markSeen) {
+    if (current && markSeen) storageSet('bullion-tip-' + current, '1');
+    current = null; anchorEl = null;
+    card.classList.add('hidden');
+  }
+  window.bullionShowTip = show;
+
+  document.getElementById('tip-ok').addEventListener('click', function(){ hide(true); });
+  document.getElementById('tip-off').addEventListener('click', function(){
+    storageSet('bullion-tips-off', '1'); hide(true);
+  });
+  document.addEventListener('keydown', function(e){ if (e.key === 'Escape' && current) hide(true); });
+  window.addEventListener('resize', place);
+  window.addEventListener('scroll', place, true);  // the Analysis tab scrolls; keep the card by its anchor
+
+  document.getElementById('tips-replay').addEventListener('click', function(){
+    Object.keys(TIPS).forEach(function(k){ storageSet('bullion-tip-' + k, ''); });
+    storageSet('bullion-tips-off', ''); storageSet('bullion-coach-done', '');
+    coachDone = false; coachStep = 0;
+    hide(false);
+    showView('causal-link'); renderCoach();
+  });
+
+  // Triggers. Each runs after the element's own handler (registered earlier),
+  // so the tip sees the opened state. A tip that is blocked right now is not
+  // marked seen, so it simply appears the next time its trigger fires.
+  function on(id, key, when) {
+    var el = document.getElementById(id);
+    if (!el) return;
+    el.addEventListener(el.tagName === 'INPUT' ? 'change' : 'click', function(){
+      setTimeout(function(){ if (!when || when()) show(key); }, 0);
+    });
+  }
+  function opened(boxId) { return function(){ var b = document.getElementById(boxId); return b && !b.classList.contains('hidden'); }; }
+  on('tab-market', 'market');
+  on('tab-analysis', 'analysis');
+  on('causal-subview-toggle', 'board', function(){ return !document.getElementById('board-view').hidden; });
+  on('live-toggle-btn', 'live');
+  on('expand-all-btn', 'expand');
+  on('run-scenario-btn', 'scenario');
+  on('manual-toggle', 'manual', opened('manual-box'));
+  on('history-date-input', 'history');
+  on('run-ai-btn', 'macro');
+  on('trends-toggle', 'trends', opened('trends-box'));
+  on('node-picker-toggle', 'customize', opened('node-picker-box'));
+  on('chain-trace-btn', 'chain');
+  // Switching tabs hides the menu a tip points at, so put that tip away
+  // (unseen) rather than leave it floating over the wrong view.
+  ['tab-market', 'tab-analysis', 'tab-causal-link'].forEach(function(id){
+    document.getElementById(id).addEventListener('click', function(){ if (current) hide(false); }, true);
+  });
 })();
 </script>
 
