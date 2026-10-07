@@ -897,7 +897,7 @@
   .prov-dot  { display:inline-block; width:6px; height:6px; border-radius:50%;
                background:var(--amber); margin-left:5px; vertical-align:middle; }
   .sim-mark { color:var(--amber); font-weight:600; margin-left:3px; cursor:help; }
-  .disclaimer-link { font-size:11px; color:var(--text-dim); cursor:pointer; text-decoration:underline; text-underline-offset:2px; letter-spacing:0.02em; }
+  .disclaimer-link { background:none; border:none; padding:0; font-family:inherit; text-transform:inherit; font-size:11px; color:var(--text-dim); cursor:pointer; text-decoration:underline; text-underline-offset:2px; letter-spacing:0.02em; }
   .disclaimer-link:hover { color:var(--accent); }
   #disclaimer-overlay { position:fixed; inset:0; background:rgba(0,0,0,0.65); z-index:400; opacity:0; pointer-events:none; transition:opacity 0.18s; }
   #disclaimer-overlay.visible { opacity:1; pointer-events:auto; }
@@ -909,6 +909,7 @@
      h3 title) is left alone. */
   #disclaimer-modal p + h4 { border-top:1px solid var(--border); padding-top:12px; }
   #disclaimer-modal p { font-size:12px; color:var(--text-dim); line-height:1.6; margin:0 0 8px; }
+  #disclaimer-modal a { color:var(--gold); }
   #disclaimer-close { position:absolute; top:12px; right:14px; font-size:22px; line-height:1; cursor:pointer; color:var(--text-dim); background:none; border:none; padding:0 4px; }
   #disclaimer-close:hover { color:var(--text); }
 
@@ -952,7 +953,8 @@
   }
   @keyframes bullion-pulse { 0%, 100% { opacity: 0.4; } 50% { opacity: 1; } }
   #start-screen .version-label {
-    position: absolute; bottom: 1rem; left: 0; right: 0; text-align: center;
+    position: absolute; bottom: 1rem; left: 0; right: 0; text-align: center; z-index: 1;
+    display: flex; flex-wrap: wrap; justify-content: center; gap: 4px 14px; padding: 0 16px;
     font-size: 10px; color: var(--text-dim); text-transform: uppercase; letter-spacing: 0.07em;
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
   }
@@ -1117,7 +1119,12 @@
     <div class="subtitle">US Financial System &mdash; Mk Ultra Constellation</div>
     <button id="start-screen-cta">Click to Start</button>
   </div>
-  <div class="version-label">Mk Ultra</div>
+  <div class="version-label">
+    <span>Mk Ultra</span>
+    <span>Educational use only &mdash; not financial advice</span>
+    <button type="button" class="disclaimer-link">Disclaimer &amp; privacy</button>
+    <span>&copy; 2026 SinbadTheExplorer</span>
+  </div>
 </div>
 <div id="pipeline-alarm" role="status" hidden></div>
 <div id="starfield"></div>
@@ -1278,7 +1285,7 @@
       </div>
       <button class="run-btn" id="run-ai-btn" style="margin-top:8px">Run macro analysis &#x2197;</button>
       <div style="text-align:center;margin-top:6px">
-        <span class="disclaimer-link" id="disclaimer-link">Disclaimer &amp; privacy</span>
+        <button type="button" class="disclaimer-link" id="disclaimer-link">Disclaimer &amp; privacy</button>
       </div>
     </div>
 
@@ -7567,17 +7574,30 @@ loadNewsList();
     <p>This is a personal learning and teaching tool. Its causal links, calibrated coefficients, backtest / &ldquo;model accuracy&rdquo; figures, AI-generated commentary, health scores and impact multipliers are illustrative and may be simplified, outdated, or wrong; the backtest measures same-day co-movement on historical data and is not a forecast. Nothing here is investment, financial, legal, or tax advice, a recommendation to buy or sell anything, or a prediction. The author is not a licensed financial adviser. Do your own research and consult a qualified professional before making any financial decision. The tool is provided &ldquo;as is,&rdquo; without warranty of any kind, and the author accepts no liability for any loss arising from its use.</p>
     <h4>Privacy</h4>
     <p>This site sets no cookies, uses no analytics, and collects no personal data. It loads live market data from a <code>data.json</code> file and news headlines from a <code>news.json</code> file, both served from this same site and refreshed by an automated pipeline. The macro analysis feature and the news bar's bullish/bearish tagging both run as deterministic, local calculations &mdash; no request, state, or API key is ever sent anywhere for either. The page is hosted on GitHub Pages, whose provider may process your IP address to serve it, under its own privacy policy.</p>
+    <p>Two settings are remembered in your own browser&rsquo;s local storage, never sent anywhere: which narrator voice you picked, and whether you have seen the Johnny voice notice. Clearing your browser&rsquo;s site data erases them.</p>
+    <p>This site is intended for adult learners and is not directed to children under 13. It does not knowingly collect any information from anyone, including children.</p>
+    <h4>Contact &amp; copyright</h4>
+    <p>Questions, corrections or concerns: open an issue at <a href="https://github.com/SinbadTheExplorer/claudekit/issues" target="_blank" rel="noopener noreferrer">github.com/SinbadTheExplorer/claudekit/issues</a>. &copy; 2026 SinbadTheExplorer. All rights reserved.</p>
   </div>
 </div>
 
 <script>
 (function(){
   var overlay = document.getElementById('disclaimer-overlay');
-  var link    = document.getElementById('disclaimer-link');
+  var links   = document.querySelectorAll('.disclaimer-link');
   var closeB  = document.getElementById('disclaimer-close');
-  function open(){ overlay.classList.add('visible'); }
-  function close(){ overlay.classList.remove('visible'); }
-  if (link)   link.addEventListener('click', open);
+  var opener  = null;
+  function open(e){
+    opener = e && e.currentTarget;
+    overlay.classList.add('visible');
+    if (closeB) closeB.focus();
+  }
+  function close(){
+    if (!overlay.classList.contains('visible')) return;
+    overlay.classList.remove('visible');
+    if (opener && opener.focus) opener.focus();
+  }
+  links.forEach(function(l){ l.addEventListener('click', open); });
   if (closeB) closeB.addEventListener('click', close);
   // Close on backdrop click, but not when clicking inside the modal.
   if (overlay) overlay.addEventListener('click', function(e){
