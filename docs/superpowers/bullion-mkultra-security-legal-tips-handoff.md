@@ -14,7 +14,7 @@ All three are implemented, browser-verified, committed and pushed to the branch.
 
 ## How to resume (do this first)
 
-1. `git fetch origin && git log --oneline -1 origin/security/news-link-scheme`. It should be `0aa59c3` (or later, if someone pushed after this handoff).
+1. `git fetch origin && git log --oneline -1 origin/security/news-link-scheme`. It should be `a48df83` (the commit that added this handoff; code changes end at `0aa59c3`), or later if someone pushed since.
 2. Has it been merged? Check with `git branch -r --contains 0aa59c3`, or look for a PR from `security/news-link-scheme`.
    - **Not merged:** the user still has to merge it (or ask for a PR). As of writing it merges cleanly into `origin/main` (`git merge-tree --write-tree origin/security/news-link-scheme origin/main` exits 0); `main` had only moved by bot data commits. **Don't open a PR unless the user asks.**
    - **Merged:** start any new work from fresh `main`, not from this branch.
