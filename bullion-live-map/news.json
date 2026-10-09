@@ -1,6 +1,286 @@
 {
-  "generated_at": "2026-10-08T19:15:22Z",
+  "generated_at": "2026-10-09T00:17:27Z",
   "headlines": [
+    {
+      "category": "tech",
+      "headline": "Dow Jones Futures: AI Stocks Tumble On OpenAI News; SpaceX Move Slams Verizon, AT&T Late",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/955f9165-6ca4-336e-9d6e-fff1a7c7f4e0/dow-jones-futures%3A-ai-stocks.html?.tsrc=rss",
+      "published": "2026-10-09T00:05:47Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "How to downsize like a pro \u2014 and free yourself from being a \u2018prisoner of your possessions\u2019",
+      "image": "news-images/01b63e269867541c710e43e8.jpg",
+      "link": "https://www.marketwatch.com/story/how-to-downsize-like-a-pro-and-free-yourself-from-being-a-prisoner-of-your-possessions-c4b5533e?mod=mw_rss_topstories",
+      "published": "2026-10-09T00:03:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Feel like a pumpkin-spice burrito? Analysts try to wrap their heads around a possible Starbucks-Chipotle tie-up.",
+      "image": "news-images/a1bd910e3a5d88ce541946b2.jpg",
+      "link": "https://www.marketwatch.com/story/feel-like-a-pumpkin-spice-burrito-analysts-try-to-wrap-their-heads-around-a-possible-starbucks-chipotle-tie-up-5b8519fd?mod=mw_rss_topstories",
+      "published": "2026-10-08T23:14:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Micron, Nvidia and AI chip stocks fall on concern over OpenAI\u2019s revenue",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=74d44878-bc45-4120-87b2-0b33d594f5e2&amp;mod=mw_rss_bulletins",
+      "published": "2026-10-08T23:01:27Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "SpaceX deal to acquire spectrum license hammers shares of AT&T, Verizon and T-Mobile",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/08/spacex-spectrum-license-att-verizon-tmobile.html",
+      "published": "2026-10-08T22:55:46Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Nasdaq 100 Ends Lower As Report Of Weaker-Than-Expected OpenAI Revenue Drags Chipmakers \u2014 NVDA, DIS, ORCL, SBUX In Focus",
+      "image": null,
+      "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-100-ends-lower-as-report-of-weaker-than-expected-open-ai-revenue-drags-chipmakers-nvda-dis-orcl-sbux-in-focus/cZDUxqbRBVd?.tsrc=rss",
+      "published": "2026-10-08T22:55:19Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Possible winners, losers as Florida to vote on whether to slash property taxes",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=1f925963-fe89-44c0-9daf-668c04ee493a&amp;mod=mw_rss_bulletins",
+      "published": "2026-10-08T22:35:03Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Micron, Nvidia and AI chip stocks fall as report on OpenAI\u2019s revenue causes \u2018undue concern\u2019",
+      "image": "news-images/a5804888a5632e3ee8c11c87.jpg",
+      "link": "https://www.marketwatch.com/story/micron-nvidia-and-ai-chip-stocks-fall-as-report-on-openais-revenue-causes-undue-concern-2a2bcf53?mod=mw_rss_topstories",
+      "published": "2026-10-08T22:08:00Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "My husband inherited $3 million. He wants a vacation home, but I want to save for retirement. Who\u2019s right?",
+      "image": "news-images/a4bbc4b3083010363b3907a4.jpg",
+      "link": "https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories",
+      "published": "2026-10-08T22:00:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Why a longtime skeptic of Palantir\u2019s stock is finally saying it\u2019s time to buy",
+      "image": "news-images/f911ec5703320eaa6a6455aa.jpg",
+      "link": "https://www.marketwatch.com/story/why-a-longtime-skeptic-of-palantirs-stock-is-finally-saying-its-time-to-buy-60cdeede?mod=mw_rss_topstories",
+      "published": "2026-10-08T21:56:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "A pumpkin-spice burrito? Analysts ponder possible Starbucks-Chipotle tie-up.",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=7bbe9413-6c79-45af-8a46-f77bd86e2465&amp;mod=mw_rss_bulletins",
+      "published": "2026-10-08T21:53:59Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "realestate",
+      "headline": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
+      "image": "news-images/9adbf60a114d249a4ff5302b.jpg",
+      "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
+      "published": "2026-10-08T21:45:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "PepsiCo CEO\u2019s message to employees: If you\u2019re not producing growth, you\u2019re out",
+      "image": "news-images/cd90dd7e824d5cdb1be265dd.jpg",
+      "link": "https://www.marketwatch.com/story/pepsico-ceos-message-to-employees-if-youre-not-producing-growth-youre-out-13af0335?mod=mw_rss_topstories",
+      "published": "2026-10-08T21:43:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Stock Market Today, Oct. 8: Tech Stocks Slide as Treasury Yields and Oil Prices Surge",
+      "image": null,
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/10/08/stock-market-today-oct-8-tech-stocks-slide-as-treasury-yields-and-oil-prices-surge/?.tsrc=rss",
+      "published": "2026-10-08T21:25:02Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "tech",
+      "headline": "Nvidia, Oracle, CoreWeave and other AI stocks sink on OpenAI revenue report",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
+      "published": "2026-10-08T21:19:14Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "energy",
+      "headline": "Why Clearway Energy (CWEN) Dipped More Than Broader Market Today",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-clearway-energy-cwen-dipped-211507510.html?.tsrc=rss",
+      "published": "2026-10-08T21:15:07Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "M-tron Industries, Inc. (MPTI) Dips More Than Broader Market: What You Should Know",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/m-tron-industries-inc-mpti-211507567.html?.tsrc=rss",
+      "published": "2026-10-08T21:15:07Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Wingstop (WING) Rises As Market Takes a Dip: Key Facts",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/wingstop-wing-rises-market-takes-211507350.html?.tsrc=rss",
+      "published": "2026-10-08T21:15:07Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Onto Innovation (ONTO) Declines More Than Market: Some Information for Investors",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/onto-innovation-onto-declines-more-211507811.html?.tsrc=rss",
+      "published": "2026-10-08T21:15:07Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Why the Market Dipped But Tyson Foods (TSN) Gained Today",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-market-dipped-tyson-foods-211507907.html?.tsrc=rss",
+      "published": "2026-10-08T21:15:07Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "TXO Partners LP (TXO) Gains As Market Dips: What You Should Know",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/txo-partners-lp-txo-gains-211507490.html?.tsrc=rss",
+      "published": "2026-10-08T21:15:07Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "Hamilton Insurance (HG) Increases Despite Market Slip: Here's What You Need to Know",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/hamilton-insurance-hg-increases-despite-211505195.html?.tsrc=rss",
+      "published": "2026-10-08T21:15:05Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "I\u2019m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
+      "image": "news-images/5cfc34cf924b9e4921417d24.jpg",
+      "link": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
+      "published": "2026-10-08T21:15:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "America shut out Chinese EVs. Britain welcomed them \u2014 and now faces a difficult choice",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/08/autos-china-evs-uk-tariffs-hybrid-cars.html",
+      "published": "2026-10-08T20:55:39Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "An AI super PAC tried to follow crypto\u2019s election playbook. It hasn't worked.",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=15af91e6-2fdf-45bb-980d-b97c737ca0b6&amp;mod=mw_rss_bulletins",
+      "published": "2026-10-08T20:55:23Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "realestate",
+      "headline": "Worse than taking away your parents\u2019 car keys? Taking away their cell phone. How to protect your aging parents.",
+      "image": "news-images/39405664f70357e705d7ce1a.jpg",
+      "link": "https://www.marketwatch.com/story/worse-than-taking-away-your-parents-car-keys-taking-away-their-cellphone-how-to-protect-your-aging-parents-f01be6e6?mod=mw_rss_topstories",
+      "published": "2026-10-08T20:55:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "A big AI super PAC tried to follow crypto\u2019s playbook to influence the midterms. Critics say it\u2019s not working out.",
+      "image": "news-images/321591d6b4e9f2716679f593.jpg",
+      "link": "https://www.marketwatch.com/story/a-big-ai-super-pac-tried-to-follow-cryptos-playbook-to-influence-the-midterms-critics-say-its-not-working-out-d27911e6?mod=mw_rss_topstories",
+      "published": "2026-10-08T20:44:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "financials",
+      "headline": "Sports gambling seeps even deeper into Wall Street's world as hundreds of pro team ETFs emerge",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/08/sports-team-etfs-prediction-markets-futures-gambling.html",
+      "published": "2026-10-08T20:21:44Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Major League Baseball proposes shortening its regular season as it pushes for a salary cap",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/08/major-league-baseball-proposes-shorter-season-amid-salary-cap-push.html",
+      "published": "2026-10-08T20:16:21Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Why a Starbucks takeover of Chipotle would \u2014 and wouldn't \u2014 make sense for both companies",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/08/starbucks-chipotle-acquisition.html",
+      "published": "2026-10-08T20:12:33Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Treasury yields are lower after reaching multiyear highs, traders weigh latest bond auction",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/08/us-treasury-yields-30-year-bond-auction.html",
+      "published": "2026-10-08T20:06:52Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "federal",
+      "headline": "Treasury yields are 'really, really high' but can come down soon, Bessent's new advisor says",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/08/treasury-yields-david-zervos.html",
+      "published": "2026-10-08T20:06:31Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Nasdaq closes sharply lower as tech stocks struggle; Dow ekes out gain",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=fda5a446-86b7-465a-8caf-4be64d326bab&amp;mod=mw_rss_bulletins",
+      "published": "2026-10-08T20:02:47Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "Costco's sales resilience is giving Cramer a reason to feel better about the stock",
+      "image": null,
+      "link": "https://www.cnbc.com/investingclub/2026/10/08/costco-sales-resilience-is-giving-cramer-a-reason-to-feel-better-about-the-stock.html",
+      "published": "2026-10-08T19:51:47Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Bond yields fall as Treasury market passes a crucial test of investor confidence",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=83703f3e-0979-495b-9fcd-36a03eea5bcc&amp;mod=mw_rss_bulletins",
+      "published": "2026-10-08T19:32:47Z",
+      "sentiment": "bearish"
+    },
     {
       "category": "tech",
       "headline": "Nasdaq down sharply in final hour as tech stocks struggle; Dow pares losses",
@@ -16,238 +296,6 @@
       "link": "https://www.cnbc.com/2026/10/08/oil-prices-today-brent-wti-hormuz.html",
       "published": "2026-10-08T19:00:49Z",
       "sentiment": "bullish"
-    },
-    {
-      "category": "other",
-      "headline": "My husband inherited $3 million. He wants a vacation home, but I want to save for retirement. Who\u2019s right?",
-      "image": "news-images/a4bbc4b3083010363b3907a4.jpg",
-      "link": "https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories",
-      "published": "2026-10-08T19:00:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "U.S. suspends Microsoft, Adobe from green card labor program in foreign worker crackdown",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/08/microsoft-adobe-green-card-labor-suspension.html",
-      "published": "2026-10-08T18:52:59Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "The options market is reminding investors there\u2019s a cure for rising bond yields \u2014 higher yields",
-      "image": "news-images/e4b33d5205ee73ccb5661a50.jpg",
-      "link": "https://www.marketwatch.com/story/the-options-market-is-reminding-investors-theres-a-cure-for-rising-bond-yields-higher-yields-2dcac640?mod=mw_rss_topstories",
-      "published": "2026-10-08T18:51:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "We're buying the dip in a stock being punished for something it's actually insulated from",
-      "image": null,
-      "link": "https://www.cnbc.com/investingclub/2026/10/08/were-buying-the-dip-in-a-stock-being-punished-for-something-its-actually-insulated-from.html",
-      "published": "2026-10-08T18:49:27Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Stock Market Today: Nasdaq Tumbles Amid Open AI Shortfall; Biotech Name Plunges (Live Coverage)",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/f5f905f3-66e0-3046-82a7-5848434b422a/stock-market-today%3A-nasdaq.html?.tsrc=rss",
-      "published": "2026-10-08T18:44:34Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "other",
-      "headline": "Is the Anthropic IPO going to be another test for markets?",
-      "image": null,
-      "link": "https://finance.yahoo.com/video/is-the-anthropic-ipo-going-to-be-another-test-for-markets-184206522.html?.tsrc=rss",
-      "published": "2026-10-08T18:42:06Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Why a Starbucks takeover of Chipotle would \u2014 and wouldn't \u2014 make sense for both companies",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/08/starbucks-chipotle-acquisition.html",
-      "published": "2026-10-08T18:37:46Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "energy",
-      "headline": "Update: Technology Leads US Equity Indexes Lower Amid Surge in Crude Oil",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/technology-leads-us-equity-indexes-183527668.html?.tsrc=rss",
-      "published": "2026-10-08T18:35:27Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "other",
-      "headline": "I\u2019m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
-      "image": "news-images/5cfc34cf924b9e4921417d24.jpg",
-      "link": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
-      "published": "2026-10-08T18:30:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "We're adding to our position in a hard-hit stock before important catalysts arrive",
-      "image": null,
-      "link": "https://www.cnbc.com/investingclub/2026/10/08/were-adding-to-our-position-in-a-hard-hit-stock-before-important-catalysts-arrive.html",
-      "published": "2026-10-08T18:26:43Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Bond yields fell, as the Treasury market passed a crucial test of investor confidence",
-      "image": "news-images/0fe67eeef3c4c297d32fd549.jpg",
-      "link": "https://www.marketwatch.com/story/the-treasury-market-is-facing-a-crucial-vote-of-investor-confidence-31fa8d41?mod=mw_rss_topstories",
-      "published": "2026-10-08T18:19:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Nvidia, Oracle, CoreWeave and other AI stocks sink on OpenAI revenue report",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
-      "published": "2026-10-08T18:18:31Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Ken Paxton is right. Tax cuts will mean Social Security and Medicare cuts.",
-      "image": "news-images/909f28e58365ca6efd00a3ab.jpg",
-      "link": "https://www.marketwatch.com/story/ken-paxton-is-right-tax-cuts-will-mean-social-security-and-medicare-cuts-2befed72?mod=mw_rss_topstories",
-      "published": "2026-10-08T18:08:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Update: Equity Indexes Fall Intraday as Fed's Waller Says More Rate Hikes Needed",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/equity-indexes-fall-intraday-fed-180744942.html?.tsrc=rss",
-      "published": "2026-10-08T18:07:44Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "other",
-      "headline": "America shut out Chinese EVs. Britain welcomed them \u2014 and now faces a difficult choice",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/08/autos-china-evs-uk-tariffs-hybrid-cars.html",
-      "published": "2026-10-08T18:04:08Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "energy",
-      "headline": "Sector Update: Energy Stocks Rise Thursday Afternoon",
-      "image": null,
-      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-rise-thursday-175217724.html?.tsrc=rss",
-      "published": "2026-10-08T17:52:17Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "energy",
-      "headline": "Little relief expected for gas prices ahead of Election Day, according to prediction markets",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/08/little-relief-expected-for-gas-prices-ahead-of-election-day.html",
-      "published": "2026-10-08T17:51:51Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Rising interest rates: The good, the bad and the ugly for retirees",
-      "image": "news-images/537ec252829a5a9f77ed2fd7.jpg",
-      "link": "https://www.marketwatch.com/story/the-good-the-bad-and-the-ugly-of-rising-interest-rates-ee465a81?mod=mw_rss_topstories",
-      "published": "2026-10-08T17:45:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "international",
-      "headline": "Trump says U.S. will not attack Iran before midterm election",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/08/iran-war-trump-midterm-election.html",
-      "published": "2026-10-08T17:41:20Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Stocks Sink After OpenAI Report Sours AI Trade",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/3e003936-6fe4-375c-99cf-748a773e4776/stocks-sink-after-openai.html?.tsrc=rss",
-      "published": "2026-10-08T17:35:18Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Inflation on many everyday items was entirely due to tariffs, NY Fed says",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/08/inflation-tariffs-trump-fed-consumer-goods.html",
-      "published": "2026-10-08T17:31:03Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "How to provide guaranteed retirement income while paying no commissions",
-      "image": "news-images/3eb551a8f3c639adab519b51.jpg",
-      "link": "https://www.marketwatch.com/story/how-to-provide-guaranteed-retirement-income-while-paying-no-commissions-b2085511?mod=mw_rss_topstories",
-      "published": "2026-10-08T16:57:00Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "other",
-      "headline": "I keep comparing myself to my more financially successful friends. How can I stop?",
-      "image": "news-images/670f59fca6e1954f736ffd19.jpg",
-      "link": "https://www.marketwatch.com/story/i-keep-comparing-myself-to-my-more-financially-successful-friends-how-can-i-stop-716a2009?mod=mw_rss_topstories",
-      "published": "2026-10-08T16:52:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "energy",
-      "headline": "Update: US Equity Indexes Fall as Crude Oil Jumps in Midday Trading",
-      "image": null,
-      "link": "https://finance.yahoo.com/economy/articles/us-equity-indexes-fall-crude-164720224.html?.tsrc=rss",
-      "published": "2026-10-08T16:47:20Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "tech",
-      "headline": "Stock Market Midday, Oct. 8: Stocks Edge Lower on Growing AI Caution",
-      "image": null,
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/10/08/stock-market-midday-oct-8-stocks-edge-lower-on-growing-ai-caution/?.tsrc=rss",
-      "published": "2026-10-08T16:44:23Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "energy",
-      "headline": "Dow Tumbles, Oil Surges, and Yields Rise to New 24-Year Highs as Trump Considers Ramping Up Iran Attacks",
-      "image": null,
-      "link": "https://247wallst.com/investing/2026/10/08/dow-tumbles-oil-surges-and-yields-rise-to-new-24-year-highs-as-trump-considers-ramping-up-iran-attacks/?.tsrc=rss",
-      "published": "2026-10-08T16:37:51Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "The Stock Market Is Fine. Just Don't Look Too Closely.",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/5df0f171-4d2a-31e2-aae6-71383f4a4a52/the-stock-market-is-fine..html?.tsrc=rss",
-      "published": "2026-10-08T16:37:25Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Why a longtime skeptic of Palantir\u2019s stock is finally saying it\u2019s time to buy",
-      "image": "news-images/f911ec5703320eaa6a6455aa.jpg",
-      "link": "https://www.marketwatch.com/story/why-a-longtime-skeptic-of-palantirs-stock-is-finally-saying-its-time-to-buy-60cdeede?mod=mw_rss_topstories",
-      "published": "2026-10-08T16:32:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "realestate",
-      "headline": "America\u2019s renters are emerging as a political movement",
-      "image": "news-images/14a513da78b64dfacca61aa3.jpg",
-      "link": "https://www.marketwatch.com/story/locked-out-of-home-ownership-renters-are-rallying-voters-for-affordable-housing-policies-bf946d70?mod=mw_rss_topstories",
-      "published": "2026-10-08T16:11:00Z",
-      "sentiment": "neutral"
     },
     {
       "category": "federal",
@@ -272,58 +320,10 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=f7bd105a-e230-47ad-9d5c-82724592b9c3&amp;mod=mw_rss_bulletins",
       "published": "2026-10-08T13:31:21Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Economic calendar: jobless claims, data on monthly wholesale trade",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=ac95b71f-1d42-4300-9367-0d6af484d43d&amp;mod=mw_rss_bulletins",
-      "published": "2026-10-08T11:36:28Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Samsung recorded the highest operating profit of any tech company ever",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=19fdd769-98b0-44f6-b93a-1c6826ba3d8c&amp;mod=mw_rss_bulletins",
-      "published": "2026-10-08T10:09:50Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "energy",
-      "headline": "Here's how the S&P 500 has performed this year on days of big oil price jumps",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=7460984a-d255-4e95-bce9-9040423dca76&amp;mod=mw_rss_bulletins",
-      "published": "2026-10-08T09:57:07Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "federal",
-      "headline": "Fed's Waller says more rate hikes are needed, but not immediately: markets live",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=b6009c4d-096c-481b-8a32-7ca93710dd6b&amp;mod=mw_rss_bulletins",
-      "published": "2026-10-08T08:39:13Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Rising yields are quietly crashing the stock market\u2019s earlier winners of 2026",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=5b8e9867-9d77-40a0-8d51-a34a8bf2a081&amp;mod=mw_rss_bulletins",
-      "published": "2026-10-07T23:05:04Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "other",
-      "headline": "\u2018Magnificent Seven\u2019 now big enough to move the economy. That may be an issue.",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=1bf59385-8534-494f-a693-2c120a5c6aa4&amp;mod=mw_rss_bulletins",
-      "published": "2026-10-07T21:49:03Z",
-      "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-10-08T19:06:07Z",
-  "source_item_count": 68,
+  "newest_item_published": "2026-10-09T00:05:47Z",
+  "source_item_count": 66,
   "sources": {
     "cnbc": {
       "contributed": 10,
@@ -331,7 +331,7 @@
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-10-08T19:00:49Z",
+      "newest": "2026-10-08T22:55:46Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,7 +340,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-10-08T19:00:00Z",
+      "newest": "2026-10-09T00:03:00Z",
       "ok": true
     },
     "mw_bulletins": {
@@ -349,16 +349,16 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-10-08T19:06:07Z",
+      "newest": "2026-10-08T23:01:27Z",
       "ok": true
     },
     "yahoo_dji": {
       "contributed": 10,
       "error": null,
-      "fetched": 18,
-      "fresh": 18,
+      "fetched": 16,
+      "fresh": 16,
       "label": "Yahoo Finance",
-      "newest": "2026-10-08T18:44:34Z",
+      "newest": "2026-10-09T00:05:47Z",
       "ok": true
     }
   }
