@@ -1,0 +1,19 @@
+name = "bullion-analytics"
+main = "src/index.js"
+compatibility_date = "2026-09-03"
+
+# Aggregate-only, cookieless visit counter for the Bullion map. See README.md.
+#
+# Secrets (set them yourself so the values never pass through a chat session
+# or this repo):
+#   npx wrangler secret put STATS_TOKEN   # password for /dashboard — only you know it
+#   npx wrangler secret put SALT_SECRET   # random string, used to hash visitors per day
+# Until STATS_TOKEN is set, /stats refuses everyone (fails closed).
+
+[vars]
+ALLOWED_ORIGIN = "https://sinbadtheexplorer.github.io"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "bullion-analytics"
+database_id = "REPLACE_WITH_ID_FROM_wrangler_d1_create"

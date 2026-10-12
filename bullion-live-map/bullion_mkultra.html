@@ -919,6 +919,7 @@
     overflow: hidden;
   }
   #start-screen.hidden { display: none; }
+  #start-screen .privacy-note { margin-top: 1rem; font-size: 11px; color: var(--text-dim); opacity: 0.75; position: relative; z-index: 1; }
   #start-screen .starfield-deco {
     position: absolute; inset: 0; width: 100%; height: 100%; z-index: 0; pointer-events: none;
   }
@@ -1116,6 +1117,7 @@
     <div class="title">Bullion</div>
     <div class="subtitle">US Financial System &mdash; Mk Ultra Constellation</div>
     <button id="start-screen-cta">Click to Start</button>
+    <p class="privacy-note">Anonymous, cookie-free usage counts only &mdash; no personal data is collected.</p>
   </div>
   <div class="version-label">Mk Ultra</div>
 </div>
@@ -7577,6 +7579,63 @@ loadNewsList();
     if (!e.target.closest || !e.target.closest('#disclaimer-modal')) close();
   });
   document.addEventListener('keydown', function(e){ if (e.key === 'Escape') close(); });
+})();
+</script>
+
+<script>
+// ── Usage analytics (aggregate, cookieless) ───────────────────────────
+// Counts page views, which tab / node is on screen and for how long, and
+// which shock scenarios are run. Nothing is written to the device (no
+// cookies, no localStorage) and nothing identifies the visitor; the server
+// only keeps daily totals. Honors Do Not Track / Global Privacy Control.
+// Off until ANALYTICS_URL is set — see analytics-worker/README.md.
+(function () {
+  var ANALYTICS_URL = '';
+  if (!ANALYTICS_URL || !navigator.sendBeacon) return;
+  if (navigator.doNotTrack === '1' || navigator.globalPrivacyControl === true) return;
+
+  var TABS = { 'tab-market': 'market', 'tab-analysis': 'analysis', 'tab-causal-link': 'causal-link' };
+  var IDLE_MS = 2 * 60 * 1000;           // stop the clock after 2 min with no input
+  var buf = {}, first = true, lastInput = Date.now(), last = Date.now();
+  var cur = { tab: null, node: null };
+
+  function add(kind, key, hits, ms) {
+    if (!key) return;
+    var k = kind + '|' + key, e = buf[k] || (buf[k] = { kind: kind, key: String(key).slice(0, 48), hits: 0, ms: 0 });
+    e.hits += hits; e.ms += ms;
+  }
+  function activeTab() {
+    for (var id in TABS) { var el = document.getElementById(id); if (el && el.classList.contains('active')) return TABS[id]; }
+    return null;
+  }
+  function tick() {
+    var now = Date.now(), dt = now - last; last = now;
+    var counting = !document.hidden && now - lastInput < IDLE_MS && dt < 5000;
+    var started = document.getElementById('start-screen');
+    var tab = started && !started.classList.contains('hidden') ? 'start' : activeTab();
+    var node = (typeof openDetailNode !== 'undefined' && openDetailNode) ? openDetailNode.id : null;
+    if (counting) { add('visit', 'all', 0, dt); add('tab', cur.tab, 0, dt); add('node', cur.node, 0, dt); }
+    if (tab !== cur.tab) { cur.tab = tab; add('tab', tab, 1, 0); }
+    if (node !== cur.node) { cur.node = node; add('node', node, 1, 0); }
+  }
+  function flush() {
+    tick();
+    var ev = Object.keys(buf).map(function (k) { return buf[k]; });
+    if (!ev.length) return;
+    try { navigator.sendBeacon(ANALYTICS_URL.replace(/\/$/, '') + '/e', JSON.stringify({ first: first, ev: ev.slice(0, 60) })); } catch (e) {}
+    first = false; buf = {};
+  }
+  ['pointerdown', 'keydown', 'wheel', 'touchstart', 'scroll'].forEach(function (t) {
+    addEventListener(t, function () { lastInput = Date.now(); }, { passive: true, capture: true });
+  });
+  if (typeof triggerShock === 'function') {
+    var _t = triggerShock;
+    triggerShock = function (type) { add('shock', type, 1, 0); return _t.apply(this, arguments); };
+  }
+  add('visit', 'all', 1, 0);
+  setInterval(tick, 1000);
+  document.addEventListener('visibilitychange', function () { if (document.hidden) flush(); else last = lastInput = Date.now(); });
+  addEventListener('pagehide', flush);
 })();
 </script>
 
