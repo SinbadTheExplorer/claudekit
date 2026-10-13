@@ -1,0 +1,56 @@
+name = "bullion-analytics"
+main = "src/index.js"
+compatibility_date = "2026-09-03"
+
+# Aggregate-only, cookieless visit counter for the Bullion map. See README.md.
+#
+# Secrets (set them yourself so the values never pass through a chat session
+# or this repo; generate each with `openssl rand -base64 32`):
+#   npx wrangler secret put STATS_TOKEN   # password for /dashboard, at least 32 chars
+#   npx wrangler secret put SALT_SECRET   # key for the daily visitor hash
+# Until STATS_TOKEN is set (and 32+ chars), /stats refuses everyone (fails closed).
+# Until SALT_SECRET is set, unique visitors are simply not counted.
+
+workers_dev = true
+preview_urls = false
+
+[vars]
+ALLOWED_ORIGIN = "https://sinbadtheexplorer.github.io"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "bullion-analytics"
+database_id = "a21c0b27-a617-497c-aa2d-9d537b137efa"
+
+# Daily at 00:05 UTC: delete the previous day's visitor hashes and any totals
+# older than RETENTION_DAYS. Doesn't depend on someone visiting.
+[triggers]
+crons = ["5 0 * * *"]
+
+# Rate limits. Per Cloudflare location and approximate by design; they bound
+# spam and quota burn, they are not exact accounting. The code treats a missing
+# binding as "no limit", so the counter keeps working if the account lacks it.
+[[ratelimits]]
+name = "RL_COLLECT"          # per visitor (keyed by the daily hash, never the raw IP)
+namespace_id = "41001"
+  [ratelimits.simple]
+  limit = 20
+  period = 60
+
+[[ratelimits]]
+name = "RL_COLLECT_GLOBAL"   # whole site, protects the D1 free-tier write quota
+namespace_id = "41002"
+  [ratelimits.simple]
+  limit = 600
+  period = 60
+
+[[ratelimits]]
+name = "RL_AUTH"             # /stats attempts
+namespace_id = "41003"
+  [ratelimits.simple]
+  limit = 10
+  period = 60
+
+# No [observability] block on purpose: Workers Logs would retain request
+# metadata (IP, headers) in Cloudflare, contradicting the privacy text.
+# Use `npx wrangler tail` for live debugging; it keeps nothing.

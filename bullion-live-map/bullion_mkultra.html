@@ -15,7 +15,7 @@
      browser (e.g. a WhatsApp/iMessage preview) could block script-src and
      show the WebGL-unavailable fallback card instead of the real map; now
      the whole page is truly same-origin, no CDN allow-list needed. -->
-<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; connect-src 'self'; img-src 'self' data:; font-src 'self'; base-uri 'none'; form-action 'none'; object-src 'none'">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' https://static.cloudflareinsights.com; style-src 'self' 'unsafe-inline'; connect-src 'self' https://cloudflareinsights.com https://bullion-analytics.sinbad.workers.dev; img-src 'self' data:; font-src 'self'; base-uri 'none'; form-action 'none'; object-src 'none'">
 <meta name="referrer" content="no-referrer">
 <title>Bullion Mk Ultra — US Financial System Constellation</title>
 <meta name="description" content="An interactive map of how the US financial system actually connects — live Treasury yields, inflation, gold and volatility, with every causal link explained in plain English.">
@@ -919,6 +919,7 @@
     overflow: hidden;
   }
   #start-screen.hidden { display: none; }
+  #start-screen .privacy-note { margin-top: 1rem; font-size: 11px; color: var(--text-dim); opacity: 0.75; position: relative; z-index: 1; }
   #start-screen .starfield-deco {
     position: absolute; inset: 0; width: 100%; height: 100%; z-index: 0; pointer-events: none;
   }
@@ -1116,6 +1117,7 @@
     <div class="title">Bullion</div>
     <div class="subtitle">US Financial System &mdash; Mk Ultra Constellation</div>
     <button id="start-screen-cta">Click to Start</button>
+    <p class="privacy-note">Anonymous, cookie-free usage counts &mdash; no IP address or cookie is kept, and it&rsquo;s off if your browser sends Do Not Track or Global Privacy Control.</p>
   </div>
   <div class="version-label">Mk Ultra</div>
 </div>
@@ -7559,7 +7561,8 @@ loadNewsList();
     <h4>Educational use only &mdash; not financial advice</h4>
     <p>This is a personal learning and teaching tool. Its causal links, calibrated coefficients, backtest / &ldquo;model accuracy&rdquo; figures, AI-generated commentary, health scores and impact multipliers are illustrative and may be simplified, outdated, or wrong; the backtest measures same-day co-movement on historical data and is not a forecast. Nothing here is investment, financial, legal, or tax advice, a recommendation to buy or sell anything, or a prediction. The author is not a licensed financial adviser. Do your own research and consult a qualified professional before making any financial decision. The tool is provided &ldquo;as is,&rdquo; without warranty of any kind, and the author accepts no liability for any loss arising from its use.</p>
     <h4>Privacy</h4>
-    <p>This site sets no cookies, uses no analytics, and collects no personal data. It loads live market data from a <code>data.json</code> file and news headlines from a <code>news.json</code> file, both served from this same site and refreshed by an automated pipeline. The macro analysis feature and the news bar's bullish/bearish tagging both run as deterministic, local calculations &mdash; no request, state, or API key is ever sent anywhere for either. The page is hosted on GitHub Pages, whose provider may process your IP address to serve it, under its own privacy policy.</p>
+    <p>This site sets no cookies and keeps nothing that identifies you. To see how it&rsquo;s used, it keeps two kinds of anonymous counts. Cloudflare Web Analytics records page views, the referring site, country, browser, operating system and device type, and page-load speed. A small counter of our own records which tab or map node is on screen and for how long, and which scenarios are run, as daily totals. To count each day&rsquo;s unique visitors, that counter turns your IP address and browser details into a one-way keyed hash, using a key that changes every day; it never stores the IP address itself, and each day&rsquo;s hashes are deleted once that day ends (UTC). Apart from that one-day hash, neither counter uses cookies, local storage or any other way of recognising you, and per Cloudflare, its analytics are not used to build advertising profiles. Both counters switch off if your browser sends Do Not Track or Global Privacy Control, and an ad or tracker blocker also stops them without affecting the site.</p>
+    <p>The page loads live market data from a <code>data.json</code> file and news headlines from a <code>news.json</code> file, both served from this same site and refreshed by an automated pipeline. The macro analysis feature and the news bar&rsquo;s bullish/bearish tagging both run as deterministic, local calculations &mdash; no request, state, or API key is ever sent anywhere for either. The page is hosted on GitHub Pages and the counters are served by Cloudflare; both providers may process your IP address to deliver their part, under their own privacy policies.</p>
   </div>
 </div>
 
@@ -7580,5 +7583,81 @@ loadNewsList();
 })();
 </script>
 
+<script>
+// ── Usage analytics (aggregate, cookieless) ───────────────────────────
+// Two counters, both disclosed in the Privacy section of #disclaimer-modal
+// and the start-screen note (keep that text in sync if anything here changes):
+//  1. Cloudflare Web Analytics: page views, referring site, country,
+//     browser / OS / device type, page-load speed.
+//  2. Our own Worker (analytics-worker/): which tab / node is on screen and
+//     for how long, shock scenarios run, daily unique visitors.
+// Neither writes anything to the device. Both are skipped entirely when the
+// browser sends Do Not Track or Global Privacy Control. Each stays off until
+// its setting below is filled in; the CSP at the top of this file must allow
+// the same hosts (static.cloudflareinsights.com / cloudflareinsights.com for
+// 1, the Worker's origin in connect-src for 2).
+(function () {
+  var CF_BEACON_TOKEN = 'a3f78c05f9dc434ea5e0221032ecce98';
+  var ANALYTICS_URL = 'https://bullion-analytics.sinbad.workers.dev';
+
+  if (navigator.doNotTrack === '1' || window.doNotTrack === '1' || navigator.globalPrivacyControl === true) return;
+
+  if (/^[A-Za-z0-9]{16,64}$/.test(CF_BEACON_TOKEN)) {
+    var cf = document.createElement('script');
+    cf.type = 'module';
+    cf.src = 'https://static.cloudflareinsights.com/beacon.min.js';
+    cf.setAttribute('data-cf-beacon', JSON.stringify({ token: CF_BEACON_TOKEN }));
+    document.body.appendChild(cf);
+  }
+
+  if (!/^https:\/\/[A-Za-z0-9.-]+(:\d+)?\/?$/.test(ANALYTICS_URL) || !navigator.sendBeacon) return;
+  var ENDPOINT = ANALYTICS_URL.replace(/\/$/, '') + '/e';
+
+  var TABS = { 'tab-market': 'market', 'tab-analysis': 'analysis', 'tab-causal-link': 'causal-link' };
+  var IDLE_MS = 2 * 60 * 1000;           // stop the clock after 2 min with no input
+  var buf = {}, first = true, lastInput = Date.now(), last = Date.now();
+  var cur = { tab: null, node: null };
+
+  function add(kind, key, hits, ms) {
+    if (!key) return;
+    var k = kind + '|' + key, e = buf[k] || (buf[k] = { kind: kind, key: String(key).slice(0, 48), hits: 0, ms: 0 });
+    e.hits += hits; e.ms += ms;
+  }
+  function activeTab() {
+    for (var id in TABS) { var el = document.getElementById(id); if (el && el.classList.contains('active')) return TABS[id]; }
+    return null;
+  }
+  function tick() {
+    var now = Date.now(), dt = now - last; last = now;
+    var counting = !document.hidden && now - lastInput < IDLE_MS && dt < 5000;
+    var started = document.getElementById('start-screen');
+    var tab = started && !started.classList.contains('hidden') ? 'start' : activeTab();
+    var node = (typeof openDetailNode !== 'undefined' && openDetailNode) ? openDetailNode.id : null;
+    if (counting) { add('visit', 'all', 0, dt); add('tab', cur.tab, 0, dt); add('node', cur.node, 0, dt); }
+    if (tab !== cur.tab) { cur.tab = tab; add('tab', tab, 1, 0); }
+    if (node !== cur.node) { cur.node = node; add('node', node, 1, 0); }
+  }
+  function flush() {
+    tick();
+    var ev = Object.keys(buf).map(function (k) { return buf[k]; });
+    if (!ev.length) return;
+    // A plain string body is sent as text/plain, which needs no CORS preflight.
+    // Don't switch to a JSON Blob: beacons can't preflight and would be dropped.
+    try { navigator.sendBeacon(ENDPOINT, JSON.stringify({ first: first, ev: ev.slice(0, 60) })); } catch (e) {}
+    first = false; buf = {};
+  }
+  ['pointerdown', 'keydown', 'wheel', 'touchstart', 'scroll'].forEach(function (t) {
+    addEventListener(t, function () { lastInput = Date.now(); }, { passive: true, capture: true });
+  });
+  if (typeof triggerShock === 'function') {
+    var _t = triggerShock;
+    triggerShock = function (type) { add('shock', type, 1, 0); return _t.apply(this, arguments); };
+  }
+  add('visit', 'all', 1, 0);
+  setInterval(tick, 1000);
+  document.addEventListener('visibilitychange', function () { if (document.hidden) flush(); else last = lastInput = Date.now(); });
+  addEventListener('pagehide', flush);
+})();
+</script>
 </body>
 </html>

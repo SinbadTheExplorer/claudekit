@@ -9,3 +9,4 @@
 # tags and fails on.
 exclude:
   - docs/
+  - analytics-worker/
