@@ -1,0 +1,8 @@
+{
+  "name": "bullion-analytics",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test test/*.test.mjs"
+  }
+}
