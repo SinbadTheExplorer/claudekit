@@ -15,7 +15,7 @@
      browser (e.g. a WhatsApp/iMessage preview) could block script-src and
      show the WebGL-unavailable fallback card instead of the real map; now
      the whole page is truly same-origin, no CDN allow-list needed. -->
-<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; connect-src 'self'; img-src 'self' data:; font-src 'self'; base-uri 'none'; form-action 'none'; object-src 'none'">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' https://static.cloudflareinsights.com; style-src 'self' 'unsafe-inline'; connect-src 'self' https://cloudflareinsights.com; img-src 'self' data:; font-src 'self'; base-uri 'none'; form-action 'none'; object-src 'none'">
 <meta name="referrer" content="no-referrer">
 <title>Bullion Mk Ultra — US Financial System Constellation</title>
 <meta name="description" content="An interactive map of how the US financial system actually connects — live Treasury yields, inflation, gold and volatility, with every causal link explained in plain English.">
@@ -7559,7 +7559,7 @@ loadNewsList();
     <h4>Educational use only &mdash; not financial advice</h4>
     <p>This is a personal learning and teaching tool. Its causal links, calibrated coefficients, backtest / &ldquo;model accuracy&rdquo; figures, AI-generated commentary, health scores and impact multipliers are illustrative and may be simplified, outdated, or wrong; the backtest measures same-day co-movement on historical data and is not a forecast. Nothing here is investment, financial, legal, or tax advice, a recommendation to buy or sell anything, or a prediction. The author is not a licensed financial adviser. Do your own research and consult a qualified professional before making any financial decision. The tool is provided &ldquo;as is,&rdquo; without warranty of any kind, and the author accepts no liability for any loss arising from its use.</p>
     <h4>Privacy</h4>
-    <p>This site sets no cookies, uses no analytics, and collects no personal data. It loads live market data from a <code>data.json</code> file and news headlines from a <code>news.json</code> file, both served from this same site and refreshed by an automated pipeline. The macro analysis feature and the news bar's bullish/bearish tagging both run as deterministic, local calculations &mdash; no request, state, or API key is ever sent anywhere for either. The page is hosted on GitHub Pages, whose provider may process your IP address to serve it, under its own privacy policy.</p>
+    <p>This site sets no cookies and collects no personal data. It counts visits with Cloudflare Web Analytics, which records only aggregate totals &mdash; page views, the referring site, country, browser, operating system and device type, and page-load speed. Per Cloudflare, it uses no cookies, local storage or fingerprinting, does not track individual visitors, and is not used to build advertising profiles. Blocking <code>cloudflareinsights.com</code> in your browser or ad blocker turns it off without affecting the site. It loads live market data from a <code>data.json</code> file and news headlines from a <code>news.json</code> file, both served from this same site and refreshed by an automated pipeline. The macro analysis feature and the news bar's bullish/bearish tagging both run as deterministic, local calculations &mdash; no request, state, or API key is ever sent anywhere for either. The page is hosted on GitHub Pages and the visit counter is served by Cloudflare; both providers may process your IP address to deliver their part, under their own privacy policies.</p>
   </div>
 </div>
 
@@ -7580,5 +7580,8 @@ loadNewsList();
 })();
 </script>
 
+<!-- Cloudflare Web Analytics: cookieless, aggregate visit counts only. Disclosed in the
+     Privacy section of #disclaimer-modal; keep that text in sync if this changes. -->
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "__CF_BEACON_TOKEN__"}'></script>
 </body>
 </html>
