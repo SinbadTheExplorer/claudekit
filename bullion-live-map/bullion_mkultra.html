@@ -15,7 +15,7 @@
      browser (e.g. a WhatsApp/iMessage preview) could block script-src and
      show the WebGL-unavailable fallback card instead of the real map; now
      the whole page is truly same-origin, no CDN allow-list needed. -->
-<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' https://static.cloudflareinsights.com; style-src 'self' 'unsafe-inline'; connect-src 'self' https://cloudflareinsights.com; img-src 'self' data:; font-src 'self'; base-uri 'none'; form-action 'none'; object-src 'none'">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' https://static.cloudflareinsights.com; style-src 'self' 'unsafe-inline'; connect-src 'self' https://cloudflareinsights.com https://bullion-analytics.sinbad.workers.dev; img-src 'self' data:; font-src 'self'; base-uri 'none'; form-action 'none'; object-src 'none'">
 <meta name="referrer" content="no-referrer">
 <title>Bullion Mk Ultra — US Financial System Constellation</title>
 <meta name="description" content="An interactive map of how the US financial system actually connects — live Treasury yields, inflation, gold and volatility, with every causal link explained in plain English.">
@@ -7597,14 +7597,14 @@ loadNewsList();
 // the same hosts (static.cloudflareinsights.com / cloudflareinsights.com for
 // 1, the Worker's origin in connect-src for 2).
 (function () {
-  var CF_BEACON_TOKEN = '';
-  var ANALYTICS_URL = '';
+  var CF_BEACON_TOKEN = 'a3f78c05f9dc434ea5e0221032ecce98';
+  var ANALYTICS_URL = 'https://bullion-analytics.sinbad.workers.dev';
 
   if (navigator.doNotTrack === '1' || window.doNotTrack === '1' || navigator.globalPrivacyControl === true) return;
 
   if (/^[A-Za-z0-9]{16,64}$/.test(CF_BEACON_TOKEN)) {
     var cf = document.createElement('script');
-    cf.defer = true;
+    cf.type = 'module';
     cf.src = 'https://static.cloudflareinsights.com/beacon.min.js';
     cf.setAttribute('data-cf-beacon', JSON.stringify({ token: CF_BEACON_TOKEN }));
     document.body.appendChild(cf);
