@@ -1,6 +1,12 @@
-# Handoff: Bullion analytics (combined, hardened, ready to deploy)
+# Handoff: Bullion analytics (combined, hardened, LIVE)
 
-**Written:** 2026-10-13 · **Branch:** `bullion-analytics` (not merged to `main`).
+**Written:** 2026-10-13 · **Status update 2026-10-13: LIVE on `main` (merge `14606f7`).**
+Worker deployed at `https://bullion-analytics.sinbad.workers.dev` (dashboard: `/dashboard`),
+D1 created, both secrets set by the owner's machine without being displayed, Cloudflare Web
+Analytics token in the page. A real headless visit to the live site was recorded by both
+counters (CF `/cdn-cgi/rum` 200/204; Worker stats showed the visit, node, tab and shock). The
+free plan accepted the rate-limit bindings and the cron trigger. The sections below describe
+the pre-deploy state and are kept for history; ignore their "don't merge" warnings.
 **Supersedes** the cloud session's version of this file (commit `6cc33fd`).
 
 ## Goal
