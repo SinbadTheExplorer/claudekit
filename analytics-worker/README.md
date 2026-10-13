@@ -13,7 +13,7 @@ Do Not Track / Global Privacy Control, and both are disclosed on the page.
 
 | Not collected | How |
 |---|---|
-| Cookies / localStorage | Neither counter writes to the visitor's device, so no cookie banner is needed under the EU ePrivacy rules. |
+| Cookies / localStorage / fingerprinting | Apart from the one-day visitor hash below, nothing recognises a returning visitor. Neither counter writes to the visitor's device, so no cookie banner is needed under the EU ePrivacy rules. |
 | IP address, user agent | The Worker reads them once to compute `HMAC(dayKey, IP + UA)`, where `dayKey = HMAC(SALT_SECRET, date)`, so the hashing key changes every day. Only the hash is kept, and the daily cron deletes the previous day's hashes at 00:05 UTC whether or not anyone visits. The raw IP never reaches the database or the rate limiter. |
 | Free text | The Worker only stores keys from a fixed allowlist (`src/allowlist.js`: the 39 node ids, 10 scenarios, 4 tabs). Anything else is dropped, so nothing typed on the page and nothing a forger sends can land in the database. |
 | Visitors with DNT / GPC | Neither counter loads in the browser, and the Worker also drops the request server-side. |
@@ -43,7 +43,9 @@ real review if Bullion ever becomes a business.
   cell with `textContent` (no `innerHTML`), denies framing, sends no referrer,
   and keeps the token in memory only (never in storage or the URL).
 - **Every response** carries `nosniff`, `no-referrer`, `no-store`, `noindex` and
-  HSTS. Errors return a bare 500; details go to `wrangler tail` only.
+  HSTS. Errors return a bare 500; details go to `wrangler tail` only (live,
+  nothing retained). Workers Logs (`[observability]`) is deliberately off,
+  because it would keep request metadata such as IPs in Cloudflare.
 - **Secrets** live only in Cloudflare (`wrangler secret put`). `.dev.vars` and
   `.env*` are gitignored. Never paste them into chat, commits or docs.
 

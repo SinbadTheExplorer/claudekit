@@ -113,8 +113,10 @@ async function collect(request, env) {
   const ua = request.headers.get('User-Agent') || '';
   const salted = !!env.SALT_SECRET;
   // Rate-limit key is the same daily hash, so no raw IP reaches the limiter.
-  const rlKey = salted ? await visitorHash(env, day, ip, ua) : 'anon';
-  if (!(await allowed(env.RL_COLLECT, rlKey)) || !(await allowed(env.RL_COLLECT_GLOBAL, 'global'))) {
+  // Without SALT_SECRET there's no per-visitor key, so only the global limit applies
+  // (one shared key would throttle the whole site to the per-visitor rate).
+  const rlKey = salted ? await visitorHash(env, day, ip, ua) : null;
+  if ((rlKey && !(await allowed(env.RL_COLLECT, rlKey))) || !(await allowed(env.RL_COLLECT_GLOBAL, 'global'))) {
     return respond(null, 429);
   }
 
