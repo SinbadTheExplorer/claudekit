@@ -1,337 +1,337 @@
 {
-  "generated_at": "2026-10-14T21:36:26Z",
+  "generated_at": "2026-10-15T17:44:29Z",
   "headlines": [
     {
       "category": "other",
-      "headline": "Traders pile into 'bubble puts' on CoreWeave as neocloud stocks plunge",
+      "headline": "U.S. sues California in fight over checking citizenship of mail voters",
       "image": null,
-      "link": "https://www.cnbc.com/2026/10/14/coreweave-put-options-ai-trade.html",
-      "published": "2026-10-14T21:19:09Z",
-      "sentiment": "bearish"
+      "link": "https://www.cnbc.com/2026/10/15/california-mail-ballots-voting-lawsuit.html",
+      "published": "2026-10-15T17:36:53Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?",
+      "image": "news-images/f5228a67ca817110c057e3d6.jpg",
+      "link": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
+      "published": "2026-10-15T17:30:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Apple and Meta team up to make Muse AI model run on Mac computers",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/15/apple-meta-partner-ai.html",
+      "published": "2026-10-15T17:29:40Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "\u2018I like the idea of a big return\u2019: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
+      "image": "news-images/ad3406ca64eaa77911021042.jpg",
+      "link": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
+      "published": "2026-10-15T17:15:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Did this year\u2019s COLA beat inflation? Here\u2019s how spending by American seniors stacks up so far in 2026.",
+      "image": "news-images/382b8070db1f959d82434b07.jpg",
+      "link": "https://www.marketwatch.com/story/did-this-years-cola-beat-inflation-heres-how-spending-by-american-seniors-stacks-up-so-far-in-2026-917c400c?mod=mw_rss_topstories",
+      "published": "2026-10-15T17:07:00Z",
+      "sentiment": "bullish"
     },
     {
       "category": "federal",
       "headline": "The COLA wars are coming for Social Security",
       "image": "news-images/a327eadaaf51a331f3597ce9.jpg",
       "link": "https://www.marketwatch.com/story/the-cola-wars-are-coming-for-social-security-10c177f1?mod=mw_rss_topstories",
-      "published": "2026-10-14T21:19:00Z",
+      "published": "2026-10-15T17:07:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "How to weather the current AI stock storm that we were all dreading",
+      "image": null,
+      "link": "https://www.cnbc.com/investingclub/2026/10/15/cramer-how-to-weather-the-current-ai-stock-storm-that-we-were-all-dreading.html",
+      "published": "2026-10-15T17:06:17Z",
       "sentiment": "neutral"
     },
     {
       "category": "federal",
-      "headline": "Trump to appeal order blocking White House from banning MS NOW, CNN and Politico",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/14/trump-appeals-white-house-ban-judge.html",
-      "published": "2026-10-14T21:18:46Z",
+      "headline": "Your Social Security check will rise an average of $75 a month \u2014 will it be able to keep up with inflation?",
+      "image": "news-images/941735f1206ace9e2677bf0e.jpg",
+      "link": "https://www.marketwatch.com/story/social-securitys-cola-will-be-3-6-in-2027-as-inflation-persists-f7c9dff2?mod=mw_rss_topstories",
+      "published": "2026-10-15T17:06:00Z",
       "sentiment": "neutral"
     },
     {
       "category": "other",
-      "headline": "OpenAI bugging suspect booked one-way ticket to Saudi Arabia with family before arrest",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/14/openai-alfozan-recording-raed-ventures.html",
-      "published": "2026-10-14T21:18:13Z",
+      "headline": "The truth about being a landlord in retirement",
+      "image": "news-images/65ed2a0707acc0ade0d77710.jpg",
+      "link": "https://www.marketwatch.com/story/the-truth-about-being-a-landlord-in-retirement-5d1daf4c?mod=mw_rss_topstories",
+      "published": "2026-10-15T17:05:00Z",
       "sentiment": "neutral"
     },
     {
-      "category": "tech",
-      "headline": "CoreWeave\u2019s AI bonds tumble, raising red flags for the wider market",
-      "image": "news-images/8a90a0c8d660aba5cd6e4bee.jpg",
-      "link": "https://www.marketwatch.com/story/coreweave-sparks-worry-about-broader-credit-market-stress-as-its-bonds-tumble-887458e4?mod=mw_rss_topstories",
-      "published": "2026-10-14T21:18:00Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "tech",
-      "headline": "Dow Jones Futures: Dell, AMD, CoreWeave Lead Market Sell-Off On AI Fears; Taiwan Semiconductor Due",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/aa652aec-f2fc-3be9-a055-a0a4183cba67/dow-jones-futures%3A-dell%2C-amd%2C.html?.tsrc=rss",
-      "published": "2026-10-14T21:09:25Z",
-      "sentiment": "bearish"
-    },
-    {
       "category": "other",
-      "headline": "OpenAI sued by 8 states over ChatGPT safety concerns",
+      "headline": "Trump says Nidal Hasan execution won't be livestreamed",
       "image": null,
-      "link": "https://www.cnbc.com/2026/10/14/openai-sued-by-8-states-over-chatgpt-safety-concerns-.html",
-      "published": "2026-10-14T21:09:20Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "financials",
-      "headline": "Bank of America adds a profit miss to the misery of a $1.2 billion government fine",
-      "image": "news-images/7472da75f2bbb36801e69d5c.jpg",
-      "link": "https://www.marketwatch.com/story/bank-of-america-adds-a-profit-miss-to-the-misery-of-a-1-2-billion-government-fine-d4420bfa?mod=mw_rss_topstories",
-      "published": "2026-10-14T21:03:00Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "federal",
-      "headline": "Update: Nasdaq, S&P 500 Fall for Third Straight Session Following Hot CPI Data",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-p-500-fall-third-210112489.html?.tsrc=rss",
-      "published": "2026-10-14T21:01:12Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "other",
-      "headline": "BlackRock now manages assets equal to half the size of the U.S. economy after 15% growth",
-      "image": "news-images/fffdf54d98f92dce7144eecd.jpg",
-      "link": "https://www.marketwatch.com/story/blackrock-now-has-assets-equal-to-half-the-size-of-the-u-s-economy-after-15-growth-c382b289?mod=mw_rss_topstories",
-      "published": "2026-10-14T20:57:00Z",
+      "link": "https://www.cnbc.com/2026/10/15/trump-nidal-hasan-execution-livestream.html",
+      "published": "2026-10-15T17:00:16Z",
       "sentiment": "neutral"
     },
     {
       "category": "federal",
-      "headline": "Update: US Equity Indexes Drop in Thin Trading Volumes as Big-Tech Sinks Following Hot Inflation Print",
+      "headline": "Update: US Equity Indexes Mixed After Hot Producer Price Inflation, Slumping Treasury Yields",
       "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-drop-thin-204649727.html?.tsrc=rss",
-      "published": "2026-10-14T20:46:49Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "tech",
-      "headline": "CoreWeave shares tumble as bond yields near 15% on concern about AI borrowing binge",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/14/coreweave-stock-bond-yields-ai-debt.html",
-      "published": "2026-10-14T20:46:32Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "realestate",
-      "headline": "Meet the baby chasers \u2014 they\u2019re transforming the housing market and solving the childcare crisis",
-      "image": "news-images/34e076cfd3df359e3e12e589.jpg",
-      "link": "https://www.marketwatch.com/story/meet-the-baby-chasers-theyre-transforming-the-housing-market-and-solving-the-childcare-crisis-574b5bcc?mod=mw_rss_topstories",
-      "published": "2026-10-14T20:39:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "CoreWeave sparks worry about broader credit-market stress as its bonds tumble",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=eaa33e02-8c73-45d9-988e-7537ba2df766&amp;mod=mw_rss_bulletins",
-      "published": "2026-10-14T20:28:17Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "tech",
-      "headline": "Anduril employee tender offer would value the defense tech startup at $90 billion",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/14/anduril-tender-offer-valuation.html",
-      "published": "2026-10-14T20:24:13Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "financials",
-      "headline": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html",
-      "published": "2026-10-14T20:22:09Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "other",
-      "headline": "Why Dell\u2019s stock was one of the S&P 500\u2019s biggest laggards on Wednesday",
-      "image": "news-images/044ad4ca97e5df8ecd23866a.jpg",
-      "link": "https://www.marketwatch.com/story/why-dells-stock-was-one-of-the-s-p-500s-biggest-laggards-on-wednesday-70ce279e?mod=mw_rss_topstories",
-      "published": "2026-10-14T20:21:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "financials",
-      "headline": "Bank of America shares drop after third-quarter revenue miss and regulatory penalty",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
-      "published": "2026-10-14T20:20:46Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "tech",
-      "headline": "Dell stock plunges 11%, leading data center sell-off as fears mount about 'enterprise AI timing'",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/14/dell-stock-barclays-enterprise-ai.html",
-      "published": "2026-10-14T20:19:25Z",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-hot-165927840.html?.tsrc=rss",
+      "published": "2026-10-15T16:59:27Z",
       "sentiment": "bearish"
     },
     {
       "category": "other",
-      "headline": "How major US stock indexes fared Wednesday 10/14/2026",
+      "headline": "USPS postmarks can lag mailing dates. What taxpayers and voters should know",
       "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/major-us-stock-indexes-fared-201908701.html?.tsrc=rss",
-      "published": "2026-10-14T20:19:08Z",
+      "link": "https://www.cnbc.com/2026/10/15/usps-postmark-rules-taxpayers-voters.html",
+      "published": "2026-10-15T16:56:10Z",
       "sentiment": "neutral"
     },
     {
       "category": "tech",
-      "headline": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos",
+      "headline": "TSMC chip capacity is \u2018fierce\u2019 battleground for AI customers, amid record quarter",
       "image": null,
-      "link": "https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html",
-      "published": "2026-10-14T20:06:28Z",
+      "link": "https://www.cnbc.com/2026/10/15/nvidia-apple-broadcom-in-fierce-battle-to-make-chips-at-tsmc.html",
+      "published": "2026-10-15T16:56:07Z",
       "sentiment": "neutral"
     },
     {
       "category": "tech",
-      "headline": "S&P 500, Nasdaq log worst day since July as AI trade stumbles",
+      "headline": "Stock Market Midday, Oct. 15: Markets Mixed as AI Sell-Off Continues",
       "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=2837c0b4-4860-413b-bfb2-9f16c6eb83ae&amp;mod=mw_rss_bulletins",
-      "published": "2026-10-14T20:04:54Z",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/10/15/stock-market-midday-oct-15-markets-mixed-as-ai-sell-off-continues/?.tsrc=rss",
+      "published": "2026-10-15T16:55:00Z",
       "sentiment": "bearish"
+    },
+    {
+      "category": "tech",
+      "headline": "Nvidia and other chip stocks face renewed pressure as AI fears swell",
+      "image": "news-images/46c6781d37b5667b08e515bb.jpg",
+      "link": "https://www.marketwatch.com/story/micron-nvidia-and-other-chip-stocks-face-renewed-pressure-as-ai-fears-swell-4e0dc989?mod=mw_rss_topstories",
+      "published": "2026-10-15T16:55:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Investors are dumping AI stocks as \u2018tech wreck\u2019 worsens. Here\u2019s where they\u2019re turning now.",
+      "image": "news-images/3a19bb2fe130e68c3bbc4541.jpg",
+      "link": "https://www.marketwatch.com/story/traders-pile-into-bonds-and-defensive-stocks-as-the-tech-wreck-picks-up-steam-48c04374?mod=mw_rss_topstories",
+      "published": "2026-10-15T16:53:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "CoreWeave credit default swaps hit distress levels as investors sour on AI debt",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/15/coreweave-credit-default-swaps-hit-distress-levels-as-investors-sour-on-ai-debt.html",
+      "published": "2026-10-15T16:52:16Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "industrials",
+      "headline": "Tesla may finally debut a flying car today, nearly 9 years after promising one",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=32164085-05ea-4630-9dc8-5234468e2164&amp;mod=mw_rss_bulletins",
+      "published": "2026-10-15T16:49:36Z",
+      "sentiment": "neutral"
     },
     {
       "category": "energy",
-      "headline": "Sector Update: Energy Stocks Rise Late Afternoon",
+      "headline": "International Energy Agency to release more than 20 million barrels of diesel as soon as possible",
       "image": null,
-      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-rise-afternoon-200334873.html?.tsrc=rss",
-      "published": "2026-10-14T20:03:34Z",
+      "link": "https://www.cnbc.com/2026/10/15/iea-diesel-price-ukraine-iran-oil.html",
+      "published": "2026-10-15T16:47:03Z",
       "sentiment": "neutral"
     },
     {
-      "category": "federal",
-      "headline": "September's CPI Came in Hotter Than Expected and Geopolitical Tensions Climbed. Stocks Fell.",
-      "image": null,
-      "link": "https://www.ibtimes.com/septembers-cpi-came-hotter-expected-geopolitical-tensions-climbed-stocks-fell-3808595?.tsrc=rss",
-      "published": "2026-10-14T20:03:33Z",
+      "category": "industrials",
+      "headline": "Tesla may finally debut a flying car today, after testing fans\u2019 patience for nearly a decade",
+      "image": "news-images/44404f602f8db55b1d6fa6c7.jpg",
+      "link": "https://www.marketwatch.com/story/tesla-may-finally-debut-a-flying-car-today-after-testing-fans-patience-for-nearly-a-decade-9a23c8e8?mod=mw_rss_topstories",
+      "published": "2026-10-15T16:43:00Z",
       "sentiment": "neutral"
     },
     {
-      "category": "federal",
-      "headline": "10-year Treasury yield dips as traders look ahead to Thursday economic reports",
+      "category": "financials",
+      "headline": "Banks with Jeffrey Epstein ties eyed by Democrats Warren and Garcia",
       "image": null,
-      "link": "https://www.cnbc.com/2026/10/14/us-treasury-yields-cpi-inflation-report.html",
-      "published": "2026-10-14T20:03:22Z",
+      "link": "https://www.cnbc.com/2026/10/15/banks-congress-jeffrey-epstein-oversight.html",
+      "published": "2026-10-15T16:39:04Z",
       "sentiment": "neutral"
     },
     {
-      "category": "tech",
-      "headline": "S&P 500 Tumbles in Worst Day Since July. Tech is Tanking.",
+      "category": "consumer",
+      "headline": "Update: Equities Mostly Higher as Investors Parse Retail Sales, Wholesale Prices Data",
       "image": null,
-      "link": "https://finance.yahoo.com/m/94ea7be2-e63c-3285-bf06-9c73dff22867/s%26p-500-tumbles-in-worst-day.html?.tsrc=rss",
-      "published": "2026-10-14T20:02:10Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "tech",
-      "headline": "\u2018I am a pretty cautious person\u2019: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
-      "image": "news-images/ad3406ca64eaa77911021042.jpg",
-      "link": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
-      "published": "2026-10-14T20:01:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Update: US Equity Indexes Drop as Big-Tech Sinks After Hot Inflation Report Lifts Odds of Fed-Rate Increases",
-      "image": null,
-      "link": "https://finance.yahoo.com/economy/articles/us-equity-indexes-drop-big-194856373.html?.tsrc=rss",
-      "published": "2026-10-14T19:48:56Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "other",
-      "headline": "My wife says we can\u2019t afford to retire. I vetoed her $8,000 trip to Italy. We\u2019re in our 60s and have $4 million. Do I keep working?",
-      "image": "news-images/7003f287cb8121caa877cfcc.jpg",
-      "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
-      "published": "2026-10-14T19:30:00Z",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/equities-mostly-higher-investors-parse-163829358.html?.tsrc=rss",
+      "published": "2026-10-15T16:38:29Z",
       "sentiment": "neutral"
     },
     {
       "category": "other",
-      "headline": "S&P 500, Nasdaq on pace for worst day in about three months",
+      "headline": "Stock Market Today: Dow Strengthens, Nasdaq Contains Losses; eBay Surges 5% (Live Coverage)",
       "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=7d1de564-93a3-45eb-abc8-92a998e8edfc&amp;mod=mw_rss_bulletins",
-      "published": "2026-10-14T19:24:38Z",
+      "link": "https://finance.yahoo.com/m/27f9f9ee-5b06-3a78-a91a-ddc2a33bd2d2/stock-market-today%3A-dow.html?.tsrc=rss",
+      "published": "2026-10-15T16:35:41Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "CoreWeave investors are feeling spooked, as the company\u2019s stock and bonds see fresh pressure",
+      "image": "news-images/979edc218e55608db9dfb0fe.jpg",
+      "link": "https://www.marketwatch.com/story/coreweave-investors-are-feeling-spooked-as-the-companys-stock-and-bonds-see-fresh-pressure-ba39a931?mod=mw_rss_topstories",
+      "published": "2026-10-15T16:20:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Nvidia, AMD, Dell sell-off in global tech rout on AI funding worries",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
+      "published": "2026-10-15T16:19:09Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "Top Midday Stories: Anthropic Reports $16.8 Billion in Q3 Revenue; CoreWeave's Credit Risk Hits Intraday High",
+      "image": null,
+      "link": "https://finance.yahoo.com/technology/ai/articles/top-midday-stories-anthropic-reports-155608447.html?.tsrc=rss",
+      "published": "2026-10-15T15:56:08Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Traders pile into bonds and defensive stocks as \u2018tech wreck\u2019 picks up steam",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=ec7e0da1-ae70-41f8-bf83-9eb65a6839c9&amp;mod=mw_rss_bulletins",
+      "published": "2026-10-15T15:24:49Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Nasdaq Tumbles as AI Fears Overshadow Inflation Data",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/434edc4f-6d58-341a-ac60-f5ec54dba6d7/nasdaq-tumbles-as-ai-fears.html?.tsrc=rss",
+      "published": "2026-10-15T13:31:46Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "tech",
+      "headline": "S&P 500, Nasdaq open lower as tech stocks remain under pressure",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=6bdb2b5f-4afb-4cfd-a733-163d4b82b501&amp;mod=mw_rss_bulletins",
+      "published": "2026-10-15T13:30:54Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "All 30 Dow Jones Stocks Ranked: Buy, Sell or Hold?",
+      "image": null,
+      "link": "https://www.kiplinger.com/investing/stocks/blue-chip-stocks/602319/all-30-dow-jones-stocks-ranked-the-pros-weigh-in?.tsrc=rss",
+      "published": "2026-10-15T13:21:39Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Exchange-Traded Funds Lower, Equity Futures Mixed Pre-Bell Thursday Amid Economic Data Release",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-lower-equity-131605386.html?.tsrc=rss",
+      "published": "2026-10-15T13:16:05Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Update: US Equity Futures Mixed Pre-Bell as Traders Assess AI Overspending Concerns, Raised Odds of Fed Rate Increase",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-mixed-pre-130150270.html?.tsrc=rss",
+      "published": "2026-10-15T13:01:50Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "PPI report: Prices rose faster than expected. A Fed rate hike looks more likely.",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=aca1197f-2150-41dc-9373-99aeddceff21&amp;mod=mw_rss_bulletins",
+      "published": "2026-10-15T12:34:25Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Stock Market News for Oct 15, 2026",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-oct-15-123000001.html?.tsrc=rss",
+      "published": "2026-10-15T12:30:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "The PPI report is moments away. Follow reactions and analysis here.",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=7bb77088-6ef0-4ded-8b1f-ef968699ecba&amp;mod=mw_rss_bulletins",
+      "published": "2026-10-15T12:09:03Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "consumer",
+      "headline": "Economic calendar: PPI, retail sales, manufacturing survey top agenda",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=ebff383f-3ad0-4a3d-b64a-b3f1de1c6818&amp;mod=mw_rss_bulletins",
+      "published": "2026-10-15T11:44:51Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Yield on 10-year Treasury dives on tech-stock fears: markets live",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=f5fe0951-27fc-4d16-a7d6-fc6993f60eb3&amp;mod=mw_rss_bulletins",
+      "published": "2026-10-15T09:48:56Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "AI cloud providers including CoreWeave extend losses in premarket trade",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=31ebb4e0-10e0-48f6-9aa6-ae492779e2aa&amp;mod=mw_rss_bulletins",
+      "published": "2026-10-15T09:26:47Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "TSMC CEO sees no sign of a slowdown as chip foundry reports record profit",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=4268b930-25ab-4ec3-a01b-449e45502837&amp;mod=mw_rss_bulletins",
+      "published": "2026-10-15T08:47:50Z",
       "sentiment": "neutral"
     },
     {
       "category": "realestate",
-      "headline": "\u2018Some people did everything right\u2019: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
-      "image": "news-images/0fddce6551844e3ab74fd43a.jpg",
-      "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
-      "published": "2026-10-14T19:15:00Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "other",
-      "headline": "What to expect at the next Fed meeting now that rate-hike odds are rising",
-      "image": "news-images/f3cbf64567b7759c64cddf1f.jpg",
-      "link": "https://www.marketwatch.com/story/heres-what-the-fed-might-do-at-this-months-meeting-after-todays-hot-inflation-reading-087511b6?mod=mw_rss_topstories",
-      "published": "2026-10-14T19:04:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Stocks Turn Lower as AI, Tech Shares Slump",
+      "headline": "Meet the baby chasers: They\u2019re transforming the housing market",
       "image": null,
-      "link": "https://www.wsj.com/finance/stocks/stock-futures-tick-higher-treasurys-strengthen-ahead-of-inflation-data-3fd584f5?.tsrc=rss",
-      "published": "2026-10-14T18:19:00Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "federal",
-      "headline": "Rising bond yields, higher inflation leave the Fed trapped in rate-hike dilemma",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=536f0e6c-15f0-43ba-8f69-22abfd37ca83&amp;mod=mw_rss_bulletins",
-      "published": "2026-10-14T18:12:21Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Update: Equities Fall Intraday as Traders Parse Inflation Data, Bank of America's Earnings Miss",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/equities-fall-intraday-traders-parse-175654183.html?.tsrc=rss",
-      "published": "2026-10-14T17:56:54Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "other",
-      "headline": "The S&P 500\u2019s remarkable resilience is being tested today \u2014 live updates",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=eaa37fa1-5a98-44f5-8542-d78731f0b3ac&amp;mod=mw_rss_bulletins",
-      "published": "2026-10-14T17:30:49Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Social Security\u2019s COLA will be 3.6% in 2027 as inflation persists",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=4feb4107-a997-4599-83a9-efa3c2773af0&amp;mod=mw_rss_bulletins",
-      "published": "2026-10-14T14:00:13Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Stocks open lower as bond yields surge after hot inflation report",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=013876aa-fcfd-4acd-9bf4-e0ddfcdbdfec&amp;mod=mw_rss_bulletins",
-      "published": "2026-10-14T13:32:10Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "federal",
-      "headline": "CPI report: Core inflation is higher than expected \u2014 live updates",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=e96936d1-9f47-4abf-ba0e-09ae4bee9ef5&amp;mod=mw_rss_bulletins",
-      "published": "2026-10-14T12:34:06Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Moments away: This CPI report could determine the Fed's next move",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=fe1c53ca-4c47-4ae2-a99f-1608e10bc6c9&amp;mod=mw_rss_bulletins",
-      "published": "2026-10-14T12:01:54Z",
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=fb2e49ec-7478-4498-9ca3-693ab95e18dd&amp;mod=mw_rss_bulletins",
+      "published": "2026-10-15T00:01:34Z",
       "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-10-14T21:19:09Z",
+  "newest_item_published": "2026-10-15T17:36:53Z",
   "source_item_count": 67,
   "sources": {
     "cnbc": {
-      "contributed": 11,
+      "contributed": 10,
       "error": null,
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-10-14T21:19:09Z",
+      "newest": "2026-10-15T17:36:53Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,25 +340,25 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-10-14T21:19:00Z",
+      "newest": "2026-10-15T17:30:00Z",
       "ok": true
     },
     "mw_bulletins": {
-      "contributed": 9,
+      "contributed": 10,
       "error": null,
       "fetched": 10,
       "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-10-14T20:28:17Z",
+      "newest": "2026-10-15T16:49:36Z",
       "ok": true
     },
     "yahoo_dji": {
       "contributed": 10,
       "error": null,
       "fetched": 17,
-      "fresh": 17,
+      "fresh": 16,
       "label": "Yahoo Finance",
-      "newest": "2026-10-14T21:09:25Z",
+      "newest": "2026-10-15T16:59:27Z",
       "ok": true
     }
   }
