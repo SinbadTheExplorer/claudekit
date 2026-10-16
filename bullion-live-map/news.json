@@ -1,6 +1,182 @@
 {
-  "generated_at": "2026-10-16T21:00:21Z",
+  "generated_at": "2026-10-16T23:31:15Z",
   "headlines": [
+    {
+      "category": "other",
+      "headline": "Can a $55,000 humanoid robot load your dishwasher? Our reporter finds out.",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=a9ca3028-c7c7-4354-8190-02d679e08ff7&amp;mod=mw_rss_bulletins",
+      "published": "2026-10-16T22:48:49Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
+      "published": "2026-10-16T22:33:05Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Apple\u2019s $1,999 iPhone Duo puts the company's status-symbol power to the test",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/16/apple-iphone-duo-demand-price.html",
+      "published": "2026-10-16T22:31:26Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Nasdaq 100 Records Worst Week In 18 Months As Investors Steer Clear Of Chipmakers \u2014 AAPL, MSTR, UBER, SOXX In Focus",
+      "image": null,
+      "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-100-records-worst-week-in-18-months/cZxK0vGRBt2?.tsrc=rss",
+      "published": "2026-10-16T22:15:34Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Stock Market Today, Oct. 16: Tech Stocks Plunge as AI Software Valuations Reverse",
+      "image": null,
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/10/16/stock-market-today-oct-16-tech-stocks-plunge-as-ai-software-valuations-reverse/?.tsrc=rss",
+      "published": "2026-10-16T22:09:48Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "tech",
+      "headline": "Nowhere to hide: Tech selloff hits software and chip stocks alike",
+      "image": "news-images/939e0927daa306f9e93589b4.jpg",
+      "link": "https://www.marketwatch.com/story/nowhere-to-hide-tech-selloff-hits-software-and-chip-stocks-alike-6d96773c?mod=mw_rss_topstories",
+      "published": "2026-10-16T21:59:00Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "tech",
+      "headline": "This Senate race where data centers are a crucial issue has more spending than any other midterm clash",
+      "image": "news-images/89f715e8199bf27eab593852.jpg",
+      "link": "https://www.marketwatch.com/story/this-senate-race-where-data-centers-are-a-crucial-issue-has-more-spending-than-any-other-midterm-clash-5152b43d?mod=mw_rss_topstories",
+      "published": "2026-10-16T21:43:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Could an Anthropic IPO put your 401(k) at risk? The AI safety debate hits a new dimension.",
+      "image": "news-images/5dad872ecb016beaf3f0d89e.jpg",
+      "link": "https://www.marketwatch.com/story/could-an-anthropic-ipo-put-your-401-k-at-risk-the-ai-safety-debate-hits-a-new-dimension-db3f09f7?mod=mw_rss_topstories",
+      "published": "2026-10-16T21:35:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "The bond market shrugged off two inflation shocks. Why stock investors should pay attention.",
+      "image": "news-images/66988a737772e83ce8968e08.jpg",
+      "link": "https://www.marketwatch.com/story/the-bond-market-shrugged-off-two-inflation-shocks-why-stock-investors-should-pay-attention-5da4f771?mod=mw_rss_topstories",
+      "published": "2026-10-16T21:30:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Katie Zacharia out as Trump's White House press secretary",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/16/trump-katie-zacharia-white-house.html",
+      "published": "2026-10-16T21:26:15Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "financials",
+      "headline": "New SEC rules would fleece everyday investors to enrich Wall Street",
+      "image": "news-images/d9e2830925ec07d0ca16fe1a.jpg",
+      "link": "https://www.marketwatch.com/story/new-sec-rules-would-fleece-everyday-investors-to-enrich-wall-street-0a00fe03?mod=mw_rss_topstories",
+      "published": "2026-10-16T21:21:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Equinix (EQIX) Stock Moves -1.03%: What You Should Know",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/equinix-eqix-stock-moves-1-211507168.html?.tsrc=rss",
+      "published": "2026-10-16T21:15:07Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Ralph Lauren (RL) Falls More Steeply Than Broader Market: What Investors Need to Know",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ralph-lauren-rl-falls-more-211507113.html?.tsrc=rss",
+      "published": "2026-10-16T21:15:07Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "Why Doximity (DOCS) Dipped More Than Broader Market Today",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-doximity-docs-dipped-more-211506322.html?.tsrc=rss",
+      "published": "2026-10-16T21:15:06Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Vita Coco Company, Inc. (COCO) Ascends While Market Falls: Some Facts to Note",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/vita-coco-company-inc-coco-211506335.html?.tsrc=rss",
+      "published": "2026-10-16T21:15:06Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "Pagaya Technologies Ltd. (PGY) Registers a Bigger Fall Than the Market: Important Facts to Note",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/pagaya-technologies-ltd-pgy-registers-211506065.html?.tsrc=rss",
+      "published": "2026-10-16T21:15:06Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "AppFolio (APPF) Dips More Than Broader Market: What You Should Know",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/appfolio-appf-dips-more-broader-211505435.html?.tsrc=rss",
+      "published": "2026-10-16T21:15:05Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Blink Charging (BLNK) Declines More Than Market: Some Information for Investors",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/blink-charging-blnk-declines-more-211505446.html?.tsrc=rss",
+      "published": "2026-10-16T21:15:05Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Why RH (RH) Dipped More Than Broader Market Today",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-rh-rh-dipped-more-211504465.html?.tsrc=rss",
+      "published": "2026-10-16T21:15:04Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Here's Why Autodesk (ADSK) Fell More Than Broader Market",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/heres-why-autodesk-adsk-fell-211504205.html?.tsrc=rss",
+      "published": "2026-10-16T21:15:04Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "I\u2019m 63 and diagnosed with lymphoma. Should I take my Social Security next year?",
+      "image": "news-images/abb057913972d59a1d19f8ea.jpg",
+      "link": "https://www.marketwatch.com/story/its-a-wait-and-see-situation-im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year-ea88b419?mod=mw_rss_topstories",
+      "published": "2026-10-16T21:15:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Don\u2019t buy this dip: Signs suggest there\u2019s more pain ahead for tech stocks",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=174ffd94-219e-428b-aa63-6ea4c0ae5293&amp;mod=mw_rss_bulletins",
+      "published": "2026-10-16T21:07:42Z",
+      "sentiment": "neutral"
+    },
     {
       "category": "tech",
       "headline": "Don\u2019t buy this dip: Several signs suggest there\u2019s more pain ahead for tech stocks",
@@ -8,30 +184,6 @@
       "link": "https://www.marketwatch.com/story/dont-buy-this-dip-several-signs-suggest-theres-more-pain-ahead-for-tech-stocks-83f971d7?mod=mw_rss_topstories",
       "published": "2026-10-16T20:58:00Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "energy",
-      "headline": "Update: US Equity Indexes Retreat Amid Rotation Out of High-Growth Sectors, Surge in Crude Oil",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-retreat-amid-204142032.html?.tsrc=rss",
-      "published": "2026-10-16T20:41:42Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "federal",
-      "headline": "Katie Zacharia out as Trump's White House press secretary",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/16/trump-katie-zacharia-white-house.html",
-      "published": "2026-10-16T20:40:58Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Stock Market Today: Nasdaq Plunges 2%; Palo Alto Leads Slide In Cybersecurity Space",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/13e48d09-0976-3082-81ba-a828960757d8/stock-market-today%3A-nasdaq.html?.tsrc=rss",
-      "published": "2026-10-16T20:36:33Z",
-      "sentiment": "bearish"
     },
     {
       "category": "other",
@@ -42,44 +194,12 @@
       "sentiment": "neutral"
     },
     {
-      "category": "tech",
-      "headline": "US Equity Indexes Mixed This Week as CoreWeave Rattles AI Trade, Sparks Rotation Out of Technology",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-week-202931391.html?.tsrc=rss",
-      "published": "2026-10-16T20:29:31Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "federal",
       "headline": "Trump says White House didn't order Starlink restrictions in Ukraine",
       "image": null,
       "link": "https://www.cnbc.com/2026/10/16/trump-denies-musk-claim-he-ordered-starlink-restrictions-in-ukraine.html",
       "published": "2026-10-16T20:28:10Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "As market momentum slows, are AI pullbacks really buying opportunities?",
-      "image": null,
-      "link": "https://finance.yahoo.com/video/as-market-momentum-slows-are-ai-pullbacks-really-buying-opportunities-202712260.html?.tsrc=rss",
-      "published": "2026-10-16T20:27:12Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "How major US stock indexes fared Friday 10/16/2026",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/major-us-stock-indexes-fared-201722343.html?.tsrc=rss",
-      "published": "2026-10-16T20:17:22Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Investors Rotated Out of the AI Trade and Geopolitical Tensions Soared. The Nasdaq Saw Its Worst Week in Months.",
-      "image": null,
-      "link": "https://www.ibtimes.com/investors-rotated-out-ai-trade-geopolitical-tensions-soared-nasdaq-saw-its-worst-week-months-3808691?.tsrc=rss",
-      "published": "2026-10-16T20:07:10Z",
-      "sentiment": "bullish"
     },
     {
       "category": "other",
@@ -106,22 +226,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "energy",
-      "headline": "Sector Update: Energy Stocks Gain Late Afternoon",
-      "image": null,
-      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-gain-afternoon-200054695.html?.tsrc=rss",
-      "published": "2026-10-16T20:00:54Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "tech",
-      "headline": "Tech stocks stumble as sell-off spreads to software",
-      "image": null,
-      "link": "https://finance.yahoo.com/video/tech-stocks-stumble-as-sell-off-spreads-to-software-194829195.html?.tsrc=rss",
-      "published": "2026-10-16T19:48:29Z",
-      "sentiment": "bearish"
-    },
-    {
       "category": "other",
       "headline": "Debt is eating up a bigger chunk of your raise, research shows",
       "image": null,
@@ -146,22 +250,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "federal",
-      "headline": "Did this year\u2019s COLA beat inflation? Here\u2019s how spending by American seniors stacks up so far in 2026.",
-      "image": "news-images/382b8070db1f959d82434b07.jpg",
-      "link": "https://www.marketwatch.com/story/did-this-years-cola-beat-inflation-heres-how-spending-by-american-seniors-stacks-up-so-far-in-2026-917c400c?mod=mw_rss_topstories",
-      "published": "2026-10-16T19:45:00Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "federal",
-      "headline": "The COLA wars are coming for Social Security",
-      "image": "news-images/a327eadaaf51a331f3597ce9.jpg",
-      "link": "https://www.marketwatch.com/story/the-cola-wars-are-coming-for-social-security-10c177f1?mod=mw_rss_topstories",
-      "published": "2026-10-16T19:45:00Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "other",
       "headline": "U.S. deficit just hit almost $2 trillion. Washington isn\u2019t doing much about it.",
       "image": null,
@@ -175,14 +263,6 @@
       "image": null,
       "link": "https://www.cnbc.com/2026/10/16/netflix-peter-rice-chief-content-officer.html",
       "published": "2026-10-16T19:40:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Microsoft wants to make AI cheaper. Will investors actually see the savings?",
-      "image": "news-images/b65053f13e0a0edb884bb0a3.jpg",
-      "link": "https://www.marketwatch.com/story/microsoft-wants-to-make-ai-cheaper-will-investors-actually-see-the-savings-0a3c3ac0?mod=mw_rss_topstories",
-      "published": "2026-10-16T19:35:00Z",
       "sentiment": "neutral"
     },
     {
@@ -208,62 +288,6 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=aca797a4-6050-41c7-a86d-af6027c81cd1&amp;mod=mw_rss_bulletins",
       "published": "2026-10-16T19:23:02Z",
       "sentiment": "bearish"
-    },
-    {
-      "category": "other",
-      "headline": "The affordability crisis isn't hitting all voters equally. Here's why",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/16/affordability-inflation-midterms.html",
-      "published": "2026-10-16T19:22:21Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Nike Stock Surged 5% on Thursday. Here\u2019s Where Shares Could Go in 2026",
-      "image": null,
-      "link": "https://www.tikr.com/blog/nike-stock-surged-5-on-thursday-heres-where-shares-could-go-in-2026?ref=yahoofinance&amp;.tsrc=rss",
-      "published": "2026-10-16T19:05:35Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "other",
-      "headline": "My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?",
-      "image": "news-images/f5228a67ca817110c057e3d6.jpg",
-      "link": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
-      "published": "2026-10-16T19:00:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Apple\u2019s $1,999 iPhone Duo puts the company's status-symbol power to the test",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/16/apple-iphone-duo-demand-price.html",
-      "published": "2026-10-16T18:55:17Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "AI investors have woken up to the bond market\u2019s warning signs",
-      "image": "news-images/57d525e8d1df86ad05e0d179.jpg",
-      "link": "https://www.marketwatch.com/story/ai-investors-have-woken-up-to-the-bond-markets-warning-signs-6f604c61?mod=mw_rss_topstories",
-      "published": "2026-10-16T18:52:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Jim Cramer doubles down on his stock market stand",
-      "image": null,
-      "link": "https://www.thestreet.com/investing/stocks/jim-cramer-doubles-down-on-his-stock-market-stand?.tsrc=rss",
-      "published": "2026-10-16T18:47:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Could an Anthropic IPO put your 401(k) at risk? The AI safety debate hits a new dimension.",
-      "image": "news-images/5dad872ecb016beaf3f0d89e.jpg",
-      "link": "https://www.marketwatch.com/story/could-an-anthropic-ipo-put-your-401-k-at-risk-the-ai-safety-debate-hits-a-new-dimension-db3f09f7?mod=mw_rss_topstories",
-      "published": "2026-10-16T18:37:00Z",
-      "sentiment": "neutral"
     },
     {
       "category": "other",
@@ -296,34 +320,10 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=588518fc-fd08-4c88-bade-4e86e5f2baa2&amp;mod=mw_rss_bulletins",
       "published": "2026-10-16T13:32:30Z",
       "sentiment": "bearish"
-    },
-    {
-      "category": "federal",
-      "headline": "Economic calendar: Industrial data and Treasury balance coming up",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=3a546f0b-4083-4fa4-8445-3e71a3143ff0&amp;mod=mw_rss_bulletins",
-      "published": "2026-10-16T11:37:28Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "healthcare",
-      "headline": "Medicare open enrollment is here. What to know about deadlines, options and more",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=c918ac25-3e02-49aa-b3ea-73ab3221907c&amp;mod=mw_rss_bulletins",
-      "published": "2026-10-15T23:47:26Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "How a midterm sweep by Democrats could turn this tech selloff into a tech crash",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=5c0fdadb-1309-4084-9dfb-8b130f51f3d6&amp;mod=mw_rss_bulletins",
-      "published": "2026-10-15T22:44:37Z",
-      "sentiment": "bearish"
     }
   ],
-  "newest_item_published": "2026-10-16T20:58:00Z",
-  "source_item_count": 68,
+  "newest_item_published": "2026-10-16T22:48:49Z",
+  "source_item_count": 69,
   "sources": {
     "cnbc": {
       "contributed": 10,
@@ -331,7 +331,7 @@
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-10-16T20:40:58Z",
+      "newest": "2026-10-16T22:33:05Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,25 +340,25 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-10-16T20:58:00Z",
+      "newest": "2026-10-16T21:59:00Z",
       "ok": true
     },
     "mw_bulletins": {
-      "contributed": 10,
+      "contributed": 9,
       "error": null,
       "fetched": 10,
       "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-10-16T20:02:39Z",
+      "newest": "2026-10-16T22:48:49Z",
       "ok": true
     },
     "yahoo_dji": {
-      "contributed": 10,
+      "contributed": 11,
       "error": null,
-      "fetched": 18,
-      "fresh": 18,
+      "fetched": 19,
+      "fresh": 19,
       "label": "Yahoo Finance",
-      "newest": "2026-10-16T20:41:42Z",
+      "newest": "2026-10-16T22:15:34Z",
       "ok": true
     }
   }
