@@ -1,5 +1,23 @@
 # Bullion — Changelog
 
+## v1.1 — Onboarding, 2026-10-19
+
+Family and friends found v1.0 "too complicated." Most features never explained themselves.
+
+- **First-visit story.** A 6-step walkthrough of the real 2026-10-14 CPI week (inflation, then
+  rate-hike odds, then tech stocks, then the VIX). It lights up each node on the map, then
+  hands off to the existing coach.
+- **First-open tips** for the Market tab, the Analysis tab (health score and five dimensions),
+  scenarios, "Set your own numbers" and the past-date picker. Each tip shows once, and any of
+  them can be skipped.
+- **The coach remembers you now.** It stores its state in localStorage instead of
+  sessionStorage, so it no longer reappears in every new tab.
+
+**Not yet done:** v1.1's main done criterion is "a first-timer can explain one chain reaction
+without help." That still needs testing with real people (see
+`docs/superpowers/bullion-v1.1-onboarding-plan.md`). The story's numbers are fixed to October
+2026.
+
 ## v1.0 — Released 2026-10-19
 
 Live at https://sinbadtheexplorer.github.io/claudekit/bullion-live-map/

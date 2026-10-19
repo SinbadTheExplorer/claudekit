@@ -1069,6 +1069,80 @@
     .drawer-tag { min-height: 30px; display: inline-flex; align-items: center; }
     .scenario-select, #history-date-input { min-height: 38px; }
   }
+
+  /* v1.1 first-use tip cards (Tips module, end of file) */
+#tip-card {
+  position: fixed;
+  bottom: 24px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 50;
+  width: min(360px, calc(100vw - 32px));
+  background: var(--bg-panel);
+  border: 1px solid var(--border);
+  border-left: 3px solid var(--accent);
+  padding: 14px 16px 12px;
+  box-shadow: 0 10px 32px rgba(0,0,0,0.5);
+  color: var(--text);
+  font-size: 13px;
+  line-height: 1.5;
+  border-radius: 0;
+}
+#tip-card.hidden {display:none;}
+#tip-skip {
+  position: absolute;
+  top: 8px;
+  right: 10px;
+  background: none;
+  border: none;
+  color: var(--text-dim);
+  font-size: 18px;
+  cursor: pointer;
+}
+#tip-skip:hover {color: var(--text);}
+#tip-dots {
+  display: flex;
+  gap: 5px;
+  margin-bottom: 6px;
+}
+.tip-dot {
+  width: 6px;
+  height: 6px;
+  background: var(--border);
+}
+.tip-dot.active {background: var(--accent);}
+#tip-title {
+  margin: 0 0 6px;
+  font-size: 13.5px;
+  color: var(--gold);
+  font-weight: 600;
+  padding-right: 18px;
+}
+#tip-body {color: var(--text-dim);}
+#tip-body b {color: var(--text);}
+#tip-actions {
+  margin-top: 12px;
+  display: flex;
+  justify-content: flex-end;
+  gap: 8px;
+}
+#tip-actions .btn {
+  padding: 5px 12px;
+  font-size: 12px;
+}
+@media (max-width: 640px) {
+  #tip-card {
+    bottom: 128px; /* clears the docked persona orb, its label and its hint (bottom-right) */
+    font-size: 12.5px;
+  }
+}
+@media (prefers-reduced-motion: no-preference) {
+  #tip-card {animation: tip-enter 0.2s ease-out forwards;}
+  @keyframes tip-enter {
+    from {opacity:0;transform:translate(-50%,20px);}
+    to   {opacity:1;transform:translate(-50%,0);}
+  }
+}
 </style>
 <!-- Mk Ultra render layer: Three.js r160 (npm 0.160.0) core module, vendored
      locally at vendor/three.module.js so this page has no CDN dependency —
@@ -4158,11 +4232,14 @@ const COACH = [
 ];
 let coachStep = 0;
 let coachDone = false;
-try { if (sessionStorage.getItem('bullionCoachDone') === '1') coachDone = true; } catch (e) {}
+try { if (localStorage.getItem('bullionCoachDone') === '1') coachDone = true; } catch (e) {}
 let interacted = false;
 function renderCoach() {
   const card = document.getElementById('coach');
   if (!card) return;
+  // The v1.1 first-visit story owns the screen while it runs (flag set by the
+  // onboarding script near the end of the file); the coach takes over after.
+  if (window.bullionStoryRunning) { card.classList.add('hidden'); return; }
   if (coachDone || !beginnerMode) { card.classList.add('hidden'); return; }
   card.classList.remove('hidden');
   const s = COACH[coachStep];
@@ -4179,7 +4256,7 @@ function coachAdvance() {
 }
 function dismissCoach() {
   coachDone = true;
-  try { sessionStorage.setItem('bullionCoachDone', '1'); } catch (e) {}
+  try { localStorage.setItem('bullionCoachDone', '1'); } catch (e) {}
   const card = document.getElementById('coach');
   if (card) card.classList.add('hidden');
 }
@@ -7552,6 +7629,374 @@ fetch('data.json')
 // it, so a slow or failed market-data fetch never delays the headline
 // ticker (and vice versa).
 loadNewsList();
+</script>
+
+<script>
+/* global Tips */
+(function () {
+  var STORAGE_PREFIX = 'bullion-tip-';
+  var seenSet = new Set();
+  var current = null; // {key, steps, opts, index}
+  var cardEl, titleEl, bodyEl, dotsEl, backBtn, nextBtn, skipBtn;
+
+  function _loadSeen(key) {
+    try {
+      if (localStorage.getItem(STORAGE_PREFIX + key) === '1') seenSet.add(key);
+    } catch (_) {}
+  }
+
+  function _markSeen(key) {
+    try {
+      localStorage.setItem(STORAGE_PREFIX + key, '1');
+    } catch (_) {}
+    seenSet.add(key);
+  }
+
+  function _createCard() {
+    if (cardEl) return;
+    var div = document.createElement('div');
+    div.id = 'tip-card';
+    div.setAttribute('role', 'dialog');
+    div.setAttribute('aria-live', 'polite');
+    div.setAttribute('aria-labelledby', 'tip-title');
+    div.classList.add('hidden');
+
+    // skip button
+    var skip = document.createElement('button');
+    skip.id = 'tip-skip';
+    skip.setAttribute('aria-label', 'Skip tutorial');
+    skip.title = 'Skip';
+    skip.textContent = '×';
+    div.appendChild(skip);
+    skipBtn = skip;
+
+    // dots container (optional)
+    var dots = document.createElement('div');
+    dots.id = 'tip-dots';
+    div.appendChild(dots);
+    dotsEl = dots;
+
+    // title
+    var title = document.createElement('h3');
+    title.id = 'tip-title';
+    div.appendChild(title);
+    titleEl = title;
+
+    // body
+    var body = document.createElement('div');
+    body.id = 'tip-body';
+    div.appendChild(body);
+    bodyEl = body;
+
+    // actions row
+    var actions = document.createElement('div');
+    actions.id = 'tip-actions';
+    div.appendChild(actions);
+
+    var back = document.createElement('button');
+    back.className = 'btn';
+    back.textContent = 'Back';
+    actions.appendChild(back);
+    backBtn = back;
+
+    var next = document.createElement('button');
+    next.className = 'btn';
+    actions.appendChild(next);
+    nextBtn = next;
+
+    document.body.appendChild(div);
+    cardEl = div;
+  }
+
+  function _renderStep() {
+    var step = current.steps[current.index];
+    titleEl.innerHTML = step.title;
+    bodyEl.innerHTML = step.body;
+
+    // dots
+    if (current.steps.length > 1) {
+      dotsEl.innerHTML = '';
+      current.steps.forEach(function (_, i) {
+        var dot = document.createElement('div');
+        dot.className = 'tip-dot' + (i === current.index ? ' active' : '');
+        dotsEl.appendChild(dot);
+      });
+      dotsEl.style.display = 'flex';
+    } else {
+      dotsEl.style.display = 'none';
+    }
+
+    // back button visibility
+    backBtn.style.visibility = current.index === 0 ? 'hidden' : 'visible';
+
+    // next button label
+    if (current.index === current.steps.length - 1) {
+      nextBtn.textContent = (current.opts && current.opts.cta) || 'Got it';
+    } else {
+      nextBtn.textContent = 'Next →';
+    }
+
+    // Focus the primary button only if the user isn't mid-input somewhere
+    // else (e.g. typing a date) -- stealing focus there eats keystrokes.
+    setTimeout(function () {
+      var ae = document.activeElement;
+      if (!ae || ae === document.body || cardEl.contains(ae) || ae.tagName === 'BUTTON') nextBtn.focus();
+    }, 0);
+
+    // onEnter callback
+    if (typeof step.onEnter === 'function') {
+      try {
+        step.onEnter();
+      } catch (e) {
+        console.warn('Tip onEnter error:', e);
+      }
+    }
+  }
+
+  function _open(key, steps, opts) {
+    current = {key: key, steps: steps, opts: opts || {}, index: 0};
+    _createCard();
+    cardEl.classList.remove('hidden');
+    _renderStep();
+
+    // listeners
+    nextBtn.onclick = _onNext;
+    backBtn.onclick = _onBack;
+    skipBtn.onclick = _onSkip;
+    document.addEventListener('keydown', _onKey);
+  }
+
+  function _close() {
+    // cleanup listeners
+    nextBtn.onclick = null;
+    backBtn.onclick = null;
+    skipBtn.onclick = null;
+    document.removeEventListener('keydown', _onKey);
+
+    // mark seen and fire onDone once
+    _markSeen(current.key);
+    if (typeof current.opts.onDone === 'function') {
+      try {
+        current.opts.onDone();
+      } catch (e) {
+        console.warn('Tip onDone error:', e);
+      }
+    }
+    cardEl.classList.add('hidden');
+    current = null;
+  }
+
+  function _onNext() {
+    if (!current) return;
+    if (current.index < current.steps.length - 1) {
+      current.index++;
+      _renderStep();
+    } else {
+      _close();
+    }
+  }
+
+  function _onBack() {
+    if (!current) return;
+    if (current.index > 0) {
+      current.index--;
+      _renderStep();
+    }
+  }
+
+  function _onSkip() {
+    if (!current) return;
+    _close();
+  }
+
+  function _onKey(e) {
+    if (!current) return;
+    if (e.key === 'Escape' && cardEl.contains(document.activeElement)) {
+      e.preventDefault();
+      _onSkip();
+    }
+  }
+
+  // public API
+  window.Tips = {
+    show: function (key, steps, opts) {
+      if (typeof key !== 'string' || !Array.isArray(steps) || steps.length === 0) return false;
+      if (Tips.seen(key)) return false;
+      // prevent duplicate queue entries
+      if (current && current.key === key) return false;
+
+      // No queue: a tip asked for while another is open is dropped, NOT marked
+      // seen, so it shows the next time the visitor really opens that feature
+      // instead of popping up later, out of context.
+      if (current) return false;
+      _open(key, steps, opts);
+      return true;
+    },
+    seen: function (key) {
+      if (!seenSet.has(key)) _loadSeen(key);
+      return seenSet.has(key);
+    },
+    reset: function () {
+      try {
+        Object.keys(localStorage).forEach(function (k) {
+          if (k.indexOf(STORAGE_PREFIX) === 0) localStorage.removeItem(k);
+        });
+      } catch (_) {}
+      seenSet.clear();
+      if (current) {
+        // Close without marking seen or firing onDone: reset means "forget everything".
+        nextBtn.onclick = backBtn.onclick = skipBtn.onclick = null;
+        document.removeEventListener('keydown', _onKey);
+        current = null;
+      }
+      if (cardEl) cardEl.classList.add('hidden');
+    },
+    isOpen: function () { return !!current; }
+  };
+})();
+
+// ── v1.1 onboarding: first-visit story + first-open feature tips ───────────
+// Friends and family found v1.0 "too complicated": the full map landed at once
+// and most features never explained themselves. Two layers fix that:
+//   1. A guided story on the first visit -- one real chain reaction (the
+//      2026-10-14 CPI print), lit up node by node, before the free-roam coach.
+//   2. A short tip the FIRST time each feature is opened, never again.
+// Seen-state lives in localStorage via Tips (see above), so neither repeats in
+// a new tab. Story numbers come from this repo's own data.json snapshots
+// (2026-10-13 vs 2026-10-14 to 10-19 commits) -- update them only from a
+// snapshot, never from memory.
+
+// Highlight one node for the story. The renderer may still be booting when the
+// visitor clicks Start, so retry briefly -- but only while that step is still
+// the one on screen, so a fast clicker never gets a stale focus.
+let storyFocusToken = 0;
+function storyFocus(id) {
+  const token = ++storyFocusToken;
+  let tries = 0;
+  (function attempt() {
+    if (token !== storyFocusToken) return;
+    if (!Renderer.isReady()) { if (++tries < 25) setTimeout(attempt, 200); return; }
+    allExpanded = true;
+    HUB_IDS.forEach(h => expandedHubs.add(h));
+    stickyFocusId = id;
+    applyVisibility();   // re-asserts focus on stickyFocusId
+    focusNode(id);       // also dims the 2D board, if that's the view showing
+    Renderer.focusCameraOn(id);
+  })();
+}
+function endStory() {
+  storyFocusToken++;
+  window.bullionStoryRunning = false;
+  // Same full reset as the Reset View button, so free roam starts from the
+  // familiar collapsed map rather than a half-expanded one.
+  stickyFocusId = null;
+  allExpanded = false;
+  expandedHubs.clear();
+  applyVisibility();
+  closeDetail();
+  Renderer.resetView();
+  renderCoach();   // hand over to the existing 3-step coach
+}
+
+const STORY_STEPS = [
+  { title: 'One real week, in 60 seconds',
+    body: 'This map shows how the pieces of the U.S. financial system push on each other. '
+      + 'The easiest way to see it is a real example.<br><br>'
+      + 'On <b>October 14, 2026</b>, a new inflation number came out. Watch what it set off.',
+    onEnter: () => storyFocus('cpi') },
+  { title: '1 · Inflation ticks up',
+    body: '<b>Core CPI</b> measures how fast everyday prices are rising (minus food and energy). '
+      + 'It came in at <b>2.6%</b>, up from 2.4% the month before.<br><br>'
+      + 'Faster price growth is a problem the Fed is supposed to fight.',
+    onEnter: () => storyFocus('cpi') },
+  { title: '2 · Rate-hike fears jump',
+    body: 'The Fed fights inflation by raising the <b>Fed Funds Rate</b>, which makes borrowing more expensive.<br><br>'
+      + 'That morning, betting markets put the odds of a rate hike at <b>40%</b>, up from 18% the day before.',
+    onEnter: () => storyFocus('ffr') },
+  { title: '3 · Tech stocks fall hardest',
+    body: 'Tech companies are valued on profits expected far in the future. Higher rates make '
+      + 'future money worth less today, so <b>Tech Equities</b> take the biggest hit.<br><br>'
+      + 'The Nasdaq fell <b>nearly 4%</b> from October 13 to 16.',
+    onEnter: () => storyFocus('tech') },
+  { title: '4 · Fear rises',
+    body: 'The <b>VIX</b> is Wall Street’s "fear gauge." It measures how big a swing traders expect.<br><br>'
+      + 'It climbed from about <b>15 to 20</b> by October 16.',
+    onEnter: () => storyFocus('vix') },
+  { title: 'That’s the whole idea',
+    body: 'Every <b>dot</b> is a piece of the system. Every <b>line</b> is a cause and its effect. '
+      + 'One number moved, and you just watched it travel.<br><br>'
+      + 'The glowing orb in the bottom-right corner switches the narrator between '
+      + '<b>Alfred</b> (straight explanations) and <b>Johnny</b> (who wins, who gets burned).',
+    onEnter: () => storyFocus('cpi') },
+];
+
+// Story runs after the start screen, ahead of the old coach (hidden meanwhile).
+document.getElementById('start-screen-cta').addEventListener('click', function () {
+  if (Tips.seen('story')) return;
+  window.bullionStoryRunning = true;
+  renderCoach();   // hides the coach while the flag is set
+  Tips.show('story', STORY_STEPS, { cta: 'Explore the map', onDone: endStory });
+});
+
+// ── Per-feature first-open tips ──
+document.getElementById('tab-market').addEventListener('click', () => Tips.show('market', [
+  { title: 'The Market tab',
+    body: 'The live scoreboard. The <b>indexes</b> at the top show how the big stock markets did today. '
+      + 'An index is one number that tracks a basket of companies, like the S&amp;P 500’s 500 largest U.S. firms.<br><br>'
+      + 'The <b>Fed odds</b> panel shows what betting markets think the Fed will do at its next meeting: cut, hold or hike.' },
+  { title: 'The news ticker',
+    body: 'Headlines about the things this map tracks: rates, inflation, oil, the dollar and so on. '
+      + 'It pulls from several news feeds and updates <b>daily</b>.<br><br>'
+      + 'Spot a headline, then find that dot on the Causal Link map to see what it pushes on.' },
+]));
+
+document.getElementById('tab-analysis').addEventListener('click', () => Tips.show('analysis', [
+  { title: 'The Analysis tab',
+    body: 'This is where Bullion gives its read on the market. Press <b>Run macro analysis</b> to get a '
+      + '<b>health score</b> from 0 to 100.<br><br>'
+      + 'Above 70 = <b>Healthy</b> · 45–70 = <b>Moderate stress</b> · below 45 = <b>Elevated stress</b>.' },
+  { title: 'What’s driving the score',
+    body: 'Under the score, five rows break it down: <b>Credit, Volatility, Equity valuation, Funding, Safe assets</b>.<br><br>'
+      + 'Each is compared to its own history. A <b>positive</b> number means more stress than usual, '
+      + 'and a <b>negative</b> one means calmer than usual.' },
+  { title: 'Things to try further down',
+    body: '<b>Scenarios</b> — simulate a shock (a CPI spike, a trade war) and watch the map react.<br>'
+      + '<b>Set your own numbers</b> — drag the key drivers yourself.<br>'
+      + '<b>View a past date</b> — see what the market looked like on an earlier day.' },
+]));
+
+const SCENARIO_TIP = [
+  { title: 'You just ran a scenario',
+    body: 'This is a <b>what-if</b>, not real data. Bullion pretends the shock happened and pushes it '
+      + 'through every cause-and-effect link.<br><br>'
+      + 'Check <b>Shock impact</b> to see what moved and by how much, then switch to the Causal Link tab to see the map recolor. '
+      + 'Press <b>Reset</b> to go back.' },
+];
+const showScenarioTip = () => Tips.show('scenario', SCENARIO_TIP);
+document.getElementById('run-scenario-btn').addEventListener('click', showScenarioTip);
+document.querySelectorAll('[data-shock]').forEach(b => b.addEventListener('click', showScenarioTip));
+
+document.getElementById('manual-toggle').addEventListener('click', () => {
+  // toggleManual() has already run (registered earlier); only tip on open.
+  if (document.getElementById('manual-box').classList.contains('hidden')) return;
+  Tips.show('manual', [
+    { title: 'Set your own numbers',
+      body: 'Play Fed chair. These five <b>drivers</b> (like the Fed Funds Rate and oil) are the inputs. '
+        + 'Everything else on the map is <b>calculated</b> from them.<br><br>'
+        + 'Drag one and watch yields, stocks and gold respond. <b>Reset to baseline</b> puts it back.' },
+  ]);
+});
+
+document.getElementById('history-date-input').addEventListener('change', (e) => {
+  if (!e.target.value) return;   // clearing the date isn't "picking" one
+  Tips.show('history', [
+    { title: 'Time travel',
+      body: 'Market numbers now come from the saved snapshot for the <b>date you picked</b>. '
+        + 'Not every number is saved for every day. Missing ones fall back to the simulated baseline.<br><br>'
+        + 'Try <b>2026-10-13</b> and then <b>2026-10-16</b>, and watch the <b>S&amp;P 500</b> and the <b>VIX</b> during the inflation scare from the intro. '
+        + 'Press <b>Today</b> to come back.' },
+  ]);
+});
 </script>
 
 <div id="disclaimer-overlay">
