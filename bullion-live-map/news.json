@@ -1,20 +1,140 @@
 {
-  "generated_at": "2026-10-23T17:51:21Z",
+  "generated_at": "2026-10-23T21:20:18Z",
   "headlines": [
     {
       "category": "other",
-      "headline": "DOJ sues to block Alaska from certifying Senate race winner if Republican narrowly loses",
+      "headline": "This hot AI-fueled stock has been in a rut. It just beat earnings expectations by 36%.",
+      "image": "news-images/a057ca0f2f119bffde5b9424.jpg",
+      "link": "https://www.marketwatch.com/story/this-hot-ai-fueled-stock-has-been-in-a-rut-it-just-beat-earnings-expectations-by-36-4a4188cb?mod=mw_rss_topstories",
+      "published": "2026-10-23T21:13:00Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "The mobile ambitions of SpaceX are hitting telecom stocks again. Here\u2019s what the latest developments mean.",
+      "image": "news-images/a93eb2b14d4092d13d8bace0.jpg",
+      "link": "https://www.marketwatch.com/story/the-mobile-ambitions-of-spacex-see-telecom-stocks-get-hit-again-what-the-latest-developments-mean-9a4159b5?mod=mw_rss_topstories",
+      "published": "2026-10-23T21:11:00Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "healthcare",
+      "headline": "The real test for Moderna\u2019s cancer vaccine isn\u2019t about beating Keytruda. It\u2019s keeping cancer from coming back in the long term.",
+      "image": "news-images/20bf5abb12119492e8de71cc.jpg",
+      "link": "https://www.marketwatch.com/story/the-real-test-for-modernas-cancer-vaccine-isnt-about-beating-keytruda-its-keeping-cancer-from-coming-back-in-the-long-term-da9af99f?mod=mw_rss_topstories",
+      "published": "2026-10-23T21:06:00Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "tech",
+      "headline": "Chipmakers Post Longest Weekly Drop Since November",
       "image": null,
-      "link": "https://www.cnbc.com/2026/10/23/alaska-senate-election-doj-lawsuit-sullivan.html",
-      "published": "2026-10-23T17:42:30Z",
-      "sentiment": "neutral"
+      "link": "https://finance.yahoo.com/video/chipmakers-post-longest-weekly-drop-210042134.html?.tsrc=rss",
+      "published": "2026-10-23T21:00:42Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "energy",
+      "headline": "Update: Wall Street Caps Choppy Week Lower as Oil Prices Soar",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/articles/wall-street-caps-choppy-week-210039640.html?.tsrc=rss",
+      "published": "2026-10-23T21:00:39Z",
+      "sentiment": "bullish"
     },
     {
       "category": "international",
-      "headline": "Musk's SpaceX is still restricting Starlink in Ukraine and the toll is rising",
+      "headline": "In hunt for Starlink alternative, Ukraine partners with Nokia and satellite maker ICEYE",
       "image": null,
-      "link": "https://www.cnbc.com/2026/10/23/ukraine-says-starlink-restrictions-remain-despite-trump-assurances.html",
-      "published": "2026-10-23T17:41:25Z",
+      "link": "https://www.cnbc.com/2026/10/23/ukraine-partners-with-nokia-and-iceye-for-starlink-alternative.html",
+      "published": "2026-10-23T20:52:23Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Some Republicans are opposing Trump on tariffs. Maine\u2019s Susan Collins just got him to back down on Canadian levies.",
+      "image": "news-images/ba65d5fabd26d94d2431e944.jpg",
+      "link": "https://www.marketwatch.com/story/some-republicans-are-opposing-trump-on-tariffs-maines-susan-collins-just-got-him-to-back-down-on-canadian-levies-02b202ae?mod=mw_rss_topstories",
+      "published": "2026-10-23T20:50:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Dow Jones Futures: Microsoft, Google, Amazon Lead Earnings Wave; What To Do In Mixed Market",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/cdb9c13b-db57-3551-acd0-7507e9d69b5a/dow-jones-futures%3A-microsoft%2C.html?.tsrc=rss",
+      "published": "2026-10-23T20:49:37Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Trump dropping some Canada tariffs but 'replacing' them with other products",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/23/trump-tariffs-canada-susan-collins.html",
+      "published": "2026-10-23T20:48:01Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "energy",
+      "headline": "Stock Market Today: Nasdaq Posts Back-To-Back Losses As Oil Surges; Samsara Breaks Out",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/81c00f86-3a6b-31fa-a8aa-5d5650c74f9c/stock-market-today%3A-nasdaq.html?.tsrc=rss",
+      "published": "2026-10-23T20:38:53Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "federal",
+      "headline": "US Equity Indexes Close Mixed This Week as Investors Rotate into Treasury Bonds, Defensives as AI Trade Falters",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-close-mixed-203519679.html?.tsrc=rss",
+      "published": "2026-10-23T20:35:19Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "The U.S. economy is great by this key measure. So why are Americans so sour?",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=bc18f534-11d4-4c2a-b51c-cc576d40ecdf&amp;mod=mw_rss_bulletins",
+      "published": "2026-10-23T20:30:24Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "energy",
+      "headline": "Update: US Equity Indexes Fall, Treasury Yields Jump as Iran Tensions Send Crude Oil Sharply Higher",
+      "image": null,
+      "link": "https://finance.yahoo.com/economy/articles/us-equity-indexes-fall-treasury-202915276.html?.tsrc=rss",
+      "published": "2026-10-23T20:29:15Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "10-year Treasury yield drops back to 5% this week as investors seek cover from AI worries",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/23/bonds-yields-us-treasurys.html",
+      "published": "2026-10-23T20:20:58Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "The U.S. economy is great by this measure, and the good times aren\u2019t over. So why are Americans so sour?",
+      "image": "news-images/1495158f8eb92d9bbf1b1a62.jpg",
+      "link": "https://www.marketwatch.com/story/the-u-s-economy-is-great-by-this-measure-and-the-good-times-arent-over-so-why-are-americans-so-sour-4be897db?mod=mw_rss_topstories",
+      "published": "2026-10-23T20:19:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "energy",
+      "headline": "Oil markets are on edge ahead of the weekend, as midterm elections near and fresh U.S. strikes on Iran are predicted",
+      "image": "news-images/aff6f81c8eee29307ef506cf.jpg",
+      "link": "https://www.marketwatch.com/story/oil-markets-are-on-edge-ahead-of-the-weekend-as-midterm-elections-near-and-fresh-u-s-strikes-on-iran-are-predicted-8c27e634?mod=mw_rss_topstories",
+      "published": "2026-10-23T20:19:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "How major US stock indexes fared Friday 10/23/2026",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/major-us-stock-indexes-fared-201458598.html?.tsrc=rss",
+      "published": "2026-10-23T20:14:58Z",
       "sentiment": "neutral"
     },
     {
@@ -22,96 +142,144 @@
       "headline": "Investors are starting to find opportunities in the battered bond market",
       "image": null,
       "link": "https://www.cnbc.com/2026/10/23/investors-are-starting-to-find-opportunities-in-the-battered-bond-market.html",
-      "published": "2026-10-23T17:40:31Z",
+      "published": "2026-10-23T20:09:36Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Dow and Small Caps Climb Weekly While Nasdaq Slips on Megacap Earnings Charges",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dow-small-caps-climb-weekly-200800692.html?.tsrc=rss",
+      "published": "2026-10-23T20:08:00Z",
       "sentiment": "neutral"
     },
     {
       "category": "energy",
-      "headline": "Sector Update: Energy Stocks Gain Friday Afternoon",
+      "headline": "Dow ends 650 points down, S&P 500 and Nasdaq fall as oil prices hit 6-month high",
       "image": null,
-      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-gain-friday-173732509.html?.tsrc=rss",
-      "published": "2026-10-23T17:37:32Z",
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=8d6c379a-0f52-484d-a1e0-3dc4134cbac1&amp;mod=mw_rss_bulletins",
+      "published": "2026-10-23T20:06:39Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "tech",
+      "headline": "Scalpers offer Apple iPhone Duo buyers hundreds extra outside Beijing launch",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/23/apple-iphone-duo-china-launch.html",
+      "published": "2026-10-23T20:06:37Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "I want to pay off $4,500 in credit-card debt in 2 months. Is this possible?",
+      "image": "news-images/33b8e3d3337324888c77ee7f.jpg",
+      "link": "https://www.marketwatch.com/story/i-want-to-pay-off-4-500-in-credit-card-debt-in-2-months-is-this-possible-059d9a21?mod=mw_rss_topstories",
+      "published": "2026-10-23T20:02:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
+      "image": "news-images/162d0bcb76bf4c849ea078c6.jpg",
+      "link": "https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories",
+      "published": "2026-10-23T20:00:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "energy",
+      "headline": "Trump's executive order targets mortgage insurance, refinance costs. What it means for borrowers",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/23/trump-mortgage-executive-order-costs.html",
+      "published": "2026-10-23T19:53:13Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "international",
+      "headline": "Musk's SpaceX is still restricting Starlink in Ukraine and the toll is rising",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/23/ukraine-says-starlink-restrictions-remain-despite-trump-assurances.html",
+      "published": "2026-10-23T19:50:26Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Even the wealthy increasingly want all-inclusive resorts",
+      "image": "news-images/c2ae4ff790f8ce361e8c6fe7.jpg",
+      "link": "https://www.marketwatch.com/story/even-the-wealthy-increasingly-want-all-inclusive-resorts-118caa9b?mod=mw_rss_topstories",
+      "published": "2026-10-23T19:49:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "energy",
+      "headline": "Sector Update: Energy Stocks Gain Late Afternoon",
+      "image": null,
+      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-gain-afternoon-194804370.html?.tsrc=rss",
+      "published": "2026-10-23T19:48:04Z",
       "sentiment": "bullish"
     },
     {
-      "category": "federal",
-      "headline": "10-year Treasury yield drops back to 5% this week as investors seek cover from AI worries",
+      "category": "energy",
+      "headline": "Update: US Equity Indexes Fall as Rising Iran Tensions Push Crude Oil Higher",
       "image": null,
-      "link": "https://www.cnbc.com/2026/10/23/bonds-yields-us-treasurys.html",
-      "published": "2026-10-23T17:26:23Z",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-fall-rising-194741306.html?.tsrc=rss",
+      "published": "2026-10-23T19:47:41Z",
       "sentiment": "bearish"
     },
     {
       "category": "other",
-      "headline": "Texas Senate race: New Talarico ad rips Elon Musk 'dark money' push",
+      "headline": "Corruption is voters' top issue ahead of midterm election, CNBC survey shows",
       "image": null,
-      "link": "https://www.cnbc.com/2026/10/23/james-talarico-campaign-ad-elon-musk-texas-senate-election.html",
-      "published": "2026-10-23T17:26:12Z",
+      "link": "https://www.cnbc.com/2026/10/23/corruption-midterm-election-cnbc-poll-trump.html",
+      "published": "2026-10-23T19:26:17Z",
       "sentiment": "neutral"
     },
     {
-      "category": "energy",
-      "headline": "Qatar deal to buy U.S. natural gas shows how Iran war has redrawn global energy markets",
+      "category": "tech",
+      "headline": "Meta shares are down 9% this week. Here's why Mike Khouw is buying now",
       "image": null,
-      "link": "https://www.cnbc.com/2026/10/23/cheniere-qatar-energy-lng-natural-gas-iran-war-strait-hormuz.html",
-      "published": "2026-10-23T17:25:29Z",
+      "link": "https://www.cnbc.com/2026/10/23/meta-shares-rough-week-mike-khouw-is-buying.html",
+      "published": "2026-10-23T19:25:18Z",
       "sentiment": "neutral"
     },
     {
       "category": "other",
-      "headline": "American Express is cutting 5% of its workforce to 'prepare for AI'",
+      "headline": "College campuses have (largely) gone silent. Can practicing small talk and phone-free spaces change that?",
       "image": null,
-      "link": "https://www.cnbc.com/2026/10/23/american-express-job-cuts.html",
-      "published": "2026-10-23T17:21:10Z",
+      "link": "https://www.cnbc.com/make-it/2026/10/23/college-students-socializing-less-campus-life.html",
+      "published": "2026-10-23T19:21:38Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "healthcare",
-      "headline": "Doctors call Moderna, Merck cancer vaccine data a major advancement \u2014 despite Wall Street reaction",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/23/moderna-merck-cancer-vaccine-data.html",
-      "published": "2026-10-23T17:15:08Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "energy",
-      "headline": "Sector Update: Energy",
-      "image": null,
-      "link": "https://finance.yahoo.com/energy/articles/sector-energy-170922918.html?.tsrc=rss",
-      "published": "2026-10-23T17:09:22Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "energy",
-      "headline": "Stock Market Today: Dow Tumbles 500 Points As Oil Jumps; Micron, Intel Lead Nasdaq-100 (Live Coverage)",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/81c00f86-3a6b-31fa-a8aa-5d5650c74f9c/stock-market-today%3A-dow.html?.tsrc=rss",
-      "published": "2026-10-23T17:09:20Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "realestate",
-      "headline": "\u2018Some people did everything right\u2019: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
-      "image": "news-images/0fddce6551844e3ab74fd43a.jpg",
-      "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
-      "published": "2026-10-23T17:00:00Z",
-      "sentiment": "bearish"
     },
     {
       "category": "other",
-      "headline": "AI's 'Black October':\u00a0Critical PHP flaws set off global security scramble",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/23/php-vulnerabilities-ai-cybersecurity.html",
-      "published": "2026-10-23T16:55:37Z",
+      "headline": "\u2018She\u2019s living the dream\u2019: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
+      "image": "news-images/5b234b9aaea6e1da78cb93ff.jpg",
+      "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
+      "published": "2026-10-23T19:16:00Z",
       "sentiment": "neutral"
     },
     {
-      "category": "consumer",
-      "headline": "Fewer people are flying as airfare soars. Here's why airlines aren't worried",
+      "category": "other",
+      "headline": "Dow falling sharply in final hour; Nasdaq down after giving up gains",
       "image": null,
-      "link": "https://www.cnbc.com/2026/10/23/airfare-airline-capacity.html",
-      "published": "2026-10-23T16:51:21Z",
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=7ed78694-d829-4535-b577-41822353f008&amp;mod=mw_rss_bulletins",
+      "published": "2026-10-23T19:06:50Z",
       "sentiment": "bullish"
+    },
+    {
+      "category": "energy",
+      "headline": "Oil markets are on edge as midterms near and fresh U.S. strikes on Iran loom",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=80326527-9e86-42d1-b226-48ffb3bfbe86&amp;mod=mw_rss_bulletins",
+      "published": "2026-10-23T18:38:50Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Can Nvidia\u2019s stock become a safe haven as Wall Street rethinks the AI trade?",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=8b20b956-5f95-45a3-8ef3-447e5438ad80&amp;mod=mw_rss_bulletins",
+      "published": "2026-10-23T18:21:33Z",
+      "sentiment": "neutral"
     },
     {
       "category": "other",
@@ -122,147 +290,11 @@
       "sentiment": "neutral"
     },
     {
-      "category": "energy",
-      "headline": "US Equity Indexes Mixed Amid Surging Crude Oil Prices, Moderate Buying in Technology",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-amid-164650324.html?.tsrc=rss",
-      "published": "2026-10-23T16:46:50Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "College campuses have (largely) gone silent. Can practicing small talk and phone-free spaces change that?",
-      "image": null,
-      "link": "https://www.cnbc.com/make-it/2026/10/23/college-students-socializing-less-campus-life.html",
-      "published": "2026-10-23T16:44:35Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "consumer",
-      "headline": "Walmart, Best Buy and other stores now use digital price tags. Critics say they could lead to different prices for different shoppers.",
-      "image": "news-images/cc469946d302d5f9dabb0b4c.jpg",
-      "link": "https://www.marketwatch.com/story/walmart-best-buy-and-other-stores-now-use-digital-price-tags-critics-say-they-could-lead-to-different-prices-for-different-shoppers-19e2f4da?mod=mw_rss_topstories",
-      "published": "2026-10-23T16:41:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "energy",
-      "headline": "Stock Market Midday, Oct. 23: Energy Surges on Oil Price Spike, Cybersecurity Stocks Gain",
-      "image": null,
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/10/23/stock-market-midday-oct-23-energy-surges-on-oil-price-spike-cybersecurity-stocks-gain/?.tsrc=rss",
-      "published": "2026-10-23T16:39:38Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "other",
-      "headline": "Retire on 8% a year with little or no risk? How to use annuities the right way.",
-      "image": "news-images/e879e8c5d74d73852e1d8358.jpg",
-      "link": "https://www.marketwatch.com/story/retire-on-8-a-year-with-little-or-no-risk-how-to-use-annuities-the-right-way-06ababc5?mod=mw_rss_topstories",
-      "published": "2026-10-23T15:56:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "energy",
-      "headline": "Top Midday Stories: American Express to Cut 5% of Workforce; Bloom Energy Shares Fall Despite Q3 Beat",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-american-express-154132414.html?.tsrc=rss",
-      "published": "2026-10-23T15:41:32Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
-      "image": "news-images/162d0bcb76bf4c849ea078c6.jpg",
-      "link": "https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories",
-      "published": "2026-10-23T15:31:00Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "other",
       "headline": "Over 40% of Americans are heading toward retirement with no plan",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=1b755e9d-b463-4d8e-886d-370ddb73f15d&amp;mod=mw_rss_bulletins",
       "published": "2026-10-23T15:17:51Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Everyone\u2019s talking about Roth conversions, but here\u2019s how few people really do them \u2014 and why you shouldn\u2019t have FOMO about it",
-      "image": "news-images/940d32f062c634c04c3bcbd7.jpg",
-      "link": "https://www.marketwatch.com/story/everyones-talking-about-roth-conversions-but-heres-how-few-people-really-do-them-and-why-you-shouldnt-have-fomo-about-it-1b50db07?mod=mw_rss_topstories",
-      "published": "2026-10-23T15:00:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "This hot AI-fueled stock has been in a rut. It just beat earnings expectations by 36%.",
-      "image": "news-images/a057ca0f2f119bffde5b9424.jpg",
-      "link": "https://www.marketwatch.com/story/this-hot-ai-fueled-stock-has-been-in-a-rut-it-just-beat-earnings-expectations-by-36-4a4188cb?mod=mw_rss_topstories",
-      "published": "2026-10-23T14:40:00Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "other",
-      "headline": "Dow Sinks 700 Points. Now It's Defensive Sectors' Turn to Sell Off.",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/8cca4d1b-55d8-3afb-8328-0588a889fc10/dow-sinks-700-points.-now.html?.tsrc=rss",
-      "published": "2026-10-23T14:31:46Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Young Americans are giving up on cars. It\u2019s a path to financial freedom for some.",
-      "image": "news-images/6e42998e17e68e6144094606.jpg",
-      "link": "https://www.marketwatch.com/story/young-americans-are-giving-up-their-cars-its-a-path-to-financial-freedom-for-some-3cce491c?mod=mw_rss_topstories",
-      "published": "2026-10-23T14:29:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Surging economy gets off to a good start in the fourth quarter \u2014 but there\u2019s one big problem",
-      "image": "news-images/75920545f10a0071860e1543.jpg",
-      "link": "https://www.marketwatch.com/story/surging-economy-gets-off-to-a-good-start-in-the-fourth-quarter-but-theres-one-big-problem-5657f399?mod=mw_rss_topstories",
-      "published": "2026-10-23T14:23:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "realestate",
-      "headline": "\u2018I don\u2019t feel sorry for myself\u2019: I\u2019m 64 and will be renting for the rest of my life. Is that so bad?",
-      "image": "news-images/97fbeae5ff4dc6801faec896.jpg",
-      "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
-      "published": "2026-10-23T14:15:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "\u2018She\u2019s living the dream\u2019: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
-      "image": "news-images/5b234b9aaea6e1da78cb93ff.jpg",
-      "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
-      "published": "2026-10-23T14:00:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "U.S. Stock Futures Fall on AI Trade Concerns",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-fall-ai-135500355.html?.tsrc=rss",
-      "published": "2026-10-23T13:55:00Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "tech",
-      "headline": "Stock Market Today (Oct. 23, 2026): Dow tumbles following tech sell-off",
-      "image": null,
-      "link": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-23-2026?.tsrc=rss",
-      "published": "2026-10-23T13:44:45Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "tech",
-      "headline": "Selling Spell Broadens Beyond Tech",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/b63ee558-babe-33eb-bea9-441f40cd5cf8/selling-spell-broadens-beyond.html?.tsrc=rss",
-      "published": "2026-10-23T13:31:27Z",
       "sentiment": "neutral"
     },
     {
@@ -288,50 +320,18 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=48b6fd83-9fae-477b-8730-05d86dfa66cb&amp;mod=mw_rss_bulletins",
       "published": "2026-10-22T22:28:05Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Treasury yields see extreme plunge. Why investors are ducking for cover.",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=2cf0de20-406b-4b6d-8559-640388e766fd&amp;mod=mw_rss_bulletins",
-      "published": "2026-10-22T21:39:23Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "energy",
-      "headline": "Oil prices near Iran-war highs as soaring tanker rates trigger an energy squeeze",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=6ac77ce5-6f5f-496f-a4d8-d341f1081522&amp;mod=mw_rss_bulletins",
-      "published": "2026-10-22T21:02:37Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "tech",
-      "headline": "Nasdaq and S&P 500 close sharply lower as AI angst returns; Dow ends flat",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=10db8c62-1d20-418e-b745-cbcd141ba252&amp;mod=mw_rss_bulletins",
-      "published": "2026-10-22T20:01:55Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "healthcare",
-      "headline": "Moderna\u2019s cancer vaccine hits its targets \u2014 but embargo breach rattles the stock",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=05e9fb3e-ab4b-47e0-aa45-c5bdad3685f6&amp;mod=mw_rss_bulletins",
-      "published": "2026-10-22T19:42:55Z",
-      "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-10-23T17:42:30Z",
+  "newest_item_published": "2026-10-23T21:13:00Z",
   "source_item_count": 67,
   "sources": {
     "cnbc": {
-      "contributed": 11,
+      "contributed": 10,
       "error": null,
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-10-23T17:42:30Z",
+      "newest": "2026-10-23T20:52:23Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,25 +340,25 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-10-23T17:00:00Z",
+      "newest": "2026-10-23T21:13:00Z",
       "ok": true
     },
     "mw_bulletins": {
-      "contributed": 9,
+      "contributed": 10,
       "error": null,
       "fetched": 10,
-      "fresh": 9,
+      "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-10-23T16:49:28Z",
+      "newest": "2026-10-23T20:30:24Z",
       "ok": true
     },
     "yahoo_dji": {
       "contributed": 10,
       "error": null,
       "fetched": 17,
-      "fresh": 15,
+      "fresh": 17,
       "label": "Yahoo Finance",
-      "newest": "2026-10-23T17:37:32Z",
+      "newest": "2026-10-23T21:00:42Z",
       "ok": true
     }
   }
