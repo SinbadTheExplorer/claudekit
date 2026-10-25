@@ -1,6 +1,14 @@
 {
-  "generated_at": "2026-10-25T18:11:54Z",
+  "generated_at": "2026-10-25T19:11:29Z",
   "headlines": [
+    {
+      "category": "international",
+      "headline": "Ukraine disputes Elon Musk\u2019s claim that its military violated Starlink terms during drone operations",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/25/ukraine-musk-starlink-terms-dispute.html",
+      "published": "2026-10-25T18:18:49Z",
+      "sentiment": "neutral"
+    },
     {
       "category": "other",
       "headline": "My father-in-law, 81, sold his $75,000 home to pay his daughter\u2019s $50,000 debt. How can I keep him from becoming destitute?",
@@ -210,14 +218,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "international",
-      "headline": "American embassies tighten security as Iran threat warnings intensify ahead of U.S. midterm elections",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/24/iran-threats-us-embassies-middle-east.html",
-      "published": "2026-10-24T21:07:01Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "other",
       "headline": "Coca-Cola Stock Fell a Day After a 52-Week High. Here\u2019s Why India Matters on October 27",
       "image": null,
@@ -322,7 +322,7 @@
       "sentiment": "bearish"
     }
   ],
-  "newest_item_published": "2026-10-25T18:00:00Z",
+  "newest_item_published": "2026-10-25T18:18:49Z",
   "source_item_count": 70,
   "sources": {
     "cnbc": {
@@ -331,7 +331,7 @@
       "fetched": 30,
       "fresh": 29,
       "label": "CNBC",
-      "newest": "2026-10-25T16:42:42Z",
+      "newest": "2026-10-25T18:18:49Z",
       "ok": true
     },
     "marketwatch": {
