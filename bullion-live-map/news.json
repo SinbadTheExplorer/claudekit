@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-10-25T14:11:30Z",
+  "generated_at": "2026-10-25T15:11:28Z",
   "headlines": [
+    {
+      "category": "other",
+      "headline": "Here are 4 big things we're watching in the stock market this week",
+      "image": null,
+      "link": "https://www.cnbc.com/investingclub/2026/10/25/here-are-4-big-things-were-watching-in-the-stock-market-this-week.html",
+      "published": "2026-10-25T14:58:26Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
+      "image": "news-images/162d0bcb76bf4c849ea078c6.jpg",
+      "link": "https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories",
+      "published": "2026-10-25T14:30:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "realestate",
+      "headline": "Economic calendar: Week begins with wave of housing-market data",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=cd1bae00-790c-43f5-a44b-70d6a0438c0a&amp;mod=mw_rss_bulletins",
+      "published": "2026-10-25T14:22:13Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "In pictures: Initially peaceful protests across France over inequality again descend into violence",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/25/france-protests-paris-cost-of-living-inequality.html",
+      "published": "2026-10-25T14:14:23Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "Thirty-six percent of the S&P 500 scheduled to report earnings this week",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=416473b1-dc8f-4264-b4fe-8a9248da7386&amp;mod=mw_rss_bulletins",
+      "published": "2026-10-25T14:12:32Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "consumer",
+      "headline": "I paid off $11,000 of credit card debt in 18 months while still traveling, shopping and living my life",
+      "image": null,
+      "link": "https://www.cnbc.com/make-it/2026/10/25/pay-off-credit-card-debt.html",
+      "published": "2026-10-25T14:00:01Z",
+      "sentiment": "neutral"
+    },
     {
       "category": "other",
       "headline": "\u2018She\u2019s living the dream\u2019: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
@@ -32,6 +80,14 @@
       "link": "https://www.cnbc.com/2026/10/25/saudi-arabia-houthi-missile-drone-interceptions.html",
       "published": "2026-10-25T13:41:37Z",
       "sentiment": "bearish"
+    },
+    {
+      "category": "consumer",
+      "headline": "Should you travel together? Ask these questions before booking: 'It'll save you time, money and disappointment'",
+      "image": null,
+      "link": "https://www.cnbc.com/make-it/2026/10/25/travel-compatibility-questions.html",
+      "published": "2026-10-25T13:38:01Z",
+      "sentiment": "neutral"
     },
     {
       "category": "other",
@@ -178,46 +234,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "other",
-      "headline": "I\u2019m 58 and hate annuities. How can I get dependable income in retirement?",
-      "image": "news-images/20de7bddf69d6d6f53f46e89.jpg",
-      "link": "https://www.marketwatch.com/story/im-58-and-hate-annuities-how-can-i-get-dependable-income-in-retirement-cd6040f4?mod=mw_rss_topstories",
-      "published": "2026-10-24T18:03:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "AI funding fears rattle Wall Street. Here's how we're adjusting our portfolio",
-      "image": null,
-      "link": "https://www.cnbc.com/investingclub/2026/10/24/ai-funding-fears-rattle-wall-street-heres-how-were-adjusting-our-portfolio.html",
-      "published": "2026-10-24T16:14:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "consumer",
-      "headline": "Fewer people are flying as airfare soars. Here's why airlines aren't worried",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/23/airfare-airline-capacity.html",
-      "published": "2026-10-24T15:53:30Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "other",
-      "headline": "Why popular airplanes are getting scrapped years early",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/24/spirit-airlines-planes-scrapped-engine-shortage.html",
-      "published": "2026-10-24T15:18:30Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "financials",
-      "headline": "Retail investors are not more sophisticated than 30 years ago, says former hedge fund manager",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/24/stock-picking-could-hurt-investors-warns-former-hedge-fund-manager.html",
-      "published": "2026-10-24T15:00:01Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "tech",
       "headline": "Do machines have feelings? AI has many rethinking consciousness.",
       "image": null,
@@ -304,25 +320,9 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=8d6c379a-0f52-484d-a1e0-3dc4134cbac1&amp;mod=mw_rss_bulletins",
       "published": "2026-10-23T20:06:39Z",
       "sentiment": "bearish"
-    },
-    {
-      "category": "other",
-      "headline": "Dow falling sharply in final hour; Nasdaq down after giving up gains",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=7ed78694-d829-4535-b577-41822353f008&amp;mod=mw_rss_bulletins",
-      "published": "2026-10-23T19:06:50Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "energy",
-      "headline": "Oil markets are on edge as midterms near and fresh U.S. strikes on Iran loom",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=80326527-9e86-42d1-b226-48ffb3bfbe86&amp;mod=mw_rss_bulletins",
-      "published": "2026-10-23T18:38:50Z",
-      "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-10-25T14:00:00Z",
+  "newest_item_published": "2026-10-25T14:58:26Z",
   "source_item_count": 70,
   "sources": {
     "cnbc": {
@@ -331,7 +331,7 @@
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-10-25T13:41:37Z",
+      "newest": "2026-10-25T14:58:26Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,7 +340,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-10-25T14:00:00Z",
+      "newest": "2026-10-25T14:30:00Z",
       "ok": true
     },
     "mw_bulletins": {
@@ -349,7 +349,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-10-25T13:31:48Z",
+      "newest": "2026-10-25T14:22:13Z",
       "ok": true
     },
     "yahoo_dji": {
