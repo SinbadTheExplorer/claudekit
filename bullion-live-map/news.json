@@ -1,6 +1,14 @@
 {
-  "generated_at": "2026-10-25T17:11:30Z",
+  "generated_at": "2026-10-25T18:11:54Z",
   "headlines": [
+    {
+      "category": "other",
+      "headline": "My father-in-law, 81, sold his $75,000 home to pay his daughter\u2019s $50,000 debt. How can I keep him from becoming destitute?",
+      "image": "news-images/6a4e184b69229c7ad8f640ae.jpg",
+      "link": "https://www.marketwatch.com/story/my-father-in-law-81-sold-his-75-000-home-and-paid-off-his-daughters-50-000-debt-what-happens-to-him-now-60e8fc72?mod=mw_rss_topstories",
+      "published": "2026-10-25T18:00:00Z",
+      "sentiment": "neutral"
+    },
     {
       "category": "other",
       "headline": "My partner of 17 years left me his $1 million home. His children are livid. Am I obliged to split it with them?",
@@ -155,14 +163,6 @@
     },
     {
       "category": "other",
-      "headline": "\u2018Nonanswers\u2019 aren\u2019t working. This is what investors really need from the Fed.",
-      "image": "news-images/e94e38f141d388ef4e73f98a.jpg",
-      "link": "https://www.marketwatch.com/story/non-answers-arent-working-this-is-what-investors-really-need-from-the-fed-673a9dce?mod=mw_rss_topstories",
-      "published": "2026-10-25T12:44:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
       "headline": "What Democrats and Republicans fear most about each other: CNBC survey has the answers",
       "image": null,
       "link": "https://www.cnbc.com/2026/10/25/cnbc-survey-midterm-election-voter-fears.html",
@@ -218,14 +218,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "consumer",
-      "headline": "After SpaceX restores high-speed service, Musk claims Ukraine violated Starlink agreement",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/24/ukraine-starlink-starshield-service-restored.html",
-      "published": "2026-10-24T20:38:30Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "other",
       "headline": "Coca-Cola Stock Fell a Day After a 52-Week High. Here\u2019s Why India Matters on October 27",
       "image": null,
@@ -264,6 +256,14 @@
       "link": "https://www.fool.com/investing/2026/10/24/puzzle-pieces-for-stock-market-crash-taking-shape-4-historically-flawless-indicators-sound-alarm/?.tsrc=rss",
       "published": "2026-10-24T13:26:02Z",
       "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "\u2018Non-answers\u2019 aren\u2019t working. This is what investors really need from the Fed.",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=6bdb0d14-3084-40cf-b20e-075bd0b29ed3&amp;mod=mw_rss_bulletins",
+      "published": "2026-10-24T13:17:24Z",
+      "sentiment": "neutral"
     },
     {
       "category": "other",
@@ -322,11 +322,11 @@
       "sentiment": "bearish"
     }
   ],
-  "newest_item_published": "2026-10-25T17:00:00Z",
+  "newest_item_published": "2026-10-25T18:00:00Z",
   "source_item_count": 70,
   "sources": {
     "cnbc": {
-      "contributed": 11,
+      "contributed": 10,
       "error": null,
       "fetched": 30,
       "fresh": 29,
@@ -340,11 +340,11 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-10-25T17:00:00Z",
+      "newest": "2026-10-25T18:00:00Z",
       "ok": true
     },
     "mw_bulletins": {
-      "contributed": 9,
+      "contributed": 10,
       "error": null,
       "fetched": 10,
       "fresh": 10,
