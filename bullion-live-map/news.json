@@ -1,12 +1,44 @@
 {
-  "generated_at": "2026-10-25T16:11:43Z",
+  "generated_at": "2026-10-25T17:11:30Z",
   "headlines": [
+    {
+      "category": "other",
+      "headline": "My partner of 17 years left me his $1 million home. His children are livid. Am I obliged to split it with them?",
+      "image": "news-images/20b4977ab3775bf482258b7d.jpg",
+      "link": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
+      "published": "2026-10-25T17:00:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I\u2019m crazy. Who\u2019s right?",
+      "image": "news-images/fe808609dd1ac76533929761.jpg",
+      "link": "https://www.marketwatch.com/story/we-have-a-300-000-mortgage-with-a-2-75-interest-rate-i-want-to-pay-it-off-my-husband-says-im-crazy-whos-right-4ed15226?mod=mw_rss_topstories",
+      "published": "2026-10-25T17:00:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who\u2019s to blame?",
+      "image": "news-images/2cf1fe333a00c3e0a871d35d.jpg",
+      "link": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
+      "published": "2026-10-25T17:00:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "realestate",
+      "headline": "\u2018I don\u2019t feel sorry for myself\u2019: I\u2019m 64 and will be renting for the rest of my life. Is that so bad?",
+      "image": "news-images/97fbeae5ff4dc6801faec896.jpg",
+      "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
+      "published": "2026-10-25T16:45:00Z",
+      "sentiment": "neutral"
+    },
     {
       "category": "federal",
       "headline": "Audi defends plans for a $4 billion Georgia plant amid VW restructuring, tariffs",
       "image": null,
       "link": "https://www.cnbc.com/2026/10/25/audi-georgia-us-plant-tariffs-volkswagen.html",
-      "published": "2026-10-25T16:02:56Z",
+      "published": "2026-10-25T16:42:42Z",
       "sentiment": "neutral"
     },
     {
@@ -146,22 +178,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "healthcare",
-      "headline": "Why economic health no longer dictates stock-market returns",
-      "image": "news-images/dcefe1f91d9085e64a3aa9f9.jpg",
-      "link": "https://www.marketwatch.com/story/why-economic-health-no-longer-dictates-stock-market-returns-c44b88f2?mod=mw_rss_topstories",
-      "published": "2026-10-25T12:00:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Here\u2019s the real signal to watch for the Fed\u2019s next move",
-      "image": "news-images/517a2973218ccbd599dd31e7.jpg",
-      "link": "https://www.marketwatch.com/story/heres-the-real-signal-to-watch-for-the-feds-next-move-9189cb51?mod=mw_rss_topstories",
-      "published": "2026-10-25T11:30:00Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "other",
       "headline": "We're Witnessing the Stock Market Do Something for Only the 3rd Time in the Last 100 Years, and History Is Crystal Clear on What's Next for Stocks",
       "image": null,
@@ -215,22 +231,6 @@
       "image": null,
       "link": "https://www.tikr.com/blog/coca-cola-stock-fell-a-day-after-a-52-week-high-heres-why-india-matters-on-october-27?ref=yahoofinance&amp;.tsrc=rss",
       "published": "2026-10-24T20:31:54Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "My father-in-law, 81, sold his $75,000 home to pay his daughter\u2019s $50,000 debt. How can I keep him from becoming destitute?",
-      "image": "news-images/6a4e184b69229c7ad8f640ae.jpg",
-      "link": "https://www.marketwatch.com/story/my-father-in-law-81-sold-his-75-000-home-and-paid-off-his-daughters-50-000-debt-what-happens-to-him-now-60e8fc72?mod=mw_rss_topstories",
-      "published": "2026-10-24T20:15:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Young Americans are giving up on car ownership. It\u2019s a path to financial freedom for some.",
-      "image": "news-images/6e42998e17e68e6144094606.jpg",
-      "link": "https://www.marketwatch.com/story/young-americans-are-giving-up-their-cars-its-a-path-to-financial-freedom-for-some-3cce491c?mod=mw_rss_topstories",
-      "published": "2026-10-24T18:45:00Z",
       "sentiment": "neutral"
     },
     {
@@ -322,16 +322,16 @@
       "sentiment": "bearish"
     }
   ],
-  "newest_item_published": "2026-10-25T16:02:56Z",
+  "newest_item_published": "2026-10-25T17:00:00Z",
   "source_item_count": 70,
   "sources": {
     "cnbc": {
       "contributed": 11,
       "error": null,
       "fetched": 30,
-      "fresh": 30,
+      "fresh": 29,
       "label": "CNBC",
-      "newest": "2026-10-25T16:02:56Z",
+      "newest": "2026-10-25T16:42:42Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,7 +340,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-10-25T14:30:00Z",
+      "newest": "2026-10-25T17:00:00Z",
       "ok": true
     },
     "mw_bulletins": {
