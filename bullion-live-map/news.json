@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-10-25T15:11:28Z",
+  "generated_at": "2026-10-25T16:11:43Z",
   "headlines": [
+    {
+      "category": "federal",
+      "headline": "Audi defends plans for a $4 billion Georgia plant amid VW restructuring, tariffs",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/25/audi-georgia-us-plant-tariffs-volkswagen.html",
+      "published": "2026-10-25T16:02:56Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Dow Jones Futures Due For Doom-And-Bloom Market; Microsoft, Google, Amazon Ahead",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/cdb9c13b-db57-3551-acd0-7507e9d69b5a/dow-jones-futures-due-for.html?.tsrc=rss",
+      "published": "2026-10-25T15:22:48Z",
+      "sentiment": "neutral"
+    },
     {
       "category": "other",
       "headline": "Here are 4 big things we're watching in the stock market this week",
@@ -95,14 +111,6 @@
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=a0659e58-16bd-4b48-a1f7-6af0774251e7&amp;mod=mw_rss_bulletins",
       "published": "2026-10-25T13:31:48Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Dow Jones Futures: Microsoft, Google, Amazon Due; What To Do In Doom-And-Bloom Market",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/cdb9c13b-db57-3551-acd0-7507e9d69b5a/dow-jones-futures%3A-microsoft%2C.html?.tsrc=rss",
-      "published": "2026-10-25T13:06:30Z",
       "sentiment": "neutral"
     },
     {
@@ -218,14 +226,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "healthcare",
-      "headline": "Biotech stocks are surging. How investors can play the new drug innovation boom",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/24/biotech-stocks-drug-innovation-rally.html",
-      "published": "2026-10-24T18:56:29Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "other",
       "headline": "Young Americans are giving up on car ownership. It\u2019s a path to financial freedom for some.",
       "image": "news-images/6e42998e17e68e6144094606.jpg",
@@ -322,7 +322,7 @@
       "sentiment": "bearish"
     }
   ],
-  "newest_item_published": "2026-10-25T14:58:26Z",
+  "newest_item_published": "2026-10-25T16:02:56Z",
   "source_item_count": 70,
   "sources": {
     "cnbc": {
@@ -331,7 +331,7 @@
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-10-25T14:58:26Z",
+      "newest": "2026-10-25T16:02:56Z",
       "ok": true
     },
     "marketwatch": {
@@ -358,7 +358,7 @@
       "fetched": 20,
       "fresh": 20,
       "label": "Yahoo Finance",
-      "newest": "2026-10-25T13:06:30Z",
+      "newest": "2026-10-25T15:22:48Z",
       "ok": true
     }
   }
