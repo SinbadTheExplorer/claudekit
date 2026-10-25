@@ -1,20 +1,28 @@
 {
-  "generated_at": "2026-10-25T13:11:30Z",
+  "generated_at": "2026-10-25T14:11:30Z",
   "headlines": [
     {
       "category": "other",
-      "headline": "Worried about this stock-market selloff? Relief may be coming after the midterms \u2014 no matter who wins.",
-      "image": "news-images/86a1c82662ccc5acc4d5b9b2.jpg",
-      "link": "https://www.marketwatch.com/story/worried-about-this-stock-market-selloff-relief-may-be-coming-after-the-midterms-no-matter-who-wins-39322c07?mod=mw_rss_topstories",
-      "published": "2026-10-25T13:00:00Z",
-      "sentiment": "bearish"
+      "headline": "\u2018She\u2019s living the dream\u2019: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
+      "image": "news-images/5b234b9aaea6e1da78cb93ff.jpg",
+      "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
+      "published": "2026-10-25T14:00:00Z",
+      "sentiment": "neutral"
     },
     {
-      "category": "tech",
-      "headline": "Dow Jones Futures Due For Doom-And-Bloom Market; Microsoft, Google, Amazon Earnings Ahead",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/cdb9c13b-db57-3551-acd0-7507e9d69b5a/dow-jones-futures-due-for.html?.tsrc=rss",
-      "published": "2026-10-25T12:53:54Z",
+      "category": "other",
+      "headline": "More than a third of S&P 500 companies are about to report earnings as market confidence cracks",
+      "image": "news-images/643bced16b46293bf811cd2a.jpg",
+      "link": "https://www.marketwatch.com/story/more-than-a-third-of-s-p-500-companies-are-about-to-report-earnings-as-market-confidence-cracks-03b7a8f1?mod=mw_rss_topstories",
+      "published": "2026-10-25T14:00:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "My husband wants to sell our $1.5 million home and invest the proceeds. But this is where we raised our kids \u2014 and I can\u2019t bear to leave.",
+      "image": "news-images/e3b107a2b99653e096be12c7.jpg",
+      "link": "https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories",
+      "published": "2026-10-25T13:45:00Z",
       "sentiment": "neutral"
     },
     {
@@ -22,7 +30,31 @@
       "headline": "Saudi Arabia says it intercepted missiles and drones from Iran-backed Houthis",
       "image": null,
       "link": "https://www.cnbc.com/2026/10/25/saudi-arabia-houthi-missile-drone-interceptions.html",
-      "published": "2026-10-25T12:49:33Z",
+      "published": "2026-10-25T13:41:37Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "Look for stock-market relief after the midterms \u2014 no matter who wins",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=a0659e58-16bd-4b48-a1f7-6af0774251e7&amp;mod=mw_rss_bulletins",
+      "published": "2026-10-25T13:31:48Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Dow Jones Futures: Microsoft, Google, Amazon Due; What To Do In Doom-And-Bloom Market",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/cdb9c13b-db57-3551-acd0-7507e9d69b5a/dow-jones-futures%3A-microsoft%2C.html?.tsrc=rss",
+      "published": "2026-10-25T13:06:30Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Worried about this stock-market selloff? Relief may be coming after the midterms \u2014 no matter who wins.",
+      "image": "news-images/86a1c82662ccc5acc4d5b9b2.jpg",
+      "link": "https://www.marketwatch.com/story/worried-about-this-stock-market-selloff-relief-may-be-coming-after-the-midterms-no-matter-who-wins-39322c07?mod=mw_rss_topstories",
+      "published": "2026-10-25T13:00:00Z",
       "sentiment": "bearish"
     },
     {
@@ -130,22 +162,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "other",
-      "headline": "\u2018She\u2019s living the dream\u2019: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
-      "image": "news-images/5b234b9aaea6e1da78cb93ff.jpg",
-      "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
-      "published": "2026-10-24T20:00:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "My husband wants to sell our $1.5 million home and invest the proceeds. But this is where we raised our kids \u2014 and I can\u2019t bear to leave.",
-      "image": "news-images/e3b107a2b99653e096be12c7.jpg",
-      "link": "https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories",
-      "published": "2026-10-24T19:45:00Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "healthcare",
       "headline": "Biotech stocks are surging. How investors can play the new drug innovation boom",
       "image": null,
@@ -167,14 +183,6 @@
       "image": "news-images/20de7bddf69d6d6f53f46e89.jpg",
       "link": "https://www.marketwatch.com/story/im-58-and-hate-annuities-how-can-i-get-dependable-income-in-retirement-cd6040f4?mod=mw_rss_topstories",
       "published": "2026-10-24T18:03:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "I want to pay off $4,500 in credit-card debt in 2 months. Is this possible?",
-      "image": "news-images/33b8e3d3337324888c77ee7f.jpg",
-      "link": "https://www.marketwatch.com/story/i-want-to-pay-off-4-500-in-credit-card-debt-in-2-months-is-this-possible-059d9a21?mod=mw_rss_topstories",
-      "published": "2026-10-24T17:39:00Z",
       "sentiment": "neutral"
     },
     {
@@ -312,17 +320,9 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=80326527-9e86-42d1-b226-48ffb3bfbe86&amp;mod=mw_rss_bulletins",
       "published": "2026-10-23T18:38:50Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Can Nvidia\u2019s stock become a safe haven as Wall Street rethinks the AI trade?",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=8b20b956-5f95-45a3-8ef3-447e5438ad80&amp;mod=mw_rss_bulletins",
-      "published": "2026-10-23T18:21:33Z",
-      "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-10-25T13:00:00Z",
+  "newest_item_published": "2026-10-25T14:00:00Z",
   "source_item_count": 70,
   "sources": {
     "cnbc": {
@@ -331,7 +331,7 @@
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-10-25T12:49:33Z",
+      "newest": "2026-10-25T13:41:37Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,7 +340,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-10-25T13:00:00Z",
+      "newest": "2026-10-25T14:00:00Z",
       "ok": true
     },
     "mw_bulletins": {
@@ -349,7 +349,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-10-24T14:39:30Z",
+      "newest": "2026-10-25T13:31:48Z",
       "ok": true
     },
     "yahoo_dji": {
@@ -358,7 +358,7 @@
       "fetched": 20,
       "fresh": 20,
       "label": "Yahoo Finance",
-      "newest": "2026-10-25T12:53:54Z",
+      "newest": "2026-10-25T13:06:30Z",
       "ok": true
     }
   }
