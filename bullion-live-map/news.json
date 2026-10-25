@@ -1,6 +1,14 @@
 {
-  "generated_at": "2026-10-25T20:17:47Z",
+  "generated_at": "2026-10-25T21:11:32Z",
   "headlines": [
+    {
+      "category": "other",
+      "headline": "Blanche defends Trump-ordered lawsuit over Alaska Senate election certification",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/25/blanche-doj-alaska-senate-certification-lawsuit.html",
+      "published": "2026-10-25T20:28:55Z",
+      "sentiment": "neutral"
+    },
     {
       "category": "other",
       "headline": "\u2018She\u2019s living the dream\u2019: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
@@ -15,6 +23,14 @@
       "image": "news-images/97fbeae5ff4dc6801faec896.jpg",
       "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
       "published": "2026-10-25T20:00:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Stock Futures Set to Trade Ahead of Fed Decision",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/6aa0a251-3626-3c5e-9bb0-32356c21ae2b/stock-futures-set-to-trade.html?.tsrc=rss",
+      "published": "2026-10-25T19:44:00Z",
       "sentiment": "neutral"
     },
     {
@@ -170,18 +186,18 @@
       "sentiment": "bearish"
     },
     {
-      "category": "other",
-      "headline": "What Democrats and Republicans fear most about each other: CNBC survey has the answers",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/25/cnbc-survey-midterm-election-voter-fears.html",
-      "published": "2026-10-25T12:00:01Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "consumer",
       "headline": "Marc Lore\u2019s Wonder bets on Texas, automation and user-built restaurants as it mulls IPO",
       "image": null,
       "link": "https://www.cnbc.com/2026/10/25/wonder-ipo-texas-automation.html",
+      "published": "2026-10-25T12:00:01Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "What Democrats and Republicans fear most about each other: CNBC survey has the answers",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/25/cnbc-survey-midterm-election-voter-fears.html",
       "published": "2026-10-25T12:00:01Z",
       "sentiment": "neutral"
     },
@@ -291,14 +307,6 @@
     },
     {
       "category": "other",
-      "headline": "Review & Preview: The Dow\u2019s Turn",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/e0fe5a77-6816-38a8-b2cb-9878c9cd341d/review-%26-preview%3A-the-dow%E2%80%99s.html?.tsrc=rss",
-      "published": "2026-10-23T23:55:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
       "headline": "Will Anthropic pull off a November IPO? Time is running out.",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=65d001e5-c598-4d0b-bad7-39050021ad5c&amp;mod=mw_rss_bulletins",
@@ -312,26 +320,18 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=09564c35-41ed-4d9b-a2e0-bd28986f0869&amp;mod=mw_rss_bulletins",
       "published": "2026-10-23T21:52:26Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "The U.S. economy is great by this key measure. So why are Americans so sour?",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=bc18f534-11d4-4c2a-b51c-cc576d40ecdf&amp;mod=mw_rss_bulletins",
-      "published": "2026-10-23T20:30:24Z",
-      "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-10-25T20:15:00Z",
+  "newest_item_published": "2026-10-25T20:28:55Z",
   "source_item_count": 70,
   "sources": {
     "cnbc": {
-      "contributed": 11,
+      "contributed": 12,
       "error": null,
       "fetched": 30,
       "fresh": 27,
       "label": "CNBC",
-      "newest": "2026-10-25T18:18:49Z",
+      "newest": "2026-10-25T20:28:55Z",
       "ok": true
     },
     "marketwatch": {
@@ -344,10 +344,10 @@
       "ok": true
     },
     "mw_bulletins": {
-      "contributed": 9,
+      "contributed": 8,
       "error": null,
       "fetched": 10,
-      "fresh": 9,
+      "fresh": 8,
       "label": "MW Bulletins",
       "newest": "2026-10-25T14:22:13Z",
       "ok": true
@@ -358,7 +358,7 @@
       "fetched": 20,
       "fresh": 20,
       "label": "Yahoo Finance",
-      "newest": "2026-10-25T19:33:52Z",
+      "newest": "2026-10-25T19:44:00Z",
       "ok": true
     }
   }
