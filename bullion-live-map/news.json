@@ -1,6 +1,134 @@
 {
-  "generated_at": "2026-10-26T20:11:34Z",
+  "generated_at": "2026-10-26T21:11:29Z",
   "headlines": [
+    {
+      "category": "other",
+      "headline": "JetBlue posts bigger loss on fuel costs, but CEO says margins improving",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/26/jetblue-jblu-3q-2026-earnings.html",
+      "published": "2026-10-26T21:04:46Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "energy",
+      "headline": "Update: US Equity Indexes Advance Following Anthropic's IPO Filing, Decline in Crude Oil",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-advance-following-210440863.html?.tsrc=rss",
+      "published": "2026-10-26T21:04:40Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Why Lumentum\u2019s stock led the S&P 500 higher on Monday",
+      "image": "news-images/68c7da3daae850a4c480e19a.jpg",
+      "link": "https://www.marketwatch.com/story/why-lumentums-stock-led-the-s-p-500-higher-on-monday-0dff125b?mod=mw_rss_topstories",
+      "published": "2026-10-26T21:04:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Dow Jones Futures: Elon Musk-Led Tesla Leads Market Higher; Amazon, Alphabet, Microsoft Earnings On Deck",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/4f45ec30-6388-381f-b8f7-2aed6d460b6f/dow-jones-futures%3A-elon.html?.tsrc=rss",
+      "published": "2026-10-26T20:57:39Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Update: Nasdaq, S&P 500 Snap 2-Day Decline as Anthropic IPO Filing Lifts Mood",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-p-500-snap-2-205148848.html?.tsrc=rss",
+      "published": "2026-10-26T20:51:48Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "With the Anthropic IPO, the devil is in the details",
+      "image": "news-images/9d80c397bac30265bad549a5.jpg",
+      "link": "https://www.marketwatch.com/story/with-the-anthropic-ipo-the-devil-is-in-the-details-239d571d?mod=mw_rss_topstories",
+      "published": "2026-10-26T20:50:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "industrials",
+      "headline": "Boeing Losses Expected To Narrow. Defense Awards, 737 Certification, Deliveries In Focus.",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/c405c137-48c6-3a98-8a48-41ab3910e8a9/boeing-losses-expected-to.html?.tsrc=rss",
+      "published": "2026-10-26T20:48:45Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html",
+      "published": "2026-10-26T20:44:50Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Curtains for COLA? Saving Social Security could mean these big changes.",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=5aae0d02-c806-4965-9cf0-c41ed7b38c8d&amp;mod=mw_rss_bulletins",
+      "published": "2026-10-26T20:41:32Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Stock Market Today: Dow Up, These Stocks Gain On Musk Talk; DoorDash Dives (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/d7847db0-e9ef-3aa4-a4a6-f002895df0d3/stock-market-today%3A-dow-up%2C.html?.tsrc=rss",
+      "published": "2026-10-26T20:39:36Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "tech",
+      "headline": "Nvidia, AMD and Broadcom could buy Meta shares as part of $35 billion stock offering",
+      "image": "news-images/dacb66031054b1f7cabad733.jpg",
+      "link": "https://www.marketwatch.com/story/nvidia-amd-and-broadcom-could-buy-meta-shares-as-part-of-35-billion-stock-offering-d816fec2?mod=mw_rss_topstories",
+      "published": "2026-10-26T20:38:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Fear vs. greed: How investors should react to Anthropic-fueled market moves",
+      "image": null,
+      "link": "https://finance.yahoo.com/video/fear-vs-greed-how-investors-should-react-to-anthropic-fueled-market-moves-203314625.html?.tsrc=rss",
+      "published": "2026-10-26T20:33:14Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Meta, SpaceX, Anthropic stoke the AI funding frenzy. What it means for our stocks",
+      "image": null,
+      "link": "https://www.cnbc.com/investingclub/2026/10/26/meta-spacex-anthropic-stoke-the-ai-funding-frenzy-what-it-means-for-our-stocks.html",
+      "published": "2026-10-26T20:26:26Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who\u2019s to blame?",
+      "image": "news-images/2cf1fe333a00c3e0a871d35d.jpg",
+      "link": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
+      "published": "2026-10-26T20:15:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "How major US stock indexes fared Monday 10/26/2026",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/major-us-stock-indexes-fared-201302392.html?.tsrc=rss",
+      "published": "2026-10-26T20:13:02Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Sorry investors, but there\u2019s no such thing as an early \u2018Santa Claus rally.\u2019 Here\u2019s when the real gains typically happen.",
+      "image": "news-images/2513f21f9336c31c8fea8433.jpg",
+      "link": "https://www.marketwatch.com/story/sorry-investors-but-theres-no-such-thing-as-an-early-santa-claus-rally-heres-when-the-real-gains-typically-happen-7af822cd?mod=mw_rss_topstories",
+      "published": "2026-10-26T20:09:00Z",
+      "sentiment": "bullish"
+    },
     {
       "category": "other",
       "headline": "Prediction market traders say an Anthropic IPO is near-certain this year after company filed with SEC",
@@ -91,14 +219,6 @@
     },
     {
       "category": "other",
-      "headline": "Stock Market Today: Dow Up As Anthropic Filing Boosts Tech; Lingerie Play Flirts With Buy Point (Live Coverage)",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/d7847db0-e9ef-3aa4-a4a6-f002895df0d3/stock-market-today%3A-dow-up-as.html?.tsrc=rss",
-      "published": "2026-10-26T19:22:06Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
       "headline": "McDonald\u2019s new bet on chicken hits a snag as franchisees say the birds are too big",
       "image": "news-images/12c5d09ec0e87cc9fec5799d.jpg",
       "link": "https://www.marketwatch.com/story/mcdonalds-new-bet-on-chicken-hits-a-snag-as-franchisees-say-the-birds-are-too-big-c3e8dd77?mod=mw_rss_topstories",
@@ -130,22 +250,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "industrials",
-      "headline": "Boeing Losses Expected To Narrow. Defense Awards, 737 Certification, Deliveries In Focus.",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/c405c137-48c6-3a98-8a48-41ab3910e8a9/boeing-losses-expected-to.html?.tsrc=rss",
-      "published": "2026-10-26T18:48:13Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "J&J's potential 'game-changer' drug \u2014 plus, what Microsoft's mass buyouts mean",
-      "image": null,
-      "link": "https://www.cnbc.com/investingclub/2026/10/26/jjs-potential-game-changer-drug-plus-what-microsofts-buyouts-mean.html",
-      "published": "2026-10-26T18:45:33Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "tech",
       "headline": "Apple responds to user reports of broken iPhone Duo screens on new foldable phone",
       "image": null,
@@ -162,107 +266,11 @@
       "sentiment": "neutral"
     },
     {
-      "category": "tech",
-      "headline": "Nvidia, AMD and Broadcom could buy Meta shares as part of $35 billion stock offering",
-      "image": "news-images/dacb66031054b1f7cabad733.jpg",
-      "link": "https://www.marketwatch.com/story/nvidia-amd-and-broadcom-could-buy-meta-shares-as-part-of-35-billion-stock-offering-d816fec2?mod=mw_rss_topstories",
-      "published": "2026-10-26T18:24:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "These energy stocks are poised to profit from an imminent AI power crunch",
-      "image": "news-images/e9e275243d99800274f7c1ba.jpg",
-      "link": "https://www.marketwatch.com/story/these-energy-stocks-are-poised-to-profit-from-an-imminent-ai-power-crunch-00c1a50d?mod=mw_rss_topstories",
-      "published": "2026-10-26T18:10:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "energy",
-      "headline": "Sector Update: Energy Stocks Mixed Monday Afternoon",
-      "image": null,
-      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-mixed-monday-180647104.html?.tsrc=rss",
-      "published": "2026-10-26T18:06:47Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Update: Equities Rise Intraday as Traders Weigh Anthropic IPO",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/equities-rise-intraday-traders-weigh-175224069.html?.tsrc=rss",
-      "published": "2026-10-26T17:52:24Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "tech",
-      "headline": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html",
-      "published": "2026-10-26T17:40:30Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "federal",
       "headline": "The arc of Trump: How the president lost the coalition that put him in the White House",
       "image": null,
       "link": "https://www.cnbc.com/2026/10/26/trump-approval-midterms-cnbc-survey.html",
       "published": "2026-10-26T17:36:55Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Meet the financial-literacy teacher who helps high-school students open their own Roth IRAs",
-      "image": "news-images/b76ec7c5b1e8c246622a7906.jpg",
-      "link": "https://www.marketwatch.com/story/meet-the-financial-literacy-teacher-who-helps-high-school-students-open-their-own-roth-iras-652d56a8?mod=mw_rss_topstories",
-      "published": "2026-10-26T17:32:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Lula wins Brazil runoff after prediction markets favored Bolsonaro",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/26/lula-brazil-election-prediction-markets.html",
-      "published": "2026-10-26T17:29:37Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Update: US Equity Indexes Rise as Anthropic's Nasdaq IPO Filing Boosts AI Trade Sentiment",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-rise-anthropic-172924655.html?.tsrc=rss",
-      "published": "2026-10-26T17:29:24Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-living adjustment.",
-      "image": "news-images/bdcdbe4cbc756ea644b08a4d.jpg",
-      "link": "https://www.marketwatch.com/story/is-it-curtains-for-cola-saving-social-security-could-mean-changing-the-cost-of-living-adjustment-867c6bd8?mod=mw_rss_topstories",
-      "published": "2026-10-26T17:19:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "\u2018She\u2019s living the dream\u2019: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
-      "image": "news-images/5b234b9aaea6e1da78cb93ff.jpg",
-      "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
-      "published": "2026-10-26T16:30:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Stock Market Midday, Oct. 26: Tech Sector Rallies on Anthropic IPO Filing and Cooling Oil Prices",
-      "image": null,
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/10/26/stock-market-midday-oct-26-tech-sector-rallies-on-anthropic-ipo-filing-and-cooling-oil-prices/?.tsrc=rss",
-      "published": "2026-10-26T16:28:23Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "other",
-      "headline": "Update: US Equity Indexes Rise After Anthropic Files for Nasdaq IPO",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-rise-anthropic-161754881.html?.tsrc=rss",
-      "published": "2026-10-26T16:17:54Z",
       "sentiment": "neutral"
     },
     {
@@ -312,18 +320,10 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=cd1bae00-790c-43f5-a44b-70d6a0438c0a&amp;mod=mw_rss_bulletins",
       "published": "2026-10-25T14:22:13Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Thirty-six percent of the S&P 500 scheduled to report earnings this week",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=416473b1-dc8f-4264-b4fe-8a9248da7386&amp;mod=mw_rss_bulletins",
-      "published": "2026-10-25T14:12:32Z",
-      "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-10-26T20:08:57Z",
-  "source_item_count": 68,
+  "newest_item_published": "2026-10-26T21:04:46Z",
+  "source_item_count": 67,
   "sources": {
     "cnbc": {
       "contributed": 10,
@@ -331,7 +331,7 @@
       "fetched": 30,
       "fresh": 27,
       "label": "CNBC",
-      "newest": "2026-10-26T20:08:57Z",
+      "newest": "2026-10-26T21:04:46Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,7 +340,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-10-26T20:00:00Z",
+      "newest": "2026-10-26T21:04:00Z",
       "ok": true
     },
     "mw_bulletins": {
@@ -349,16 +349,16 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-10-26T20:03:49Z",
+      "newest": "2026-10-26T20:41:32Z",
       "ok": true
     },
     "yahoo_dji": {
       "contributed": 10,
       "error": null,
-      "fetched": 18,
+      "fetched": 17,
       "fresh": 17,
       "label": "Yahoo Finance",
-      "newest": "2026-10-26T20:01:29Z",
+      "newest": "2026-10-26T21:04:40Z",
       "ok": true
     }
   }
