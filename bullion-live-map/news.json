@@ -1,12 +1,60 @@
 {
-  "generated_at": "2026-10-26T15:11:29Z",
+  "generated_at": "2026-10-26T16:11:33Z",
   "headlines": [
     {
+      "category": "tech",
+      "headline": "Microsoft offers voluntary buyouts to 60,000 employees",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html",
+      "published": "2026-10-26T16:10:06Z",
+      "sentiment": "neutral"
+    },
+    {
       "category": "other",
-      "headline": "I want to pay off $4,500 in credit-card debt in 2 months. Is this possible?",
-      "image": "news-images/33b8e3d3337324888c77ee7f.jpg",
-      "link": "https://www.marketwatch.com/story/i-want-to-pay-off-4-500-in-credit-card-debt-in-2-months-is-this-possible-059d9a21?mod=mw_rss_topstories",
-      "published": "2026-10-26T15:07:00Z",
+      "headline": "Trump DOJ unlawfully fired Epstein prosecutor Maurene Comey, judge rules",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/26/maurene-comey-firing-unlawful-trump.html",
+      "published": "2026-10-26T16:08:18Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "energy",
+      "headline": "Brent oil tops $117 as Saudi defense minister travels to Iran for talks to de-escalate conflict",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/26/oil-prices-today-wti-brent.html",
+      "published": "2026-10-26T16:06:36Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "This strategist says it\u2019s a matter of when, not if, the AI bubble pops. Here\u2019s how to prepare for that.",
+      "image": "news-images/cce4c295bd4e8930609fb5b1.jpg",
+      "link": "https://www.marketwatch.com/story/this-strategist-says-its-a-matter-of-when-not-if-the-ai-bubble-pops-heres-how-to-prepare-for-that-86ffbf30?mod=mw_rss_topstories",
+      "published": "2026-10-26T16:05:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Some Republicans are opposing Trump on tariffs. Maine\u2019s Susan Collins just got him to back down on Canadian levies.",
+      "image": "news-images/ba65d5fabd26d94d2431e944.jpg",
+      "link": "https://www.marketwatch.com/story/some-republicans-are-opposing-trump-on-tariffs-maines-susan-collins-just-got-him-to-back-down-on-canadian-levies-02b202ae?mod=mw_rss_topstories",
+      "published": "2026-10-26T16:01:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "NBA enters prediction markets with Kalshi, Polymarket partnerships",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/26/nba-kalshi-polymarket-prediction-markets.html",
+      "published": "2026-10-26T16:00:59Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who\u2019s to blame?",
+      "image": "news-images/2cf1fe333a00c3e0a871d35d.jpg",
+      "link": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
+      "published": "2026-10-26T16:00:00Z",
       "sentiment": "neutral"
     },
     {
@@ -14,8 +62,64 @@
       "headline": "Alaska Senate: Peltola seeks quick dismissal of DOJ election lawsuit before midterm",
       "image": null,
       "link": "https://www.cnbc.com/2026/10/26/alaska-senate-peltola-doj-lawsuit-election-sullivan.html",
-      "published": "2026-10-26T15:06:39Z",
+      "published": "2026-10-26T15:55:37Z",
       "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "The issues in the midterm elections that will impact your wallet",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=0e28d798-e052-41b3-b961-e49c7ee2d365&amp;mod=mw_rss_bulletins",
+      "published": "2026-10-26T15:42:57Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Investors are doing just as well this year by shunning AI. How to invest if the tech trade keeps fizzling",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/26/sp-500-ex-ai-index-tech-selloff.html",
+      "published": "2026-10-26T15:39:55Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
+      "image": "news-images/162d0bcb76bf4c849ea078c6.jpg",
+      "link": "https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories",
+      "published": "2026-10-26T15:31:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Stock Market Today: Dow Rise As Anthropic IPO Boosts These AI Stocks; Brazil Plays Plunge (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/d7847db0-e9ef-3aa4-a4a6-f002895df0d3/stock-market-today%3A-dow-rise.html?.tsrc=rss",
+      "published": "2026-10-26T15:22:01Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "Apollo to buy nearly 10% stake in Abu Dhabi-backed alternative asset manager Mubadala Capital",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/26/apollo-mubadala-capital-stake.html",
+      "published": "2026-10-26T15:19:41Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Is getting a wedding band from Quince a bad idea? It\u2019s a third of the price of a local jeweler.",
+      "image": "news-images/c9eaa990f2d0772cb76dfdd3.jpg",
+      "link": "https://www.marketwatch.com/story/is-getting-a-wedding-band-from-quince-a-bad-idea-its-a-third-of-the-price-fa89c9b2?mod=mw_rss_topstories",
+      "published": "2026-10-26T15:15:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "I want to pay off $4,500 in credit-card debt in 2 months. Is this possible?",
+      "image": "news-images/33b8e3d3337324888c77ee7f.jpg",
+      "link": "https://www.marketwatch.com/story/i-want-to-pay-off-4-500-in-credit-card-debt-in-2-months-is-this-possible-059d9a21?mod=mw_rss_topstories",
+      "published": "2026-10-26T15:07:00Z",
+      "sentiment": "neutral"
     },
     {
       "category": "other",
@@ -66,12 +170,12 @@
       "sentiment": "neutral"
     },
     {
-      "category": "tech",
-      "headline": "Stock Market Today: Dow Rises As Oil Prices Fall; Anthropic IPO Boosts These AI Stocks (Live Coverage)",
+      "category": "other",
+      "headline": "Nasdaq Rises After Anthropic Finally Reveals Its IPO Filing",
       "image": null,
-      "link": "https://finance.yahoo.com/m/d7847db0-e9ef-3aa4-a4a6-f002895df0d3/stock-market-today%3A-dow-rises.html?.tsrc=rss",
-      "published": "2026-10-26T14:29:54Z",
-      "sentiment": "bearish"
+      "link": "https://finance.yahoo.com/m/1070ab00-6178-3699-bdb4-b169fe2f8504/nasdaq-rises-after-anthropic.html?.tsrc=rss",
+      "published": "2026-10-26T14:15:09Z",
+      "sentiment": "neutral"
     },
     {
       "category": "other",
@@ -106,70 +210,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "healthcare",
-      "headline": "The excitement around Moderna\u2019s cancer vaccine is cooling. Here\u2019s why.",
-      "image": "news-images/66a6d71de719e0d8c66907e3.jpg",
-      "link": "https://www.marketwatch.com/story/the-excitement-around-modernas-cancer-vaccine-is-cooling-heres-why-994b205f?mod=mw_rss_topstories",
-      "published": "2026-10-26T13:50:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Neocloud stocks fall as Elon Musk says more than 200 of them face 'guppy-level death'",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/26/neocloud-stocks-today-coreweave-nebius-iren-elon-musk.html",
-      "published": "2026-10-26T13:43:14Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "consumer",
-      "headline": "Retail investors are getting cold feet about stocks, just when the market needs them most",
-      "image": "news-images/550d901fa1dfd33f7ca1c72b.jpg",
-      "link": "https://www.marketwatch.com/story/retail-investors-are-getting-cold-feet-about-stocks-just-when-the-market-needs-them-most-00a5c9c8?mod=mw_rss_topstories",
-      "published": "2026-10-26T13:37:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "The stock market\u2019s biggest test in weeks is here",
-      "image": "news-images/8839522dd1f5eb262e8cb061.jpg",
-      "link": "https://www.marketwatch.com/story/the-stock-markets-biggest-test-in-weeks-is-here-256f5a37?mod=mw_rss_topstories",
-      "published": "2026-10-26T13:33:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Nasdaq Rises After Anthropic Finally Reveals Its IPO Filing",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/1070ab00-6178-3699-bdb4-b169fe2f8504/nasdaq-rises-after-anthropic.html?.tsrc=rss",
-      "published": "2026-10-26T13:31:44Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "The 5 big voting issues in the midterm elections that will impact your wallet",
-      "image": "news-images/1a97763337815283f147a8ee.jpg",
-      "link": "https://www.marketwatch.com/story/the-5-big-voting-issues-in-the-midterm-elections-that-will-impact-your-wallet-4a93291c?mod=mw_rss_topstories",
-      "published": "2026-10-26T13:30:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "energy",
-      "headline": "Oil prices fall as Saudi defense minister travels to Iran for talks to de-escalate conflict",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/26/oil-prices-today-wti-brent.html",
-      "published": "2026-10-26T13:28:57Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "other",
-      "headline": "Jim Cramer's top 10 things to watch in the stock market Monday",
-      "image": null,
-      "link": "https://www.cnbc.com/investingclub/2026/10/26/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html",
-      "published": "2026-10-26T13:20:55Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "tech",
       "headline": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Monday Ahead of Big Tech Earnings, Fed Decision",
       "image": null,
@@ -186,43 +226,11 @@
       "sentiment": "neutral"
     },
     {
-      "category": "other",
-      "headline": "Apollo to buy nearly 10% stake in Abu Dhabi-backed alternative asset manager Mubadala Capital",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/26/apollo-mubadala-capital-stake.html",
-      "published": "2026-10-26T13:09:26Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "energy",
       "headline": "Update: US Equity Futures Rise Pre-Bell as Traders Assess Declining Oil Prices, Await Fed Rate Decision This Week",
       "image": null,
       "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-rise-pre-130228171.html?.tsrc=rss",
       "published": "2026-10-26T13:02:28Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "consumer",
-      "headline": "Marc Lore\u2019s Wonder bets on Texas, automation and user-built restaurants as it mulls IPO",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/25/wonder-ipo-texas-automation.html",
-      "published": "2026-10-26T12:49:14Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Musk says SpaceX landed a $40 billion debt deal \u2014 and forecasts doom for some AI rivals",
-      "image": "news-images/236b19ad80a8d8dbe9498f97.jpg",
-      "link": "https://www.marketwatch.com/story/musk-says-spacex-landed-a-40-billion-debt-deal-and-forecasts-doom-for-some-ai-rivals-a0a4991e?mod=mw_rss_topstories",
-      "published": "2026-10-26T12:39:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Can GOP Rep. Brian Fitzpatrick, a moderate who's bucked Trump, keep his Pennsylvania swing seat?",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/26/brian-fitzpatrick-bob-harvie-pennsylvania-senate-election.html",
-      "published": "2026-10-26T12:33:16Z",
       "sentiment": "neutral"
     },
     {
@@ -239,14 +247,6 @@
       "image": null,
       "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-com-featured-highlights-signet-122700200.html?.tsrc=rss",
       "published": "2026-10-26T12:27:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Caregiving for adult relatives can cost thousands. AARP survey finds support could matter to midterm voters",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/26/family-caregiving-costs-2026-midterm-elections.html",
-      "published": "2026-10-26T12:15:01Z",
       "sentiment": "neutral"
     },
     {
@@ -322,16 +322,16 @@
       "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-10-26T15:07:00Z",
-  "source_item_count": 69,
+  "newest_item_published": "2026-10-26T16:10:06Z",
+  "source_item_count": 68,
   "sources": {
     "cnbc": {
-      "contributed": 13,
+      "contributed": 12,
       "error": null,
       "fetched": 30,
       "fresh": 25,
       "label": "CNBC",
-      "newest": "2026-10-26T15:06:39Z",
+      "newest": "2026-10-26T16:10:06Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,25 +340,25 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-10-26T15:07:00Z",
+      "newest": "2026-10-26T16:05:00Z",
       "ok": true
     },
     "mw_bulletins": {
-      "contributed": 7,
+      "contributed": 8,
       "error": null,
       "fetched": 10,
-      "fresh": 7,
+      "fresh": 8,
       "label": "MW Bulletins",
-      "newest": "2026-10-26T14:31:44Z",
+      "newest": "2026-10-26T15:42:57Z",
       "ok": true
     },
     "yahoo_dji": {
       "contributed": 10,
       "error": null,
-      "fetched": 19,
-      "fresh": 18,
+      "fetched": 18,
+      "fresh": 17,
       "label": "Yahoo Finance",
-      "newest": "2026-10-26T14:29:54Z",
+      "newest": "2026-10-26T15:22:01Z",
       "ok": true
     }
   }
