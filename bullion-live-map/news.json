@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-26T19:13:03Z",
+  "generated_at": "2026-10-26T20:11:34Z",
   "headlines": [
     {
-      "category": "financials",
-      "headline": "Nasdaq leading stocks higher as Wall Street reacts to Anthropic\u2019s public filing",
+      "category": "other",
+      "headline": "Prediction market traders say an Anthropic IPO is near-certain this year after company filed with SEC",
       "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=9c8b91f0-a3af-471d-acf7-923c590a2d1b&amp;mod=mw_rss_bulletins",
-      "published": "2026-10-26T19:01:04Z",
+      "link": "https://www.cnbc.com/2026/10/26/prediction-markets-think-anthropic-ipo-near-certain-in-2026.html",
+      "published": "2026-10-26T20:08:57Z",
       "sentiment": "neutral"
     },
     {
@@ -14,7 +14,103 @@
       "headline": "Trump DOJ unlawfully fired Epstein prosecutor Maurene Comey, judge rules",
       "image": null,
       "link": "https://www.cnbc.com/2026/10/26/maurene-comey-firing-unlawful-trump.html",
-      "published": "2026-10-26T18:52:54Z",
+      "published": "2026-10-26T20:03:58Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Stocks close on broad gains, as Anthropic's IPO filing boosts tech and AI names",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=03c9e7dd-34aa-484b-84ba-6b1e47661b45&amp;mod=mw_rss_bulletins",
+      "published": "2026-10-26T20:03:49Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "Anthropic's Upcoming IPO is Buoying Markets After Steep Losses. Stocks Rebounded.",
+      "image": null,
+      "link": "https://www.ibtimes.com/anthropics-upcoming-ipo-buoying-markets-after-steep-losses-stocks-rebounded-3809023?.tsrc=rss",
+      "published": "2026-10-26T20:01:29Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "energy",
+      "headline": "Sector Update: Energy Stocks Edge Higher Late Afternoon",
+      "image": null,
+      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-edge-higher-200049442.html?.tsrc=rss",
+      "published": "2026-10-26T20:00:49Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "My husband wants to sell our $1.5 million home and invest the proceeds. But this is where we raised our kids \u2014 and I can\u2019t bear to leave.",
+      "image": "news-images/e3b107a2b99653e096be12c7.jpg",
+      "link": "https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories",
+      "published": "2026-10-26T20:00:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Update: Anthropic's IPO Filing Boosts Tech Risk Sentiment, Lifts US Equity Indexes",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/anthropic-apos-ipo-filing-boosts-195547218.html?.tsrc=rss",
+      "published": "2026-10-26T19:55:47Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "DoorDash, Instacart shares go in opposite directions on reported buyout talks",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=e2e5cdd8-d4e1-4612-a53b-0dc2c6c0032a&amp;mod=mw_rss_bulletins",
+      "published": "2026-10-26T19:54:55Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "The house, the kids\u2019 college and the raise: Where people in their 30s and 40s go wrong",
+      "image": "news-images/75ae48498066e1bfcb32160c.jpg",
+      "link": "https://www.marketwatch.com/story/the-house-the-kids-college-and-the-raise-where-people-in-their-30s-and-40s-go-wrong-69ec6c90?mod=mw_rss_topstories",
+      "published": "2026-10-26T19:42:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "My wife has only $80,000 saved for retirement. I have $2.2 million. Am I wrong to be shocked?",
+      "image": "news-images/45f4c003ac21ae6d91c7720a.jpg",
+      "link": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
+      "published": "2026-10-26T19:30:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "\u2018You need only watch episodes of Judge Judy\u2019: I\u2019m in my 70s. Why do people keep making the same avoidable financial mistakes?",
+      "image": "news-images/6066687d4ba118eea7365363.jpg",
+      "link": "https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories",
+      "published": "2026-10-26T19:30:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Stock Market Today: Dow Up As Anthropic Filing Boosts Tech; Lingerie Play Flirts With Buy Point (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/d7847db0-e9ef-3aa4-a4a6-f002895df0d3/stock-market-today%3A-dow-up-as.html?.tsrc=rss",
+      "published": "2026-10-26T19:22:06Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "McDonald\u2019s new bet on chicken hits a snag as franchisees say the birds are too big",
+      "image": "news-images/12c5d09ec0e87cc9fec5799d.jpg",
+      "link": "https://www.marketwatch.com/story/mcdonalds-new-bet-on-chicken-hits-a-snag-as-franchisees-say-the-birds-are-too-big-c3e8dd77?mod=mw_rss_topstories",
+      "published": "2026-10-26T19:17:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "financials",
+      "headline": "Nasdaq leading stocks higher as Wall Street reacts to Anthropic\u2019s public filing",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=9c8b91f0-a3af-471d-acf7-923c590a2d1b&amp;mod=mw_rss_bulletins",
+      "published": "2026-10-26T19:01:04Z",
       "sentiment": "neutral"
     },
     {
@@ -71,22 +167,6 @@
       "image": "news-images/dacb66031054b1f7cabad733.jpg",
       "link": "https://www.marketwatch.com/story/nvidia-amd-and-broadcom-could-buy-meta-shares-as-part-of-35-billion-stock-offering-d816fec2?mod=mw_rss_topstories",
       "published": "2026-10-26T18:24:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "My wife has only $80,000 saved for retirement. I have $2.2 million. Am I wrong to be shocked?",
-      "image": "news-images/45f4c003ac21ae6d91c7720a.jpg",
-      "link": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
-      "published": "2026-10-26T18:15:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "energy",
-      "headline": "Stock Market Today: Dow Up As Anthropic Filing Boosts Tech; This Energy Stock Tests Entry Point (Live Coverage)",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/d7847db0-e9ef-3aa4-a4a6-f002895df0d3/stock-market-today%3A-dow-up-as.html?.tsrc=rss",
-      "published": "2026-10-26T18:11:56Z",
       "sentiment": "neutral"
     },
     {
@@ -170,14 +250,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "other",
-      "headline": "My husband wants to sell our $1.5 million home and invest the proceeds. But this is where we raised our kids \u2014 and I can\u2019t bear to leave.",
-      "image": "news-images/e3b107a2b99653e096be12c7.jpg",
-      "link": "https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories",
-      "published": "2026-10-26T16:30:00Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "tech",
       "headline": "Stock Market Midday, Oct. 26: Tech Sector Rallies on Anthropic IPO Filing and Cooling Oil Prices",
       "image": null,
@@ -187,50 +259,10 @@
     },
     {
       "category": "other",
-      "headline": "Elon Musk says more than 200 neoclouds face 'guppy-level death'",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/26/neocloud-stocks-today-coreweave-nebius-iren-elon-musk.html",
-      "published": "2026-10-26T16:24:23Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
       "headline": "Update: US Equity Indexes Rise After Anthropic Files for Nasdaq IPO",
       "image": null,
       "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-rise-anthropic-161754881.html?.tsrc=rss",
       "published": "2026-10-26T16:17:54Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "\u2018You need only watch episodes of Judge Judy\u2019: I\u2019m in my 70s. Why do people keep making the same avoidable financial mistakes?",
-      "image": "news-images/6066687d4ba118eea7365363.jpg",
-      "link": "https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories",
-      "published": "2026-10-26T16:15:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "This strategist says it\u2019s a matter of when, not if, the AI bubble pops. Here\u2019s how to prepare for that.",
-      "image": "news-images/cce4c295bd4e8930609fb5b1.jpg",
-      "link": "https://www.marketwatch.com/story/this-strategist-says-its-a-matter-of-when-not-if-the-ai-bubble-pops-heres-how-to-prepare-for-that-86ffbf30?mod=mw_rss_topstories",
-      "published": "2026-10-26T16:05:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Some Republicans are opposing Trump on tariffs. Maine\u2019s Susan Collins just got him to back down on Canadian levies.",
-      "image": "news-images/ba65d5fabd26d94d2431e944.jpg",
-      "link": "https://www.marketwatch.com/story/some-republicans-are-opposing-trump-on-tariffs-maines-susan-collins-just-got-him-to-back-down-on-canadian-levies-02b202ae?mod=mw_rss_topstories",
-      "published": "2026-10-26T16:01:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "NBA enters prediction markets with Kalshi, Polymarket partnerships",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/26/nba-kalshi-polymarket-prediction-markets.html",
-      "published": "2026-10-26T16:00:59Z",
       "sentiment": "neutral"
     },
     {
@@ -251,34 +283,10 @@
     },
     {
       "category": "other",
-      "headline": "Nasdaq Rises After Anthropic Finally Reveals Its IPO Filing",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/1070ab00-6178-3699-bdb4-b169fe2f8504/nasdaq-rises-after-anthropic.html?.tsrc=rss",
-      "published": "2026-10-26T14:15:09Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Monday Ahead of Big Tech Earnings, Fed Decision",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-131810084.html?.tsrc=rss",
-      "published": "2026-10-26T13:18:10Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
       "headline": "Anthropic just filed for its IPO. Follow the latest developments here.",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=1e6d74fb-b44b-4141-ac12-1ee60b2c61ca&amp;mod=mw_rss_bulletins",
       "published": "2026-10-26T13:17:42Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "energy",
-      "headline": "Update: US Equity Futures Rise Pre-Bell as Traders Assess Declining Oil Prices, Await Fed Rate Decision This Week",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-rise-pre-130228171.html?.tsrc=rss",
-      "published": "2026-10-26T13:02:28Z",
       "sentiment": "neutral"
     },
     {
@@ -312,26 +320,18 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=416473b1-dc8f-4264-b4fe-8a9248da7386&amp;mod=mw_rss_bulletins",
       "published": "2026-10-25T14:12:32Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Look for stock-market relief after the midterms \u2014 no matter who wins",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=a0659e58-16bd-4b48-a1f7-6af0774251e7&amp;mod=mw_rss_bulletins",
-      "published": "2026-10-25T13:31:48Z",
-      "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-10-26T19:01:04Z",
+  "newest_item_published": "2026-10-26T20:08:57Z",
   "source_item_count": 68,
   "sources": {
     "cnbc": {
-      "contributed": 11,
+      "contributed": 10,
       "error": null,
       "fetched": 30,
       "fresh": 27,
       "label": "CNBC",
-      "newest": "2026-10-26T18:52:54Z",
+      "newest": "2026-10-26T20:08:57Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,16 +340,16 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-10-26T18:24:00Z",
+      "newest": "2026-10-26T20:00:00Z",
       "ok": true
     },
     "mw_bulletins": {
-      "contributed": 9,
+      "contributed": 10,
       "error": null,
       "fetched": 10,
-      "fresh": 9,
+      "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-10-26T19:01:04Z",
+      "newest": "2026-10-26T20:03:49Z",
       "ok": true
     },
     "yahoo_dji": {
@@ -358,7 +358,7 @@
       "fetched": 18,
       "fresh": 17,
       "label": "Yahoo Finance",
-      "newest": "2026-10-26T18:48:13Z",
+      "newest": "2026-10-26T20:01:29Z",
       "ok": true
     }
   }
