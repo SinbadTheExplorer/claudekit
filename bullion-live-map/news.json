@@ -1,6 +1,86 @@
 {
-  "generated_at": "2026-10-26T14:11:31Z",
+  "generated_at": "2026-10-26T15:11:29Z",
   "headlines": [
+    {
+      "category": "other",
+      "headline": "I want to pay off $4,500 in credit-card debt in 2 months. Is this possible?",
+      "image": "news-images/33b8e3d3337324888c77ee7f.jpg",
+      "link": "https://www.marketwatch.com/story/i-want-to-pay-off-4-500-in-credit-card-debt-in-2-months-is-this-possible-059d9a21?mod=mw_rss_topstories",
+      "published": "2026-10-26T15:07:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Alaska Senate: Peltola seeks quick dismissal of DOJ election lawsuit before midterm",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/26/alaska-senate-peltola-doj-lawsuit-election-sullivan.html",
+      "published": "2026-10-26T15:06:39Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "Fanatics teams up with OpenAI for new AI-powered shopping suggestion feature",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/26/fanatics-openai-codex-sports-merchandise-shopping.html",
+      "published": "2026-10-26T15:05:13Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "consumer",
+      "headline": "Walmart, Best Buy and other stores now use digital price tags. Critics say they could lead to different prices for different shoppers.",
+      "image": "news-images/cc469946d302d5f9dabb0b4c.jpg",
+      "link": "https://www.marketwatch.com/story/walmart-best-buy-and-other-stores-now-use-digital-price-tags-critics-say-they-could-lead-to-different-prices-for-different-shoppers-19e2f4da?mod=mw_rss_topstories",
+      "published": "2026-10-26T15:03:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Young Americans are giving up on car ownership. It\u2019s a path to financial freedom for some.",
+      "image": "news-images/6e42998e17e68e6144094606.jpg",
+      "link": "https://www.marketwatch.com/story/young-americans-are-giving-up-their-cars-its-a-path-to-financial-freedom-for-some-3cce491c?mod=mw_rss_topstories",
+      "published": "2026-10-26T15:01:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Two stock picks to capitalize on Wall Street\u2019s misguided AI fears",
+      "image": "news-images/ef5bb7132c3ab4fbfb0f20fd.jpg",
+      "link": "https://www.marketwatch.com/story/two-stock-picks-to-capitalize-on-wall-streets-misguided-ai-fears-41f81755?mod=mw_rss_topstories",
+      "published": "2026-10-26T14:47:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "international",
+      "headline": "Trump says he'll soon decide whether to \u2018make a deal\u2019 with Iran or \u2018finish it off'",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/26/us-iran-war-hormuz.html",
+      "published": "2026-10-26T14:36:03Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Dow, S&P and Nasdaq climb in morning trading as Anthropic files for IPO",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=59624406-7ef1-42be-9453-cca85e755eed&amp;mod=mw_rss_bulletins",
+      "published": "2026-10-26T14:31:44Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Stock Market Today: Dow Rises As Oil Prices Fall; Anthropic IPO Boosts These AI Stocks (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/d7847db0-e9ef-3aa4-a4a6-f002895df0d3/stock-market-today%3A-dow-rises.html?.tsrc=rss",
+      "published": "2026-10-26T14:29:54Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "My wife has only $80,000 saved for retirement. I have $2.2 million. Am I wrong to be shocked?",
+      "image": "news-images/45f4c003ac21ae6d91c7720a.jpg",
+      "link": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
+      "published": "2026-10-26T14:15:00Z",
+      "sentiment": "neutral"
+    },
     {
       "category": "other",
       "headline": "Brazilian stocks rocked as Lula wins presidential election, Bolsonaro reportedly refuses to concede",
@@ -18,19 +98,19 @@
       "sentiment": "neutral"
     },
     {
+      "category": "realestate",
+      "headline": "Mortgage rates above 7% are the 'new normal'\u2014here's why",
+      "image": null,
+      "link": "https://www.cnbc.com/make-it/2026/10/26/mortgage-rates-above-7percent-are-the-new-normalheres-why.html",
+      "published": "2026-10-26T14:00:01Z",
+      "sentiment": "neutral"
+    },
+    {
       "category": "healthcare",
       "headline": "The excitement around Moderna\u2019s cancer vaccine is cooling. Here\u2019s why.",
       "image": "news-images/66a6d71de719e0d8c66907e3.jpg",
       "link": "https://www.marketwatch.com/story/the-excitement-around-modernas-cancer-vaccine-is-cooling-heres-why-994b205f?mod=mw_rss_topstories",
       "published": "2026-10-26T13:50:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "energy",
-      "headline": "Stock Market Today: Dow Rises As Oil Prices Fall; Tesla Shares Rally On This (Live Coverage)",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/d7847db0-e9ef-3aa4-a4a6-f002895df0d3/stock-market-today%3A-dow-rises.html?.tsrc=rss",
-      "published": "2026-10-26T13:49:55Z",
       "sentiment": "neutral"
     },
     {
@@ -82,6 +162,14 @@
       "sentiment": "bearish"
     },
     {
+      "category": "other",
+      "headline": "Jim Cramer's top 10 things to watch in the stock market Monday",
+      "image": null,
+      "link": "https://www.cnbc.com/investingclub/2026/10/26/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html",
+      "published": "2026-10-26T13:20:55Z",
+      "sentiment": "neutral"
+    },
+    {
       "category": "tech",
       "headline": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Monday Ahead of Big Tech Earnings, Fed Decision",
       "image": null,
@@ -106,14 +194,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "other",
-      "headline": "Fanatics teams up with OpenAI for new AI-powered shopping suggestion feature",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/26/fanatics-openai-codex-sports-merchandise-shopping.html",
-      "published": "2026-10-26T13:02:37Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "energy",
       "headline": "Update: US Equity Futures Rise Pre-Bell as Traders Assess Declining Oil Prices, Await Fed Rate Decision This Week",
       "image": null,
@@ -131,7 +211,7 @@
     },
     {
       "category": "tech",
-      "headline": "Musk says SpaceX\u2019s AI rivals are in trouble, sending their stocks lower",
+      "headline": "Musk says SpaceX landed a $40 billion debt deal \u2014 and forecasts doom for some AI rivals",
       "image": "news-images/236b19ad80a8d8dbe9498f97.jpg",
       "link": "https://www.marketwatch.com/story/musk-says-spacex-landed-a-40-billion-debt-deal-and-forecasts-doom-for-some-ai-rivals-a0a4991e?mod=mw_rss_topstories",
       "published": "2026-10-26T12:39:00Z",
@@ -170,30 +250,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "tech",
-      "headline": "A dot-com survivor warns retail investors against buying the tech dip: \u2018You\u2019re taking a knife to a gunfight.\u2019",
-      "image": "news-images/5b36f5c6fee0a3eb014deea8.jpg",
-      "link": "https://www.marketwatch.com/story/a-dot-com-survivor-warns-retail-investors-against-buying-the-tech-dip-youre-taking-a-knife-to-a-gunfight-6c940361?mod=mw_rss_topstories",
-      "published": "2026-10-26T12:10:00Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "tech",
-      "headline": "Cracking AI trade has Wall Street looking for a hedge. An ex-Citadel quant may have the answer",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/26/gpu-futures-ai-hedge-hyperbolic.html",
-      "published": "2026-10-26T12:08:13Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Nvidia, AMD and Broadcom could buy Meta shares as part of $35 billion stock offering",
-      "image": "news-images/dacb66031054b1f7cabad733.jpg",
-      "link": "https://www.marketwatch.com/story/nvidia-amd-and-broadcom-could-buy-meta-shares-as-part-of-35-billion-stock-offering-d816fec2?mod=mw_rss_topstories",
-      "published": "2026-10-26T12:08:00Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "other",
       "headline": "Dow Jones, Nasdaq, S&P 500 weekly preview: Markets brace for pivotal earnings week",
       "image": null,
@@ -202,27 +258,11 @@
       "sentiment": "neutral"
     },
     {
-      "category": "other",
-      "headline": "My husband wants to sell our $1.5 million home and invest the proceeds. But this is where we raised our kids \u2014 and I can\u2019t bear to leave.",
-      "image": "news-images/e3b107a2b99653e096be12c7.jpg",
-      "link": "https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories",
-      "published": "2026-10-26T12:00:00Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "energy",
       "headline": "US Equity Futures Rise Pre-Bell as Traders Assess Declining Oil Prices, Await Fed Rate Decision This Week",
       "image": null,
       "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-rise-pre-115912697.html?.tsrc=rss",
       "published": "2026-10-26T11:59:12Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "international",
-      "headline": "Trump says he'll soon decide whether to \u2018make a deal\u2019 with Iran or \u2018finish it off'",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/26/us-iran-war-hormuz.html",
-      "published": "2026-10-26T11:49:17Z",
       "sentiment": "neutral"
     },
     {
@@ -243,14 +283,6 @@
     },
     {
       "category": "other",
-      "headline": "Blanche defends Trump-ordered lawsuit over Alaska Senate election certification",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/25/blanche-doj-alaska-senate-certification-lawsuit.html",
-      "published": "2026-10-26T11:33:09Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
       "headline": "Take the Zacks Approach to Beat the Markets: Honda Motor, Accenture, CACI in Focus",
       "image": null,
       "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-approach-beat-markets-honda-111300674.html?.tsrc=rss",
@@ -259,34 +291,10 @@
     },
     {
       "category": "financials",
-      "headline": "Verizon\u2019s stock rises as subscriber surge impresses Wall Street",
-      "image": "news-images/7da43e3cad2809f7a546f652.jpg",
-      "link": "https://www.marketwatch.com/story/verizons-stock-rises-as-subscriber-surge-impresses-wall-street-2be3ef2c?mod=mw_rss_topstories",
-      "published": "2026-10-26T11:11:00Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "financials",
       "headline": "Earnings, Central Bank, Oil Views Lift Wall Street Modestly Pre-Bell; Asia Mixed, Europe Up",
       "image": null,
       "link": "https://finance.yahoo.com/markets/articles/earnings-central-bank-oil-views-110950351.html?.tsrc=rss",
       "published": "2026-10-26T11:09:50Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who\u2019s to blame?",
-      "image": "news-images/2cf1fe333a00c3e0a871d35d.jpg",
-      "link": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
-      "published": "2026-10-26T11:00:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Private equity pours billions into defense tech as investors debate a bubble",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/26/defense-tech-private-equity-investment.html",
-      "published": "2026-10-26T10:46:33Z",
       "sentiment": "neutral"
     },
     {
@@ -312,26 +320,18 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=a0659e58-16bd-4b48-a1f7-6af0774251e7&amp;mod=mw_rss_bulletins",
       "published": "2026-10-25T13:31:48Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Do machines have feelings? AI has many rethinking consciousness.",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=5bc0659f-05be-4c5b-879e-bf49b98915d3&amp;mod=mw_rss_bulletins",
-      "published": "2026-10-24T14:39:30Z",
-      "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-10-26T14:09:38Z",
-  "source_item_count": 68,
+  "newest_item_published": "2026-10-26T15:07:00Z",
+  "source_item_count": 69,
   "sources": {
     "cnbc": {
       "contributed": 13,
       "error": null,
       "fetched": 30,
-      "fresh": 26,
+      "fresh": 25,
       "label": "CNBC",
-      "newest": "2026-10-26T14:09:38Z",
+      "newest": "2026-10-26T15:06:39Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,7 +340,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-10-26T13:50:00Z",
+      "newest": "2026-10-26T15:07:00Z",
       "ok": true
     },
     "mw_bulletins": {
@@ -349,16 +349,16 @@
       "fetched": 10,
       "fresh": 7,
       "label": "MW Bulletins",
-      "newest": "2026-10-26T13:17:42Z",
+      "newest": "2026-10-26T14:31:44Z",
       "ok": true
     },
     "yahoo_dji": {
       "contributed": 10,
       "error": null,
-      "fetched": 18,
-      "fresh": 17,
+      "fetched": 19,
+      "fresh": 18,
       "label": "Yahoo Finance",
-      "newest": "2026-10-26T13:49:55Z",
+      "newest": "2026-10-26T14:29:54Z",
       "ok": true
     }
   }
