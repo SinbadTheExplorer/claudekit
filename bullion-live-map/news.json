@@ -1,12 +1,20 @@
 {
-  "generated_at": "2026-10-26T16:11:33Z",
+  "generated_at": "2026-10-26T17:11:30Z",
   "headlines": [
     {
+      "category": "energy",
+      "headline": "Brent oil tops $117 as Saudi defense minister travels to Iran for talks to de-escalate conflict",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/26/oil-prices-today-wti-brent.html",
+      "published": "2026-10-26T17:10:44Z",
+      "sentiment": "neutral"
+    },
+    {
       "category": "tech",
-      "headline": "Microsoft offers voluntary buyouts to 60,000 employees",
+      "headline": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push",
       "image": null,
       "link": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html",
-      "published": "2026-10-26T16:10:06Z",
+      "published": "2026-10-26T16:51:12Z",
       "sentiment": "neutral"
     },
     {
@@ -14,15 +22,55 @@
       "headline": "Trump DOJ unlawfully fired Epstein prosecutor Maurene Comey, judge rules",
       "image": null,
       "link": "https://www.cnbc.com/2026/10/26/maurene-comey-firing-unlawful-trump.html",
-      "published": "2026-10-26T16:08:18Z",
+      "published": "2026-10-26T16:49:25Z",
       "sentiment": "neutral"
     },
     {
-      "category": "energy",
-      "headline": "Brent oil tops $117 as Saudi defense minister travels to Iran for talks to de-escalate conflict",
+      "category": "other",
+      "headline": "\u2018She\u2019s living the dream\u2019: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
+      "image": "news-images/5b234b9aaea6e1da78cb93ff.jpg",
+      "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
+      "published": "2026-10-26T16:30:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "My husband wants to sell our $1.5 million home and invest the proceeds. But this is where we raised our kids \u2014 and I can\u2019t bear to leave.",
+      "image": "news-images/e3b107a2b99653e096be12c7.jpg",
+      "link": "https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories",
+      "published": "2026-10-26T16:30:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Stock Market Midday, Oct. 26: Tech Sector Rallies on Anthropic IPO Filing and Cooling Oil Prices",
       "image": null,
-      "link": "https://www.cnbc.com/2026/10/26/oil-prices-today-wti-brent.html",
-      "published": "2026-10-26T16:06:36Z",
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/10/26/stock-market-midday-oct-26-tech-sector-rallies-on-anthropic-ipo-filing-and-cooling-oil-prices/?.tsrc=rss",
+      "published": "2026-10-26T16:28:23Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "Elon Musk says more than 200 neoclouds face 'guppy-level death'",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/26/neocloud-stocks-today-coreweave-nebius-iren-elon-musk.html",
+      "published": "2026-10-26T16:24:23Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Update: US Equity Indexes Rise After Anthropic Files for Nasdaq IPO",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-rise-anthropic-161754881.html?.tsrc=rss",
+      "published": "2026-10-26T16:17:54Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "\u2018You need only watch episodes of Judge Judy\u2019: I\u2019m in my 70s. Why do people keep making the same avoidable financial mistakes?",
+      "image": "news-images/6066687d4ba118eea7365363.jpg",
+      "link": "https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories",
+      "published": "2026-10-26T16:15:00Z",
       "sentiment": "neutral"
     },
     {
@@ -31,6 +79,14 @@
       "image": "news-images/cce4c295bd4e8930609fb5b1.jpg",
       "link": "https://www.marketwatch.com/story/this-strategist-says-its-a-matter-of-when-not-if-the-ai-bubble-pops-heres-how-to-prepare-for-that-86ffbf30?mod=mw_rss_topstories",
       "published": "2026-10-26T16:05:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Federal Reserve is likely to hold interest rates steady in October. Here's what that means for consumers",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/26/fed-decision-expectations-october-meeting.html",
+      "published": "2026-10-26T16:03:57Z",
       "sentiment": "neutral"
     },
     {
@@ -91,9 +147,9 @@
     },
     {
       "category": "tech",
-      "headline": "Stock Market Today: Dow Rise As Anthropic IPO Boosts These AI Stocks; Brazil Plays Plunge (Live Coverage)",
+      "headline": "Stock Market Today: Dow Up As Anthropic IPO Boosts These AI Stocks; Brazil Plays Plunge (Live Coverage)",
       "image": null,
-      "link": "https://finance.yahoo.com/m/d7847db0-e9ef-3aa4-a4a6-f002895df0d3/stock-market-today%3A-dow-rise.html?.tsrc=rss",
+      "link": "https://finance.yahoo.com/m/d7847db0-e9ef-3aa4-a4a6-f002895df0d3/stock-market-today%3A-dow-up-as.html?.tsrc=rss",
       "published": "2026-10-26T15:22:01Z",
       "sentiment": "bearish"
     },
@@ -138,22 +194,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "other",
-      "headline": "Young Americans are giving up on car ownership. It\u2019s a path to financial freedom for some.",
-      "image": "news-images/6e42998e17e68e6144094606.jpg",
-      "link": "https://www.marketwatch.com/story/young-americans-are-giving-up-their-cars-its-a-path-to-financial-freedom-for-some-3cce491c?mod=mw_rss_topstories",
-      "published": "2026-10-26T15:01:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Two stock picks to capitalize on Wall Street\u2019s misguided AI fears",
-      "image": "news-images/ef5bb7132c3ab4fbfb0f20fd.jpg",
-      "link": "https://www.marketwatch.com/story/two-stock-picks-to-capitalize-on-wall-streets-misguided-ai-fears-41f81755?mod=mw_rss_topstories",
-      "published": "2026-10-26T14:47:00Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "international",
       "headline": "Trump says he'll soon decide whether to \u2018make a deal\u2019 with Iran or \u2018finish it off'",
       "image": null,
@@ -179,34 +219,10 @@
     },
     {
       "category": "other",
-      "headline": "My wife has only $80,000 saved for retirement. I have $2.2 million. Am I wrong to be shocked?",
-      "image": "news-images/45f4c003ac21ae6d91c7720a.jpg",
-      "link": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
-      "published": "2026-10-26T14:15:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
       "headline": "Brazilian stocks rocked as Lula wins presidential election, Bolsonaro reportedly refuses to concede",
       "image": null,
       "link": "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html",
       "published": "2026-10-26T14:09:38Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Meta announces $95 billion stock offering to fund AI expansion",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html",
-      "published": "2026-10-26T14:05:36Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "realestate",
-      "headline": "Mortgage rates above 7% are the 'new normal'\u2014here's why",
-      "image": null,
-      "link": "https://www.cnbc.com/make-it/2026/10/26/mortgage-rates-above-7percent-are-the-new-normalheres-why.html",
-      "published": "2026-10-26T14:00:01Z",
       "sentiment": "neutral"
     },
     {
@@ -282,22 +298,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "other",
-      "headline": "Take the Zacks Approach to Beat the Markets: Honda Motor, Accenture, CACI in Focus",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-approach-beat-markets-honda-111300674.html?.tsrc=rss",
-      "published": "2026-10-26T11:13:00Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "financials",
-      "headline": "Earnings, Central Bank, Oil Views Lift Wall Street Modestly Pre-Bell; Asia Mixed, Europe Up",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/articles/earnings-central-bank-oil-views-110950351.html?.tsrc=rss",
-      "published": "2026-10-26T11:09:50Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "realestate",
       "headline": "Economic calendar: Week begins with wave of housing-market data",
       "image": null,
@@ -322,7 +322,7 @@
       "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-10-26T16:10:06Z",
+  "newest_item_published": "2026-10-26T17:10:44Z",
   "source_item_count": 68,
   "sources": {
     "cnbc": {
@@ -331,7 +331,7 @@
       "fetched": 30,
       "fresh": 25,
       "label": "CNBC",
-      "newest": "2026-10-26T16:10:06Z",
+      "newest": "2026-10-26T17:10:44Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,7 +340,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-10-26T16:05:00Z",
+      "newest": "2026-10-26T16:30:00Z",
       "ok": true
     },
     "mw_bulletins": {
@@ -358,7 +358,7 @@
       "fetched": 18,
       "fresh": 17,
       "label": "Yahoo Finance",
-      "newest": "2026-10-26T15:22:01Z",
+      "newest": "2026-10-26T16:28:23Z",
       "ok": true
     }
   }
