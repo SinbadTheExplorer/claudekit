@@ -1,13 +1,101 @@
 {
-  "generated_at": "2026-10-26T13:11:32Z",
+  "generated_at": "2026-10-26T14:11:31Z",
   "headlines": [
+    {
+      "category": "other",
+      "headline": "Brazilian stocks rocked as Lula wins presidential election, Bolsonaro reportedly refuses to concede",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html",
+      "published": "2026-10-26T14:09:38Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Meta announces $95 billion stock offering to fund AI expansion",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html",
+      "published": "2026-10-26T14:05:36Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "healthcare",
+      "headline": "The excitement around Moderna\u2019s cancer vaccine is cooling. Here\u2019s why.",
+      "image": "news-images/66a6d71de719e0d8c66907e3.jpg",
+      "link": "https://www.marketwatch.com/story/the-excitement-around-modernas-cancer-vaccine-is-cooling-heres-why-994b205f?mod=mw_rss_topstories",
+      "published": "2026-10-26T13:50:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "energy",
+      "headline": "Stock Market Today: Dow Rises As Oil Prices Fall; Tesla Shares Rally On This (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/d7847db0-e9ef-3aa4-a4a6-f002895df0d3/stock-market-today%3A-dow-rises.html?.tsrc=rss",
+      "published": "2026-10-26T13:49:55Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Neocloud stocks fall as Elon Musk says more than 200 of them face 'guppy-level death'",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/26/neocloud-stocks-today-coreweave-nebius-iren-elon-musk.html",
+      "published": "2026-10-26T13:43:14Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "consumer",
+      "headline": "Retail investors are getting cold feet about stocks, just when the market needs them most",
+      "image": "news-images/550d901fa1dfd33f7ca1c72b.jpg",
+      "link": "https://www.marketwatch.com/story/retail-investors-are-getting-cold-feet-about-stocks-just-when-the-market-needs-them-most-00a5c9c8?mod=mw_rss_topstories",
+      "published": "2026-10-26T13:37:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "The stock market\u2019s biggest test in weeks is here",
+      "image": "news-images/8839522dd1f5eb262e8cb061.jpg",
+      "link": "https://www.marketwatch.com/story/the-stock-markets-biggest-test-in-weeks-is-here-256f5a37?mod=mw_rss_topstories",
+      "published": "2026-10-26T13:33:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Nasdaq Rises After Anthropic Finally Reveals Its IPO Filing",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/1070ab00-6178-3699-bdb4-b169fe2f8504/nasdaq-rises-after-anthropic.html?.tsrc=rss",
+      "published": "2026-10-26T13:31:44Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "The 5 big voting issues in the midterm elections that will impact your wallet",
+      "image": "news-images/1a97763337815283f147a8ee.jpg",
+      "link": "https://www.marketwatch.com/story/the-5-big-voting-issues-in-the-midterm-elections-that-will-impact-your-wallet-4a93291c?mod=mw_rss_topstories",
+      "published": "2026-10-26T13:30:00Z",
+      "sentiment": "neutral"
+    },
     {
       "category": "energy",
       "headline": "Oil prices fall as Saudi defense minister travels to Iran for talks to de-escalate conflict",
       "image": null,
       "link": "https://www.cnbc.com/2026/10/26/oil-prices-today-wti-brent.html",
-      "published": "2026-10-26T13:11:08Z",
+      "published": "2026-10-26T13:28:57Z",
       "sentiment": "bearish"
+    },
+    {
+      "category": "tech",
+      "headline": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Monday Ahead of Big Tech Earnings, Fed Decision",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-131810084.html?.tsrc=rss",
+      "published": "2026-10-26T13:18:10Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Anthropic just filed for its IPO. Follow the latest developments here.",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=1e6d74fb-b44b-4141-ac12-1ee60b2c61ca&amp;mod=mw_rss_bulletins",
+      "published": "2026-10-26T13:17:42Z",
+      "sentiment": "neutral"
     },
     {
       "category": "other",
@@ -16,14 +104,6 @@
       "link": "https://www.cnbc.com/2026/10/26/apollo-mubadala-capital-stake.html",
       "published": "2026-10-26T13:09:26Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "energy",
-      "headline": "Stock Market Today: Dow Rises As Oil Prices Fall; Tesla Shares Rally On This Brokerage's Upgrade (Live Coverage)",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/d7847db0-e9ef-3aa4-a4a6-f002895df0d3/stock-market-today%3A-dow-rises.html?.tsrc=rss",
-      "published": "2026-10-26T13:06:46Z",
-      "sentiment": "bullish"
     },
     {
       "category": "other",
@@ -47,14 +127,6 @@
       "image": null,
       "link": "https://www.cnbc.com/2026/10/25/wonder-ipo-texas-automation.html",
       "published": "2026-10-26T12:49:14Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Meta announces $95 billion stock offering to fund AI expansion",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html",
-      "published": "2026-10-26T12:42:41Z",
       "sentiment": "neutral"
     },
     {
@@ -83,27 +155,19 @@
     },
     {
       "category": "other",
+      "headline": "Zacks.com featured highlights include Signet Jewelers, Arrow Electronics, The Gap and Occidental Petroleum",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-com-featured-highlights-signet-122700200.html?.tsrc=rss",
+      "published": "2026-10-26T12:27:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
       "headline": "Caregiving for adult relatives can cost thousands. AARP survey finds support could matter to midterm voters",
       "image": null,
       "link": "https://www.cnbc.com/2026/10/26/family-caregiving-costs-2026-midterm-elections.html",
       "published": "2026-10-26T12:15:01Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Brazilian stocks rocked as Lula wins presidential election, Bolsonaro reportedly refuses to concede",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html",
-      "published": "2026-10-26T12:14:55Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Neocloud stocks fall as Elon Musk says more than 200 of them face 'guppy-level death'",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/26/neocloud-stocks-today-coreweave-nebius-iren-elon-musk.html",
-      "published": "2026-10-26T12:10:07Z",
-      "sentiment": "bearish"
     },
     {
       "category": "tech",
@@ -171,14 +235,6 @@
     },
     {
       "category": "other",
-      "headline": "The stock market\u2019s biggest test in weeks is here",
-      "image": "news-images/8839522dd1f5eb262e8cb061.jpg",
-      "link": "https://www.marketwatch.com/story/the-stock-markets-biggest-test-in-weeks-is-here-256f5a37?mod=mw_rss_topstories",
-      "published": "2026-10-26T11:37:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
       "headline": "Economic calendar: A busy week is capped by the Fed's decision",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=2ed851b9-33fe-4aa4-a6a3-56f15e0e8e62&amp;mod=mw_rss_bulletins",
@@ -226,51 +282,11 @@
       "sentiment": "neutral"
     },
     {
-      "category": "other",
-      "headline": "These four shocks could hand investors an unexpected buying window, strategists say",
-      "image": "news-images/1a4e9fd4376097714294188c.jpg",
-      "link": "https://www.marketwatch.com/story/these-four-shocks-could-hand-investors-an-unexpected-buying-window-strategists-say-5ae7c4db?mod=mw_rss_topstories",
-      "published": "2026-10-26T10:58:00Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "tech",
-      "headline": "The Kospi index is the leading indicator for the global AI trade \u2014 and Goldman just slashed its forecast by 25%",
-      "image": "news-images/6eb1e96a6e7abd419d497768.jpg",
-      "link": "https://www.marketwatch.com/story/the-kospi-index-is-the-leading-indicator-for-the-global-ai-trade-and-goldman-just-slashed-its-forecast-by-25-ccfe2690?mod=mw_rss_topstories",
-      "published": "2026-10-26T10:43:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Stocks Rise Pre-Bell as Traders Await Fed Policy Decision, Inflation Report, Big Tech Earnings",
+      "headline": "Private equity pours billions into defense tech as investors debate a bubble",
       "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-rise-pre-bell-traders-104144689.html?.tsrc=rss",
-      "published": "2026-10-26T10:41:44Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "My wife has only $80,000 saved for retirement. I have $2.2 million. Am I wrong to be shocked?",
-      "image": "news-images/45f4c003ac21ae6d91c7720a.jpg",
-      "link": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
-      "published": "2026-10-26T10:15:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Stock market today: Dow, S&P 500, Nasdaq futures rise ahead of busy week of earnings, Fed rate decision",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-october-26-dow-sp-500-nasdaq-101153035.html?.tsrc=rss",
-      "published": "2026-10-26T10:11:53Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Stock Market News for Oct 26, 2026",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-oct-26-085200530.html?.tsrc=rss",
-      "published": "2026-10-26T08:52:00Z",
+      "link": "https://www.cnbc.com/2026/10/26/defense-tech-private-equity-investment.html",
+      "published": "2026-10-26T10:46:33Z",
       "sentiment": "neutral"
     },
     {
@@ -304,34 +320,18 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=5bc0659f-05be-4c5b-879e-bf49b98915d3&amp;mod=mw_rss_bulletins",
       "published": "2026-10-24T14:39:30Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "AI fever ignites a boom in thematic ETFs as fund managers hunt for next big hit",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=c2646188-9e32-4b72-bd7a-f00bf6b670fc&amp;mod=mw_rss_bulletins",
-      "published": "2026-10-24T13:54:45Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "\u2018Non-answers\u2019 aren\u2019t working. This is what investors really need from the Fed.",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=6bdb0d14-3084-40cf-b20e-075bd0b29ed3&amp;mod=mw_rss_bulletins",
-      "published": "2026-10-24T13:17:24Z",
-      "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-10-26T13:11:08Z",
-  "source_item_count": 69,
+  "newest_item_published": "2026-10-26T14:09:38Z",
+  "source_item_count": 68,
   "sources": {
     "cnbc": {
-      "contributed": 12,
+      "contributed": 13,
       "error": null,
       "fetched": 30,
       "fresh": 26,
       "label": "CNBC",
-      "newest": "2026-10-26T13:11:08Z",
+      "newest": "2026-10-26T14:09:38Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,25 +340,25 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-10-26T12:39:00Z",
+      "newest": "2026-10-26T13:50:00Z",
       "ok": true
     },
     "mw_bulletins": {
-      "contributed": 8,
+      "contributed": 7,
       "error": null,
       "fetched": 10,
-      "fresh": 8,
+      "fresh": 7,
       "label": "MW Bulletins",
-      "newest": "2026-10-26T12:30:27Z",
+      "newest": "2026-10-26T13:17:42Z",
       "ok": true
     },
     "yahoo_dji": {
       "contributed": 10,
       "error": null,
-      "fetched": 19,
-      "fresh": 19,
+      "fetched": 18,
+      "fresh": 17,
       "label": "Yahoo Finance",
-      "newest": "2026-10-26T13:06:46Z",
+      "newest": "2026-10-26T13:49:55Z",
       "ok": true
     }
   }
