@@ -1,6 +1,102 @@
 {
-  "generated_at": "2026-10-26T18:11:31Z",
+  "generated_at": "2026-10-26T19:11:28Z",
   "headlines": [
+    {
+      "category": "financials",
+      "headline": "Nasdaq leading stocks higher as Wall Street reacts to Anthropic\u2019s public filing",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=9c8b91f0-a3af-471d-acf7-923c590a2d1b&amp;mod=mw_rss_bulletins",
+      "published": "2026-10-26T19:01:04Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Trump DOJ unlawfully fired Epstein prosecutor Maurene Comey, judge rules",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/26/maurene-comey-firing-unlawful-trump.html",
+      "published": "2026-10-26T18:52:54Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Federal Reserve is likely to hold interest rates steady in October. Here's what that means for consumers",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/26/fed-decision-expectations-october-meeting.html",
+      "published": "2026-10-26T18:51:23Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "energy",
+      "headline": "Oil ticks lower as Saudi defense minister meets with Iran's president in Tehran to de-escalate",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/26/oil-prices-today-wti-brent.html",
+      "published": "2026-10-26T18:50:05Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "industrials",
+      "headline": "Boeing Losses Expected To Narrow. Defense Awards, 737 Certification, Deliveries In Focus.",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/c405c137-48c6-3a98-8a48-41ab3910e8a9/boeing-losses-expected-to.html?.tsrc=rss",
+      "published": "2026-10-26T18:48:13Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "J&J's potential 'game-changer' drug \u2014 plus, what Microsoft's mass buyouts mean",
+      "image": null,
+      "link": "https://www.cnbc.com/investingclub/2026/10/26/jjs-potential-game-changer-drug-plus-what-microsofts-buyouts-mean.html",
+      "published": "2026-10-26T18:45:33Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Apple responds to user reports of broken iPhone Duo screens on new foldable phone",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/26/apple-responds-to-user-reports-of-broken-iphone-duo-screens.html",
+      "published": "2026-10-26T18:43:25Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "consumer",
+      "headline": "FTC and 20 states sue Dollar General, alleging retailer overcharged shoppers",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/26/ftc-dollar-general-lawsuit.html",
+      "published": "2026-10-26T18:37:01Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Nvidia, AMD and Broadcom could buy Meta shares as part of $35 billion stock offering",
+      "image": "news-images/dacb66031054b1f7cabad733.jpg",
+      "link": "https://www.marketwatch.com/story/nvidia-amd-and-broadcom-could-buy-meta-shares-as-part-of-35-billion-stock-offering-d816fec2?mod=mw_rss_topstories",
+      "published": "2026-10-26T18:24:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "My wife has only $80,000 saved for retirement. I have $2.2 million. Am I wrong to be shocked?",
+      "image": "news-images/45f4c003ac21ae6d91c7720a.jpg",
+      "link": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
+      "published": "2026-10-26T18:15:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "energy",
+      "headline": "Stock Market Today: Dow Up As Anthropic Filing Boosts Tech; This Energy Stock Tests Entry Point (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/d7847db0-e9ef-3aa4-a4a6-f002895df0d3/stock-market-today%3A-dow-up-as.html?.tsrc=rss",
+      "published": "2026-10-26T18:11:56Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "These energy stocks are poised to profit from an imminent AI power crunch",
+      "image": "news-images/e9e275243d99800274f7c1ba.jpg",
+      "link": "https://www.marketwatch.com/story/these-energy-stocks-are-poised-to-profit-from-an-imminent-ai-power-crunch-00c1a50d?mod=mw_rss_topstories",
+      "published": "2026-10-26T18:10:00Z",
+      "sentiment": "neutral"
+    },
     {
       "category": "energy",
       "headline": "Sector Update: Energy Stocks Mixed Monday Afternoon",
@@ -11,27 +107,11 @@
     },
     {
       "category": "other",
-      "headline": "Trump DOJ unlawfully fired Epstein prosecutor Maurene Comey, judge rules",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/26/maurene-comey-firing-unlawful-trump.html",
-      "published": "2026-10-26T18:06:24Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
       "headline": "Update: Equities Rise Intraday as Traders Weigh Anthropic IPO",
       "image": null,
       "link": "https://finance.yahoo.com/markets/stocks/articles/equities-rise-intraday-traders-weigh-175224069.html?.tsrc=rss",
       "published": "2026-10-26T17:52:24Z",
       "sentiment": "bearish"
-    },
-    {
-      "category": "energy",
-      "headline": "Oil ticks lower as Saudi defense minister meets with Iran's president in Tehran to de-escalate",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/26/oil-prices-today-wti-brent.html",
-      "published": "2026-10-26T17:42:54Z",
-      "sentiment": "neutral"
     },
     {
       "category": "tech",
@@ -79,22 +159,6 @@
       "image": "news-images/bdcdbe4cbc756ea644b08a4d.jpg",
       "link": "https://www.marketwatch.com/story/is-it-curtains-for-cola-saving-social-security-could-mean-changing-the-cost-of-living-adjustment-867c6bd8?mod=mw_rss_topstories",
       "published": "2026-10-26T17:19:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Stock Market Today: Dow Up As Anthropic IPO Boosts These AI Stocks; Pharma Play Offers Entry (Live Coverage)",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/d7847db0-e9ef-3aa4-a4a6-f002895df0d3/stock-market-today%3A-dow-up-as.html?.tsrc=rss",
-      "published": "2026-10-26T17:12:02Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Cramer: I asked some tech insiders what to buy. They surprisingly said this drug stock",
-      "image": null,
-      "link": "https://www.cnbc.com/investingclub/2026/10/26/cramer-i-asked-tech-insiders-what-to-buy-they-said-eli-lilly.html",
-      "published": "2026-10-26T17:00:14Z",
       "sentiment": "neutral"
     },
     {
@@ -155,14 +219,6 @@
     },
     {
       "category": "federal",
-      "headline": "Federal Reserve is likely to hold interest rates steady in October. Here's what that means for consumers",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/26/fed-decision-expectations-october-meeting.html",
-      "published": "2026-10-26T16:03:57Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
       "headline": "Some Republicans are opposing Trump on tariffs. Maine\u2019s Susan Collins just got him to back down on Canadian levies.",
       "image": "news-images/ba65d5fabd26d94d2431e944.jpg",
       "link": "https://www.marketwatch.com/story/some-republicans-are-opposing-trump-on-tariffs-maines-susan-collins-just-got-him-to-back-down-on-canadian-levies-02b202ae?mod=mw_rss_topstories",
@@ -179,58 +235,10 @@
     },
     {
       "category": "other",
-      "headline": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who\u2019s to blame?",
-      "image": "news-images/2cf1fe333a00c3e0a871d35d.jpg",
-      "link": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
-      "published": "2026-10-26T16:00:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Alaska Senate: Peltola seeks quick dismissal of DOJ election lawsuit before midterm",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/26/alaska-senate-peltola-doj-lawsuit-election-sullivan.html",
-      "published": "2026-10-26T15:55:37Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "other",
       "headline": "The issues in the midterm elections that will impact your wallet",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=0e28d798-e052-41b3-b961-e49c7ee2d365&amp;mod=mw_rss_bulletins",
       "published": "2026-10-26T15:42:57Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Investors are doing just as well this year by shunning AI. How to invest if the tech trade keeps fizzling",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/26/sp-500-ex-ai-index-tech-selloff.html",
-      "published": "2026-10-26T15:39:55Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
-      "image": "news-images/162d0bcb76bf4c849ea078c6.jpg",
-      "link": "https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories",
-      "published": "2026-10-26T15:31:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Apollo to buy nearly 10% stake in Abu Dhabi-backed alternative asset manager Mubadala Capital",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/26/apollo-mubadala-capital-stake.html",
-      "published": "2026-10-26T15:19:41Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Is getting a wedding band from Quince a bad idea? It\u2019s a third of the price of a local jeweler.",
-      "image": "news-images/c9eaa990f2d0772cb76dfdd3.jpg",
-      "link": "https://www.marketwatch.com/story/is-getting-a-wedding-band-from-quince-a-bad-idea-its-a-third-of-the-price-fa89c9b2?mod=mw_rss_topstories",
-      "published": "2026-10-26T15:15:00Z",
       "sentiment": "neutral"
     },
     {
@@ -283,14 +291,6 @@
     },
     {
       "category": "other",
-      "headline": "Zacks.com featured highlights include Signet Jewelers, Arrow Electronics, The Gap and Occidental Petroleum",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-com-featured-highlights-signet-122700200.html?.tsrc=rss",
-      "published": "2026-10-26T12:27:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
       "headline": "Economic calendar: A busy week is capped by the Fed's decision",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=2ed851b9-33fe-4aa4-a6a3-56f15e0e8e62&amp;mod=mw_rss_bulletins",
@@ -322,16 +322,16 @@
       "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-10-26T18:06:47Z",
+  "newest_item_published": "2026-10-26T19:01:04Z",
   "source_item_count": 68,
   "sources": {
     "cnbc": {
-      "contributed": 12,
+      "contributed": 11,
       "error": null,
       "fetched": 30,
       "fresh": 27,
       "label": "CNBC",
-      "newest": "2026-10-26T18:06:24Z",
+      "newest": "2026-10-26T18:52:54Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,16 +340,16 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-10-26T17:32:00Z",
+      "newest": "2026-10-26T18:24:00Z",
       "ok": true
     },
     "mw_bulletins": {
-      "contributed": 8,
+      "contributed": 9,
       "error": null,
       "fetched": 10,
-      "fresh": 8,
+      "fresh": 9,
       "label": "MW Bulletins",
-      "newest": "2026-10-26T15:42:57Z",
+      "newest": "2026-10-26T19:01:04Z",
       "ok": true
     },
     "yahoo_dji": {
@@ -358,7 +358,7 @@
       "fetched": 18,
       "fresh": 17,
       "label": "Yahoo Finance",
-      "newest": "2026-10-26T18:06:47Z",
+      "newest": "2026-10-26T18:48:13Z",
       "ok": true
     }
   }
