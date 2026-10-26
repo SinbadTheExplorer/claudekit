@@ -1,20 +1,12 @@
 {
-  "generated_at": "2026-10-26T17:11:30Z",
+  "generated_at": "2026-10-26T18:11:31Z",
   "headlines": [
     {
       "category": "energy",
-      "headline": "Brent oil tops $117 as Saudi defense minister travels to Iran for talks to de-escalate conflict",
+      "headline": "Sector Update: Energy Stocks Mixed Monday Afternoon",
       "image": null,
-      "link": "https://www.cnbc.com/2026/10/26/oil-prices-today-wti-brent.html",
-      "published": "2026-10-26T17:10:44Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html",
-      "published": "2026-10-26T16:51:12Z",
+      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-mixed-monday-180647104.html?.tsrc=rss",
+      "published": "2026-10-26T18:06:47Z",
       "sentiment": "neutral"
     },
     {
@@ -22,7 +14,87 @@
       "headline": "Trump DOJ unlawfully fired Epstein prosecutor Maurene Comey, judge rules",
       "image": null,
       "link": "https://www.cnbc.com/2026/10/26/maurene-comey-firing-unlawful-trump.html",
-      "published": "2026-10-26T16:49:25Z",
+      "published": "2026-10-26T18:06:24Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Update: Equities Rise Intraday as Traders Weigh Anthropic IPO",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/equities-rise-intraday-traders-weigh-175224069.html?.tsrc=rss",
+      "published": "2026-10-26T17:52:24Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "energy",
+      "headline": "Oil ticks lower as Saudi defense minister meets with Iran's president in Tehran to de-escalate",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/26/oil-prices-today-wti-brent.html",
+      "published": "2026-10-26T17:42:54Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html",
+      "published": "2026-10-26T17:40:30Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "The arc of Trump: How the president lost the coalition that put him in the White House",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/26/trump-approval-midterms-cnbc-survey.html",
+      "published": "2026-10-26T17:36:55Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Meet the financial-literacy teacher who helps high-school students open their own Roth IRAs",
+      "image": "news-images/b76ec7c5b1e8c246622a7906.jpg",
+      "link": "https://www.marketwatch.com/story/meet-the-financial-literacy-teacher-who-helps-high-school-students-open-their-own-roth-iras-652d56a8?mod=mw_rss_topstories",
+      "published": "2026-10-26T17:32:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Lula wins Brazil runoff after prediction markets favored Bolsonaro",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/26/lula-brazil-election-prediction-markets.html",
+      "published": "2026-10-26T17:29:37Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Update: US Equity Indexes Rise as Anthropic's Nasdaq IPO Filing Boosts AI Trade Sentiment",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-rise-anthropic-172924655.html?.tsrc=rss",
+      "published": "2026-10-26T17:29:24Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-living adjustment.",
+      "image": "news-images/bdcdbe4cbc756ea644b08a4d.jpg",
+      "link": "https://www.marketwatch.com/story/is-it-curtains-for-cola-saving-social-security-could-mean-changing-the-cost-of-living-adjustment-867c6bd8?mod=mw_rss_topstories",
+      "published": "2026-10-26T17:19:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Stock Market Today: Dow Up As Anthropic IPO Boosts These AI Stocks; Pharma Play Offers Entry (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/d7847db0-e9ef-3aa4-a4a6-f002895df0d3/stock-market-today%3A-dow-up-as.html?.tsrc=rss",
+      "published": "2026-10-26T17:12:02Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Cramer: I asked some tech insiders what to buy. They surprisingly said this drug stock",
+      "image": null,
+      "link": "https://www.cnbc.com/investingclub/2026/10/26/cramer-i-asked-tech-insiders-what-to-buy-they-said-eli-lilly.html",
+      "published": "2026-10-26T17:00:14Z",
       "sentiment": "neutral"
     },
     {
@@ -146,14 +218,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "tech",
-      "headline": "Stock Market Today: Dow Up As Anthropic IPO Boosts These AI Stocks; Brazil Plays Plunge (Live Coverage)",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/d7847db0-e9ef-3aa4-a4a6-f002895df0d3/stock-market-today%3A-dow-up-as.html?.tsrc=rss",
-      "published": "2026-10-26T15:22:01Z",
-      "sentiment": "bearish"
-    },
-    {
       "category": "other",
       "headline": "Apollo to buy nearly 10% stake in Abu Dhabi-backed alternative asset manager Mubadala Capital",
       "image": null,
@@ -171,38 +235,6 @@
     },
     {
       "category": "other",
-      "headline": "I want to pay off $4,500 in credit-card debt in 2 months. Is this possible?",
-      "image": "news-images/33b8e3d3337324888c77ee7f.jpg",
-      "link": "https://www.marketwatch.com/story/i-want-to-pay-off-4-500-in-credit-card-debt-in-2-months-is-this-possible-059d9a21?mod=mw_rss_topstories",
-      "published": "2026-10-26T15:07:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Fanatics teams up with OpenAI for new AI-powered shopping suggestion feature",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/26/fanatics-openai-codex-sports-merchandise-shopping.html",
-      "published": "2026-10-26T15:05:13Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "consumer",
-      "headline": "Walmart, Best Buy and other stores now use digital price tags. Critics say they could lead to different prices for different shoppers.",
-      "image": "news-images/cc469946d302d5f9dabb0b4c.jpg",
-      "link": "https://www.marketwatch.com/story/walmart-best-buy-and-other-stores-now-use-digital-price-tags-critics-say-they-could-lead-to-different-prices-for-different-shoppers-19e2f4da?mod=mw_rss_topstories",
-      "published": "2026-10-26T15:03:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "international",
-      "headline": "Trump says he'll soon decide whether to \u2018make a deal\u2019 with Iran or \u2018finish it off'",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/26/us-iran-war-hormuz.html",
-      "published": "2026-10-26T14:36:03Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
       "headline": "Dow, S&P and Nasdaq climb in morning trading as Anthropic files for IPO",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=59624406-7ef1-42be-9453-cca85e755eed&amp;mod=mw_rss_bulletins",
@@ -215,14 +247,6 @@
       "image": null,
       "link": "https://finance.yahoo.com/m/1070ab00-6178-3699-bdb4-b169fe2f8504/nasdaq-rises-after-anthropic.html?.tsrc=rss",
       "published": "2026-10-26T14:15:09Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Brazilian stocks rocked as Lula wins presidential election, Bolsonaro reportedly refuses to concede",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html",
-      "published": "2026-10-26T14:09:38Z",
       "sentiment": "neutral"
     },
     {
@@ -267,30 +291,6 @@
     },
     {
       "category": "other",
-      "headline": "Dow Jones, Nasdaq, S&P 500 weekly preview: Markets brace for pivotal earnings week",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dow-jones-nasdaq-p-500-120359447.html?.tsrc=rss",
-      "published": "2026-10-26T12:03:59Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "energy",
-      "headline": "US Equity Futures Rise Pre-Bell as Traders Assess Declining Oil Prices, Await Fed Rate Decision This Week",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-rise-pre-115912697.html?.tsrc=rss",
-      "published": "2026-10-26T11:59:12Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "US Stock Futures Rise Ahead of Federal Reserve Decision and Major Technology Earnings",
-      "image": null,
-      "link": "https://investorshub.advfn.com/market-news/article/38551/us-stock-futures-rise-ahead-of-federal-reserve-decision-and-major-technology-earnings?.tsrc=rss",
-      "published": "2026-10-26T11:42:10Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
       "headline": "Economic calendar: A busy week is capped by the Fed's decision",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=2ed851b9-33fe-4aa4-a6a3-56f15e0e8e62&amp;mod=mw_rss_bulletins",
@@ -322,16 +322,16 @@
       "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-10-26T17:10:44Z",
+  "newest_item_published": "2026-10-26T18:06:47Z",
   "source_item_count": 68,
   "sources": {
     "cnbc": {
       "contributed": 12,
       "error": null,
       "fetched": 30,
-      "fresh": 25,
+      "fresh": 27,
       "label": "CNBC",
-      "newest": "2026-10-26T17:10:44Z",
+      "newest": "2026-10-26T18:06:24Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,7 +340,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-10-26T16:30:00Z",
+      "newest": "2026-10-26T17:32:00Z",
       "ok": true
     },
     "mw_bulletins": {
@@ -358,7 +358,7 @@
       "fetched": 18,
       "fresh": 17,
       "label": "Yahoo Finance",
-      "newest": "2026-10-26T16:28:23Z",
+      "newest": "2026-10-26T18:06:47Z",
       "ok": true
     }
   }
