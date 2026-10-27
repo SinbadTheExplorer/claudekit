@@ -1,20 +1,148 @@
 {
-  "generated_at": "2026-10-27T15:12:07Z",
+  "generated_at": "2026-10-27T16:12:08Z",
   "headlines": [
     {
       "category": "international",
       "headline": "Oil prices fall after Iran supreme leader and top security official discuss conditions to end war",
       "image": null,
       "link": "https://www.cnbc.com/2026/10/27/oil-today-iran-us-crude-wti-brent-trump.html",
-      "published": "2026-10-27T15:11:32Z",
+      "published": "2026-10-27T16:04:46Z",
       "sentiment": "bearish"
+    },
+    {
+      "category": "tech",
+      "headline": "World Bank's Banga: Availability of capital 'not really an issue' as AI demand drives up borrowing costs",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/27/world-bank-president-ajay-banga.html",
+      "published": "2026-10-27T15:55:57Z",
+      "sentiment": "neutral"
     },
     {
       "category": "other",
       "headline": "Fed expected to hold rates steady, but Warsh may point way to more hikes",
       "image": null,
       "link": "https://www.cnbc.com/2026/10/27/federal-reserve-rates-kevin-warsh.html",
-      "published": "2026-10-27T15:11:26Z",
+      "published": "2026-10-27T15:52:26Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Anthropic's IPO is risky business",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/27/anthropic-five-surprising-risks-s1.html",
+      "published": "2026-10-27T15:51:41Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Honda warns 50% Canada auto tariffs would be catastrophic for auto industry",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/27/honda-warns-50percent-canada-auto-tariffs-would-be-catastrophic.html",
+      "published": "2026-10-27T15:48:32Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "industrials",
+      "headline": "Boeing Reports Mixed Q3 Results, Record Backlog; Stock Tumbles",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/c405c137-48c6-3a98-8a48-41ab3910e8a9/boeing-reports-mixed-q3.html?.tsrc=rss",
+      "published": "2026-10-27T15:46:44Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "industrials",
+      "headline": "Boeing stock sinks 9% as company says it won't significantly ramp up 737 Max production until late 2027",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html",
+      "published": "2026-10-27T15:45:49Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "international",
+      "headline": "Man charged with assisting \u2018foreign intelligence service\u2019 after incident at UK base used for Iran strikes",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/27/uk-national-security-raf-fairford-iran.html",
+      "published": "2026-10-27T15:41:11Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "What a bigger-than-expected Democratic midterm win would mean for stocks",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=8b367fc5-933b-4e0a-a122-7f47087b0db3&amp;mod=mw_rss_bulletins",
+      "published": "2026-10-27T15:36:14Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "The U.S. economy is gathering steam. This is the chief reason why.",
+      "image": "news-images/26cd3273a53719b9131cffe1.jpg",
+      "link": "https://www.marketwatch.com/story/u-s-economy-is-gathering-steam-this-is-the-chief-reason-why-9772978f?mod=mw_rss_topstories",
+      "published": "2026-10-27T15:34:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who\u2019s to blame?",
+      "image": "news-images/2cf1fe333a00c3e0a871d35d.jpg",
+      "link": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
+      "published": "2026-10-27T15:30:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "UPS beats quarterly expectations, raises full-year guidance again",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/27/ups-ups-q3-2026-earnings.html",
+      "published": "2026-10-27T15:29:49Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "McDonald\u2019s new bet on chicken hits a snag as franchisees say the birds are too big",
+      "image": "news-images/12c5d09ec0e87cc9fec5799d.jpg",
+      "link": "https://www.marketwatch.com/story/mcdonalds-new-bet-on-chicken-hits-a-snag-as-franchisees-say-the-birds-are-too-big-c3e8dd77?mod=mw_rss_topstories",
+      "published": "2026-10-27T15:27:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "A leading Silicon Valley cheerleader just showed all the reasons to be worried about the AI bubble",
+      "image": "news-images/bb6b960f7a6f461ad4d196cb.jpg",
+      "link": "https://www.marketwatch.com/story/a-leading-silicon-valley-cheerleader-just-showed-all-the-reasons-to-be-worried-about-the-ai-bubble-e3b32fe1?mod=mw_rss_topstories",
+      "published": "2026-10-27T15:25:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "How to use I-bonds to create guaranteed, inflation-proof income in retirement",
+      "image": "news-images/b9a8d2e000010fb27ea71ad5.jpg",
+      "link": "https://www.marketwatch.com/story/how-to-use-i-bonds-to-create-guaranteed-inflation-proof-income-in-retirement-50753fea?mod=mw_rss_topstories",
+      "published": "2026-10-27T15:25:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Ex-FBI official's lawyers slam unusual new criminal charge: 'Outrageous government conduct'",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/27/fbi-hunter-biden-congress-charges-doj.html",
+      "published": "2026-10-27T15:19:50Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "industrials",
+      "headline": "Stock Market Today: Boeing Drags Down The Dow; Nasdaq Up As Consumer Confidence Does This (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/6294d29d-51d6-3bfe-87d4-877203694b78/stock-market-today%3A-boeing.html?.tsrc=rss",
+      "published": "2026-10-27T15:15:15Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "\u2018Just watch Judge Judy\u2019: I\u2019m in my 70s. Why do people keep making the same avoidable financial mistakes?",
+      "image": "news-images/6066687d4ba118eea7365363.jpg",
+      "link": "https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories",
+      "published": "2026-10-27T15:15:00Z",
       "sentiment": "neutral"
     },
     {
@@ -42,14 +170,6 @@
       "sentiment": "bullish"
     },
     {
-      "category": "industrials",
-      "headline": "Boeing doesn't expect to significantly ramp up 737 Max production until late 2027",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html",
-      "published": "2026-10-27T15:01:59Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "tech",
       "headline": "Microsoft earnings will look funky \u2014 but an elusive number is finally arriving",
       "image": "news-images/5616b74d3b03733a52fd4a4d.jpg",
@@ -67,75 +187,11 @@
     },
     {
       "category": "other",
-      "headline": "A rising wealth tide lifts all yachts",
+      "headline": "Why SoFi\u2019s stock is soaring after earnings",
       "image": null,
-      "link": "https://www.cnbc.com/2026/10/27/a-rising-wealth-tide-lifts-all-yachts.html",
-      "published": "2026-10-27T14:29:29Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Nvidia, AMD to invest $4 billion in Meta as tech giants deepen AI partnership",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/27/nvidia-invest-meta.html",
-      "published": "2026-10-27T14:19:36Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Ripple strikes deal with Robinhood to expand its RLUSD digital dollar",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/27/ripple-strikes-deal-with-robinhood-to-expand-its-rlusd-digital-dollar.html",
-      "published": "2026-10-27T14:18:16Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "JetBlue stock surges 19% as company outlook calms investors",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/26/jetblue-jblu-3q-2026-earnings.html",
-      "published": "2026-10-27T14:08:50Z",
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=15163b6e-e9ae-4736-983b-91cd8de1706d&amp;mod=mw_rss_bulletins",
+      "published": "2026-10-27T14:20:44Z",
       "sentiment": "bullish"
-    },
-    {
-      "category": "tech",
-      "headline": "Stock Market Today: Nasdaq Up As Fed Meet Starts; Mining, Chip Funds Make A Move Higher (Live Coverage)",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/6294d29d-51d6-3bfe-87d4-877203694b78/stock-market-today%3A-nasdaq-up.html?.tsrc=rss",
-      "published": "2026-10-27T14:08:40Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "industrials",
-      "headline": "Boeing Reports Mixed Q3 Results, Record Backlog; Stock Falters",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/c405c137-48c6-3a98-8a48-41ab3910e8a9/boeing-reports-mixed-q3.html?.tsrc=rss",
-      "published": "2026-10-27T14:08:09Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "healthcare",
-      "headline": "A 'canary in the coal mine': Measles resurgence exposes weaknesses in U.S. public health, experts say",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/27/us-measles-public-health.html",
-      "published": "2026-10-27T14:07:03Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "other",
-      "headline": "\u2018When do I sell my stocks?\u2019 Ignore the noise and focus on these things.",
-      "image": "news-images/ae46a3ff63c54bde1cafe931.jpg",
-      "link": "https://www.marketwatch.com/story/when-do-i-sell-my-stocks-ignore-the-noise-and-focus-on-these-things-5f4ca5aa?mod=mw_rss_topstories",
-      "published": "2026-10-27T14:00:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Meet the financial-literacy teacher who helps high-school students open their own Roth IRAs",
-      "image": "news-images/b76ec7c5b1e8c246622a7906.jpg",
-      "link": "https://www.marketwatch.com/story/meet-the-financial-literacy-teacher-who-helps-high-school-students-open-their-own-roth-iras-652d56a8?mod=mw_rss_topstories",
-      "published": "2026-10-27T13:54:00Z",
-      "sentiment": "neutral"
     },
     {
       "category": "tech",
@@ -144,14 +200,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/tech-firms-track-wall-st-024224619.html?.tsrc=rss",
       "published": "2026-10-27T13:52:09Z",
       "sentiment": "bearish"
-    },
-    {
-      "category": "other",
-      "headline": "The house, the kids\u2019 college and the raise: Where people in their 30s and 40s go wrong",
-      "image": "news-images/75ae48498066e1bfcb32160c.jpg",
-      "link": "https://www.marketwatch.com/story/the-house-the-kids-college-and-the-raise-where-people-in-their-30s-and-40s-go-wrong-69ec6c90?mod=mw_rss_topstories",
-      "published": "2026-10-27T13:51:00Z",
-      "sentiment": "neutral"
     },
     {
       "category": "tech",
@@ -163,34 +211,10 @@
     },
     {
       "category": "other",
-      "headline": "Why SoFi\u2019s stock is soaring after earnings",
-      "image": "news-images/20e6f78fa02974151599558c.jpg",
-      "link": "https://www.marketwatch.com/story/sofis-stock-climbs-as-lending-surge-drives-an-earnings-beat-and-rosy-outlook-0c978535?mod=mw_rss_topstories",
-      "published": "2026-10-27T13:37:00Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "other",
-      "headline": "A bigger-than-expected win for Democrats in the midterms could deliver \u2018short-lived weakness\u2019 for stocks, strategists say",
-      "image": "news-images/5fd3d990c028d1c1352d8144.jpg",
-      "link": "https://www.marketwatch.com/story/this-surprise-election-result-could-deliver-short-lived-weakness-for-stocks-strategists-say-2278a22e?mod=mw_rss_topstories",
-      "published": "2026-10-27T13:30:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
       "headline": "Here's What to Expect From the Busiest Week of Q4",
       "image": null,
       "link": "https://finance.yahoo.com/markets/stocks/articles/heres-expect-busiest-week-q4-132300602.html?.tsrc=rss",
       "published": "2026-10-27T13:23:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "What gave this city its \u2018best place to retire\u2019 crown? You can actually afford to live there.",
-      "image": "news-images/b51c6d74e399f35940dccd08.jpg",
-      "link": "https://www.marketwatch.com/story/what-gave-this-city-its-best-place-to-retire-crown-you-can-actually-afford-to-live-there-a06f8f4d?mod=mw_rss_topstories",
-      "published": "2026-10-27T13:21:00Z",
       "sentiment": "neutral"
     },
     {
@@ -200,14 +224,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-higher-equity-131350822.html?.tsrc=rss",
       "published": "2026-10-27T13:13:50Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "UPS beats quarterly expectations, raises full-year guidance again",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/27/ups-ups-q3-2026-earnings.html",
-      "published": "2026-10-27T13:04:02Z",
-      "sentiment": "bullish"
     },
     {
       "category": "other",
@@ -223,14 +239,6 @@
       "image": null,
       "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-edge-higher-125516646.html?.tsrc=rss",
       "published": "2026-10-27T12:55:16Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
-      "image": null,
-      "link": "https://www.cnbc.com/investingclub/2026/10/27/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
-      "published": "2026-10-27T12:51:16Z",
       "sentiment": "neutral"
     },
     {
@@ -312,26 +320,18 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=5aae0d02-c806-4965-9cf0-c41ed7b38c8d&amp;mod=mw_rss_bulletins",
       "published": "2026-10-26T20:41:32Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Stocks close on broad gains, as Anthropic's IPO filing boosts tech and AI names",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=03c9e7dd-34aa-484b-84ba-6b1e47661b45&amp;mod=mw_rss_bulletins",
-      "published": "2026-10-26T20:03:49Z",
-      "sentiment": "bullish"
     }
   ],
-  "newest_item_published": "2026-10-27T15:11:32Z",
+  "newest_item_published": "2026-10-27T16:04:46Z",
   "source_item_count": 67,
   "sources": {
     "cnbc": {
-      "contributed": 11,
+      "contributed": 10,
       "error": null,
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-10-27T15:11:32Z",
+      "newest": "2026-10-27T16:04:46Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,16 +340,16 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-10-27T15:03:00Z",
+      "newest": "2026-10-27T15:34:00Z",
       "ok": true
     },
     "mw_bulletins": {
-      "contributed": 9,
+      "contributed": 10,
       "error": null,
       "fetched": 10,
       "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-10-27T14:20:44Z",
+      "newest": "2026-10-27T15:36:14Z",
       "ok": true
     },
     "yahoo_dji": {
@@ -358,7 +358,7 @@
       "fetched": 17,
       "fresh": 16,
       "label": "Yahoo Finance",
-      "newest": "2026-10-27T14:08:40Z",
+      "newest": "2026-10-27T15:46:44Z",
       "ok": true
     }
   }
