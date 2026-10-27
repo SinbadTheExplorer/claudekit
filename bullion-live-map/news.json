@@ -1,20 +1,44 @@
 {
-  "generated_at": "2026-10-27T18:12:19Z",
+  "generated_at": "2026-10-27T18:39:08Z",
   "headlines": [
     {
-      "category": "other",
-      "headline": "Speaker Mike Johnson calls election-transfer concerns \u2018absurd\u2019",
+      "category": "tech",
+      "headline": "What's behind the AI trade comeback \u2014 plus, our take on Intel's latest deal",
       "image": null,
-      "link": "https://www.cnbc.com/2026/10/27/speaker-johnson-peaceful-transfer-midterms.html",
-      "published": "2026-10-27T18:03:02Z",
+      "link": "https://www.cnbc.com/investingclub/2026/10/27/the-ai-trade-comeback-plus-our-take-on-latest-intel-deal.html",
+      "published": "2026-10-27T18:35:40Z",
       "sentiment": "neutral"
+    },
+    {
+      "category": "energy",
+      "headline": "Sector Update: Energy Stocks Fall Tuesday Afternoon",
+      "image": null,
+      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-fall-tuesday-181649049.html?.tsrc=rss",
+      "published": "2026-10-27T18:16:49Z",
+      "sentiment": "bearish"
     },
     {
       "category": "other",
       "headline": "Early third-quarter earnings show a 'resilient' U.S. consumer, with signs of strain",
       "image": null,
       "link": "https://www.cnbc.com/2026/10/27/q3-earnings-resilient-consumer.html",
-      "published": "2026-10-27T18:00:03Z",
+      "published": "2026-10-27T18:12:20Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Will Stocks Rise Before Midterm Elections? Here's What The Data Shows.",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/484f1ab1-1b38-3dc2-ac43-e1ad367da65f/will-stocks-rise-before.html?.tsrc=rss",
+      "published": "2026-10-27T18:11:30Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Speaker Mike Johnson calls election-transfer concerns \u2018absurd\u2019",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/27/speaker-johnson-peaceful-transfer-midterms.html",
+      "published": "2026-10-27T18:03:02Z",
       "sentiment": "neutral"
     },
     {
@@ -79,14 +103,6 @@
       "image": null,
       "link": "https://www.cnbc.com/2026/10/27/oracle-openai-chatgpt-codex-google-tpus.html",
       "published": "2026-10-27T17:36:46Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "industrials",
-      "headline": "Stock Market Today: Dow Wobbles As Boeing Dives; Broadcom Pops After Anthropic Report (Live Coverage)",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/6294d29d-51d6-3bfe-87d4-877203694b78/stock-market-today%3A-dow.html?.tsrc=rss",
-      "published": "2026-10-27T17:29:58Z",
       "sentiment": "neutral"
     },
     {
@@ -176,14 +192,6 @@
       "link": "https://www.cnbc.com/2026/10/27/2026-midterms-prediction-markets-democrats-congress.html",
       "published": "2026-10-27T16:15:21Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Cramer says something is missing in Tuesday's market rally and he's not eager to jump in",
-      "image": null,
-      "link": "https://www.cnbc.com/investingclub/2026/10/27/cramer-says-something-is-missing-in-tuesdays-market-rally-and-hes-not-eager-to-jump-in.html",
-      "published": "2026-10-27T16:13:07Z",
-      "sentiment": "bullish"
     },
     {
       "category": "federal",
@@ -283,14 +291,6 @@
     },
     {
       "category": "other",
-      "headline": "Here's What to Expect From the Busiest Week of Q4",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/heres-expect-busiest-week-q4-132300602.html?.tsrc=rss",
-      "published": "2026-10-27T13:23:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
       "headline": "Economic calendar: consumer confidence, home-sales data",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=601914b3-b694-4e62-9539-ec337b8858d1&amp;mod=mw_rss_bulletins",
@@ -322,7 +322,7 @@
       "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-10-27T18:03:02Z",
+  "newest_item_published": "2026-10-27T18:35:40Z",
   "source_item_count": 67,
   "sources": {
     "cnbc": {
@@ -331,7 +331,7 @@
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-10-27T18:03:02Z",
+      "newest": "2026-10-27T18:35:40Z",
       "ok": true
     },
     "marketwatch": {
@@ -358,7 +358,7 @@
       "fetched": 17,
       "fresh": 16,
       "label": "Yahoo Finance",
-      "newest": "2026-10-27T17:47:47Z",
+      "newest": "2026-10-27T18:16:49Z",
       "ok": true
     }
   }
