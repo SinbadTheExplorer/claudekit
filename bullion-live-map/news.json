@@ -1,12 +1,68 @@
 {
-  "generated_at": "2026-10-27T18:39:08Z",
+  "generated_at": "2026-10-27T19:12:13Z",
   "headlines": [
+    {
+      "category": "industrials",
+      "headline": "Boeing stock sinks 10% as company says it won't significantly ramp up 737 Max production until late 2027",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html",
+      "published": "2026-10-27T19:10:24Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Nasdaq up sharply in final hour as chip stocks bounce; Dow pulls back from highs",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=0e556d7b-6022-4f4c-ab8a-a2739350ea77&amp;mod=mw_rss_bulletins",
+      "published": "2026-10-27T19:02:30Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
+      "image": "news-images/45f4c003ac21ae6d91c7720a.jpg",
+      "link": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
+      "published": "2026-10-27T19:00:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Amazon's anti-tokenmaxxing memo says engineers should be pickier about using AI",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/27/amazon-ai-coding-tokenmaxxing.html",
+      "published": "2026-10-27T18:57:45Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Margin debt growth slows sharply as stock market warning signs build",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/27/margin-debt-growth-cools-after-2026-surge-may-signal-market-top.html",
+      "published": "2026-10-27T18:53:18Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "My abusive ex-husband promised $20,000 for our kids\u2019 education. Now he refuses to pay. Is he legally obligated?",
+      "image": "news-images/3efb101cfeb57f72fcd94c54.jpg",
+      "link": "https://www.marketwatch.com/story/my-abusive-ex-husband-promised-20-000-for-our-kids-education-now-he-refuses-to-pay-is-he-legally-obligated-325ef50f?mod=mw_rss_topstories",
+      "published": "2026-10-27T18:45:00Z",
+      "sentiment": "neutral"
+    },
     {
       "category": "tech",
       "headline": "What's behind the AI trade comeback \u2014 plus, our take on Intel's latest deal",
       "image": null,
       "link": "https://www.cnbc.com/investingclub/2026/10/27/the-ai-trade-comeback-plus-our-take-on-latest-intel-deal.html",
       "published": "2026-10-27T18:35:40Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "energy",
+      "headline": "Stock Market Today: Dow Steady While These Oil Plays Dive; Broadcom Pops After Anthropic Report (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/6294d29d-51d6-3bfe-87d4-877203694b78/stock-market-today%3A-dow.html?.tsrc=rss",
+      "published": "2026-10-27T18:35:18Z",
       "sentiment": "neutral"
     },
     {
@@ -186,44 +242,12 @@
       "sentiment": "neutral"
     },
     {
-      "category": "federal",
-      "headline": "One week out, prediction markets see Democrats as favored to sweep Congress",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/27/2026-midterms-prediction-markets-democrats-congress.html",
-      "published": "2026-10-27T16:15:21Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Lula\u2019s election win leaves Brazil facing a fiscal tightrope",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/27/lula-brazil-election-markets-fiscal-policy.html",
-      "published": "2026-10-27T16:12:05Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Fed expected to hold rates steady, but Warsh may point way to more hikes",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/27/federal-reserve-rates-kevin-warsh.html",
-      "published": "2026-10-27T15:52:26Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "industrials",
       "headline": "Boeing Reports Mixed Q3 Results, Record Backlog; Stock Tumbles",
       "image": null,
       "link": "https://finance.yahoo.com/m/c405c137-48c6-3a98-8a48-41ab3910e8a9/boeing-reports-mixed-q3.html?.tsrc=rss",
       "published": "2026-10-27T15:46:44Z",
       "sentiment": "bearish"
-    },
-    {
-      "category": "tech",
-      "headline": "The Dow\u2019s \u2018Stealth AI Stocks\u2019 Are Offsetting Boeing\u2019s Brutal Slide",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/8ffefb13-e56f-3cf7-90aa-23061cf6b3b4/the-dow%E2%80%99s-%E2%80%98stealth-ai-stocks%E2%80%99.html?.tsrc=rss",
-      "published": "2026-10-27T15:37:41Z",
-      "sentiment": "neutral"
     },
     {
       "category": "other",
@@ -255,22 +279,6 @@
       "image": "news-images/12c5d09ec0e87cc9fec5799d.jpg",
       "link": "https://www.marketwatch.com/story/mcdonalds-new-bet-on-chicken-hits-a-snag-as-franchisees-say-the-birds-are-too-big-c3e8dd77?mod=mw_rss_topstories",
       "published": "2026-10-27T15:27:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "A leading Silicon Valley cheerleader just showed all the reasons to be worried about the AI bubble",
-      "image": "news-images/bb6b960f7a6f461ad4d196cb.jpg",
-      "link": "https://www.marketwatch.com/story/a-leading-silicon-valley-cheerleader-just-showed-all-the-reasons-to-be-worried-about-the-ai-bubble-e3b32fe1?mod=mw_rss_topstories",
-      "published": "2026-10-27T15:25:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "How to use I-bonds to create guaranteed, inflation-proof income in retirement",
-      "image": "news-images/b9a8d2e000010fb27ea71ad5.jpg",
-      "link": "https://www.marketwatch.com/story/how-to-use-i-bonds-to-create-guaranteed-inflation-proof-income-in-retirement-50753fea?mod=mw_rss_topstories",
-      "published": "2026-10-27T15:25:00Z",
       "sentiment": "neutral"
     },
     {
@@ -312,18 +320,10 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=da3c8ba9-ed98-4fac-94f0-3fa4351eab87&amp;mod=mw_rss_bulletins",
       "published": "2026-10-26T23:34:41Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Options traders are seizing control of the S&P 500. Here\u2019s why that matters.",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=b3be2cf9-d6fc-4623-b12b-1264f69d0f4c&amp;mod=mw_rss_bulletins",
-      "published": "2026-10-26T22:21:04Z",
-      "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-10-27T18:35:40Z",
-  "source_item_count": 67,
+  "newest_item_published": "2026-10-27T19:10:24Z",
+  "source_item_count": 68,
   "sources": {
     "cnbc": {
       "contributed": 13,
@@ -331,7 +331,7 @@
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-10-27T18:35:40Z",
+      "newest": "2026-10-27T19:10:24Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,7 +340,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-10-27T17:59:00Z",
+      "newest": "2026-10-27T19:00:00Z",
       "ok": true
     },
     "mw_bulletins": {
@@ -349,16 +349,16 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-10-27T18:02:50Z",
+      "newest": "2026-10-27T19:02:30Z",
       "ok": true
     },
     "yahoo_dji": {
       "contributed": 10,
       "error": null,
-      "fetched": 17,
-      "fresh": 16,
+      "fetched": 18,
+      "fresh": 17,
       "label": "Yahoo Finance",
-      "newest": "2026-10-27T18:16:49Z",
+      "newest": "2026-10-27T18:35:18Z",
       "ok": true
     }
   }
