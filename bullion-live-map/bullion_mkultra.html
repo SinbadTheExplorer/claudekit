@@ -6078,6 +6078,9 @@ function playNarration(file, persona, text) {
 // news, live data and every later panel. Treat blocked storage as empty.
 function storageGet(k) { try { return localStorage.getItem(k); } catch (e) { return null; } }
 function storageSet(k, v) { try { localStorage.setItem(k, v); } catch (e) {} }
+// Same for sessionStorage, which throws the same way when site data is blocked.
+function sessionGet(k) { try { return sessionStorage.getItem(k); } catch (e) { return null; } }
+function sessionSet(k, v) { try { sessionStorage.setItem(k, v); } catch (e) {} }
 let narrationPersona = storageGet('bullion-narration-persona') === 'johnny' ? 'johnny' : 'alfred';
 const ALFRED_ICON_SVG = '<svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true">' +
   '<path d="M7 15 L17 15 L17 17 L7 17 Z" fill="#fff" fill-opacity="0.55"/>' +
@@ -6126,14 +6129,14 @@ if (orbEl) {
   orbEl.addEventListener('keydown', function(e) {
     if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); toggleNarrationPersona(); }
   });
-  if (!sessionStorage.getItem('bullion-orb-nudge-dismissed')) {
+  if (!sessionGet('bullion-orb-nudge-dismissed')) {
     orbEl.classList.add('nudge');
     orbEl.querySelector('.orb-nudge-tip').hidden = false;
   }
 }
 applyPersonaToggle();
 function dismissOrbNudge() {
-  sessionStorage.setItem('bullion-orb-nudge-dismissed', '1');
+  sessionSet('bullion-orb-nudge-dismissed', '1');
   const orb = document.getElementById('persona-orb');
   if (!orb) return;
   orb.classList.remove('nudge');
@@ -6154,10 +6157,10 @@ function playCurrentNarration(d) {
 function maybeAutoplayNarration(d) {
   const key = 'bullion-narration-autoplayed';
   let seen;
-  try { seen = JSON.parse(sessionStorage.getItem(key) || '[]'); } catch (e) { seen = []; }
+  try { seen = JSON.parse(sessionGet(key) || '[]'); } catch (e) { seen = []; }
   if (seen.includes(d.id)) return;
   seen.push(d.id);
-  sessionStorage.setItem(key, JSON.stringify(seen));
+  sessionSet(key, JSON.stringify(seen));
   playCurrentNarration(d);
 }
 
