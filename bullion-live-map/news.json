@@ -1,12 +1,76 @@
 {
-  "generated_at": "2026-10-27T17:21:53Z",
+  "generated_at": "2026-10-27T18:12:19Z",
   "headlines": [
+    {
+      "category": "other",
+      "headline": "Speaker Mike Johnson calls election-transfer concerns \u2018absurd\u2019",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/27/speaker-johnson-peaceful-transfer-midterms.html",
+      "published": "2026-10-27T18:03:02Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Early third-quarter earnings show a 'resilient' U.S. consumer, with signs of strain",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/27/q3-earnings-resilient-consumer.html",
+      "published": "2026-10-27T18:00:03Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "industrials",
+      "headline": "The big reason Boeing\u2019s stock is falling so hard after earnings",
+      "image": "news-images/ed600b5f2b497daaf29c1fca.jpg",
+      "link": "https://www.marketwatch.com/story/the-big-reason-boeings-stock-is-falling-so-hard-after-earnings-d31b400d?mod=mw_rss_topstories",
+      "published": "2026-10-27T17:59:00Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "healthcare",
+      "headline": "GLP-1 drug coverage is being dropped by employer plans: What to know about 2027 weight-loss options",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/27/glp1-drug-coverage-weight-loss-options.html",
+      "published": "2026-10-27T17:57:57Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "federal",
+      "headline": "Honda warns 50% Canada auto tariffs would be catastrophic for industry",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/27/honda-warns-50percent-canada-auto-tariffs-would-be-catastrophic.html",
+      "published": "2026-10-27T17:53:47Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "crypto",
+      "headline": "\u2018CryptoDad\u2019 on stablecoins, bitcoin\u2019s role in a portfolio and why he does not directly own any crypto",
+      "image": "news-images/eae03d0e184e96f037e388b8.jpg",
+      "link": "https://www.marketwatch.com/story/cryptodad-on-stablecoins-bitcoins-role-in-a-portfolio-and-why-he-does-not-directly-own-any-crypto-72472bc1?mod=mw_rss_topstories",
+      "published": "2026-10-27T17:53:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Dow Jones Biotech Giant Amgen Breaks Out Ahead Of Q3 Earnings Results",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/e95bfdb0-e638-3bd3-bdc8-095ef72d9a0c/dow-jones-biotech-giant-amgen.html?.tsrc=rss",
+      "published": "2026-10-27T17:47:47Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Update: Equities Advance Intraday as Investors Assess Corporate Earnings",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/equities-advance-intraday-investors-assess-174738622.html?.tsrc=rss",
+      "published": "2026-10-27T17:47:38Z",
+      "sentiment": "neutral"
+    },
     {
       "category": "other",
       "headline": "Judge blasts prosecutors, refuses to sign new criminal complaint against ex-FBI officials",
       "image": null,
       "link": "https://www.cnbc.com/2026/10/27/fbi-hunter-biden-congress-charges-doj.html",
-      "published": "2026-10-27T17:21:01Z",
+      "published": "2026-10-27T17:39:35Z",
       "sentiment": "bullish"
     },
     {
@@ -14,7 +78,31 @@
       "headline": "Oracle integrates ChatGPT, Codex into apps and expands cloud chip lineup",
       "image": null,
       "link": "https://www.cnbc.com/2026/10/27/oracle-openai-chatgpt-codex-google-tpus.html",
-      "published": "2026-10-27T16:55:57Z",
+      "published": "2026-10-27T17:36:46Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "industrials",
+      "headline": "Stock Market Today: Dow Wobbles As Boeing Dives; Broadcom Pops After Anthropic Report (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/6294d29d-51d6-3bfe-87d4-877203694b78/stock-market-today%3A-dow.html?.tsrc=rss",
+      "published": "2026-10-27T17:29:58Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "energy",
+      "headline": "Update: US Equity Indexes Rise as Mega-Cap Tech Advances While Crude Oil Drops",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-rise-mega-172949086.html?.tsrc=rss",
+      "published": "2026-10-27T17:29:49Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "Anthropic's IPO could be 'speculative fiction' or a 'generational moment' \u2014 investors are split",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/27/-anthropic-ipo-investors-growth-losses-s-1.html",
+      "published": "2026-10-27T17:26:34Z",
       "sentiment": "neutral"
     },
     {
@@ -31,14 +119,6 @@
       "image": "news-images/3ddfb8b1a089b8576dfd12ab.jpg",
       "link": "https://www.marketwatch.com/story/jetblue-has-been-losing-money-for-years-it-just-charted-a-path-to-profitability-03be75c8?mod=mw_rss_topstories",
       "published": "2026-10-27T16:52:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Honda warns 50% Canada auto tariffs would be catastrophic for auto industry",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/27/honda-warns-50percent-canada-auto-tariffs-would-be-catastrophic.html",
-      "published": "2026-10-27T16:49:39Z",
       "sentiment": "neutral"
     },
     {
@@ -71,14 +151,6 @@
       "image": null,
       "link": "https://finance.yahoo.com/markets/stocks/articles/big-tech-pushes-us-equity-163047307.html?.tsrc=rss",
       "published": "2026-10-27T16:30:47Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "industrials",
-      "headline": "Stock Market Today: Dow Climbs As Boeing Dives; Steel Firm Melts Up, Offers Entry (Live Coverage)",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/6294d29d-51d6-3bfe-87d4-877203694b78/stock-market-today%3A-dow.html?.tsrc=rss",
-      "published": "2026-10-27T16:27:08Z",
       "sentiment": "neutral"
     },
     {
@@ -130,36 +202,12 @@
       "sentiment": "neutral"
     },
     {
-      "category": "other",
-      "headline": "Anthropic's IPO is risky business",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/27/anthropic-five-surprising-risks-s1.html",
-      "published": "2026-10-27T15:51:41Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "industrials",
       "headline": "Boeing Reports Mixed Q3 Results, Record Backlog; Stock Tumbles",
       "image": null,
       "link": "https://finance.yahoo.com/m/c405c137-48c6-3a98-8a48-41ab3910e8a9/boeing-reports-mixed-q3.html?.tsrc=rss",
       "published": "2026-10-27T15:46:44Z",
       "sentiment": "bearish"
-    },
-    {
-      "category": "industrials",
-      "headline": "Boeing stock sinks 9% as company says it won't significantly ramp up 737 Max production until late 2027",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html",
-      "published": "2026-10-27T15:45:49Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "international",
-      "headline": "Man charged with assisting \u2018foreign intelligence service\u2019 after incident at UK base used for Iran strikes",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/27/uk-national-security-raf-fairford-iran.html",
-      "published": "2026-10-27T15:41:11Z",
-      "sentiment": "neutral"
     },
     {
       "category": "tech",
@@ -219,22 +267,6 @@
     },
     {
       "category": "other",
-      "headline": "\u2018Just watch Judge Judy\u2019: I\u2019m in my 70s. Why do people keep making the same avoidable financial mistakes?",
-      "image": "news-images/6066687d4ba118eea7365363.jpg",
-      "link": "https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories",
-      "published": "2026-10-27T15:15:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "With the Anthropic IPO, the devil is in the details",
-      "image": "news-images/9d80c397bac30265bad549a5.jpg",
-      "link": "https://www.marketwatch.com/story/with-the-anthropic-ipo-the-devil-is-in-the-details-239d571d?mod=mw_rss_topstories",
-      "published": "2026-10-27T15:03:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
       "headline": "Why SoFi\u2019s stock is soaring after earnings",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=15163b6e-e9ae-4736-983b-91cd8de1706d&amp;mod=mw_rss_bulletins",
@@ -255,30 +287,6 @@
       "image": null,
       "link": "https://finance.yahoo.com/markets/stocks/articles/heres-expect-busiest-week-q4-132300602.html?.tsrc=rss",
       "published": "2026-10-27T13:23:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Exchange-Traded Funds Higher, Equity Futures Mixed Pre-Bell Tuesday as Investors Assess Corporate Earnings",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-higher-equity-131350822.html?.tsrc=rss",
-      "published": "2026-10-27T13:13:50Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Up 16% This Year, How Long Can Procter & Gamble Continue Outperforming the S&P 500?",
-      "image": null,
-      "link": "https://www.fool.com/investing/2026/10/27/up-16-this-year-how-long-can-procter-gamble-contin/?.tsrc=rss",
-      "published": "2026-10-27T12:59:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Update: US Equity Futures Edge Higher Pre-Bell as Traders Digest Corporate Earnings, Fed Kicks Off Policy Meeting",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-edge-higher-125516646.html?.tsrc=rss",
-      "published": "2026-10-27T12:55:16Z",
       "sentiment": "neutral"
     },
     {
@@ -312,26 +320,18 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=b3be2cf9-d6fc-4623-b12b-1264f69d0f4c&amp;mod=mw_rss_bulletins",
       "published": "2026-10-26T22:21:04Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Opinion: With the Anthropic IPO, the devil is in the details",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=4cdb5a01-0a37-4106-a718-0a31169feab4&amp;mod=mw_rss_bulletins",
-      "published": "2026-10-26T21:30:15Z",
-      "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-10-27T17:21:01Z",
+  "newest_item_published": "2026-10-27T18:03:02Z",
   "source_item_count": 67,
   "sources": {
     "cnbc": {
-      "contributed": 12,
+      "contributed": 13,
       "error": null,
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-10-27T17:21:01Z",
+      "newest": "2026-10-27T18:03:02Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,16 +340,16 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-10-27T16:52:00Z",
+      "newest": "2026-10-27T17:59:00Z",
       "ok": true
     },
     "mw_bulletins": {
-      "contributed": 8,
+      "contributed": 7,
       "error": null,
       "fetched": 10,
       "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-10-27T17:15:07Z",
+      "newest": "2026-10-27T18:02:50Z",
       "ok": true
     },
     "yahoo_dji": {
@@ -358,7 +358,7 @@
       "fetched": 17,
       "fresh": 16,
       "label": "Yahoo Finance",
-      "newest": "2026-10-27T16:53:20Z",
+      "newest": "2026-10-27T17:47:47Z",
       "ok": true
     }
   }
