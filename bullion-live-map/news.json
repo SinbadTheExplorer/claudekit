@@ -1,6 +1,94 @@
 {
-  "generated_at": "2026-10-27T14:12:30Z",
+  "generated_at": "2026-10-27T15:12:07Z",
   "headlines": [
+    {
+      "category": "international",
+      "headline": "Oil prices fall after Iran supreme leader and top security official discuss conditions to end war",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/27/oil-today-iran-us-crude-wti-brent-trump.html",
+      "published": "2026-10-27T15:11:32Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "Fed expected to hold rates steady, but Warsh may point way to more hikes",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/27/federal-reserve-rates-kevin-warsh.html",
+      "published": "2026-10-27T15:11:26Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Coca-Cola hikes earnings outlook, even as it sees lackluster demand in North America",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/27/coca-cola-ko-q3-2026-earnings.html",
+      "published": "2026-10-27T15:04:36Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "With the Anthropic IPO, the devil is in the details",
+      "image": "news-images/9d80c397bac30265bad549a5.jpg",
+      "link": "https://www.marketwatch.com/story/with-the-anthropic-ipo-the-devil-is-in-the-details-239d571d?mod=mw_rss_topstories",
+      "published": "2026-10-27T15:03:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "How Broadcom\u2019s stock can surge and overcome \u2018the biggest dislocation in the market\u2019",
+      "image": "news-images/41614973a3ae2eceef22d5d8.jpg",
+      "link": "https://www.marketwatch.com/story/how-broadcoms-stock-can-surge-and-overcome-the-biggest-dislocation-in-the-market-9719e2a8?mod=mw_rss_topstories",
+      "published": "2026-10-27T15:02:00Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "industrials",
+      "headline": "Boeing doesn't expect to significantly ramp up 737 Max production until late 2027",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html",
+      "published": "2026-10-27T15:01:59Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Microsoft earnings will look funky \u2014 but an elusive number is finally arriving",
+      "image": "news-images/5616b74d3b03733a52fd4a4d.jpg",
+      "link": "https://www.marketwatch.com/story/microsoft-earnings-will-look-funky-but-an-elusive-number-is-finally-arriving-73236a94?mod=mw_rss_topstories",
+      "published": "2026-10-27T14:53:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "My husband wants to sell our $1.5 million home and downsize. But this is where we raised our kids \u2014 and I can\u2019t bear to leave.",
+      "image": "news-images/e3b107a2b99653e096be12c7.jpg",
+      "link": "https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories",
+      "published": "2026-10-27T14:30:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "A rising wealth tide lifts all yachts",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/27/a-rising-wealth-tide-lifts-all-yachts.html",
+      "published": "2026-10-27T14:29:29Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Nvidia, AMD to invest $4 billion in Meta as tech giants deepen AI partnership",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/27/nvidia-invest-meta.html",
+      "published": "2026-10-27T14:19:36Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Ripple strikes deal with Robinhood to expand its RLUSD digital dollar",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/27/ripple-strikes-deal-with-robinhood-to-expand-its-rlusd-digital-dollar.html",
+      "published": "2026-10-27T14:18:16Z",
+      "sentiment": "neutral"
+    },
     {
       "category": "other",
       "headline": "JetBlue stock surges 19% as company outlook calms investors",
@@ -8,14 +96,6 @@
       "link": "https://www.cnbc.com/2026/10/26/jetblue-jblu-3q-2026-earnings.html",
       "published": "2026-10-27T14:08:50Z",
       "sentiment": "bullish"
-    },
-    {
-      "category": "other",
-      "headline": "Ripple strikes deal with Robinhood to expand its RLUSD digital dollar",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/27/ripple-strikes-deal-with-robinhood-to-expand-its-rlusd-digital-dollar.html",
-      "published": "2026-10-27T14:08:44Z",
-      "sentiment": "neutral"
     },
     {
       "category": "tech",
@@ -34,36 +114,12 @@
       "sentiment": "neutral"
     },
     {
-      "category": "tech",
-      "headline": "Nvidia, AMD to invest $4 billion in Meta as tech giants deepen AI partnership",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/27/nvidia-invest-meta.html",
-      "published": "2026-10-27T14:07:22Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "healthcare",
       "headline": "A 'canary in the coal mine': Measles resurgence exposes weaknesses in U.S. public health, experts say",
       "image": null,
       "link": "https://www.cnbc.com/2026/10/27/us-measles-public-health.html",
       "published": "2026-10-27T14:07:03Z",
       "sentiment": "bullish"
-    },
-    {
-      "category": "other",
-      "headline": "Coca-Cola hikes earnings outlook, even as it sees lackluster demand in North America",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/27/coca-cola-ko-q3-2026-earnings.html",
-      "published": "2026-10-27T14:03:59Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "A rising wealth tide lifts all yachts",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/27/a-rising-wealth-tide-lifts-all-yachts.html",
-      "published": "2026-10-27T14:01:12Z",
-      "sentiment": "neutral"
     },
     {
       "category": "other",
@@ -106,22 +162,6 @@
       "sentiment": "bearish"
     },
     {
-      "category": "industrials",
-      "headline": "Boeing narrows third-quarter loss as defense sales rise, but focus remains on 737 Max production",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html",
-      "published": "2026-10-27T13:42:26Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Fed expected to hold rates steady, but Warsh may point way to more hikes",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/27/federal-reserve-rates-kevin-warsh.html",
-      "published": "2026-10-27T13:37:51Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "other",
       "headline": "Why SoFi\u2019s stock is soaring after earnings",
       "image": "news-images/20e6f78fa02974151599558c.jpg",
@@ -139,6 +179,14 @@
     },
     {
       "category": "other",
+      "headline": "Here's What to Expect From the Busiest Week of Q4",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/heres-expect-busiest-week-q4-132300602.html?.tsrc=rss",
+      "published": "2026-10-27T13:23:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
       "headline": "What gave this city its \u2018best place to retire\u2019 crown? You can actually afford to live there.",
       "image": "news-images/b51c6d74e399f35940dccd08.jpg",
       "link": "https://www.marketwatch.com/story/what-gave-this-city-its-best-place-to-retire-crown-you-can-actually-afford-to-live-there-a06f8f4d?mod=mw_rss_topstories",
@@ -147,26 +195,10 @@
     },
     {
       "category": "other",
-      "headline": "My abusive ex-husband promised $20,000 for our kids\u2019 education. Now he refuses to pay. Is he legally obligated?",
-      "image": "news-images/3efb101cfeb57f72fcd94c54.jpg",
-      "link": "https://www.marketwatch.com/story/my-abusive-ex-husband-promised-20-000-for-our-kids-education-now-he-refuses-to-pay-is-he-legally-obligated-325ef50f?mod=mw_rss_topstories",
-      "published": "2026-10-27T13:15:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
       "headline": "Exchange-Traded Funds Higher, Equity Futures Mixed Pre-Bell Tuesday as Investors Assess Corporate Earnings",
       "image": null,
       "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-higher-equity-131350822.html?.tsrc=rss",
       "published": "2026-10-27T13:13:50Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "energy",
-      "headline": "Oil prices edge lower amid diplomatic efforts to de-escalate tensions between Saudis and Iran",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/27/oil-today-iran-us-crude-wti-brent-trump.html",
-      "published": "2026-10-27T13:04:54Z",
       "sentiment": "neutral"
     },
     {
@@ -194,6 +226,14 @@
       "sentiment": "neutral"
     },
     {
+      "category": "other",
+      "headline": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
+      "image": null,
+      "link": "https://www.cnbc.com/investingclub/2026/10/27/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
+      "published": "2026-10-27T12:51:16Z",
+      "sentiment": "neutral"
+    },
+    {
       "category": "energy",
       "headline": "Macro Matters Are Still Moving Markets. Stock Futures Rise on Lower Oil.",
       "image": null,
@@ -203,26 +243,10 @@
     },
     {
       "category": "other",
-      "headline": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
-      "image": "news-images/45f4c003ac21ae6d91c7720a.jpg",
-      "link": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
-      "published": "2026-10-27T12:30:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
       "headline": "US Equity Futures Edge Higher Pre-Bell as Traders Digest Corporate Earnings, Fed Kicks Off Policy Meeting",
       "image": null,
       "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-edge-higher-121039300.html?.tsrc=rss",
       "published": "2026-10-27T12:10:39Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Here\u2019s the question three tech-sector earnings reports raise about the future of AI",
-      "image": "news-images/4b46e19ed6e155a7baca3ffa.jpg",
-      "link": "https://www.marketwatch.com/story/heres-the-question-three-tech-sector-earnings-reports-raise-about-the-future-of-ai-5676248b?mod=mw_rss_topstories",
-      "published": "2026-10-27T11:51:00Z",
       "sentiment": "neutral"
     },
     {
@@ -239,22 +263,6 @@
       "image": null,
       "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-rise-pre-bell-traders-114538861.html?.tsrc=rss",
       "published": "2026-10-27T11:45:38Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "\u2018Just watch Judge Judy\u2019: I\u2019m in my 70s. Why do people keep making the same avoidable financial mistakes?",
-      "image": "news-images/6066687d4ba118eea7365363.jpg",
-      "link": "https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories",
-      "published": "2026-10-27T11:45:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Why Market Caution Could Quickly Turn to Panic",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/7c169617-0718-32e1-85b8-4f2af9477aba/why-market-caution-could.html?.tsrc=rss",
-      "published": "2026-10-27T11:34:36Z",
       "sentiment": "neutral"
     },
     {
@@ -312,26 +320,18 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=03c9e7dd-34aa-484b-84ba-6b1e47661b45&amp;mod=mw_rss_bulletins",
       "published": "2026-10-26T20:03:49Z",
       "sentiment": "bullish"
-    },
-    {
-      "category": "other",
-      "headline": "DoorDash, Instacart shares go in opposite directions on reported buyout talks",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=e2e5cdd8-d4e1-4612-a53b-0dc2c6c0032a&amp;mod=mw_rss_bulletins",
-      "published": "2026-10-26T19:54:55Z",
-      "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-10-27T14:08:50Z",
-  "source_item_count": 68,
+  "newest_item_published": "2026-10-27T15:11:32Z",
+  "source_item_count": 67,
   "sources": {
     "cnbc": {
-      "contributed": 10,
+      "contributed": 11,
       "error": null,
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-10-27T14:08:50Z",
+      "newest": "2026-10-27T15:11:32Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,23 +340,23 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-10-27T14:00:00Z",
+      "newest": "2026-10-27T15:03:00Z",
       "ok": true
     },
     "mw_bulletins": {
-      "contributed": 10,
+      "contributed": 9,
       "error": null,
       "fetched": 10,
       "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-10-27T13:46:54Z",
+      "newest": "2026-10-27T14:20:44Z",
       "ok": true
     },
     "yahoo_dji": {
       "contributed": 10,
       "error": null,
-      "fetched": 18,
-      "fresh": 17,
+      "fetched": 17,
+      "fresh": 16,
       "label": "Yahoo Finance",
       "newest": "2026-10-27T14:08:40Z",
       "ok": true
