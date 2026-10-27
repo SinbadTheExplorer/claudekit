@@ -1,12 +1,84 @@
 {
-  "generated_at": "2026-10-27T19:12:13Z",
+  "generated_at": "2026-10-27T20:12:07Z",
   "headlines": [
     {
       "category": "industrials",
-      "headline": "Boeing stock sinks 10% as company says it won't significantly ramp up 737 Max production until late 2027",
+      "headline": "Boeing says it won't significantly ramp up 737 Max production until late 2027",
       "image": null,
       "link": "https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html",
-      "published": "2026-10-27T19:10:24Z",
+      "published": "2026-10-27T20:11:44Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "energy",
+      "headline": "Sector Update: Energy Stocks Fall Tuesday",
+      "image": null,
+      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-fall-tuesday-200307946.html?.tsrc=rss",
+      "published": "2026-10-27T20:03:07Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "tech",
+      "headline": "Stocks Climbed Again, Buoyed by Chipmakers Ahead of the Fed's Policy Decision",
+      "image": null,
+      "link": "https://www.ibtimes.com/stocks-climbed-again-buoyed-chipmakers-ahead-feds-policy-decision-3809066?.tsrc=rss",
+      "published": "2026-10-27T20:02:38Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "Is that used EV worth the price? This checklist could save you thousands of dollars.",
+      "image": "news-images/23f5cac79c634bbbcc8b7f61.jpg",
+      "link": "https://www.marketwatch.com/story/is-that-used-ev-worth-the-price-this-checklist-could-save-you-thousands-of-dollars-2e1ab876?mod=mw_rss_topstories",
+      "published": "2026-10-27T20:00:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "AI debt fears ease ahead of Oracle, Alphabet and Amazon updates. Here's what to watch.",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/27/ai-debt-hyperscaler-earnings.html",
+      "published": "2026-10-27T19:57:35Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Oracle integrates ChatGPT, Codex into apps and expands cloud chip lineup",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/27/oracle-openai-chatgpt-codex-google-tpus.html",
+      "published": "2026-10-27T19:51:41Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Neil Young sues Trump committee for $10M for playing 'Rockin' in the Free World' at rally",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/27/neil-young-trump-lawsuit-song-copyright-free-world.html",
+      "published": "2026-10-27T19:49:18Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "tech",
+      "headline": "Update: Technology, Consumer Discretionary Push US Equity Indexes Higher",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/technology-consumer-discretionary-push-us-194437914.html?.tsrc=rss",
+      "published": "2026-10-27T19:44:37Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "energy",
+      "headline": "A hidden \u2018triple top\u2019 in oil price charts suggests the rally has run out of gas",
+      "image": "news-images/35d4718f8564798f2dc29251.jpg",
+      "link": "https://www.marketwatch.com/story/a-hidden-triple-top-in-oil-price-charts-suggests-the-rally-has-run-out-of-gas-3743d5a1?mod=mw_rss_topstories",
+      "published": "2026-10-27T19:24:00Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "industrials",
+      "headline": "Boeing shares slide on a disappointing cash flow update. Why this dip is buyable",
+      "image": null,
+      "link": "https://www.cnbc.com/investingclub/2026/10/27/boeing-shares-slide-on-a-disappointing-cash-flow-update-why-this-dip-is-buyable-.html",
+      "published": "2026-10-27T19:21:20Z",
       "sentiment": "neutral"
     },
     {
@@ -24,6 +96,14 @@
       "link": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
       "published": "2026-10-27T19:00:00Z",
       "sentiment": "neutral"
+    },
+    {
+      "category": "industrials",
+      "headline": "Boeing Shares Plunge on Slow 737 Max Production Ramp Plan",
+      "image": null,
+      "link": "https://www.investopedia.com/boeing-shares-plunge-on-slow-737-max-production-ramp-plan-12196780?.tsrc=rss",
+      "published": "2026-10-27T18:58:43Z",
+      "sentiment": "bearish"
     },
     {
       "category": "tech",
@@ -47,14 +127,6 @@
       "image": "news-images/3efb101cfeb57f72fcd94c54.jpg",
       "link": "https://www.marketwatch.com/story/my-abusive-ex-husband-promised-20-000-for-our-kids-education-now-he-refuses-to-pay-is-he-legally-obligated-325ef50f?mod=mw_rss_topstories",
       "published": "2026-10-27T18:45:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "What's behind the AI trade comeback \u2014 plus, our take on Intel's latest deal",
-      "image": null,
-      "link": "https://www.cnbc.com/investingclub/2026/10/27/the-ai-trade-comeback-plus-our-take-on-latest-intel-deal.html",
-      "published": "2026-10-27T18:35:40Z",
       "sentiment": "neutral"
     },
     {
@@ -154,14 +226,6 @@
       "sentiment": "bullish"
     },
     {
-      "category": "tech",
-      "headline": "Oracle integrates ChatGPT, Codex into apps and expands cloud chip lineup",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/27/oracle-openai-chatgpt-codex-google-tpus.html",
-      "published": "2026-10-27T17:36:46Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "energy",
       "headline": "Update: US Equity Indexes Rise as Mega-Cap Tech Advances While Crude Oil Drops",
       "image": null,
@@ -178,28 +242,12 @@
       "sentiment": "neutral"
     },
     {
-      "category": "tech",
-      "headline": "Tech firms gain on Anthropic IPO optimism; HSBC slumps in London",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tech-firms-track-wall-st-024224619.html?.tsrc=rss",
-      "published": "2026-10-27T16:53:20Z",
-      "sentiment": "bearish"
-    },
-    {
       "category": "other",
       "headline": "JetBlue has been losing money for years. It just charted a path to profitability.",
       "image": "news-images/3ddfb8b1a089b8576dfd12ab.jpg",
       "link": "https://www.marketwatch.com/story/jetblue-has-been-losing-money-for-years-it-just-charted-a-path-to-profitability-03be75c8?mod=mw_rss_topstories",
       "published": "2026-10-27T16:52:00Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Stock Market Midday, Oct. 27: Tech Stocks Drive Momentum and SoFi Surges 15%",
-      "image": null,
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/10/27/stock-market-midday-oct-27-tech-stocks-lead-as-nasdaq-climbs-on-market-momentum/?.tsrc=rss",
-      "published": "2026-10-27T16:40:38Z",
-      "sentiment": "bullish"
     },
     {
       "category": "other",
@@ -210,44 +258,12 @@
       "sentiment": "neutral"
     },
     {
-      "category": "other",
-      "headline": "Ripple strikes deal with Robinhood to expand its RLUSD digital dollar",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/27/ripple-strikes-deal-with-robinhood-to-expand-its-rlusd-digital-dollar.html",
-      "published": "2026-10-27T16:35:45Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "energy",
-      "headline": "Update: Big-Tech Pushes US Equity Indexes Higher Amid Declining Crude Oil",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/big-tech-pushes-us-equity-163047307.html?.tsrc=rss",
-      "published": "2026-10-27T16:30:47Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "tech",
       "headline": "Bond investors are starting to say \u2018anything but tech.\u2019 What that means for the AI boom.",
       "image": "news-images/14f1a2dabca8c49d11895aed.jpg",
       "link": "https://www.marketwatch.com/story/ai-debt-trouble-could-help-feds-warsh-get-his-way-with-fewer-rate-hikes-b3dc4525?mod=mw_rss_topstories",
       "published": "2026-10-27T16:24:00Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "World Bank's Banga: Availability of capital 'not really an issue' as AI demand drives up borrowing costs",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/27/world-bank-president-ajay-banga.html",
-      "published": "2026-10-27T16:15:35Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "industrials",
-      "headline": "Boeing Reports Mixed Q3 Results, Record Backlog; Stock Tumbles",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/c405c137-48c6-3a98-8a48-41ab3910e8a9/boeing-reports-mixed-q3.html?.tsrc=rss",
-      "published": "2026-10-27T15:46:44Z",
-      "sentiment": "bearish"
     },
     {
       "category": "other",
@@ -263,22 +279,6 @@
       "image": "news-images/26cd3273a53719b9131cffe1.jpg",
       "link": "https://www.marketwatch.com/story/u-s-economy-is-gathering-steam-this-is-the-chief-reason-why-9772978f?mod=mw_rss_topstories",
       "published": "2026-10-27T15:34:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who\u2019s to blame?",
-      "image": "news-images/2cf1fe333a00c3e0a871d35d.jpg",
-      "link": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
-      "published": "2026-10-27T15:30:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "McDonald\u2019s new bet on chicken hits a snag as franchisees say the birds are too big",
-      "image": "news-images/12c5d09ec0e87cc9fec5799d.jpg",
-      "link": "https://www.marketwatch.com/story/mcdonalds-new-bet-on-chicken-hits-a-snag-as-franchisees-say-the-birds-are-too-big-c3e8dd77?mod=mw_rss_topstories",
-      "published": "2026-10-27T15:27:00Z",
       "sentiment": "neutral"
     },
     {
@@ -322,7 +322,7 @@
       "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-10-27T19:10:24Z",
+  "newest_item_published": "2026-10-27T20:11:44Z",
   "source_item_count": 68,
   "sources": {
     "cnbc": {
@@ -331,7 +331,7 @@
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-10-27T19:10:24Z",
+      "newest": "2026-10-27T20:11:44Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,7 +340,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-10-27T19:00:00Z",
+      "newest": "2026-10-27T20:00:00Z",
       "ok": true
     },
     "mw_bulletins": {
@@ -356,9 +356,9 @@
       "contributed": 10,
       "error": null,
       "fetched": 18,
-      "fresh": 17,
+      "fresh": 18,
       "label": "Yahoo Finance",
-      "newest": "2026-10-27T18:35:18Z",
+      "newest": "2026-10-27T20:03:07Z",
       "ok": true
     }
   }
