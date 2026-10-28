@@ -1,6 +1,70 @@
 {
-  "generated_at": "2026-10-28T18:48:25Z",
+  "generated_at": "2026-10-28T19:12:07Z",
   "headlines": [
+    {
+      "category": "other",
+      "headline": "Oracle stock pops 13% as long-term revenue forecast and clarity on financing ease debt concerns",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/28/oracle-forecast-growth-2030.html",
+      "published": "2026-10-28T19:09:06Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Bond investor Jeff Gundlach talks to CNBC about Fed's rate pause, Warsh reducing vote-setting meetings",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/28/bond-investor-jeff-gundlach-talks-feds-rate-pause-with-cnbc.html",
+      "published": "2026-10-28T19:05:30Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Warsh says Fed will hold fewer interest-rate votes at 2027 and 2028 meetings",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=485f0b33-8b08-4c03-b50b-da7d68485f0a&amp;mod=mw_rss_bulletins",
+      "published": "2026-10-28T19:05:17Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Options traders break down a massive Alphabet trade into earnings",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/28/alphabet-microsoft-report-after-the-bell-what-options-trader-see.html",
+      "published": "2026-10-28T19:01:03Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Elon Musk says he can build a wireless carrier in two to three years. Is that possible?",
+      "image": "news-images/7145d0c6f18bd3461b00d9cd.jpg",
+      "link": "https://www.marketwatch.com/story/elon-musk-says-he-can-build-a-wireless-carrier-in-two-to-three-years-is-that-possible-5ccf9685?mod=mw_rss_topstories",
+      "published": "2026-10-28T18:58:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "The U.S. government will no longer penalize American companies for making six popular peptides",
+      "image": "news-images/34cccc2cff231d14d1e43402.jpg",
+      "link": "https://www.marketwatch.com/story/trump-administration-clears-the-way-for-production-of-peptides-like-bpc-157-and-tb-500-28ac2d11?mod=mw_rss_topstories",
+      "published": "2026-10-28T18:56:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "energy",
+      "headline": "Gen Z voters told us the midterms will boil down to affording life, not social issues",
+      "image": "news-images/20ce9a1b18093ad36b62e817.jpg",
+      "link": "https://www.marketwatch.com/story/gen-z-voters-told-us-the-midterms-will-boil-down-to-affording-life-not-social-issues-11bd1734?mod=mw_rss_topstories",
+      "published": "2026-10-28T18:56:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Stock Market Today: Nasdaq, Small Caps Down After Fed Keeps Rates Steady (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/8aa305ef-cc61-37d7-bc76-82a4a4324c5b/stock-market-today%3A-nasdaq%2C.html?.tsrc=rss",
+      "published": "2026-10-28T18:47:57Z",
+      "sentiment": "neutral"
+    },
     {
       "category": "tech",
       "headline": "Apple brings touch to the Mac, reversing years-old stance on touchscreen laptop",
@@ -42,6 +106,14 @@
       "sentiment": "neutral"
     },
     {
+      "category": "other",
+      "headline": "Peltola campaign aides, DSCC officials helped recruit second Dan Sullivan in Alaska race: NYT",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/28/mary-peltola-dan-sullivan-alaska-senate-campaign-recruitment.html",
+      "published": "2026-10-28T18:22:14Z",
+      "sentiment": "neutral"
+    },
+    {
       "category": "federal",
       "headline": "BREAKING: Fed Leaves Rates Unchanged As Expected, Amid Elevated Inflation",
       "image": null,
@@ -58,6 +130,14 @@
       "sentiment": "neutral"
     },
     {
+      "category": "other",
+      "headline": "Here is what changed in the new Fed statement",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/28/fed-statement-redline-october-2026.html",
+      "published": "2026-10-28T18:06:50Z",
+      "sentiment": "neutral"
+    },
+    {
       "category": "federal",
       "headline": "Fed leaves key interest rate unchanged; two dissenters favored rate hike \u2014 live",
       "image": null,
@@ -67,26 +147,10 @@
     },
     {
       "category": "other",
-      "headline": "Stock Market Today: Dow Holds Thin Gains; These Stocks Get Bashed On Earnings (Live Coverage)",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/8aa305ef-cc61-37d7-bc76-82a4a4324c5b/stock-market-today%3A-dow-holds.html?.tsrc=rss",
-      "published": "2026-10-28T18:01:49Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "other",
       "headline": "Looking for yield? This could be one of the best times in recent market history to buy corporate bonds",
       "image": null,
       "link": "https://www.cnbc.com/2026/10/28/buy-bonds-yields.html",
       "published": "2026-10-28T18:01:20Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Watch Live: Options traders break down a massive Alphabet trade into earnings",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/28/alphabet-microsoft-report-after-the-bell-what-options-trader-see.html",
-      "published": "2026-10-28T17:56:10Z",
       "sentiment": "neutral"
     },
     {
@@ -138,43 +202,11 @@
       "sentiment": "neutral"
     },
     {
-      "category": "other",
-      "headline": "A Democratic win in midterms could put prediction markets and the CFTC in the hot seat",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/28/democrats-prediction-markets-cftc-midterms.html",
-      "published": "2026-10-28T17:05:23Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "The U.S. government will no longer penalize American companies for making six popular peptides",
-      "image": "news-images/34cccc2cff231d14d1e43402.jpg",
-      "link": "https://www.marketwatch.com/story/trump-administration-clears-the-way-for-production-of-peptides-like-bpc-157-and-tb-500-28ac2d11?mod=mw_rss_topstories",
-      "published": "2026-10-28T16:57:00Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "healthcare",
       "headline": "Healthcare stocks are on their biggest hot streak in a generation. Think twice before chasing the rally.",
       "image": "news-images/668cd67f12ebec893c1f0947.jpg",
       "link": "https://www.marketwatch.com/story/healthcare-stocks-are-on-their-biggest-hot-streak-in-a-generation-think-twice-before-chasing-the-rally-a043adfe?mod=mw_rss_topstories",
       "published": "2026-10-28T16:49:00Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "tech",
-      "headline": "Alphabet set to report Q3 earnings after the bell as shaky AI trade looks for signs of strength",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html",
-      "published": "2026-10-28T16:33:22Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "consumer",
-      "headline": "America's largest budget airline reports 71% jump in airfare",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/28/frontier-airlines-airfare-plane-tickets.html",
-      "published": "2026-10-28T16:29:09Z",
       "sentiment": "bullish"
     },
     {
@@ -184,14 +216,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-ahead-162122570.html?.tsrc=rss",
       "published": "2026-10-28T16:21:22Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Israeli bonds, shekel fall as election leaves Netanyahu and others short of majorities",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/28/israel-election-netanyahu-trump-gaza-.html",
-      "published": "2026-10-28T16:14:29Z",
-      "sentiment": "bearish"
     },
     {
       "category": "other",
@@ -210,27 +234,11 @@
       "sentiment": "neutral"
     },
     {
-      "category": "tech",
-      "headline": "Microsoft earnings will land after the close",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
-      "published": "2026-10-28T16:00:01Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "realestate",
       "headline": "We\u2019re spending more than $11,000 a year of our own money caring for our aging parents and loved ones",
       "image": "news-images/8195fb58f2c906e74c6a1129.jpg",
       "link": "https://www.marketwatch.com/story/were-spending-more-than-11-000-a-year-of-our-own-money-caring-for-our-aging-parents-and-loved-ones-8fc5b2dc?mod=mw_rss_topstories",
       "published": "2026-10-28T15:36:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "My husband wants to sell our $1.5 million home and downsize. But this is where we raised our kids \u2014 and I can\u2019t bear to leave.",
-      "image": "news-images/e3b107a2b99653e096be12c7.jpg",
-      "link": "https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories",
-      "published": "2026-10-28T15:15:00Z",
       "sentiment": "neutral"
     },
     {
@@ -312,35 +320,27 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=42c88573-7386-4fe5-bc0d-a80b65ad9818&amp;mod=mw_rss_bulletins",
       "published": "2026-10-27T22:09:05Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "The rest of the market is leaving Big Tech behind after a historic comeback",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=beac1e8a-f144-469c-8df0-c5ad161e8201&amp;mod=mw_rss_bulletins",
-      "published": "2026-10-27T21:41:43Z",
-      "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-10-28T18:44:40Z",
+  "newest_item_published": "2026-10-28T19:09:06Z",
   "source_item_count": 69,
   "sources": {
     "cnbc": {
-      "contributed": 11,
+      "contributed": 10,
       "error": null,
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-10-28T18:44:40Z",
+      "newest": "2026-10-28T19:09:06Z",
       "ok": true
     },
     "marketwatch": {
-      "contributed": 9,
+      "contributed": 10,
       "error": null,
       "fetched": 10,
-      "fresh": 9,
+      "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-10-28T18:30:00Z",
+      "newest": "2026-10-28T18:58:00Z",
       "ok": true
     },
     "mw_bulletins": {
@@ -349,16 +349,16 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-10-28T18:35:03Z",
+      "newest": "2026-10-28T19:05:17Z",
       "ok": true
     },
     "yahoo_dji": {
       "contributed": 10,
       "error": null,
       "fetched": 19,
-      "fresh": 18,
+      "fresh": 17,
       "label": "Yahoo Finance",
-      "newest": "2026-10-28T18:14:16Z",
+      "newest": "2026-10-28T18:47:57Z",
       "ok": true
     }
   }
