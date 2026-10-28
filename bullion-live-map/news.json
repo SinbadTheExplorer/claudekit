@@ -1,12 +1,28 @@
 {
-  "generated_at": "2026-10-28T18:12:10Z",
+  "generated_at": "2026-10-28T18:48:25Z",
   "headlines": [
     {
-      "category": "federal",
-      "headline": "Fed holds rates steady despite concerns over inflation",
+      "category": "tech",
+      "headline": "Apple brings touch to the Mac, reversing years-old stance on touchscreen laptop",
       "image": null,
-      "link": "https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html",
-      "published": "2026-10-28T18:09:08Z",
+      "link": "https://www.cnbc.com/2026/10/28/apple-mac-touchscreen-launch.html",
+      "published": "2026-10-28T18:44:40Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Warsh speaks after Federal Reserve leaves interest rates unchanged \u2014 follow live",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=ebba8190-7912-4735-b467-fe05de94ad91&amp;mod=mw_rss_bulletins",
+      "published": "2026-10-28T18:35:03Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "We're adding a new, high-profile AI play to our Bullpen stocks to watch list",
+      "image": null,
+      "link": "https://www.cnbc.com/investingclub/2026/10/28/were-adding-a-new-high-profile-ai-stock-to-our-bullpen.html",
+      "published": "2026-10-28T18:33:53Z",
       "sentiment": "neutral"
     },
     {
@@ -14,7 +30,31 @@
       "headline": "Anthropic IPO filing warns some risks may be uninsurable. AI coverage will be issue for every company",
       "image": null,
       "link": "https://www.cnbc.com/2026/10/28/anthropic-ipo-ai-risks-insurance.html",
-      "published": "2026-10-28T18:07:11Z",
+      "published": "2026-10-28T18:32:45Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "consumer",
+      "headline": "I\u2019m planning a trip to Europe. Is it dumb to take travel advice from influencers?",
+      "image": "news-images/cc9e4fea5ab650d68cfdbbb3.jpg",
+      "link": "https://www.marketwatch.com/story/im-planning-a-trip-to-europe-is-it-dumb-to-take-travel-advice-from-influencers-f25ae756?mod=mw_rss_topstories",
+      "published": "2026-10-28T18:30:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "BREAKING: Fed Leaves Rates Unchanged As Expected, Amid Elevated Inflation",
+      "image": null,
+      "link": "https://stocktwits.com/news-articles/markets/equity/breaking-fed-leaves-rates-unchanged-as-expected-as-inflation-remains-elevated/cZU9FEfR9Gm?.tsrc=rss",
+      "published": "2026-10-28T18:14:16Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "energy",
+      "headline": "Sector Update: Energy Stocks Rise Wednesday Afternoon",
+      "image": null,
+      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-rise-wednesday-180837334.html?.tsrc=rss",
+      "published": "2026-10-28T18:08:37Z",
       "sentiment": "neutral"
     },
     {
@@ -50,14 +90,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "other",
-      "headline": "GE Vernova shares slip despite a beat-and-raise. What the sellers are getting wrong",
-      "image": null,
-      "link": "https://www.cnbc.com/investingclub/2026/10/28/ge-vernova-shares-slip-despite-a-beat-and-raise-what-the-sellers-are-getting-wrong.html",
-      "published": "2026-10-28T17:50:44Z",
-      "sentiment": "bullish"
-    },
-    {
       "category": "tech",
       "headline": "Vertiv earnings just sent an upbeat signal about AI ahead of Big Tech results",
       "image": "news-images/3e0ff858acb32b775694b352.jpg",
@@ -71,14 +103,6 @@
       "image": null,
       "link": "https://www.cnbc.com/2026/10/28/trump-tariffs-corruption-raskin.html",
       "published": "2026-10-28T17:39:43Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Apple brings touch to the Mac, reversing years-old stance on touchscreen laptop",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/28/apple-mac-touchscreen-launch.html",
-      "published": "2026-10-28T17:29:21Z",
       "sentiment": "neutral"
     },
     {
@@ -186,6 +210,14 @@
       "sentiment": "neutral"
     },
     {
+      "category": "tech",
+      "headline": "Microsoft earnings will land after the close",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
+      "published": "2026-10-28T16:00:01Z",
+      "sentiment": "neutral"
+    },
+    {
       "category": "realestate",
       "headline": "We\u2019re spending more than $11,000 a year of our own money caring for our aging parents and loved ones",
       "image": "news-images/8195fb58f2c906e74c6a1129.jpg",
@@ -198,14 +230,6 @@
       "headline": "My husband wants to sell our $1.5 million home and downsize. But this is where we raised our kids \u2014 and I can\u2019t bear to leave.",
       "image": "news-images/e3b107a2b99653e096be12c7.jpg",
       "link": "https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories",
-      "published": "2026-10-28T15:15:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "McDonald\u2019s new bet on chicken hits a snag as franchisees say the birds are too big",
-      "image": "news-images/12c5d09ec0e87cc9fec5799d.jpg",
-      "link": "https://www.marketwatch.com/story/mcdonalds-new-bet-on-chicken-hits-a-snag-as-franchisees-say-the-birds-are-too-big-c3e8dd77?mod=mw_rss_topstories",
       "published": "2026-10-28T15:15:00Z",
       "sentiment": "neutral"
     },
@@ -258,22 +282,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "tech",
-      "headline": "Update: US Equity Futures Slightly Higher Pre-Bell as Traders Await Fed Rate Decision, Big Tech Earnings",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-slightly-higher-125130614.html?.tsrc=rss",
-      "published": "2026-10-28T12:51:30Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Dow Jones Futures Fall, Techs Rise As SK Hynix Crushes Views; Fed, Microsoft, Google On Deck",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/7066a700-b33b-3fa1-858d-f75f49b920da/dow-jones-futures-fall%2C-techs.html?.tsrc=rss",
-      "published": "2026-10-28T12:12:27Z",
-      "sentiment": "bearish"
-    },
-    {
       "category": "other",
       "headline": "Economic calendar: Fed\u2019s interest-rate decision at 2 p.m.",
       "image": null,
@@ -312,17 +320,9 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=beac1e8a-f144-469c-8df0-c5ad161e8201&amp;mod=mw_rss_bulletins",
       "published": "2026-10-27T21:41:43Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "energy",
-      "headline": "This \u2018triple top\u2019 in oil price charts suggests the rally has run out of gas",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=8f015cd9-5a1d-4853-9540-80de45cf9b60&amp;mod=mw_rss_bulletins",
-      "published": "2026-10-27T21:15:09Z",
-      "sentiment": "bullish"
     }
   ],
-  "newest_item_published": "2026-10-28T18:09:08Z",
+  "newest_item_published": "2026-10-28T18:44:40Z",
   "source_item_count": 69,
   "sources": {
     "cnbc": {
@@ -331,7 +331,7 @@
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-10-28T18:09:08Z",
+      "newest": "2026-10-28T18:44:40Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,7 +340,7 @@
       "fetched": 10,
       "fresh": 9,
       "label": "MarketWatch",
-      "newest": "2026-10-28T17:44:00Z",
+      "newest": "2026-10-28T18:30:00Z",
       "ok": true
     },
     "mw_bulletins": {
@@ -349,7 +349,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-10-28T18:02:12Z",
+      "newest": "2026-10-28T18:35:03Z",
       "ok": true
     },
     "yahoo_dji": {
@@ -358,7 +358,7 @@
       "fetched": 19,
       "fresh": 18,
       "label": "Yahoo Finance",
-      "newest": "2026-10-28T18:01:49Z",
+      "newest": "2026-10-28T18:14:16Z",
       "ok": true
     }
   }
