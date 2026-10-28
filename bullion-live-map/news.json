@@ -1,20 +1,172 @@
 {
-  "generated_at": "2026-10-28T19:12:07Z",
+  "generated_at": "2026-10-28T20:12:05Z",
   "headlines": [
     {
-      "category": "other",
-      "headline": "Oracle stock pops 13% as long-term revenue forecast and clarity on financing ease debt concerns",
+      "category": "federal",
+      "headline": "Three media outlets seek full White House access in amended lawsuit",
       "image": null,
-      "link": "https://www.cnbc.com/2026/10/28/oracle-forecast-growth-2030.html",
-      "published": "2026-10-28T19:09:06Z",
+      "link": "https://www.cnbc.com/2026/10/28/trump-white-house-media-ban-cnn-msnow-politico.html",
+      "published": "2026-10-28T20:11:13Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Chipotle earnings miss estimates, but same-store sales increase for third straight quarter",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/28/chipotle-mexican-grill-cmg-q3-2026-earnings.html",
+      "published": "2026-10-28T20:11:00Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "tech",
+      "headline": "Microsoft stock jumps 5% as cloud growth drives earnings and revenue beat",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
+      "published": "2026-10-28T20:10:04Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "tech",
+      "headline": "Alphabet's free cash flow sinks further, Q3 capex expectations miss in worrying sign for AI trade",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html",
+      "published": "2026-10-28T20:09:47Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "The U.S. government will no longer penalize American companies for making six popular peptides",
+      "image": "news-images/34cccc2cff231d14d1e43402.jpg",
+      "link": "https://www.marketwatch.com/story/trump-administration-clears-the-way-for-production-of-peptides-like-bpc-157-and-tb-500-28ac2d11?mod=mw_rss_topstories",
+      "published": "2026-10-28T20:07:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Microsoft earnings just came out. These are the highlights.",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=8e20ceff-38ac-4195-868f-91ef90e12bfc&amp;mod=mw_rss_bulletins",
+      "published": "2026-10-28T20:06:35Z",
       "sentiment": "neutral"
     },
     {
       "category": "other",
-      "headline": "Bond investor Jeff Gundlach talks to CNBC about Fed's rate pause, Warsh reducing vote-setting meetings",
+      "headline": "Ford reports mixed third-quarter results, says 2027 earnings will be in line with this year",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/28/ford-motor-f-earnings-q3-2026.html",
+      "published": "2026-10-28T20:06:21Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "consumer",
+      "headline": "America's largest budget airline reports 71% jump in airfare",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/28/frontier-airlines-airfare-plane-tickets.html",
+      "published": "2026-10-28T20:06:19Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "federal",
+      "headline": "Dow, S&P 500 and Nasdaq all end higher after Fed leaves interest rates unchanged",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=6c46d637-fe28-4ad7-bcf6-701416d0fd39&amp;mod=mw_rss_bulletins",
+      "published": "2026-10-28T20:04:21Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Oracle stock pops 11% as long-term revenue forecast and clarity on financing ease debt concerns",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/28/oracle-forecast-growth-2030.html",
+      "published": "2026-10-28T20:00:44Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Stock Market Today: Dow, Nasdaq Rise As Fed Chief Looks To Productivity Gains (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/8aa305ef-cc61-37d7-bc76-82a4a4324c5b/stock-market-today%3A-dow%2C.html?.tsrc=rss",
+      "published": "2026-10-28T19:57:09Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "federal",
+      "headline": "Why did the Fed hold off on raising interest rates? Warsh says it\u2019s because an \u2018information rich\u2019 period is coming.",
+      "image": "news-images/181cc93500b21690f4272b35.jpg",
+      "link": "https://www.marketwatch.com/story/why-did-the-fed-hold-off-on-raising-interest-rates-warsh-says-its-because-an-information-rich-period-is-coming-098ced8d?mod=mw_rss_topstories",
+      "published": "2026-10-28T19:56:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Wendy\u2019s buyout offer suggests the burger chain\u2019s overhaul could be very expensive",
+      "image": "news-images/bb08de01cd39b7e5fc499527.jpg",
+      "link": "https://www.marketwatch.com/story/wendys-buyout-offer-suggests-the-burger-chains-overhaul-could-be-very-expensive-ff2c92bb?mod=mw_rss_topstories",
+      "published": "2026-10-28T19:54:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Bond investor Jeff Gundlach on Fed's rate pause: 'What are you waiting for?'",
       "image": null,
       "link": "https://www.cnbc.com/2026/10/28/bond-investor-jeff-gundlach-talks-feds-rate-pause-with-cnbc.html",
-      "published": "2026-10-28T19:05:30Z",
+      "published": "2026-10-28T19:53:50Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "energy",
+      "headline": "Sector Update: Energy Stocks Higher Late Afternoon",
+      "image": null,
+      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-higher-afternoon-195335539.html?.tsrc=rss",
+      "published": "2026-10-28T19:53:35Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Peltola campaign aides, DSCC officials helped recruit second Dan Sullivan in Alaska race: NYT",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/28/mary-peltola-dan-sullivan-alaska-senate-campaign-recruitment.html",
+      "published": "2026-10-28T19:52:06Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Fed holds rates steady despite concerns over inflation",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html",
+      "published": "2026-10-28T19:43:48Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Here\u2019s what just sent Oracle\u2019s stock soaring",
+      "image": "news-images/ddfe1a552e61afba51cd5a4c.jpg",
+      "link": "https://www.marketwatch.com/story/heres-what-just-sent-oracles-stock-soaring-7a1a91e2?mod=mw_rss_topstories",
+      "published": "2026-10-28T19:40:00Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "Update: US Equity Indexes Mixed as Investors Await Mag-7 Earnings While Fed Stays on Hold",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-investors-193914295.html?.tsrc=rss",
+      "published": "2026-10-28T19:39:14Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "energy",
+      "headline": "Sector Update: Energy",
+      "image": null,
+      "link": "https://finance.yahoo.com/energy/articles/sector-energy-193756902.html?.tsrc=rss",
+      "published": "2026-10-28T19:37:56Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Dow and S&P 500 off highs, Nasdaq lower in final hour as Fed holds rates steady",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=045dc586-e211-4dae-b38f-c179ad64ec13&amp;mod=mw_rss_bulletins",
+      "published": "2026-10-28T19:29:07Z",
       "sentiment": "neutral"
     },
     {
@@ -26,27 +178,11 @@
       "sentiment": "neutral"
     },
     {
-      "category": "tech",
-      "headline": "Options traders break down a massive Alphabet trade into earnings",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/28/alphabet-microsoft-report-after-the-bell-what-options-trader-see.html",
-      "published": "2026-10-28T19:01:03Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "other",
       "headline": "Elon Musk says he can build a wireless carrier in two to three years. Is that possible?",
       "image": "news-images/7145d0c6f18bd3461b00d9cd.jpg",
       "link": "https://www.marketwatch.com/story/elon-musk-says-he-can-build-a-wireless-carrier-in-two-to-three-years-is-that-possible-5ccf9685?mod=mw_rss_topstories",
       "published": "2026-10-28T18:58:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "The U.S. government will no longer penalize American companies for making six popular peptides",
-      "image": "news-images/34cccc2cff231d14d1e43402.jpg",
-      "link": "https://www.marketwatch.com/story/trump-administration-clears-the-way-for-production-of-peptides-like-bpc-157-and-tb-500-28ac2d11?mod=mw_rss_topstories",
-      "published": "2026-10-28T18:56:00Z",
       "sentiment": "neutral"
     },
     {
@@ -58,22 +194,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "other",
-      "headline": "Stock Market Today: Nasdaq, Small Caps Down After Fed Keeps Rates Steady (Live Coverage)",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/8aa305ef-cc61-37d7-bc76-82a4a4324c5b/stock-market-today%3A-nasdaq%2C.html?.tsrc=rss",
-      "published": "2026-10-28T18:47:57Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Apple brings touch to the Mac, reversing years-old stance on touchscreen laptop",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/28/apple-mac-touchscreen-launch.html",
-      "published": "2026-10-28T18:44:40Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "federal",
       "headline": "Warsh speaks after Federal Reserve leaves interest rates unchanged \u2014 follow live",
       "image": null,
@@ -82,35 +202,11 @@
       "sentiment": "neutral"
     },
     {
-      "category": "tech",
-      "headline": "We're adding a new, high-profile AI play to our Bullpen stocks to watch list",
-      "image": null,
-      "link": "https://www.cnbc.com/investingclub/2026/10/28/were-adding-a-new-high-profile-ai-stock-to-our-bullpen.html",
-      "published": "2026-10-28T18:33:53Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Anthropic IPO filing warns some risks may be uninsurable. AI coverage will be issue for every company",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/28/anthropic-ipo-ai-risks-insurance.html",
-      "published": "2026-10-28T18:32:45Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "consumer",
       "headline": "I\u2019m planning a trip to Europe. Is it dumb to take travel advice from influencers?",
       "image": "news-images/cc9e4fea5ab650d68cfdbbb3.jpg",
       "link": "https://www.marketwatch.com/story/im-planning-a-trip-to-europe-is-it-dumb-to-take-travel-advice-from-influencers-f25ae756?mod=mw_rss_topstories",
       "published": "2026-10-28T18:30:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Peltola campaign aides, DSCC officials helped recruit second Dan Sullivan in Alaska race: NYT",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/28/mary-peltola-dan-sullivan-alaska-senate-campaign-recruitment.html",
-      "published": "2026-10-28T18:22:14Z",
       "sentiment": "neutral"
     },
     {
@@ -130,11 +226,11 @@
       "sentiment": "neutral"
     },
     {
-      "category": "other",
-      "headline": "Here is what changed in the new Fed statement",
+      "category": "federal",
+      "headline": "Stocks Barely Budge After Fed Holds Interest Rates Steady",
       "image": null,
-      "link": "https://www.cnbc.com/2026/10/28/fed-statement-redline-october-2026.html",
-      "published": "2026-10-28T18:06:50Z",
+      "link": "https://finance.yahoo.com/m/d9c43e3e-f314-39d8-b7f6-2a83668830df/stocks-barely-budge-after-fed.html?.tsrc=rss",
+      "published": "2026-10-28T18:03:28Z",
       "sentiment": "neutral"
     },
     {
@@ -146,28 +242,12 @@
       "sentiment": "neutral"
     },
     {
-      "category": "other",
-      "headline": "Looking for yield? This could be one of the best times in recent market history to buy corporate bonds",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/28/buy-bonds-yields.html",
-      "published": "2026-10-28T18:01:20Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "tech",
       "headline": "Vertiv earnings just sent an upbeat signal about AI ahead of Big Tech results",
       "image": "news-images/3e0ff858acb32b775694b352.jpg",
       "link": "https://www.marketwatch.com/story/vertiv-earnings-just-sent-an-upbeat-signal-about-ai-ahead-of-big-tech-results-5714a105?mod=mw_rss_topstories",
       "published": "2026-10-28T17:44:00Z",
       "sentiment": "bullish"
-    },
-    {
-      "category": "federal",
-      "headline": "Trump is using tariffs as a 'tool for grift,' Raskin says in demand for donor records",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/28/trump-tariffs-corruption-raskin.html",
-      "published": "2026-10-28T17:39:43Z",
-      "sentiment": "neutral"
     },
     {
       "category": "other",
@@ -183,14 +263,6 @@
       "image": null,
       "link": "https://finance.yahoo.com/markets/stocks/articles/equities-rise-intraday-fed-decision-172549767.html?.tsrc=rss",
       "published": "2026-10-28T17:25:49Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Wendy\u2019s buyout offer suggests the burger chain\u2019s overhaul could be very expensive",
-      "image": "news-images/bb08de01cd39b7e5fc499527.jpg",
-      "link": "https://www.marketwatch.com/story/wendys-buyout-offer-suggests-the-burger-chains-overhaul-could-be-very-expensive-ff2c92bb?mod=mw_rss_topstories",
-      "published": "2026-10-28T17:24:00Z",
       "sentiment": "neutral"
     },
     {
@@ -227,50 +299,10 @@
     },
     {
       "category": "other",
-      "headline": "Micron\u2019s stock rises after SK Hynix earnings. Here\u2019s its next major test.",
-      "image": "news-images/20536e88e49ff0a7c173cd28.jpg",
-      "link": "https://www.marketwatch.com/story/microns-stock-rises-after-sk-hynix-earnings-heres-its-next-major-test-99853d0e?mod=mw_rss_topstories",
-      "published": "2026-10-28T16:03:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "realestate",
-      "headline": "We\u2019re spending more than $11,000 a year of our own money caring for our aging parents and loved ones",
-      "image": "news-images/8195fb58f2c906e74c6a1129.jpg",
-      "link": "https://www.marketwatch.com/story/were-spending-more-than-11-000-a-year-of-our-own-money-caring-for-our-aging-parents-and-loved-ones-8fc5b2dc?mod=mw_rss_topstories",
-      "published": "2026-10-28T15:36:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Wall Street Takes a Deep Breath Ahead of Fed, Big Tech Earnings Wave",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/68f99bef-2287-3cb9-8d35-8a0b6ee4a128/wall-street-takes-a-deep.html?.tsrc=rss",
-      "published": "2026-10-28T14:57:48Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
       "headline": "Here's Bill Ackman's rule for picking winning stocks",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=967a3645-6f88-4900-b2e6-fcb903c77023&amp;mod=mw_rss_bulletins",
       "published": "2026-10-28T14:22:44Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "All Eyes on Fed's FOMC Meeting Outcome",
-      "image": null,
-      "link": "https://finance.yahoo.com/economy/policy/articles/eyes-feds-fomc-meeting-outcome-141100927.html?.tsrc=rss",
-      "published": "2026-10-28T14:11:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Big Day for Econ Data, Hyperscaler Earnings",
-      "image": null,
-      "link": "https://finance.yahoo.com/economy/articles/big-day-econ-data-hyperscaler-133800217.html?.tsrc=rss",
-      "published": "2026-10-28T13:38:00Z",
       "sentiment": "neutral"
     },
     {
@@ -283,46 +315,14 @@
     },
     {
       "category": "other",
-      "headline": "Exchange-Traded Funds Higher, Equity Futures Mixed Pre-Bell Wednesday Ahead of US Fed Rate Announcement",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-higher-equity-125522610.html?.tsrc=rss",
-      "published": "2026-10-28T12:55:22Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
       "headline": "Economic calendar: Fed\u2019s interest-rate decision at 2 p.m.",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=72755b1b-d542-43ae-9162-5f92f6e46b66&amp;mod=mw_rss_bulletins",
       "published": "2026-10-28T11:19:13Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "How to use I-bonds to create guaranteed, inflation-proof income in retirement",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=a1b2395e-215f-4251-9c1d-84daff850c91&amp;mod=mw_rss_bulletins",
-      "published": "2026-10-28T00:08:47Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Retail traders buy the dip on chip stocks, but Robinhood gets burned by crypto",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=3fdfdb9c-6627-40dc-86b0-31266b9c4cb6&amp;mod=mw_rss_bulletins",
-      "published": "2026-10-27T23:07:15Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Is that used EV worth the price? This checklist could save you thousands.",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=42c88573-7386-4fe5-bc0d-a80b65ad9818&amp;mod=mw_rss_bulletins",
-      "published": "2026-10-27T22:09:05Z",
-      "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-10-28T19:09:06Z",
+  "newest_item_published": "2026-10-28T20:11:13Z",
   "source_item_count": 69,
   "sources": {
     "cnbc": {
@@ -331,7 +331,7 @@
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-10-28T19:09:06Z",
+      "newest": "2026-10-28T20:11:13Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,7 +340,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-10-28T18:58:00Z",
+      "newest": "2026-10-28T20:07:00Z",
       "ok": true
     },
     "mw_bulletins": {
@@ -349,7 +349,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-10-28T19:05:17Z",
+      "newest": "2026-10-28T20:06:35Z",
       "ok": true
     },
     "yahoo_dji": {
@@ -358,7 +358,7 @@
       "fetched": 19,
       "fresh": 17,
       "label": "Yahoo Finance",
-      "newest": "2026-10-28T18:47:57Z",
+      "newest": "2026-10-28T19:57:09Z",
       "ok": true
     }
   }
