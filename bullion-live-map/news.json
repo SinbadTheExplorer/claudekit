@@ -1,13 +1,133 @@
 {
-  "generated_at": "2026-10-28T14:12:07Z",
+  "generated_at": "2026-10-28T15:12:06Z",
   "headlines": [
+    {
+      "category": "consumer",
+      "headline": "FEC campaign finance system offline days before midterms after hackers reportedly target site",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/28/fec-hack-outage-campaign-finance-filings.html",
+      "published": "2026-10-28T15:09:38Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "At least 68 people dead in high-speed Spain train crash",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/28/spain-high-speed-train-crash.html",
+      "published": "2026-10-28T15:07:29Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "tech",
+      "headline": "These software stocks could be winners as earnings season kicks into high gear",
+      "image": "news-images/d1510cf0fef79547cdea1101.jpg",
+      "link": "https://www.marketwatch.com/story/these-software-stocks-could-be-winners-as-earnings-season-kicks-into-high-gear-8decddf7?mod=mw_rss_topstories",
+      "published": "2026-10-28T15:06:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "energy",
+      "headline": "Heating your home with oil could cost $750 more this winter. Read this before you pay the price.",
+      "image": "news-images/e7fdc7f48d19945fac450092.jpg",
+      "link": "https://www.marketwatch.com/story/heating-your-home-with-oil-could-cost-750-more-this-winter-read-this-before-you-pay-the-price-e39f0d52?mod=mw_rss_topstories",
+      "published": "2026-10-28T15:03:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Vertiv earnings just sent an upbeat signal about AI ahead of Big Tech results",
+      "image": "news-images/3e0ff858acb32b775694b352.jpg",
+      "link": "https://www.marketwatch.com/story/vertiv-earnings-just-sent-an-upbeat-signal-about-ai-ahead-of-big-tech-results-5714a105?mod=mw_rss_topstories",
+      "published": "2026-10-28T15:01:00Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "energy",
+      "headline": "The UK cuts energy bills, taxes banks and boosts defense in high-stakes budget",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/28/uk-autumn-budget-cost-living-defense-ai.html",
+      "published": "2026-10-28T14:55:13Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "crypto",
+      "headline": "Robinhood shares fall as crypto slump weighs on profits, offsetting gains in new businesses",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/27/robinhood-hood-q3-2026-earnings.html",
+      "published": "2026-10-28T14:50:02Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
+      "image": "news-images/45f4c003ac21ae6d91c7720a.jpg",
+      "link": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
+      "published": "2026-10-28T14:45:00Z",
+      "sentiment": "neutral"
+    },
     {
       "category": "other",
       "headline": "Wendy's shares jump 15% as Nelson Peltz's Trian offers $1.4 billion to buy burger chain",
       "image": null,
       "link": "https://www.cnbc.com/2026/10/28/nelson-peltz-trian-wendys-1point4-billion.html",
-      "published": "2026-10-28T14:10:57Z",
+      "published": "2026-10-28T14:35:51Z",
       "sentiment": "bullish"
+    },
+    {
+      "category": "realestate",
+      "headline": "DraftKings CEO Jason Robins says parents should talk with kids about responsible gambling",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/28/draftkings-ceo-jason-robins-parents-kids-should-talk-about-gambling.html",
+      "published": "2026-10-28T14:35:25Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "consumer",
+      "headline": "UK brings forward defense spending target, pledging billions to Ukraine",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/28/uk-defense-spending-ukraine-aid.html",
+      "published": "2026-10-28T14:29:24Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Stock Market Today: Dow Edges Up As SK Hynix, Micron Lead Tech Stocks (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/8aa305ef-cc61-37d7-bc76-82a4a4324c5b/stock-market-today%3A-dow-edges.html?.tsrc=rss",
+      "published": "2026-10-28T14:23:43Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Here's Bill Ackman's rule for picking winning stocks",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=967a3645-6f88-4900-b2e6-fcb903c77023&amp;mod=mw_rss_bulletins",
+      "published": "2026-10-28T14:22:44Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Anthropic IPO filing warns some risks may be uninsurable. AI coverage will be issue for every company",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/28/anthropic-ipo-ai-risks-insurance.html",
+      "published": "2026-10-28T14:20:29Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "\u2018Just watch Judge Judy\u2019: I\u2019m in my 70s. Why do people keep making the same avoidable financial mistakes?",
+      "image": "news-images/6066687d4ba118eea7365363.jpg",
+      "link": "https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories",
+      "published": "2026-10-28T14:16:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who\u2019s to blame?",
+      "image": "news-images/2cf1fe333a00c3e0a871d35d.jpg",
+      "link": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
+      "published": "2026-10-28T14:15:00Z",
+      "sentiment": "neutral"
     },
     {
       "category": "other",
@@ -18,36 +138,12 @@
       "sentiment": "neutral"
     },
     {
-      "category": "realestate",
-      "headline": "DraftKings CEO Jason Robins says parents should talk with kids about responsible gambling",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/28/draftkings-ceo-jason-robins-parents-kids-should-talk-about-gambling.html",
-      "published": "2026-10-28T14:08:52Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "SK Hynix shares jump 11% after record quarterly profit, outperforming broader market",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html",
-      "published": "2026-10-28T14:05:55Z",
-      "sentiment": "bullish"
-    },
-    {
       "category": "other",
       "headline": "Bearista cups are returning at Starbucks. Can the viral sensation boost holiday sales again?",
       "image": null,
       "link": "https://www.cnbc.com/investingclub/2026/10/28/bearista-cups-are-back-at-starbucks-can-they-boost-holiday-sales-again.html",
       "published": "2026-10-28T14:04:13Z",
       "sentiment": "bullish"
-    },
-    {
-      "category": "tech",
-      "headline": "Anthropic warns some risks may be uninsurable. AI coverage is going to be an issue for every company",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/28/anthropic-ipo-ai-risks-insurance.html",
-      "published": "2026-10-28T13:58:52Z",
-      "sentiment": "neutral"
     },
     {
       "category": "other",
@@ -74,20 +170,20 @@
       "sentiment": "bullish"
     },
     {
-      "category": "industrials",
-      "headline": "Stellantis stock rises 12% as automaker's turnaround plan, cost cuts gain traction",
+      "category": "other",
+      "headline": "Big Day for Econ Data, Hyperscaler Earnings",
       "image": null,
-      "link": "https://www.cnbc.com/2026/10/28/stellantis-45-billion-cash-drain-turnaround.html",
-      "published": "2026-10-28T13:48:05Z",
-      "sentiment": "bullish"
+      "link": "https://finance.yahoo.com/economy/articles/big-day-econ-data-hyperscaler-133800217.html?.tsrc=rss",
+      "published": "2026-10-28T13:38:00Z",
+      "sentiment": "neutral"
     },
     {
-      "category": "other",
-      "headline": "Stock Market Today: Dow Wavers Ahead Of Rate Decision, Warsh Comments; Robinhood Drops (Live Coverage)",
+      "category": "tech",
+      "headline": "Wall Street Takes a Deep Breath Ahead of Fed, Big Tech Earnings Wave",
       "image": null,
-      "link": "https://finance.yahoo.com/m/8aa305ef-cc61-37d7-bc76-82a4a4324c5b/stock-market-today%3A-dow.html?.tsrc=rss",
-      "published": "2026-10-28T13:44:50Z",
-      "sentiment": "bearish"
+      "link": "https://finance.yahoo.com/m/68f99bef-2287-3cb9-8d35-8a0b6ee4a128/wall-street-takes-a-deep.html?.tsrc=rss",
+      "published": "2026-10-28T13:33:26Z",
+      "sentiment": "neutral"
     },
     {
       "category": "other",
@@ -106,30 +202,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "consumer",
-      "headline": "FEC campaign finance system offline days before midterms after hackers reportedly target site",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/28/fec-hack-outage-campaign-finance-filings.html",
-      "published": "2026-10-28T13:20:54Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "international",
-      "headline": "Why China is desperate to ship cars outside of the country",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/28/china-car-exports.html",
-      "published": "2026-10-28T13:17:20Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "The 'Magnificent Seven' is no more. Time to pick winners and losers as group's correlation breaks down",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/28/magnificent-seven-stocks-correlation-breakdown.html",
-      "published": "2026-10-28T13:09:08Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "other",
       "headline": "Exchange-Traded Funds Higher, Equity Futures Mixed Pre-Bell Wednesday Ahead of US Fed Rate Announcement",
       "image": null,
@@ -143,46 +215,6 @@
       "image": null,
       "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-slightly-higher-125130614.html?.tsrc=rss",
       "published": "2026-10-28T12:51:30Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Vertiv earnings just sent an upbeat signal about AI ahead of Big Tech results",
-      "image": "news-images/3e0ff858acb32b775694b352.jpg",
-      "link": "https://www.marketwatch.com/story/vertiv-earnings-just-sent-an-upbeat-signal-about-ai-ahead-of-big-tech-results-5714a105?mod=mw_rss_topstories",
-      "published": "2026-10-28T12:48:00Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "realestate",
-      "headline": "We are in our 70s. Should we pay off our 2.5% mortgage early or build up our savings?",
-      "image": "news-images/cced7b4f7a02b064a3937891.jpg",
-      "link": "https://www.marketwatch.com/story/we-are-in-our-70s-should-we-pay-off-our-2-5-mortgage-or-build-up-our-savings-5a35e9c1?mod=mw_rss_topstories",
-      "published": "2026-10-28T12:45:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "SK Hynix delivered on third-quarter results \u2014 but the outlook is what really mattered to Wall Street and the AI trade",
-      "image": "news-images/6d72c883bea3ce121180e466.jpg",
-      "link": "https://www.marketwatch.com/story/sk-hynix-delivered-on-third-quarter-results-but-the-outlook-is-what-really-mattered-to-wall-street-and-the-ai-trade-2fde9a57?mod=mw_rss_topstories",
-      "published": "2026-10-28T12:34:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
-      "image": "news-images/45f4c003ac21ae6d91c7720a.jpg",
-      "link": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
-      "published": "2026-10-28T12:30:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "My abusive ex-husband promised $20,000 for our kids\u2019 education. Now he refuses to pay. Is he legally obligated?",
-      "image": "news-images/3efb101cfeb57f72fcd94c54.jpg",
-      "link": "https://www.marketwatch.com/story/my-abusive-ex-husband-promised-20-000-for-our-kids-education-now-he-refuses-to-pay-is-he-legally-obligated-325ef50f?mod=mw_rss_topstories",
-      "published": "2026-10-28T12:30:00Z",
       "sentiment": "neutral"
     },
     {
@@ -226,35 +258,11 @@
       "sentiment": "bearish"
     },
     {
-      "category": "tech",
-      "headline": "The AI boom is starting to break time-tested stock-market signals",
-      "image": "news-images/b0cb25d2cacbad14b71ed0bf.jpg",
-      "link": "https://www.marketwatch.com/story/the-ai-boom-is-starting-to-break-time-tested-stock-market-signals-b172d67e?mod=mw_rss_topstories",
-      "published": "2026-10-28T11:25:00Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "other",
       "headline": "Economic calendar: Fed\u2019s interest-rate decision at 2 p.m.",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=72755b1b-d542-43ae-9162-5f92f6e46b66&amp;mod=mw_rss_bulletins",
       "published": "2026-10-28T11:19:13Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Fed Outlook, Tech Strength Undergird Wall Street Pre-Bell",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/articles/fed-outlook-tech-strength-undergird-110524772.html?.tsrc=rss",
-      "published": "2026-10-28T11:05:24Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "US Stock Futures Mixed Ahead of Alphabet, Microsoft Earnings and Federal Reserve Rate Decision: Dow Jones, S&P, Nasdaq, Wall Street",
-      "image": null,
-      "link": "https://investorshub.advfn.com/market-news/article/38744/us-stock-futures-mixed-ahead-of-alphabet-microsoft-earnings-and-federal-reserve-rate-decision-dow-jones-sp-nasdaq-wall-street?.tsrc=rss",
-      "published": "2026-10-28T10:49:43Z",
       "sentiment": "neutral"
     },
     {
@@ -312,18 +320,10 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=1c98c7a0-22d9-43a6-98c6-f3a89da1dd9d&amp;mod=mw_rss_bulletins",
       "published": "2026-10-27T18:02:50Z",
       "sentiment": "bearish"
-    },
-    {
-      "category": "other",
-      "headline": "When will Anthropic go public? Here\u2019s what to know about the IPO timeline.",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=bb255eba-c59a-4f27-8f03-a334626a3576&amp;mod=mw_rss_bulletins",
-      "published": "2026-10-27T17:15:07Z",
-      "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-10-28T14:10:57Z",
-  "source_item_count": 70,
+  "newest_item_published": "2026-10-28T15:09:38Z",
+  "source_item_count": 69,
   "sources": {
     "cnbc": {
       "contributed": 11,
@@ -331,7 +331,7 @@
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-10-28T14:10:57Z",
+      "newest": "2026-10-28T15:09:38Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,7 +340,7 @@
       "fetched": 10,
       "fresh": 9,
       "label": "MarketWatch",
-      "newest": "2026-10-28T14:10:00Z",
+      "newest": "2026-10-28T15:06:00Z",
       "ok": true
     },
     "mw_bulletins": {
@@ -349,16 +349,16 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-10-28T13:31:08Z",
+      "newest": "2026-10-28T14:22:44Z",
       "ok": true
     },
     "yahoo_dji": {
       "contributed": 10,
       "error": null,
-      "fetched": 20,
-      "fresh": 19,
+      "fetched": 19,
+      "fresh": 18,
       "label": "Yahoo Finance",
-      "newest": "2026-10-28T13:44:50Z",
+      "newest": "2026-10-28T14:23:43Z",
       "ok": true
     }
   }
