@@ -1,29 +1,197 @@
 {
-  "generated_at": "2026-10-28T21:12:08Z",
+  "generated_at": "2026-10-28T23:08:20Z",
   "headlines": [
+    {
+      "category": "tech",
+      "headline": "Dow Jones Futures: Microsoft Rises Late, But Google, ServiceNow, Fortinet Dive On Earnings",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/6c0b166b-19af-3d40-b6ff-7c6d65d3c4da/dow-jones-futures%3A-microsoft.html?.tsrc=rss",
+      "published": "2026-10-28T23:02:21Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "ServiceNow\u2019s stock slides as earnings miss overshadows a raised AI outlook",
+      "image": "news-images/b41a79c27d8efb1d57b31734.jpg",
+      "link": "https://www.marketwatch.com/story/servicenows-stock-slides-as-earnings-miss-clouds-a-raised-ai-outlook-96e48385?mod=mw_rss_topstories",
+      "published": "2026-10-28T23:02:00Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "federal",
+      "headline": "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-living adjustment.",
+      "image": "news-images/bdcdbe4cbc756ea644b08a4d.jpg",
+      "link": "https://www.marketwatch.com/story/is-it-curtains-for-cola-saving-social-security-could-mean-changing-the-cost-of-living-adjustment-867c6bd8?mod=mw_rss_topstories",
+      "published": "2026-10-28T22:41:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Hands-on with Apple's first touchscreen laptop: Touch is totally optional",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/28/apple-touchscreen-macbook-pro-hands-on.html",
+      "published": "2026-10-28T22:38:41Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
+      "published": "2026-10-28T22:34:56Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "FedEx beats expectations, raises outlook in first report since calendar adjustment",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/28/fedex-fdx-sept-2026-earnings.html",
+      "published": "2026-10-28T22:27:00Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "tech",
+      "headline": "Chipotle now has more demand from lower-income diners than higher-income ones",
+      "image": "news-images/9b0c5c363c8c13140c9c397c.jpg",
+      "link": "https://www.marketwatch.com/story/chipotle-expects-modestly-higher-sales-this-year-as-drive-thru-chipotlanes-come-to-more-stores-4f255bbc?mod=mw_rss_topstories",
+      "published": "2026-10-28T22:25:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Chipotle shares rise 7% after CEO says same-store sales growth will continue",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/28/chipotle-mexican-grill-cmg-q3-2026-earnings.html",
+      "published": "2026-10-28T22:12:28Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Lumentum\u2019s stock pops as investors cheer a possible sale to Marvell",
+      "image": "news-images/9b7034cd64ec3a020ce83114.jpg",
+      "link": "https://www.marketwatch.com/story/lumentums-stock-pops-as-investors-cheer-a-possible-sale-to-marvell-07c1d0e8?mod=mw_rss_topstories",
+      "published": "2026-10-28T22:08:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Alphabet sinks 10% as it holds 2026 capex unchanged, expects significant increase in 2027",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html",
+      "published": "2026-10-28T22:07:17Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Apple brings touch to the Mac, reversing years-old stance on touchscreen laptop",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/28/apple-mac-touchscreen-launch.html",
+      "published": "2026-10-28T22:04:19Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Stock Market Today, Oct. 28: Markets Edge Higher as Fed Holds Rates Steady",
+      "image": null,
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/10/28/stock-market-today-oct-28-markets-edge-higher-as-fed-holds-rates-steady/?.tsrc=rss",
+      "published": "2026-10-28T22:03:17Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who\u2019s to blame?",
+      "image": "news-images/2cf1fe333a00c3e0a871d35d.jpg",
+      "link": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
+      "published": "2026-10-28T22:00:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Nvidia's $12.9 billion Hugging Face deal draws DOJ scrutiny",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/28/doj-questions-nvidias-12point9-billion-hugging-face-deal.html",
+      "published": "2026-10-28T21:58:51Z",
+      "sentiment": "neutral"
+    },
     {
       "category": "other",
       "headline": "DoorDash's deal to buy Instacart coming as early as Thursday morning, sources tell CNBC",
       "image": null,
       "link": "https://www.cnbc.com/2026/10/28/doordash-instacart-maplebear.html",
-      "published": "2026-10-28T21:10:53Z",
+      "published": "2026-10-28T21:47:47Z",
       "sentiment": "neutral"
     },
     {
-      "category": "tech",
-      "headline": "Alphabet sinks 9% as it holds 2026 capex unchanged, expects significant increase in 2027",
+      "category": "other",
+      "headline": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
+      "image": "news-images/45f4c003ac21ae6d91c7720a.jpg",
+      "link": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
+      "published": "2026-10-28T21:45:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Ford reports mixed third-quarter results, says 2027 earnings will be in line with this year",
       "image": null,
-      "link": "https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html",
-      "published": "2026-10-28T21:10:35Z",
+      "link": "https://www.cnbc.com/2026/10/28/ford-motor-f-earnings-q3-2026.html",
+      "published": "2026-10-28T21:42:24Z",
       "sentiment": "neutral"
     },
     {
-      "category": "tech",
-      "headline": "ServiceNow\u2019s stock slides as earnings miss clouds a raised AI outlook",
-      "image": "news-images/b41a79c27d8efb1d57b31734.jpg",
-      "link": "https://www.marketwatch.com/story/servicenows-stock-slides-as-earnings-miss-clouds-a-raised-ai-outlook-96e48385?mod=mw_rss_topstories",
-      "published": "2026-10-28T21:07:00Z",
-      "sentiment": "bearish"
+      "category": "other",
+      "headline": "Here are five key takeaways from the Fed rate decision and Warsh news conference",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/28/fed-rate-decision-warsh-takeaways.html",
+      "published": "2026-10-28T21:31:46Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "realestate",
+      "headline": "We\u2019re in our 70s. Should we pay off our 2.5% mortgage \u2014 or put the money in a high-yield savings account?",
+      "image": "news-images/cced7b4f7a02b064a3937891.jpg",
+      "link": "https://www.marketwatch.com/story/we-are-in-our-70s-should-we-pay-off-our-2-5-mortgage-or-build-up-our-savings-5a35e9c1?mod=mw_rss_topstories",
+      "published": "2026-10-28T21:30:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Why did the Fed hold off on raising interest rates? Warsh says it\u2019s because an \u2018information-rich\u2019 period is coming.",
+      "image": "news-images/181cc93500b21690f4272b35.jpg",
+      "link": "https://www.marketwatch.com/story/why-did-the-fed-hold-off-on-raising-interest-rates-warsh-says-its-because-an-information-rich-period-is-coming-098ced8d?mod=mw_rss_topstories",
+      "published": "2026-10-28T21:27:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Lennar (LEN) Stock Drops Despite Market Gains: Important Facts to Note",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lennar-len-stock-drops-despite-211502257.html?.tsrc=rss",
+      "published": "2026-10-28T21:15:02Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "CSLM Acquisition Corp. (SPWR) Stock Sinks As Market Gains: What You Should Know",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/cslm-acquisition-corp-spwr-stock-211501752.html?.tsrc=rss",
+      "published": "2026-10-28T21:15:01Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "Dynatrace (DT) Stock Sinks As Market Gains: What You Should Know",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dynatrace-dt-stock-sinks-market-211501718.html?.tsrc=rss",
+      "published": "2026-10-28T21:15:01Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "Update: S&P 500, Nasdaq Rise For Third Day Following Fed Pause",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-rise-third-210857584.html?.tsrc=rss",
+      "published": "2026-10-28T21:08:57Z",
+      "sentiment": "neutral"
     },
     {
       "category": "other",
@@ -34,19 +202,27 @@
       "sentiment": "bullish"
     },
     {
-      "category": "tech",
-      "headline": "Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat",
+      "category": "federal",
+      "headline": "Update: US Equity Indexes Rise, Treasury Yields Fall After Fed Stays on Hold",
       "image": null,
-      "link": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
-      "published": "2026-10-28T21:04:46Z",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-rise-treasury-210352134.html?.tsrc=rss",
+      "published": "2026-10-28T21:03:52Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "Southern Co. (SO) Stock Sinks As Market Gains: What You Should Know",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/southern-co-stock-sinks-market-210002595.html?.tsrc=rss",
+      "published": "2026-10-28T21:00:02Z",
       "sentiment": "bullish"
     },
     {
       "category": "other",
-      "headline": "Ford reports mixed third-quarter results, says 2027 earnings will be in line with this year",
+      "headline": "Trip.com (TCOM) Stock Slides as Market Rises: Facts to Know Before You Trade",
       "image": null,
-      "link": "https://www.cnbc.com/2026/10/28/ford-motor-f-earnings-q3-2026.html",
-      "published": "2026-10-28T21:01:16Z",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/trip-com-tcom-stock-slides-210002222.html?.tsrc=rss",
+      "published": "2026-10-28T21:00:02Z",
       "sentiment": "neutral"
     },
     {
@@ -67,22 +243,6 @@
     },
     {
       "category": "tech",
-      "headline": "Chipotle expects modestly higher sales this year as drive-thru \u2018Chipotlanes\u2019 come to more stores",
-      "image": "news-images/9b0c5c363c8c13140c9c397c.jpg",
-      "link": "https://www.marketwatch.com/story/chipotle-expects-modestly-higher-sales-this-year-as-drive-thru-chipotlanes-come-to-more-stores-4f255bbc?mod=mw_rss_topstories",
-      "published": "2026-10-28T20:58:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Dow Jones Futures: Microsoft Rises Late, But Google, ServiceNow And Fortinet Dive On Earnings",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/6c0b166b-19af-3d40-b6ff-7c6d65d3c4da/dow-jones-futures%3A-microsoft.html?.tsrc=rss",
-      "published": "2026-10-28T20:52:30Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
       "headline": "Vertiv earnings just sent an upbeat signal about AI ahead of Big Tech results",
       "image": "news-images/3e0ff858acb32b775694b352.jpg",
       "link": "https://www.marketwatch.com/story/vertiv-earnings-just-sent-an-upbeat-signal-about-ai-ahead-of-big-tech-results-5714a105?mod=mw_rss_topstories",
@@ -98,76 +258,12 @@
       "sentiment": "neutral"
     },
     {
-      "category": "other",
-      "headline": "Here\u2019s what just sent Oracle\u2019s stock soaring",
-      "image": "news-images/ddfe1a552e61afba51cd5a4c.jpg",
-      "link": "https://www.marketwatch.com/story/heres-what-just-sent-oracles-stock-soaring-7a1a91e2?mod=mw_rss_topstories",
-      "published": "2026-10-28T20:38:00Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "other",
-      "headline": "FedEx beats expectations, raises outlook in first report since calendar adjustment",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/28/fedex-fdx-sept-2026-earnings.html",
-      "published": "2026-10-28T20:35:33Z",
-      "sentiment": "bullish"
-    },
-    {
       "category": "tech",
-      "headline": "Apple brings touch to the Mac, reversing years-old stance on touchscreen laptop",
+      "headline": "ServiceNow\u2019s stock slides as earnings miss clouds a raised AI outlook",
       "image": null,
-      "link": "https://www.cnbc.com/2026/10/28/apple-mac-touchscreen-launch.html",
-      "published": "2026-10-28T20:26:06Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "industrials",
-      "headline": "Stellantis stock rises 13% as automaker's turnaround plan, cost cuts gain traction",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/28/stellantis-45-billion-cash-drain-turnaround.html",
-      "published": "2026-10-28T20:23:48Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "tech",
-      "headline": "Nvidia's $12.9 billion Hugging Face deal draws DOJ scrutiny",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/28/doj-questions-nvidias-12point9-billion-hugging-face-deal.html",
-      "published": "2026-10-28T20:23:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Three media outlets seek full White House access in amended lawsuit",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/28/trump-white-house-media-ban-cnn-msnow-politico.html",
-      "published": "2026-10-28T20:21:03Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "How major US stock indexes fared Wednesday 10/28/2026",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/major-us-stock-indexes-fared-202041732.html?.tsrc=rss",
-      "published": "2026-10-28T20:20:41Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Caregivers are now spending more than $11,000 a year out of pocket\u2014up 60% in five years",
-      "image": "news-images/8195fb58f2c906e74c6a1129.jpg",
-      "link": "https://www.marketwatch.com/story/were-spending-more-than-11-000-a-year-of-our-own-money-caring-for-our-aging-parents-and-loved-ones-8fc5b2dc?mod=mw_rss_topstories",
-      "published": "2026-10-28T20:18:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "energy",
-      "headline": "U.S. oil-refinery stocks are up roughly 150% this year. How long could this historic run last?",
-      "image": "news-images/f5746ab9a0a8133bd8d103aa.jpg",
-      "link": "https://www.marketwatch.com/story/u-s-oil-refinery-stocks-are-up-roughly-150-this-year-how-long-could-this-historic-run-last-f01c590f?mod=mw_rss_topstories",
-      "published": "2026-10-28T20:16:00Z",
-      "sentiment": "neutral"
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=eff801cf-52c9-4fe3-b362-c29b7694fe14&amp;mod=mw_rss_bulletins",
+      "published": "2026-10-28T20:37:38Z",
+      "sentiment": "bearish"
     },
     {
       "category": "tech",
@@ -175,22 +271,6 @@
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=3a16c667-ca58-4d9a-8999-6625d5a85ed5&amp;mod=mw_rss_bulletins",
       "published": "2026-10-28T20:14:33Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "financials",
-      "headline": "The cost of money itself is on the ballot as voters struggle with pricey car loans, mortgages and credit-card debt",
-      "image": "news-images/c43804f8094e7dce473300b1.jpg",
-      "link": "https://www.marketwatch.com/story/the-cost-of-money-itself-is-on-the-ballot-as-voters-struggle-with-pricey-car-loans-mortgages-and-credit-card-debt-c2cd83a0?mod=mw_rss_topstories",
-      "published": "2026-10-28T20:11:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "The U.S. government will no longer penalize American companies for making six popular peptides",
-      "image": "news-images/34cccc2cff231d14d1e43402.jpg",
-      "link": "https://www.marketwatch.com/story/trump-administration-clears-the-way-for-production-of-peptides-like-bpc-157-and-tb-500-28ac2d11?mod=mw_rss_topstories",
-      "published": "2026-10-28T20:07:00Z",
       "sentiment": "neutral"
     },
     {
@@ -202,51 +282,11 @@
       "sentiment": "neutral"
     },
     {
-      "category": "other",
-      "headline": "The Fed Kept Rates Unchanged. Stocks Edged Up.",
-      "image": null,
-      "link": "https://finance.yahoo.com/economy/policy/articles/fed-kept-rates-unchanged-stocks-200527233.html?.tsrc=rss",
-      "published": "2026-10-28T20:05:27Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "federal",
       "headline": "Dow, S&P 500 and Nasdaq all end higher after Fed leaves interest rates unchanged",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=6c46d637-fe28-4ad7-bcf6-701416d0fd39&amp;mod=mw_rss_bulletins",
       "published": "2026-10-28T20:04:21Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Why did the Fed hold off on raising interest rates? Warsh says it\u2019s because an \u2018information rich\u2019 period is coming.",
-      "image": "news-images/181cc93500b21690f4272b35.jpg",
-      "link": "https://www.marketwatch.com/story/why-did-the-fed-hold-off-on-raising-interest-rates-warsh-says-its-because-an-information-rich-period-is-coming-098ced8d?mod=mw_rss_topstories",
-      "published": "2026-10-28T19:56:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "energy",
-      "headline": "Sector Update: Energy Stocks Higher Late Afternoon",
-      "image": null,
-      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-higher-afternoon-195335539.html?.tsrc=rss",
-      "published": "2026-10-28T19:53:35Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Update: US Equity Indexes Mixed as Investors Await Mag-7 Earnings While Fed Stays on Hold",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-investors-193914295.html?.tsrc=rss",
-      "published": "2026-10-28T19:39:14Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "energy",
-      "headline": "Sector Update: Energy",
-      "image": null,
-      "link": "https://finance.yahoo.com/energy/articles/sector-energy-193756902.html?.tsrc=rss",
-      "published": "2026-10-28T19:37:56Z",
       "sentiment": "neutral"
     },
     {
@@ -275,63 +315,23 @@
     },
     {
       "category": "federal",
-      "headline": "BREAKING: Fed Leaves Rates Unchanged As Expected, Amid Elevated Inflation",
-      "image": null,
-      "link": "https://stocktwits.com/news-articles/markets/equity/breaking-fed-leaves-rates-unchanged-as-expected-as-inflation-remains-elevated/cZU9FEfR9Gm?.tsrc=rss",
-      "published": "2026-10-28T18:14:16Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "energy",
-      "headline": "Sector Update: Energy Stocks Rise Wednesday Afternoon",
-      "image": null,
-      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-rise-wednesday-180837334.html?.tsrc=rss",
-      "published": "2026-10-28T18:08:37Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Stocks Barely Budge After Fed Holds Interest Rates Steady",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/d9c43e3e-f314-39d8-b7f6-2a83668830df/stocks-barely-budge-after-fed.html?.tsrc=rss",
-      "published": "2026-10-28T18:03:28Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
       "headline": "Fed leaves key interest rate unchanged; two dissenters favored rate hike \u2014 live",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=be23232f-34fd-476a-9482-96a701ef4502&amp;mod=mw_rss_bulletins",
       "published": "2026-10-28T18:02:12Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Fed decision less than an hour away, as inflation keeps pressure on Warsh \u2014 live",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=064dcddb-64ed-45eb-a995-3cd5b25d2fc9&amp;mod=mw_rss_bulletins",
-      "published": "2026-10-28T17:08:14Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Here's Bill Ackman's rule for picking winning stocks",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=967a3645-6f88-4900-b2e6-fcb903c77023&amp;mod=mw_rss_bulletins",
-      "published": "2026-10-28T14:22:44Z",
-      "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-10-28T21:10:53Z",
+  "newest_item_published": "2026-10-28T23:02:21Z",
   "source_item_count": 68,
   "sources": {
     "cnbc": {
-      "contributed": 11,
+      "contributed": 12,
       "error": null,
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-10-28T21:10:53Z",
+      "newest": "2026-10-28T22:38:41Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,25 +340,25 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-10-28T21:07:00Z",
+      "newest": "2026-10-28T23:02:00Z",
       "ok": true
     },
     "mw_bulletins": {
-      "contributed": 9,
+      "contributed": 8,
       "error": null,
       "fetched": 10,
-      "fresh": 10,
+      "fresh": 9,
       "label": "MW Bulletins",
-      "newest": "2026-10-28T20:37:38Z",
+      "newest": "2026-10-28T22:12:23Z",
       "ok": true
     },
     "yahoo_dji": {
       "contributed": 10,
       "error": null,
       "fetched": 18,
-      "fresh": 17,
+      "fresh": 18,
       "label": "Yahoo Finance",
-      "newest": "2026-10-28T20:59:51Z",
+      "newest": "2026-10-28T23:02:21Z",
       "ok": true
     }
   }
