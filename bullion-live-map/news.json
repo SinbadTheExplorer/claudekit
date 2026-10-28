@@ -1,12 +1,108 @@
 {
-  "generated_at": "2026-10-28T17:12:06Z",
+  "generated_at": "2026-10-28T18:12:10Z",
   "headlines": [
+    {
+      "category": "federal",
+      "headline": "Fed holds rates steady despite concerns over inflation",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html",
+      "published": "2026-10-28T18:09:08Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Anthropic IPO filing warns some risks may be uninsurable. AI coverage will be issue for every company",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/28/anthropic-ipo-ai-risks-insurance.html",
+      "published": "2026-10-28T18:07:11Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Fed leaves key interest rate unchanged; two dissenters favored rate hike \u2014 live",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=be23232f-34fd-476a-9482-96a701ef4502&amp;mod=mw_rss_bulletins",
+      "published": "2026-10-28T18:02:12Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Stock Market Today: Dow Holds Thin Gains; These Stocks Get Bashed On Earnings (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/8aa305ef-cc61-37d7-bc76-82a4a4324c5b/stock-market-today%3A-dow-holds.html?.tsrc=rss",
+      "published": "2026-10-28T18:01:49Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "Looking for yield? This could be one of the best times in recent market history to buy corporate bonds",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/28/buy-bonds-yields.html",
+      "published": "2026-10-28T18:01:20Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Watch Live: Options traders break down a massive Alphabet trade into earnings",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/28/alphabet-microsoft-report-after-the-bell-what-options-trader-see.html",
+      "published": "2026-10-28T17:56:10Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "GE Vernova shares slip despite a beat-and-raise. What the sellers are getting wrong",
+      "image": null,
+      "link": "https://www.cnbc.com/investingclub/2026/10/28/ge-vernova-shares-slip-despite-a-beat-and-raise-what-the-sellers-are-getting-wrong.html",
+      "published": "2026-10-28T17:50:44Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "tech",
+      "headline": "Vertiv earnings just sent an upbeat signal about AI ahead of Big Tech results",
+      "image": "news-images/3e0ff858acb32b775694b352.jpg",
+      "link": "https://www.marketwatch.com/story/vertiv-earnings-just-sent-an-upbeat-signal-about-ai-ahead-of-big-tech-results-5714a105?mod=mw_rss_topstories",
+      "published": "2026-10-28T17:44:00Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "federal",
+      "headline": "Trump is using tariffs as a 'tool for grift,' Raskin says in demand for donor records",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/28/trump-tariffs-corruption-raskin.html",
+      "published": "2026-10-28T17:39:43Z",
+      "sentiment": "neutral"
+    },
     {
       "category": "tech",
       "headline": "Apple brings touch to the Mac, reversing years-old stance on touchscreen laptop",
       "image": null,
       "link": "https://www.cnbc.com/2026/10/28/apple-mac-touchscreen-launch.html",
-      "published": "2026-10-28T17:09:27Z",
+      "published": "2026-10-28T17:29:21Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Update: US Equity Indexes Gain Moderately Ahead of Fed Policy Moves, Mag-7 Earnings",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-gain-moderately-172624747.html?.tsrc=rss",
+      "published": "2026-10-28T17:26:24Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "Update: Equities Rise Intraday as Fed Decision Looms",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/equities-rise-intraday-fed-decision-172549767.html?.tsrc=rss",
+      "published": "2026-10-28T17:25:49Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Wendy\u2019s buyout offer suggests the burger chain\u2019s overhaul could be very expensive",
+      "image": "news-images/bb08de01cd39b7e5fc499527.jpg",
+      "link": "https://www.marketwatch.com/story/wendys-buyout-offer-suggests-the-burger-chains-overhaul-could-be-very-expensive-ff2c92bb?mod=mw_rss_topstories",
+      "published": "2026-10-28T17:24:00Z",
       "sentiment": "neutral"
     },
     {
@@ -50,14 +146,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "tech",
-      "headline": "Stock Market Today: Dow Creeps Up Meekly But Alphabet, SK Hynix Jam Amid Low Rate-Hike Odds (Live Coverage)",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/8aa305ef-cc61-37d7-bc76-82a4a4324c5b/stock-market-today%3A-dow.html?.tsrc=rss",
-      "published": "2026-10-28T16:31:05Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "consumer",
       "headline": "America's largest budget airline reports 71% jump in airfare",
       "image": null,
@@ -71,14 +159,6 @@
       "image": null,
       "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-ahead-162122570.html?.tsrc=rss",
       "published": "2026-10-28T16:21:22Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Looking for yield? This could be one of the best times in recent market history to buy corporate bonds",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/28/buy-bonds-yields.html",
-      "published": "2026-10-28T16:19:29Z",
       "sentiment": "neutral"
     },
     {
@@ -98,51 +178,11 @@
       "sentiment": "neutral"
     },
     {
-      "category": "federal",
-      "headline": "Trump is using tariffs as a 'tool for grift,' Raskin says in demand for donor records",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/28/trump-tariffs-corruption-raskin.html",
-      "published": "2026-10-28T16:07:17Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "other",
       "headline": "Micron\u2019s stock rises after SK Hynix earnings. Here\u2019s its next major test.",
       "image": "news-images/20536e88e49ff0a7c173cd28.jpg",
       "link": "https://www.marketwatch.com/story/microns-stock-rises-after-sk-hynix-earnings-heres-its-next-major-test-99853d0e?mod=mw_rss_topstories",
       "published": "2026-10-28T16:03:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Microsoft earnings will land after the close",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
-      "published": "2026-10-28T16:00:01Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "financials",
-      "headline": "Ford Motor is set to report earnings after the bell. Here's what Wall Street expects",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/28/ford-motor-f-earnings-q3-2026.html",
-      "published": "2026-10-28T16:00:01Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Jim Cramer sees buying opportunities in these 2 beaten-down stocks",
-      "image": null,
-      "link": "https://www.cnbc.com/investingclub/2026/10/28/jim-cramer-sees-buying-opportunities-in-these-2-beaten-down-stocks.html",
-      "published": "2026-10-28T15:56:23Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "consumer",
-      "headline": "UK brings forward defense spending target, pledging billions to Ukraine",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/28/uk-defense-spending-ukraine-aid.html",
-      "published": "2026-10-28T15:53:19Z",
       "sentiment": "neutral"
     },
     {
@@ -167,22 +207,6 @@
       "image": "news-images/12c5d09ec0e87cc9fec5799d.jpg",
       "link": "https://www.marketwatch.com/story/mcdonalds-new-bet-on-chicken-hits-a-snag-as-franchisees-say-the-birds-are-too-big-c3e8dd77?mod=mw_rss_topstories",
       "published": "2026-10-28T15:15:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "These software stocks could be winners as earnings season kicks into high gear",
-      "image": "news-images/d1510cf0fef79547cdea1101.jpg",
-      "link": "https://www.marketwatch.com/story/these-software-stocks-could-be-winners-as-earnings-season-kicks-into-high-gear-8decddf7?mod=mw_rss_topstories",
-      "published": "2026-10-28T15:06:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "energy",
-      "headline": "Heating your home with oil could cost $750 more this winter. Read this before you pay the price.",
-      "image": "news-images/e7fdc7f48d19945fac450092.jpg",
-      "link": "https://www.marketwatch.com/story/heating-your-home-with-oil-could-cost-750-more-this-winter-read-this-before-you-pay-the-price-e39f0d52?mod=mw_rss_topstories",
-      "published": "2026-10-28T15:03:00Z",
       "sentiment": "neutral"
     },
     {
@@ -250,22 +274,6 @@
       "sentiment": "bearish"
     },
     {
-      "category": "tech",
-      "headline": "US Equity Futures Mixed Pre-Bell as Traders Await Fed Rate Decision, Big Tech Earnings",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-mixed-pre-120617696.html?.tsrc=rss",
-      "published": "2026-10-28T12:06:17Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Stocks Mostly Up Pre-Bell Ahead of Fed Policy Decision, Key Tech Earnings",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-mostly-pre-bell-ahead-113500013.html?.tsrc=rss",
-      "published": "2026-10-28T11:35:00Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "other",
       "headline": "Economic calendar: Fed\u2019s interest-rate decision at 2 p.m.",
       "image": null,
@@ -312,17 +320,9 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=8f015cd9-5a1d-4853-9540-80de45cf9b60&amp;mod=mw_rss_bulletins",
       "published": "2026-10-27T21:15:09Z",
       "sentiment": "bullish"
-    },
-    {
-      "category": "tech",
-      "headline": "Nasdaq up sharply in final hour as chip stocks bounce; Dow pulls back from highs",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=0e556d7b-6022-4f4c-ab8a-a2739350ea77&amp;mod=mw_rss_bulletins",
-      "published": "2026-10-27T19:02:30Z",
-      "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-10-28T17:09:27Z",
+  "newest_item_published": "2026-10-28T18:09:08Z",
   "source_item_count": 69,
   "sources": {
     "cnbc": {
@@ -331,7 +331,7 @@
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-10-28T17:09:27Z",
+      "newest": "2026-10-28T18:09:08Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,7 +340,7 @@
       "fetched": 10,
       "fresh": 9,
       "label": "MarketWatch",
-      "newest": "2026-10-28T16:57:00Z",
+      "newest": "2026-10-28T17:44:00Z",
       "ok": true
     },
     "mw_bulletins": {
@@ -349,7 +349,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-10-28T17:08:14Z",
+      "newest": "2026-10-28T18:02:12Z",
       "ok": true
     },
     "yahoo_dji": {
@@ -358,7 +358,7 @@
       "fetched": 19,
       "fresh": 18,
       "label": "Yahoo Finance",
-      "newest": "2026-10-28T16:31:05Z",
+      "newest": "2026-10-28T18:01:49Z",
       "ok": true
     }
   }
