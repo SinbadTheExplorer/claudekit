@@ -1,6 +1,62 @@
 {
-  "generated_at": "2026-10-29T18:12:08Z",
+  "generated_at": "2026-10-29T18:56:08Z",
   "headlines": [
+    {
+      "category": "tech",
+      "headline": "Why Alphabet\u2019s stock is on track for its worst day ever after the latest results",
+      "image": "news-images/bd9b7d3aa613adce50c7c380.jpg",
+      "link": "https://www.marketwatch.com/story/why-alphabets-stock-could-see-its-worst-drop-in-years-after-the-latest-results-6b64cf98?mod=mw_rss_topstories",
+      "published": "2026-10-29T18:50:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "It\u2019s the strangest job market the U.S. has ever seen. The low-hire, low-fire economy turns 3 years old.",
+      "image": "news-images/b8cf14bdc670552bbcebf56f.jpg",
+      "link": "https://www.marketwatch.com/story/its-the-strangest-job-market-the-u-s-has-ever-seen-the-low-hire-low-fire-economy-turns-3-years-old-ce8d0dfe?mod=mw_rss_topstories",
+      "published": "2026-10-29T18:42:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Alaska Gov. orders probe of Peltola Senate campaign's alleged recruitment of 2nd Sullivan",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/29/alaska-senate-governor-investigation-sullivan-peltola-doj.html",
+      "published": "2026-10-29T18:32:08Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Our church has a $1.5 million bequest earning 3.75% in a bank account. Is inflation eroding it?",
+      "image": "news-images/30e10603b698f03a2a405e54.jpg",
+      "link": "https://www.marketwatch.com/story/there-may-be-better-investment-options-my-church-received-1-5-million-from-a-parishioner-is-3-75-interest-enough-5164d790?mod=mw_rss_topstories",
+      "published": "2026-10-29T18:30:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "\u2018Fancy cars hold no appeal\u2019: We have a 99% chance of outliving our life savings. Why not spend, spend, spend?",
+      "image": "news-images/3703e9b7b6704210419dd704.jpg",
+      "link": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
+      "published": "2026-10-29T18:16:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "energy",
+      "headline": "Sector Update: Energy Stocks Mixed in Afternoon Trading",
+      "image": null,
+      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-mixed-afternoon-181353108.html?.tsrc=rss",
+      "published": "2026-10-29T18:13:53Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "energy",
+      "headline": "Big Oil earnings are set to surge. Why investors may want to be cautious",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/29/big-oil-earnings-are-set-to-surge-why-investors-may-want-to-be-cautious.html",
+      "published": "2026-10-29T18:13:32Z",
+      "sentiment": "bullish"
+    },
     {
       "category": "federal",
       "headline": "Was the Fed's October rate pause a mistake? The Treasury could provide cover.",
@@ -66,14 +122,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "other",
-      "headline": "Alaska Senate election: Governor orders probe of alleged effort to recruit second Dan Sullivan",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/29/alaska-senate-governor-investigation-sullivan-peltola-doj.html",
-      "published": "2026-10-29T17:31:15Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "tech",
       "headline": "Update: Equities Fall Intraday Amid Post-Earnings Sell-Offs in Alphabet, Caterpillar",
       "image": null,
@@ -107,7 +155,7 @@
     },
     {
       "category": "other",
-      "headline": "All the reasons Marvell investors are \u2019freaking out\u2019 as Lumentum deal rumors swirl",
+      "headline": "All the reasons Marvell investors are \u2018freaking out\u2019 as Lumentum deal rumors swirl",
       "image": "news-images/eb407b227cd265ba21b40552.jpg",
       "link": "https://www.marketwatch.com/story/marvell-is-reportedly-close-to-buying-lumentum-analysts-say-they-see-logic-in-a-potential-deal-d7539c59?mod=mw_rss_topstories",
       "published": "2026-10-29T17:08:00Z",
@@ -123,7 +171,7 @@
     },
     {
       "category": "consumer",
-      "headline": "Get ready for the \u2018Year of Starlink\u2019 as airlines battle over superfast WiFi",
+      "headline": "Get ready for the \u2018Year of Starlink\u2019 as airlines battle over superfast wifi",
       "image": "news-images/e76263682763ad63330a55c5.jpg",
       "link": "https://www.marketwatch.com/story/get-ready-for-the-year-of-starlink-as-airlines-battle-over-superfast-wifi-6bce32c1?mod=mw_rss_topstories",
       "published": "2026-10-29T16:49:00Z",
@@ -144,14 +192,6 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=2dba7acd-cf7f-4ed7-a98a-6abd8a08785a&amp;mod=mw_rss_bulletins",
       "published": "2026-10-29T16:36:27Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Alphabet falls 12%, putting it on course for its biggest ever post-earnings drop",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/29/alphabet-google-microsoft-msft-shares-today-earnings.html",
-      "published": "2026-10-29T16:35:25Z",
-      "sentiment": "bearish"
     },
     {
       "category": "other",
@@ -179,27 +219,11 @@
     },
     {
       "category": "federal",
-      "headline": "Our church has a $1.5 million bequest earning 3.75% in a bank account. Is inflation eroding it?",
-      "image": "news-images/30e10603b698f03a2a405e54.jpg",
-      "link": "https://www.marketwatch.com/story/there-may-be-better-investment-options-my-church-received-1-5-million-from-a-parishioner-is-3-75-interest-enough-5164d790?mod=mw_rss_topstories",
-      "published": "2026-10-29T16:00:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
       "headline": "September's Inflation Was in Line With Expectations. Odds of a Rate Hike Dropped But Remain High.",
       "image": null,
       "link": "https://www.ibtimes.com/septembers-inflation-was-line-expectations-odds-rate-hike-dropped-remain-high-3809143?.tsrc=rss",
       "published": "2026-10-29T15:58:53Z",
       "sentiment": "bearish"
-    },
-    {
-      "category": "other",
-      "headline": "Looking for income? These dividend stocks have high yields that seem well supported.",
-      "image": "news-images/bbf3f4db80ed192dde9e5531.jpg",
-      "link": "https://www.marketwatch.com/story/looking-for-income-these-dividend-stocks-have-high-yields-that-seem-well-supported-81093bdf?mod=mw_rss_topstories",
-      "published": "2026-10-29T15:54:00Z",
-      "sentiment": "neutral"
     },
     {
       "category": "tech",
@@ -208,22 +232,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-drop-alphabet-155027121.html?.tsrc=rss",
       "published": "2026-10-29T15:50:27Z",
       "sentiment": "bearish"
-    },
-    {
-      "category": "other",
-      "headline": "\u2018Fancy cars hold no appeal\u2019: We have a 99% chance of outliving our life savings. Why not spend, spend, spend?",
-      "image": "news-images/3703e9b7b6704210419dd704.jpg",
-      "link": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
-      "published": "2026-10-29T15:45:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Florida is voting on whether to slash property taxes. Here\u2019s who it would benefit \u2014 and hurt.",
-      "image": "news-images/d3a37ba6c66f635ba9d4c612.jpg",
-      "link": "https://www.marketwatch.com/story/florida-is-voting-on-whether-to-slash-property-taxes-heres-who-it-would-benefit-and-hurt-6c34b470?mod=mw_rss_topstories",
-      "published": "2026-10-29T15:39:00Z",
-      "sentiment": "neutral"
     },
     {
       "category": "other",
@@ -282,14 +290,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "tech",
-      "headline": "Exchange-Traded Funds Lower, Equity Futures Mixed Pre-Bell Thursday Amid Disappointing Alphabet Results",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-lower-equity-131506126.html?.tsrc=rss",
-      "published": "2026-10-29T13:15:06Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "other",
       "headline": "Lilly raises outlook for third time this year as Zepbound sales soar",
       "image": null,
@@ -322,7 +322,7 @@
       "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-10-29T18:08:39Z",
+  "newest_item_published": "2026-10-29T18:50:00Z",
   "source_item_count": 70,
   "sources": {
     "cnbc": {
@@ -331,7 +331,7 @@
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-10-29T18:06:31Z",
+      "newest": "2026-10-29T18:32:08Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,7 +340,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-10-29T17:59:00Z",
+      "newest": "2026-10-29T18:50:00Z",
       "ok": true
     },
     "mw_bulletins": {
@@ -358,7 +358,7 @@
       "fetched": 20,
       "fresh": 19,
       "label": "Yahoo Finance",
-      "newest": "2026-10-29T17:44:14Z",
+      "newest": "2026-10-29T18:13:53Z",
       "ok": true
     }
   }
