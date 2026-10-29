@@ -127,3 +127,15 @@ Every link MUST have:
 - End complex topics with a TLDR
 - Back stats with sources (FRED, BLS, Fed, BIS, WGC, IIF, WTO)
 - Be critical — flag flawed categorizations before mistakes are made
+
+---
+
+## Time Estimates & Deadlines Rule
+
+Claude (an LLM agent) does the building, so estimate time at agent speed, not human speed.
+
+- **Work Claude executes** (writing code, adding nodes, drafting docs, research summaries, building features): estimate in **minutes or hours**, never days/weeks/months. Example: "add 10 nodes" = ~30–60 min, not "1 week".
+- **Work that needs the user** (studying, reviewing output, testing by hand, approvals, making decisions): estimate at human speed and label it as the user's time.
+- **Work tied to the outside world** (CPA/CFA exam windows, internship application cycles, market hours, waiting on emails, API/data availability): use real calendar time. These can't be compressed.
+- When a plan mixes these, split the estimate: "Claude: ~2 hrs · You: ~3 evenings to review/learn · External: Deloitte apps open in X."
+- Flag the real bottleneck. It is usually the user's review/learning time, not the build time.
