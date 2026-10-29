@@ -1,12 +1,124 @@
 {
-  "generated_at": "2026-10-29T14:12:07Z",
+  "generated_at": "2026-10-29T15:12:07Z",
   "headlines": [
+    {
+      "category": "federal",
+      "headline": "Consumer spending flattens out after U.S. inflation surge",
+      "image": "news-images/595c14ed3400c31376517249.jpg",
+      "link": "https://www.marketwatch.com/story/consumer-spending-flattens-out-after-inflation-surge-e7761d25?mod=mw_rss_topstories",
+      "published": "2026-10-29T15:04:00Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "tech",
+      "headline": "ServiceNow shares plunge 24% after earnings revive AI disruption fears",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/29/servicenow-now-earnings-q3-2026.html",
+      "published": "2026-10-29T14:58:03Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "federal",
+      "headline": "The politics of President Lagarde's European Central Bank early exit  \u2014 and who could replace her",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/29/lagarde-ecb-stand-down.html",
+      "published": "2026-10-29T14:53:06Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "consumer",
+      "headline": "Restaurant Brands reports mixed results as Burger King's U.S. turnaround shows signs of success",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/29/restaurant-brands-international-qsr-q3-2026-earnings.html",
+      "published": "2026-10-29T14:51:29Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "European Central Bank keeps key interest rate on hold at 2.5%",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/29/european-central-bank-interest-rates.html",
+      "published": "2026-10-29T14:48:01Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "It\u2019s the strangest job market the U.S. has ever seen",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=55848726-4cc7-4e16-81ab-8ace50ffb82a&amp;mod=mw_rss_bulletins",
+      "published": "2026-10-29T14:47:12Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Inflation surges, PCE shows. Fed pause on rate hikes unlikely to last with prices still rising.",
+      "image": "news-images/ab54587ea915248bb913b8ab.jpg",
+      "link": "https://www.marketwatch.com/story/inflation-surges-pce-shows-fed-pause-on-rate-hikes-unlikely-to-last-long-with-prices-still-rising-79128886?mod=mw_rss_topstories",
+      "published": "2026-10-29T14:38:00Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "federal",
+      "headline": "The midterms are crucial to the future of Social Security \u2013 no matter how old you are",
+      "image": "news-images/13b51076d16d2cc4ef6114e2.jpg",
+      "link": "https://www.marketwatch.com/story/the-midterms-are-crucial-to-the-future-of-social-security-no-matter-how-old-you-are-0f080a9c?mod=mw_rss_topstories",
+      "published": "2026-10-29T14:37:00Z",
+      "sentiment": "neutral"
+    },
     {
       "category": "other",
       "headline": "Eli Lilly hikes sales outlook, as CEO says there's room for 'dramatic' obesity market expansion",
       "image": null,
       "link": "https://www.cnbc.com/2026/10/29/eli-lilly-lly-earnings-q3-2026.html",
-      "published": "2026-10-29T14:11:41Z",
+      "published": "2026-10-29T14:34:59Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Alphabet earnings miss reflects first real sign that AI is taking a bite out of search",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/29/alphabet-google-search-ai-earnings.html",
+      "published": "2026-10-29T14:34:21Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "Caterpillar, the Dow's best stock of 2026, is unraveling \u2014 and an earnings beat couldn't stop it",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/article/caterpillar-the-dows-best-stock-of-2026-is-unraveling--and-an-earnings-beat-couldnt-stop-it-143227286.html?.tsrc=rss",
+      "published": "2026-10-29T14:32:27Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "Gen Z midterm voters told us they\u2019re focused on their financial future, as social causes take a back seat",
+      "image": "news-images/20ce9a1b18093ad36b62e817.jpg",
+      "link": "https://www.marketwatch.com/story/gen-z-voters-told-us-the-midterms-will-boil-down-to-affording-life-not-social-issues-11bd1734?mod=mw_rss_topstories",
+      "published": "2026-10-29T14:29:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Stock Market Today: Nasdaq Sinks On Alphabet's Woes, Inflation Report; Fortinet Craters (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/4da37b6f-4b10-3831-ae14-fde89c3f573b/stock-market-today%3A-nasdaq.html?.tsrc=rss",
+      "published": "2026-10-29T14:20:19Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Steve Eisman gets more conservative with portfolio as AI trade nears 'tipping point'",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/29/steve-eisman-gets-more-conservative-with-portfolio-as-ai-trade-nears-tipping-point.html",
+      "published": "2026-10-29T14:15:43Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Alphabet's Not the Only AI Stock Tanking the Market",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/8e893a40-a0dd-3aea-a3fc-25c73cdd5712/alphabet%27s-not-the-only-ai.html?.tsrc=rss",
+      "published": "2026-10-29T14:14:11Z",
       "sentiment": "neutral"
     },
     {
@@ -15,14 +127,6 @@
       "image": null,
       "link": "https://www.cnbc.com/2026/10/29/pce-inflation-report-september-2026-.html",
       "published": "2026-10-29T14:11:31Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Steve Eisman gets more conservative with portfolio as AI trade nears 'tipping point'",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/29/steve-eisman-gets-more-conservative-with-portfolio-as-ai-trade-nears-tipping-point.html",
-      "published": "2026-10-29T14:06:20Z",
       "sentiment": "neutral"
     },
     {
@@ -66,22 +170,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "financials",
-      "headline": "Analysis: Kevin Warsh is keeping Wall Street guessing. It may be his most powerful tool.",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/29/kevin-warsh-fed-october-rate-decision-december-hike.html",
-      "published": "2026-10-29T13:51:17Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "President of the European Central Bank Christine Lagarde to step down. Here's who is tipped to replace her",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/29/lagarde-ecb-stand-down.html",
-      "published": "2026-10-29T13:50:58Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "other",
       "headline": "Lilly raised sales guidance for third time this year as Zepbound sales soar. Its stock is rallying.",
       "image": "news-images/6e7b530ecef0dab901482a7b.jpg",
@@ -99,42 +187,18 @@
     },
     {
       "category": "tech",
+      "headline": "Alphabet falls 13%, putting it on course for its biggest ever post-earnings drop",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/29/alphabet-google-microsoft-msft-shares-today-earnings.html",
+      "published": "2026-10-29T13:46:52Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "tech",
       "headline": "Anthropic CEO Dario Amodei charts a new direction for tech philanthropy",
       "image": null,
       "link": "https://www.cnbc.com/2026/10/29/anthropic-ceo-dario-amodei-charts-new-direction-for-tech-philanthropy.html",
       "published": "2026-10-29T13:44:56Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "DoorDash to acquire Instacart for $17 billion",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/28/doordash-instacart-maplebear.html",
-      "published": "2026-10-29T13:44:32Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Stock Market Today: Nasdaq Sells Off After Inflation Data; Alphabet Plummets On Earnings (Live Coverage)",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/4da37b6f-4b10-3831-ae14-fde89c3f573b/stock-market-today%3A-nasdaq.html?.tsrc=rss",
-      "published": "2026-10-29T13:44:05Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "consumer",
-      "headline": "Restaurant Brands reports mixed results as Burger King's U.S. turnaround shows signs of success",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/29/restaurant-brands-international-qsr-q3-2026-earnings.html",
-      "published": "2026-10-29T13:41:43Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "European Central Bank keeps key interest rate on hold at 2.5%",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/29/european-central-bank-interest-rates.html",
-      "published": "2026-10-29T13:41:39Z",
       "sentiment": "neutral"
     },
     {
@@ -144,6 +208,14 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=66e26056-f438-409e-81db-7bc0379c127d&amp;mod=mw_rss_bulletins",
       "published": "2026-10-29T13:32:22Z",
       "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "There's No Room for Earnings Disappointment. Stocks Suffer After Alphabet Miss.",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/05768be4-d2ff-36ec-91e1-1af8a0352b68/there%27s-no-room-for-earnings.html?.tsrc=rss",
+      "published": "2026-10-29T13:31:49Z",
+      "sentiment": "bearish"
     },
     {
       "category": "federal",
@@ -162,52 +234,12 @@
       "sentiment": "neutral"
     },
     {
-      "category": "other",
-      "headline": "Marvell is reportedly close to buying Lumentum. Analysts say they see logic in a potential deal.",
-      "image": "news-images/68c7da3daae850a4c480e19a.jpg",
-      "link": "https://www.marketwatch.com/story/marvell-is-reportedly-close-to-buying-lumentum-analysts-say-they-see-logic-in-a-potential-deal-d7539c59?mod=mw_rss_topstories",
-      "published": "2026-10-29T13:05:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Consumer spending flattens out after inflation surge",
-      "image": "news-images/595c14ed3400c31376517249.jpg",
-      "link": "https://www.marketwatch.com/story/consumer-spending-flattens-out-after-inflation-surge-e7761d25?mod=mw_rss_topstories",
-      "published": "2026-10-29T13:01:00Z",
-      "sentiment": "bullish"
-    },
-    {
       "category": "tech",
       "headline": "Update: US Equity Futures Fall Pre-Bell as Fed Holds Rate Steady, Traders Assess Big Tech Earnings",
       "image": null,
       "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-fall-pre-130007864.html?.tsrc=rss",
       "published": "2026-10-29T13:00:07Z",
       "sentiment": "bearish"
-    },
-    {
-      "category": "other",
-      "headline": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who\u2019s to blame?",
-      "image": "news-images/2cf1fe333a00c3e0a871d35d.jpg",
-      "link": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
-      "published": "2026-10-29T13:00:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Our church has a $1.5 million bequest earning 3.75% in a bank account. Is inflation eroding it?",
-      "image": "news-images/30e10603b698f03a2a405e54.jpg",
-      "link": "https://www.marketwatch.com/story/there-may-be-better-investment-options-my-church-received-1-5-million-from-a-parishioner-is-3-75-interest-enough-5164d790?mod=mw_rss_topstories",
-      "published": "2026-10-29T13:00:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "DoorDash and Instacart want to join forces. Will the U.S. government get in their way?",
-      "image": "news-images/6f25c9aacc28e7bfe7491da3.jpg",
-      "link": "https://www.marketwatch.com/story/doordash-and-instacart-want-to-join-forces-will-the-u-s-government-get-in-their-way-0c065bee?mod=mw_rss_topstories",
-      "published": "2026-10-29T12:58:00Z",
-      "sentiment": "neutral"
     },
     {
       "category": "other",
@@ -250,35 +282,11 @@
       "sentiment": "bearish"
     },
     {
-      "category": "industrials",
-      "headline": "Caterpillar Revenue Miss, Outlook Dig Hole For Dow Jones Industrial Average",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/754eba0d-044d-37fc-95cd-3c27d83187ba/caterpillar-revenue-miss%2C.html?.tsrc=rss",
-      "published": "2026-10-29T11:53:18Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "federal",
-      "headline": "Stocks Down Pre-Bell Ahead of Key Inflation Report, Amazon Earnings",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-down-pre-bell-ahead-114743483.html?.tsrc=rss",
-      "published": "2026-10-29T11:47:43Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "federal",
       "headline": "Economic calendar: GDP, inflation data on tap this morning",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=2ad102f3-78db-489f-b164-4c9eb00c1948&amp;mod=mw_rss_bulletins",
       "published": "2026-10-29T11:43:41Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "US Stock Futures Mixed as Alphabet Falls, Microsoft Gains and Fed Comments Draw Attention to AI Spending: Dow Jones, S&P, Nasdaq, Wall Street",
-      "image": null,
-      "link": "https://investorshub.advfn.com/market-news/article/38853/us-stock-futures-mixed-as-alphabet-falls-microsoft-gains-and-fed-comments-draw-attention-to-ai-spending?.tsrc=rss",
-      "published": "2026-10-29T11:26:40Z",
       "sentiment": "neutral"
     },
     {
@@ -312,35 +320,27 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=d03996c5-1dcd-4611-9dc6-f27f17695ef3&amp;mod=mw_rss_bulletins",
       "published": "2026-10-28T23:30:02Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Fortinet\u2019s stock is taking a dive after earnings. Here\u2019s why.",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=c86cd10e-95b0-4bec-bb62-5ca58efbcb1a&amp;mod=mw_rss_bulletins",
-      "published": "2026-10-28T23:19:54Z",
-      "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-10-29T14:11:41Z",
+  "newest_item_published": "2026-10-29T15:04:00Z",
   "source_item_count": 70,
   "sources": {
     "cnbc": {
-      "contributed": 10,
+      "contributed": 11,
       "error": null,
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-10-29T14:11:41Z",
+      "newest": "2026-10-29T14:58:03Z",
       "ok": true
     },
     "marketwatch": {
-      "contributed": 10,
+      "contributed": 9,
       "error": null,
       "fetched": 10,
-      "fresh": 10,
+      "fresh": 9,
       "label": "MarketWatch",
-      "newest": "2026-10-29T14:01:00Z",
+      "newest": "2026-10-29T15:04:00Z",
       "ok": true
     },
     "mw_bulletins": {
@@ -349,7 +349,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-10-29T13:51:56Z",
+      "newest": "2026-10-29T14:47:12Z",
       "ok": true
     },
     "yahoo_dji": {
@@ -358,7 +358,7 @@
       "fetched": 20,
       "fresh": 19,
       "label": "Yahoo Finance",
-      "newest": "2026-10-29T13:44:05Z",
+      "newest": "2026-10-29T14:32:27Z",
       "ok": true
     }
   }
