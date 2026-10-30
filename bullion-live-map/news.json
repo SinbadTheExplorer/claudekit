@@ -1,6 +1,166 @@
 {
-  "generated_at": "2026-10-30T15:12:07Z",
+  "generated_at": "2026-10-30T16:12:11Z",
   "headlines": [
+    {
+      "category": "financials",
+      "headline": "Class action lawsuit blames Trump officials for student loan forgiveness delays",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/30/lawsuit-blames-trump-officials-for-student-loan-forgiveness-delays.html",
+      "published": "2026-10-30T16:04:59Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "crypto",
+      "headline": "$6.3 billion Binance hack is largest crypto theft on record",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
+      "published": "2026-10-30T16:01:51Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "international",
+      "headline": "Chevron and Exxon hit all-time highs as refining profits soar in reaction to Iran and Ukraine wars",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/30/chevron-exxon-cvx-xom-earnings-q3-2026.html",
+      "published": "2026-10-30T16:01:11Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
+      "image": "news-images/45f4c003ac21ae6d91c7720a.jpg",
+      "link": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
+      "published": "2026-10-30T16:00:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "financials",
+      "headline": "Private equity in your 401(k)? Heed Warren Buffett\u2019s warning.",
+      "image": "news-images/289dd8767e5aecbb8311a7fe.jpg",
+      "link": "https://www.marketwatch.com/story/private-equity-in-your-401-k-heed-warren-buffetts-warning-6f318cd0?mod=mw_rss_topstories",
+      "published": "2026-10-30T15:53:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Trump rallies in Kansas and Iowa are back on after RNC said they were canceled: Source",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/30/trump-vance-rally-midterm-elections-.html",
+      "published": "2026-10-30T15:52:35Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "tech",
+      "headline": "Tech stocks crushed as Nasdaq tumbles more than 600 points",
+      "image": null,
+      "link": "https://www.cbsnews.com/news/nasdaq-futures-tumble-tech-earnings-ai/?.tsrc=rss",
+      "published": "2026-10-30T15:50:14Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "Jim Cramer reveals 3 stocks to buy \u2014 plus, why he is not selling the Intel plunge",
+      "image": null,
+      "link": "https://www.cnbc.com/investingclub/2026/10/30/cramer-sees-3-stocks-to-buy-not-selling-the-intel-plunge.html",
+      "published": "2026-10-30T15:49:19Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "financials",
+      "headline": "Intel heads for worst day on Wall Street in more than 50 years on weak guidance",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html",
+      "published": "2026-10-30T15:43:48Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Cheaper cars are selling considerably faster than at the beginning of the year",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/30/cheap-cars-selling-fast.html",
+      "published": "2026-10-30T15:37:21Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "These are the biggest winners and losers during the stock market\u2019s wild October",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=d4cac0b6-aa58-4fda-81bc-8f92d27df185&amp;mod=mw_rss_bulletins",
+      "published": "2026-10-30T15:33:40Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Gamble on democracy: Inside suspicious election-contracts trading on prediction markets",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/30/gamble-on-democracy-inside-suspicious-election-contracts-trading-on-prediction-markets-.html",
+      "published": "2026-10-30T15:33:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Our church has a $1.5 million bequest earning 3.75% in a savings account. Are we throwing money away?",
+      "image": "news-images/30e10603b698f03a2a405e54.jpg",
+      "link": "https://www.marketwatch.com/story/there-may-be-better-investment-options-my-church-received-1-5-million-from-a-parishioner-is-3-75-interest-enough-5164d790?mod=mw_rss_topstories",
+      "published": "2026-10-30T15:30:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "In a wild October for markets, these stocks were the biggest winners and losers",
+      "image": "news-images/c4e0a894a3830329373e10c9.jpg",
+      "link": "https://www.marketwatch.com/story/in-a-wild-october-for-markets-these-stocks-were-the-biggest-winners-and-losers-3736f043?mod=mw_rss_topstories",
+      "published": "2026-10-30T15:26:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "MARKETS LIVE: Nasdaq plunges as Big Tech's AI outlays fuel tech sell-off, while crypto slides after $6.3bn Binance hack",
+      "image": null,
+      "link": "https://www.proactiveinvestors.com/companies/news/1100978/markets-live-ftse-100-set-to-rise-despite-wall-street-sell-off-and-asian-technology-rout-1100978.html?.tsrc=rss",
+      "published": "2026-10-30T15:16:00Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who\u2019s to blame?",
+      "image": "news-images/2cf1fe333a00c3e0a871d35d.jpg",
+      "link": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
+      "published": "2026-10-30T15:15:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "The cost of money itself is on the midterm ballot. Here\u2019s how.",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=5a926cce-ef80-46b7-b5ac-609ffcf55fc5&amp;mod=mw_rss_bulletins",
+      "published": "2026-10-30T15:14:42Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Musk and Zuckerberg echo Trump's push to rebrand AI as 'super intelligence' on earnings calls. Others do not",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/30/trump-tech-allies-swap-ai-for-super-intelligence-in-earnings-calls.html",
+      "published": "2026-10-30T15:14:27Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Data centers are a political third rail. West Virginia is grabbing it anyway.",
+      "image": "news-images/3afd0b62f3d19dc457935c92.jpg",
+      "link": "https://www.marketwatch.com/story/data-centers-are-a-political-third-rail-west-virginia-is-grabbing-it-anyway-80d129b5?mod=mw_rss_topstories",
+      "published": "2026-10-30T15:14:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "crypto",
+      "headline": "Stock Market Today: Nasdaq Slammed As Bitcoin Crumbles On Massive Hack (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/3cdf61c3-8737-3183-b5ff-f3bf8fc03ece/stock-market-today%3A-nasdaq.html?.tsrc=rss",
+      "published": "2026-10-30T15:13:42Z",
+      "sentiment": "neutral"
+    },
     {
       "category": "federal",
       "headline": "Swiss central bank posts bumper $23 billion profit thanks to gold, foreign assets",
@@ -16,38 +176,6 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=5270a882-a04a-4315-b7ed-d929f85648a4&amp;mod=mw_rss_bulletins",
       "published": "2026-10-30T14:58:07Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Treasury Department announces new Series I bond rate of 5.51% for the next six months",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/30/treasury-i-bond-rate-through-april-2027.html",
-      "published": "2026-10-30T14:53:12Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "crypto",
-      "headline": "$6.3 billion Binance hack is largest crypto theft on record",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
-      "published": "2026-10-30T14:48:26Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Gamble on democracy: Inside suspicious election-contracts trading on prediction markets",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/30/gamble-on-democracy-inside-suspicious-election-contracts-trading-on-prediction-markets-.html",
-      "published": "2026-10-30T14:46:54Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Tech stocks crushed as Nasdaq tumbles more than 600 points",
-      "image": null,
-      "link": "https://www.cbsnews.com/news/nasdaq-futures-tumble-tech-earnings-ai/?.tsrc=rss",
-      "published": "2026-10-30T14:43:03Z",
-      "sentiment": "bearish"
     },
     {
       "category": "other",
@@ -74,67 +202,11 @@
       "sentiment": "neutral"
     },
     {
-      "category": "tech",
-      "headline": "Stock Market Today: Nasdaq Slammed On Amazon Earnings; Reddit Tumbles Amid A Google Problem (Live Coverage)",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/3cdf61c3-8737-3183-b5ff-f3bf8fc03ece/stock-market-today%3A-nasdaq.html?.tsrc=rss",
-      "published": "2026-10-30T14:19:38Z",
-      "sentiment": "bearish"
-    },
-    {
       "category": "other",
       "headline": "AMD\u2019s stock slides after Intel earnings reveal two big issues",
       "image": "news-images/b2127ffdc7387ebb2ffad03a.jpg",
       "link": "https://www.marketwatch.com/story/amds-stock-slides-after-intel-earnings-reveal-two-big-issues-d3afed91?mod=mw_rss_topstories",
       "published": "2026-10-30T14:19:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "This one chart tells you everything you need to know about Exxon, Chevron and BP\u2019s forecast-beating earnings",
-      "image": "news-images/829a8bb19b24841b16fcc332.jpg",
-      "link": "https://www.marketwatch.com/story/this-one-chart-tells-you-everything-you-need-to-know-about-exxon-chevron-and-bps-forecasting-beating-earnings-24babdfc?mod=mw_rss_topstories",
-      "published": "2026-10-30T14:17:00Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "other",
-      "headline": "\u2018He was heartbroken\u2019: My husband\u2019s kids abandoned him when he was dying. Was he right to leave everything to me?",
-      "image": "news-images/cf08bbb217c3e9e8e581b442.jpg",
-      "link": "https://www.marketwatch.com/story/he-was-heartbroken-my-husbands-kids-never-helped-when-he-was-gravely-ill-was-he-right-to-leave-everything-to-me-1ad0616b?mod=mw_rss_topstories",
-      "published": "2026-10-30T14:15:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Trump, Vance scrap planned appearances in final stretch of midterm campaign",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/30/trump-vance-rally-midterm-elections-.html",
-      "published": "2026-10-30T14:13:20Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "This Halloween, are king-sized candy bars a better deal than fun-sized ones?",
-      "image": "news-images/f66dd7861077f989acf88521.jpg",
-      "link": "https://www.marketwatch.com/story/this-halloween-are-king-sized-candy-bars-a-better-deal-than-fun-sized-ones-992da0d9?mod=mw_rss_topstories",
-      "published": "2026-10-30T14:12:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Why Intel\u2019s stock is sinking toward its worst day in decades \u2014 and a $140 billion wipeout",
-      "image": "news-images/497db7a745e05ac820ca315f.jpg",
-      "link": "https://www.marketwatch.com/story/why-intels-stock-is-sinking-toward-its-worst-drop-in-two-years-492d71a7?mod=mw_rss_topstories",
-      "published": "2026-10-30T14:10:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "financials",
-      "headline": "The cost of money itself is on the ballot as voters struggle with pricey car loans, mortgages and credit-card debt",
-      "image": "news-images/c43804f8094e7dce473300b1.jpg",
-      "link": "https://www.marketwatch.com/story/the-cost-of-money-itself-is-on-the-ballot-as-voters-struggle-with-pricey-car-loans-mortgages-and-credit-card-debt-c2cd83a0?mod=mw_rss_topstories",
-      "published": "2026-10-30T13:42:00Z",
       "sentiment": "neutral"
     },
     {
@@ -154,30 +226,6 @@
       "sentiment": "bearish"
     },
     {
-      "category": "other",
-      "headline": "Starbucks sales miss expectations, but its U.S. turnaround is gaining steam",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/29/starbucks-sbux-q4-2026-earnings.html",
-      "published": "2026-10-30T13:29:50Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "crypto",
-      "headline": "'Bad time to troll': Binance cofounder Changpeng Zhao asks Elon Musk for 'respect' after post about bitcoin hack",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/30/binance-hack-elon-musk-tesla-spacex.html",
-      "published": "2026-10-30T13:29:34Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "energy",
-      "headline": "Gen Z voters told us the midterms boil down to affording life, as social causes take a back seat",
-      "image": "news-images/20ce9a1b18093ad36b62e817.jpg",
-      "link": "https://www.marketwatch.com/story/gen-z-voters-told-us-the-midterms-will-boil-down-to-affording-life-not-social-issues-11bd1734?mod=mw_rss_topstories",
-      "published": "2026-10-30T13:26:00Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "tech",
       "headline": "Exchange-Traded Funds Lower, Equity Futures Mixed Pre-Bell Friday Amid Steep Tech Decline",
       "image": null,
@@ -194,22 +242,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "other",
-      "headline": "Jim Cramer's top 10 things to watch in the stock market Friday",
-      "image": null,
-      "link": "https://www.cnbc.com/investingclub/2026/10/30/jim-cramers-top-10-things-to-watch-in-the-stock-market-friday.html",
-      "published": "2026-10-30T12:43:43Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Binance's $6.3 billion hack: What we know and what comes next",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/30/billions-in-crypto-frozen-in-binance-hack-heres-what-happens-next-.html",
-      "published": "2026-10-30T12:38:53Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "tech",
       "headline": "Stock Market Today: Nasdaq, S&P 500 Plunge Amid Tech Sell-Off as Intel Drops 30% After Earnings",
       "image": null,
@@ -223,14 +255,6 @@
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=90ce3c1b-84b9-4496-a93f-ebeae986a000&amp;mod=mw_rss_bulletins",
       "published": "2026-10-30T12:31:41Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "The big questions remaining after Anthropic\u2019s blockbuster IPO prospectus",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/30/anthropic-ipo-s1-revenue-compute.html",
-      "published": "2026-10-30T12:27:36Z",
       "sentiment": "neutral"
     },
     {
@@ -266,14 +290,6 @@
       "sentiment": "bearish"
     },
     {
-      "category": "tech",
-      "headline": "Dow Jones Futures: Nasdaq Futures Plunge 2% On Amazon, Intel After Google, ServiceNow, Fortinet Dive",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/0a5ce393-a6df-312b-af64-1893a264d0df/dow-jones-futures%3A-nasdaq.html?.tsrc=rss",
-      "published": "2026-10-30T12:05:46Z",
-      "sentiment": "bearish"
-    },
-    {
       "category": "energy",
       "headline": "Oil won\u2019t be getting cheap anytime soon, no matter what happens in the Gulf",
       "image": null,
@@ -304,25 +320,9 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=f73b94db-8466-4e2b-a67d-486ecd6f91c8&amp;mod=mw_rss_bulletins",
       "published": "2026-10-29T21:41:36Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "A Starbucks turnaround is brewing, but perhaps not quickly enough",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=9e7e65b0-f541-4e57-a4a1-4f11fe58b253&amp;mod=mw_rss_bulletins",
-      "published": "2026-10-29T21:13:15Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Intel's stock sinks over 15% as PC slowdown drives disappointing outlook \u2014 live",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=008916cd-7ba1-463f-b6b7-aa1651d2ff12&amp;mod=mw_rss_bulletins",
-      "published": "2026-10-29T20:54:58Z",
-      "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-10-30T15:07:48Z",
+  "newest_item_published": "2026-10-30T16:04:59Z",
   "source_item_count": 70,
   "sources": {
     "cnbc": {
@@ -331,7 +331,7 @@
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-10-30T15:07:48Z",
+      "newest": "2026-10-30T16:04:59Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,7 +340,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-10-30T14:43:00Z",
+      "newest": "2026-10-30T16:00:00Z",
       "ok": true
     },
     "mw_bulletins": {
@@ -349,7 +349,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-10-30T14:58:07Z",
+      "newest": "2026-10-30T15:33:40Z",
       "ok": true
     },
     "yahoo_dji": {
@@ -358,7 +358,7 @@
       "fetched": 20,
       "fresh": 19,
       "label": "Yahoo Finance",
-      "newest": "2026-10-30T14:43:03Z",
+      "newest": "2026-10-30T15:50:14Z",
       "ok": true
     }
   }
