@@ -1,6 +1,118 @@
 {
-  "generated_at": "2026-10-30T13:12:06Z",
+  "generated_at": "2026-10-30T14:12:10Z",
   "headlines": [
+    {
+      "category": "other",
+      "headline": "Why Intel\u2019s stock is sinking toward its worst day in decades \u2014 and a $140 billion wipeout",
+      "image": "news-images/497db7a745e05ac820ca315f.jpg",
+      "link": "https://www.marketwatch.com/story/why-intels-stock-is-sinking-toward-its-worst-drop-in-two-years-492d71a7?mod=mw_rss_topstories",
+      "published": "2026-10-30T14:10:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Tech stocks crushed as Nasdaq tumbles more than 600 points",
+      "image": null,
+      "link": "https://www.cbsnews.com/news/nasdaq-futures-tumble-tech-earnings-ai/?.tsrc=rss",
+      "published": "2026-10-30T13:50:25Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "AMD\u2019s stock slides after Intel earnings reveal two big issues",
+      "image": "news-images/b2127ffdc7387ebb2ffad03a.jpg",
+      "link": "https://www.marketwatch.com/story/amds-stock-slides-after-intel-earnings-reveal-two-big-issues-d3afed91?mod=mw_rss_topstories",
+      "published": "2026-10-30T13:49:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "financials",
+      "headline": "The cost of money itself is on the ballot as voters struggle with pricey car loans, mortgages and credit-card debt",
+      "image": "news-images/c43804f8094e7dce473300b1.jpg",
+      "link": "https://www.marketwatch.com/story/the-cost-of-money-itself-is-on-the-ballot-as-voters-struggle-with-pricey-car-loans-mortgages-and-credit-card-debt-c2cd83a0?mod=mw_rss_topstories",
+      "published": "2026-10-30T13:42:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "consumer",
+      "headline": "Stock Market Today: Nasdaq Dives As Amazon, Intel Plunge On Earnings (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/3cdf61c3-8737-3183-b5ff-f3bf8fc03ece/stock-market-today%3A-nasdaq.html?.tsrc=rss",
+      "published": "2026-10-30T13:41:33Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "tech",
+      "headline": "Nasdaq and S&P 500 sharply lower at open as tech stocks stumble \u2014 live updates",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=481665c7-ba54-4817-9949-3776c9eb5ea1&amp;mod=mw_rss_bulletins",
+      "published": "2026-10-30T13:37:33Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "tech",
+      "headline": "Stock Market Today: Nasdaq Futures Plunge 2% as Big Tech Sells Off",
+      "image": null,
+      "link": "https://247wallst.com/investing/2026/10/30/stock-market-today-nasdaq-futures-plunge-2-as-big-tech-sells-off/?.tsrc=rss",
+      "published": "2026-10-30T13:32:17Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "Starbucks sales miss expectations, but its U.S. turnaround is gaining steam",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/29/starbucks-sbux-q4-2026-earnings.html",
+      "published": "2026-10-30T13:29:50Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "crypto",
+      "headline": "'Bad time to troll': Binance cofounder Changpeng Zhao asks Elon Musk for 'respect' after post about bitcoin hack",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/30/binance-hack-elon-musk-tesla-spacex.html",
+      "published": "2026-10-30T13:29:34Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "energy",
+      "headline": "Gen Z voters told us the midterms boil down to affording life, as social causes take a back seat",
+      "image": "news-images/20ce9a1b18093ad36b62e817.jpg",
+      "link": "https://www.marketwatch.com/story/gen-z-voters-told-us-the-midterms-will-boil-down-to-affording-life-not-social-issues-11bd1734?mod=mw_rss_topstories",
+      "published": "2026-10-30T13:26:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Exchange-Traded Funds Lower, Equity Futures Mixed Pre-Bell Friday Amid Steep Tech Decline",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-lower-equity-131734005.html?.tsrc=rss",
+      "published": "2026-10-30T13:17:34Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "This credit card is the \u2018best weapon\u2019 to fight debt while interest rates keep climbing",
+      "image": "news-images/217d23ffa1bb90ac2b2a28dd.jpg",
+      "link": "https://www.marketwatch.com/story/this-credit-card-is-the-best-weapon-to-fight-debt-while-interest-rates-keep-climbing-8378fcf2?mod=mw_rss_topstories",
+      "published": "2026-10-30T13:16:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "My father has Alzheimer\u2019s and his caregiver is using his debit card for DoorDash. Is this suspicious?",
+      "image": "news-images/8bc0a214aff57f8b3aeda089.jpg",
+      "link": "https://www.marketwatch.com/story/theres-a-lot-of-hurt-between-us-my-fathers-caregiver-is-using-his-debit-card-for-doordash-orders-what-can-i-do-714de7a5?mod=mw_rss_topstories",
+      "published": "2026-10-30T13:15:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "crypto",
+      "headline": "Bitcoin slides after crypto\u2019s nightmare scenario: a historic $6.3 billion heist",
+      "image": "news-images/633a7d378fcf433e3b53efa5.jpg",
+      "link": "https://www.marketwatch.com/story/heres-when-binance-plans-to-reopen-after-whats-believed-to-be-the-largest-ever-6-3-billion-hack-d3cb8154?mod=mw_rss_topstories",
+      "published": "2026-10-30T13:13:00Z",
+      "sentiment": "neutral"
+    },
     {
       "category": "crypto",
       "headline": "Hackers steal $6.3 billion from Binance in biggest-ever cryptocurrency theft",
@@ -26,14 +138,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "consumer",
-      "headline": "Stock Market Today: Nasdaq Futures Dive As Amazon, Intel Plunge On Earnings (Live Coverage)",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/3cdf61c3-8737-3183-b5ff-f3bf8fc03ece/stock-market-today%3A-nasdaq.html?.tsrc=rss",
-      "published": "2026-10-30T12:50:45Z",
-      "sentiment": "bearish"
-    },
-    {
       "category": "other",
       "headline": "Gamble on democracy: Inside suspicious election-contracts trading on prediction markets",
       "image": null,
@@ -43,11 +147,27 @@
     },
     {
       "category": "other",
+      "headline": "Jim Cramer's top 10 things to watch in the stock market Friday",
+      "image": null,
+      "link": "https://www.cnbc.com/investingclub/2026/10/30/jim-cramers-top-10-things-to-watch-in-the-stock-market-friday.html",
+      "published": "2026-10-30T12:43:43Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
       "headline": "Binance's $6.3 billion hack: What we know and what comes next",
       "image": null,
       "link": "https://www.cnbc.com/2026/10/30/billions-in-crypto-frozen-in-binance-hack-heres-what-happens-next-.html",
       "published": "2026-10-30T12:38:53Z",
       "sentiment": "neutral"
+    },
+    {
+      "category": "consumer",
+      "headline": "Stock Market Today: Nasdaq, S&P 500 Futures Slide as Amazon and Intel Plunge After Earnings",
+      "image": null,
+      "link": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-10302026-12202212?.tsrc=rss",
+      "published": "2026-10-30T12:35:40Z",
+      "sentiment": "bearish"
     },
     {
       "category": "other",
@@ -82,6 +202,14 @@
       "sentiment": "neutral"
     },
     {
+      "category": "tech",
+      "headline": "Big Tech Fright Night Is a Terrifying Omen for the Market",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/edd80d86-9a41-3c94-9caa-78515bc84582/big-tech-fright-night-is-a.html?.tsrc=rss",
+      "published": "2026-10-30T12:26:45Z",
+      "sentiment": "neutral"
+    },
+    {
       "category": "other",
       "headline": "Economic calendar: Week wraps with data on workforce costs and Midwest business",
       "image": null,
@@ -99,7 +227,7 @@
     },
     {
       "category": "tech",
-      "headline": "Wall Street sell-off continues as investors question returns on massive AI spending",
+      "headline": "Wall Street sell-off continues as investors question returns on \u2018monster AI splurge\u2019",
       "image": null,
       "link": "https://www.cnn.com/2026/10/30/investing/us-stocks-ai-investment?.tsrc=rss",
       "published": "2026-10-30T12:08:03Z",
@@ -112,14 +240,6 @@
       "link": "https://finance.yahoo.com/m/0a5ce393-a6df-312b-af64-1893a264d0df/dow-jones-futures%3A-nasdaq.html?.tsrc=rss",
       "published": "2026-10-30T12:05:46Z",
       "sentiment": "bearish"
-    },
-    {
-      "category": "consumer",
-      "headline": "Stocks Mostly Down Pre-Bell as Traders Parse Amazon, Intel Earnings",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-mostly-down-pre-bell-114759595.html?.tsrc=rss",
-      "published": "2026-10-30T11:47:59Z",
-      "sentiment": "neutral"
     },
     {
       "category": "energy",
@@ -138,123 +258,11 @@
       "sentiment": "neutral"
     },
     {
-      "category": "financials",
-      "headline": "Amazon\u2019s and Intel\u2019s stocks are set to plunge. But Wall Street\u2019s October winners may surprise you.",
+      "category": "other",
+      "headline": "Big Tech\u2019s scary October has a twist: Dow on track for biggest monthly lead over Nasdaq since 2022",
       "image": "news-images/8a579427dcdbc514524603c8.jpg",
       "link": "https://www.marketwatch.com/story/amazons-and-intels-stocks-are-set-to-plunge-but-wall-streets-october-winners-may-surprise-you-4d74e4d4?mod=mw_rss_topstories",
       "published": "2026-10-30T11:32:00Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "tech",
-      "headline": "Musk and Zuckerberg echo Trump's push to rebrand AI as 'super intelligence' on earnings calls. Others did not",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/30/trump-tech-allies-swap-ai-for-super-intelligence-in-earnings-calls.html",
-      "published": "2026-10-30T11:30:01Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "international",
-      "headline": "Russian strikes plunge Ukrainian city into blackout as Zelenskyy warns of more missile attacks",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/30/russia-ukraine-putin-zelenskyy-energy-strikes.html",
-      "published": "2026-10-30T11:29:59Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "other",
-      "headline": "Why Intel\u2019s stock is sinking toward its worst day in two years \u2014 and a $128 billion wipeout",
-      "image": "news-images/497db7a745e05ac820ca315f.jpg",
-      "link": "https://www.marketwatch.com/story/why-intels-stock-is-sinking-toward-its-worst-drop-in-two-years-492d71a7?mod=mw_rss_topstories",
-      "published": "2026-10-30T11:27:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Euro zone economy slows to 0.4% growth in Q3 as crisis-hit France contracts",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/30/euro-zone-gdp-france.html",
-      "published": "2026-10-30T11:16:46Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Tech Earnings Drive Losses on Wall Street Pre-Bell; Asia Off, Europe Mixed",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tech-earnings-drive-losses-wall-111411328.html?.tsrc=rss",
-      "published": "2026-10-30T11:14:11Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "AI could hit consumers\u2019 ability to manage their debt. Here\u2019s the trade.",
-      "image": "news-images/bc2efd626b9a844c596e73f1.jpg",
-      "link": "https://www.marketwatch.com/story/ai-could-hit-consumers-ability-to-manage-their-debt-heres-the-trade-43d1787e?mod=mw_rss_topstories",
-      "published": "2026-10-30T11:09:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Just 15 Stocks Make Up 71% of the Dow. Here's My Top Pick to Buy Now.",
-      "image": null,
-      "link": "https://www.fool.com/investing/2026/10/30/just-15-stocks-make-up-71-of-the-dow-heres-my-top/?.tsrc=rss",
-      "published": "2026-10-30T11:05:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "realestate",
-      "headline": "We\u2019re in our 70s. Should we pay off our 2.5% mortgage \u2014 or put the money in a high-yield savings account?",
-      "image": "news-images/cced7b4f7a02b064a3937891.jpg",
-      "link": "https://www.marketwatch.com/story/we-are-in-our-70s-should-we-pay-off-our-2-5-mortgage-or-build-up-our-savings-5a35e9c1?mod=mw_rss_topstories",
-      "published": "2026-10-30T11:01:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "consumer",
-      "headline": "Here\u2019s the math on Amazon CEO\u2019s claim to be on path to two trillion-dollar-revenue businesses",
-      "image": "news-images/befb425ecc9428785f59e9c0.jpg",
-      "link": "https://www.marketwatch.com/story/heres-the-math-on-amazon-ceos-claim-to-be-on-path-to-two-trillion-dollar-revenue-businesses-34d648e8?mod=mw_rss_topstories",
-      "published": "2026-10-30T10:34:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "\u2018He was heartbroken\u2019: My husband\u2019s kids abandoned him when he was dying. Was he right to leave everything to me?",
-      "image": "news-images/cf08bbb217c3e9e8e581b442.jpg",
-      "link": "https://www.marketwatch.com/story/he-was-heartbroken-my-husbands-kids-never-helped-when-he-was-gravely-ill-was-he-right-to-leave-everything-to-me-1ad0616b?mod=mw_rss_topstories",
-      "published": "2026-10-30T10:15:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "US Stock Futures Fall As AMZN, INTC Earnings Trigger Tech Sell-Off: NVDA, RDDT, RIVN, SFM In Focus",
-      "image": null,
-      "link": "https://stocktwits.com/news-articles/markets/equity/us-stock-futures-fall-as-amzn-intc-earnings-trigger-tech-sell-off-nvda-rddt-rivn-sfm-in-focus/cZUhYKdR9TI?.tsrc=rss",
-      "published": "2026-10-30T10:07:38Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "tech",
-      "headline": "Nasdaq Futures Slide 2.2% as Amazon and Intel Earnings Fuel AI Spending Concerns, Binance Hit by $6.3 Billion Hack: Dow Jones, S&P, Wall Street",
-      "image": null,
-      "link": "https://investorshub.advfn.com/market-news/article/38931/nasdaq-futures-slide-2-2-as-amazon-and-intel-earnings-fuel-ai-spending-concerns-binance-hit-by-6-3-billion-hack-dow-jones-sp-wall-street?.tsrc=rss",
-      "published": "2026-10-30T10:01:19Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Here\u2019s when Binance plans to reopen after what\u2019s believed to be the largest-ever $6.3 billion hack",
-      "image": "news-images/633a7d378fcf433e3b53efa5.jpg",
-      "link": "https://www.marketwatch.com/story/heres-when-binance-plans-to-reopen-after-whats-believed-to-be-the-largest-ever-6-3-billion-hack-d3cb8154?mod=mw_rss_topstories",
-      "published": "2026-10-30T09:50:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "My father has early Alzheimer\u2019s and his caregiver is using his debit card for DoorDash. What can I do?",
-      "image": "news-images/941a71a87a35a6508d590963.jpg",
-      "link": "https://www.marketwatch.com/story/theres-a-lot-of-hurt-between-us-my-fathers-caregiver-is-using-his-debit-card-for-doordash-orders-what-can-i-do-714de7a5?mod=mw_rss_topstories",
-      "published": "2026-10-30T09:15:00Z",
       "sentiment": "neutral"
     },
     {
@@ -312,17 +320,9 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=dd8639cc-2009-4462-ba84-1b6c652441f5&amp;mod=mw_rss_bulletins",
       "published": "2026-10-29T20:38:21Z",
       "sentiment": "bearish"
-    },
-    {
-      "category": "financials",
-      "headline": "Intel's stock tumbles after earnings. Here's what's worrying Wall Street.",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=d2c4f72e-ea45-4017-b3d0-32a38e16b6f2&amp;mod=mw_rss_bulletins",
-      "published": "2026-10-29T20:09:20Z",
-      "sentiment": "bearish"
     }
   ],
-  "newest_item_published": "2026-10-30T13:11:14Z",
+  "newest_item_published": "2026-10-30T14:10:00Z",
   "source_item_count": 70,
   "sources": {
     "cnbc": {
@@ -331,7 +331,7 @@
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-10-30T13:11:14Z",
+      "newest": "2026-10-30T13:29:50Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,7 +340,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-10-30T12:35:00Z",
+      "newest": "2026-10-30T14:10:00Z",
       "ok": true
     },
     "mw_bulletins": {
@@ -349,7 +349,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-10-30T12:31:41Z",
+      "newest": "2026-10-30T13:37:33Z",
       "ok": true
     },
     "yahoo_dji": {
@@ -358,7 +358,7 @@
       "fetched": 20,
       "fresh": 19,
       "label": "Yahoo Finance",
-      "newest": "2026-10-30T12:52:20Z",
+      "newest": "2026-10-30T13:50:25Z",
       "ok": true
     }
   }
