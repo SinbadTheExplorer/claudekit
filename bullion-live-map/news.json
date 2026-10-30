@@ -1,6 +1,78 @@
 {
-  "generated_at": "2026-10-30T18:33:34Z",
+  "generated_at": "2026-10-30T19:12:05Z",
   "headlines": [
+    {
+      "category": "financials",
+      "headline": "Wall Street braces for Democratic gains as 2026 midterm election nears",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/30/2026-midterm-election-wall-street-prepares-for-democratic-gains.html",
+      "published": "2026-10-30T19:11:32Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "'Bad time to troll': Binance co-founder Zhao asks Musk for support after hack",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/30/binance-hack-elon-musk-tesla-spacex.html",
+      "published": "2026-10-30T19:02:06Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Nasdaq and S&P 500 plummeting in final hour amid tech rout; Dow down 700 points",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=a00a7a81-04a7-4c5d-8fd3-5a773debbb43&amp;mod=mw_rss_bulletins",
+      "published": "2026-10-30T19:00:25Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Update: Nasdaq Plummets 975 Points as Intel's Results Help Trigger Sell-Off in Mega-Cap Chipmakers",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-plummets-975-points-intel-185707804.html?.tsrc=rss",
+      "published": "2026-10-30T18:57:07Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "tech",
+      "headline": "Tech gets crushed, defensive stocks shine. How we're making sense of it all",
+      "image": null,
+      "link": "https://www.cnbc.com/investingclub/2026/10/30/tech-gets-crushed-defensive-stocks-shine-how-were-making-sense-of-it-all.html",
+      "published": "2026-10-30T18:55:44Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "crypto",
+      "headline": "Is your crypto safe? What Binance\u2019s $6.3 billion hack means for bitcoin investors.",
+      "image": "news-images/633a7d378fcf433e3b53efa5.jpg",
+      "link": "https://www.marketwatch.com/story/heres-when-binance-plans-to-reopen-after-whats-believed-to-be-the-largest-ever-6-3-billion-hack-d3cb8154?mod=mw_rss_topstories",
+      "published": "2026-10-30T18:50:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Cheaper cars are selling considerably faster than at the beginning of the year",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/30/cheap-cars-selling-fast.html",
+      "published": "2026-10-30T18:45:35Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "healthcare",
+      "headline": "Stock Market Today: Nasdaq Slumps On Weak Intel Report; CBOE, Vertex Pharma Jump (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/3cdf61c3-8737-3183-b5ff-f3bf8fc03ece/stock-market-today%3A-nasdaq.html?.tsrc=rss",
+      "published": "2026-10-30T18:39:21Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "Reid Hoffman gives millions to Dems in late spending spree as Epstein fight spills into election",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/30/reid-hoffman-democrats-epstein-midterms-2026.html",
+      "published": "2026-10-30T18:32:17Z",
+      "sentiment": "neutral"
+    },
     {
       "category": "other",
       "headline": "My father has Alzheimer\u2019s and his caregiver is using his debit card for DoorDash. Do I intervene?",
@@ -19,6 +91,14 @@
     },
     {
       "category": "other",
+      "headline": "Gold Just Hit a New Low. Here's Where Traders Are Finding Safety Instead.",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/4d5c1d4e-32f0-3fab-8e35-61dc0af1e9d0/gold-just-hit-a-new-low..html?.tsrc=rss",
+      "published": "2026-10-30T18:21:53Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
       "headline": "Alaska Senate: Judge fast tracks new bids to dismiss DOJ lawsuit over 2nd Sullivan candidacy",
       "image": null,
       "link": "https://www.cnbc.com/2026/10/30/alaska-senate-election-doj-lawsuit-sullivan-peltola.html",
@@ -32,22 +112,6 @@
       "link": "https://www.cnbc.com/2026/10/30/musalem-fed-monetary-policy-tightening.html",
       "published": "2026-10-30T18:18:17Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "financials",
-      "headline": "Wall Street braces for Democratic gains as 2026 midterm election nears",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/30/2026-midterm-election-wall-street-prepares-for-democratic-gains.html",
-      "published": "2026-10-30T18:13:52Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "tech",
-      "headline": "Tech stocks crushed as Nasdaq tumbles more than 800 points",
-      "image": null,
-      "link": "https://www.cbsnews.com/news/nasdaq-futures-tumble-tech-earnings-ai/?.tsrc=rss",
-      "published": "2026-10-30T18:11:22Z",
-      "sentiment": "bearish"
     },
     {
       "category": "tech",
@@ -122,12 +186,12 @@
       "sentiment": "neutral"
     },
     {
-      "category": "healthcare",
-      "headline": "Stock Market Today: Nasdaq Slumps On Weak Intel Report; These Two Biopharmas Break Out (Live Coverage)",
+      "category": "tech",
+      "headline": "AI Selloff Gains Steam. Nasdaq Sinks Over 3%.",
       "image": null,
-      "link": "https://finance.yahoo.com/m/3cdf61c3-8737-3183-b5ff-f3bf8fc03ece/stock-market-today%3A-nasdaq.html?.tsrc=rss",
-      "published": "2026-10-30T17:37:48Z",
-      "sentiment": "bearish"
+      "link": "https://finance.yahoo.com/m/1e45d598-be72-364e-9ed9-6ce9efadd6b2/ai-selloff-gains-steam..html?.tsrc=rss",
+      "published": "2026-10-30T17:35:02Z",
+      "sentiment": "bullish"
     },
     {
       "category": "other",
@@ -154,35 +218,11 @@
       "sentiment": "neutral"
     },
     {
-      "category": "federal",
-      "headline": "Treasury Department announces new Series I bond rate of 5.51% for the next six months",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/30/treasury-i-bond-rate-through-april-2027.html",
-      "published": "2026-10-30T17:15:53Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "tech",
       "headline": "The big winners of the tech wreck are biopharma stocks",
       "image": "news-images/64e121cc85de3e3df1902f22.jpg",
       "link": "https://www.marketwatch.com/story/the-big-winners-of-the-tech-wreck-are-biopharma-stocks-2ac4d175?mod=mw_rss_topstories",
       "published": "2026-10-30T17:13:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "crypto",
-      "headline": "'Bad time to troll': Binance cofounder Changpeng Zhao asks Elon Musk for 'respect' after post about bitcoin hack",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/30/binance-hack-elon-musk-tesla-spacex.html",
-      "published": "2026-10-30T17:12:59Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Halloween gets pricier as chocolate costs climb \u2014 Hershey may feel the pinch",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/30/halloween-gets-pricier-as-chocolate-costs-rise-hershey-could-feel-it.html",
-      "published": "2026-10-30T16:55:41Z",
       "sentiment": "neutral"
     },
     {
@@ -200,14 +240,6 @@
       "link": "https://www.marketwatch.com/story/after-intels-historic-stock-drop-analysts-say-theres-no-reason-to-buy-the-dip-068446af?mod=mw_rss_topstories",
       "published": "2026-10-30T16:45:00Z",
       "sentiment": "bearish"
-    },
-    {
-      "category": "international",
-      "headline": "Chevron and Exxon hit all-time highs as refining profits soar in reaction to Iran and Ukraine wars",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/30/chevron-exxon-cvx-xom-earnings-q3-2026.html",
-      "published": "2026-10-30T16:44:31Z",
-      "sentiment": "bullish"
     },
     {
       "category": "tech",
@@ -231,14 +263,6 @@
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=76d0e380-81c0-426c-8673-6b6184b79fee&amp;mod=mw_rss_bulletins",
       "published": "2026-10-30T16:13:51Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
-      "image": "news-images/45f4c003ac21ae6d91c7720a.jpg",
-      "link": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
-      "published": "2026-10-30T16:00:00Z",
       "sentiment": "neutral"
     },
     {
@@ -282,22 +306,6 @@
       "sentiment": "bearish"
     },
     {
-      "category": "tech",
-      "headline": "Exchange-Traded Funds Lower, Equity Futures Mixed Pre-Bell Friday Amid Steep Tech Decline",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-lower-equity-131734005.html?.tsrc=rss",
-      "published": "2026-10-30T13:17:34Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "consumer",
-      "headline": "Update: Amazon, Intel Earnings Drag Down US Equity Futures Pre-Bell",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-intel-earnings-drag-down-125220506.html?.tsrc=rss",
-      "published": "2026-10-30T12:52:20Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "other",
       "headline": "Intel appears set to surrender $128 billion in market value at opening bell",
       "image": null,
@@ -312,17 +320,9 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=512c0561-4732-4a58-b483-c445e22f26eb&amp;mod=mw_rss_bulletins",
       "published": "2026-10-30T12:14:37Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "energy",
-      "headline": "Oil won\u2019t be getting cheap anytime soon, no matter what happens in the Gulf",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=edc18373-8d85-4830-bb23-5cea05721c0d&amp;mod=mw_rss_bulletins",
-      "published": "2026-10-29T23:51:36Z",
-      "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-10-30T18:30:00Z",
+  "newest_item_published": "2026-10-30T19:11:32Z",
   "source_item_count": 69,
   "sources": {
     "cnbc": {
@@ -331,7 +331,7 @@
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-10-30T18:28:09Z",
+      "newest": "2026-10-30T19:11:32Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,7 +340,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-10-30T18:30:00Z",
+      "newest": "2026-10-30T18:50:00Z",
       "ok": true
     },
     "mw_bulletins": {
@@ -349,7 +349,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-10-30T18:05:17Z",
+      "newest": "2026-10-30T19:00:25Z",
       "ok": true
     },
     "yahoo_dji": {
@@ -358,7 +358,7 @@
       "fetched": 19,
       "fresh": 18,
       "label": "Yahoo Finance",
-      "newest": "2026-10-30T18:11:22Z",
+      "newest": "2026-10-30T18:57:07Z",
       "ok": true
     }
   }
