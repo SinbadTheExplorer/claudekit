@@ -1,6 +1,110 @@
 {
-  "generated_at": "2026-10-30T19:12:05Z",
+  "generated_at": "2026-10-30T20:12:06Z",
   "headlines": [
+    {
+      "category": "other",
+      "headline": "Intel stock has worst day since 1970s, wiping about $12 billion off government's stake",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html",
+      "published": "2026-10-30T20:02:48Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "'Bad time to troll': Binance co-founder Zhao asks Musk for support after hack",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/30/binance-hack-elon-musk-tesla-spacex.html",
+      "published": "2026-10-30T20:02:45Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "energy",
+      "headline": "Sector Update: Energy Stocks Gain Late Afternoon",
+      "image": null,
+      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-gain-afternoon-195710565.html?.tsrc=rss",
+      "published": "2026-10-30T19:57:10Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "Stock Market Today: Nasdaq Slumps On Weak Intel Report; AMD Flashes Sell Signal (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/3cdf61c3-8737-3183-b5ff-f3bf8fc03ece/stock-market-today%3A-nasdaq.html?.tsrc=rss",
+      "published": "2026-10-30T19:45:33Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "\u2018Showy jewelry and fancy cars hold no appeal\u2019: We have a 99% chance of outliving our life savings. Why not spend it all?",
+      "image": "news-images/3703e9b7b6704210419dd704.jpg",
+      "link": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
+      "published": "2026-10-30T19:45:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "The Fed held interest rates steady, but these officials see more hikes coming soon",
+      "image": "news-images/140feca4b1ce54f35f464353.jpg",
+      "link": "https://www.marketwatch.com/story/the-fed-held-interest-rates-steady-but-these-officials-see-more-hikes-coming-soon-2098bbd8?mod=mw_rss_topstories",
+      "published": "2026-10-30T19:44:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "crypto",
+      "headline": "Binance loses $6.3 billion in crypto heist\u2014what happens to your money when an exchange gets hacked",
+      "image": null,
+      "link": "https://www.cnbc.com/make-it/2026/10/30/binance-crypto-hack-customer-funds.html",
+      "published": "2026-10-30T19:39:46Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-living adjustment.",
+      "image": "news-images/bdcdbe4cbc756ea644b08a4d.jpg",
+      "link": "https://www.marketwatch.com/story/is-it-curtains-for-cola-saving-social-security-could-mean-changing-the-cost-of-living-adjustment-867c6bd8?mod=mw_rss_topstories",
+      "published": "2026-10-30T19:39:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Wage growth hits 5-year low as American workers find their take-home pay is \u2018stretched thinner and thinner\u2019",
+      "image": "news-images/a0d1ba4e13a5be56ea901828.jpg",
+      "link": "https://www.marketwatch.com/story/american-workers-are-finding-their-take-home-pay-isnt-keeping-up-with-inflation-with-their-wallets-stretching-thinner-and-thinner-6a1af690?mod=mw_rss_topstories",
+      "published": "2026-10-30T19:39:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "This is where most people go wrong in their 30s and 40s",
+      "image": "news-images/75ae48498066e1bfcb32160c.jpg",
+      "link": "https://www.marketwatch.com/story/the-house-the-kids-college-and-the-raise-where-people-in-their-30s-and-40s-go-wrong-69ec6c90?mod=mw_rss_topstories",
+      "published": "2026-10-30T19:37:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Caregivers are now spending more than $11,000 a year out of pocket\u2014up 60% in five years",
+      "image": "news-images/8195fb58f2c906e74c6a1129.jpg",
+      "link": "https://www.marketwatch.com/story/were-spending-more-than-11-000-a-year-of-our-own-money-caring-for-our-aging-parents-and-loved-ones-8fc5b2dc?mod=mw_rss_topstories",
+      "published": "2026-10-30T19:37:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "What gave this city its \u2018best place to retire\u2019 crown? You can actually afford to live there.",
+      "image": "news-images/b51c6d74e399f35940dccd08.jpg",
+      "link": "https://www.marketwatch.com/story/what-gave-this-city-its-best-place-to-retire-crown-you-can-actually-afford-to-live-there-a06f8f4d?mod=mw_rss_topstories",
+      "published": "2026-10-30T19:33:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Binance hack: Investigators in a 'cat and mouse game' to recover $6.3 billion in stolen funds",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/30/binance-hack-stolen-crypto-recovery.html",
+      "published": "2026-10-30T19:27:03Z",
+      "sentiment": "neutral"
+    },
     {
       "category": "financials",
       "headline": "Wall Street braces for Democratic gains as 2026 midterm election nears",
@@ -8,14 +112,6 @@
       "link": "https://www.cnbc.com/2026/10/30/2026-midterm-election-wall-street-prepares-for-democratic-gains.html",
       "published": "2026-10-30T19:11:32Z",
       "sentiment": "bullish"
-    },
-    {
-      "category": "other",
-      "headline": "'Bad time to troll': Binance co-founder Zhao asks Musk for support after hack",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/30/binance-hack-elon-musk-tesla-spacex.html",
-      "published": "2026-10-30T19:02:06Z",
-      "sentiment": "neutral"
     },
     {
       "category": "tech",
@@ -58,14 +154,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "healthcare",
-      "headline": "Stock Market Today: Nasdaq Slumps On Weak Intel Report; CBOE, Vertex Pharma Jump (Live Coverage)",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/3cdf61c3-8737-3183-b5ff-f3bf8fc03ece/stock-market-today%3A-nasdaq.html?.tsrc=rss",
-      "published": "2026-10-30T18:39:21Z",
-      "sentiment": "bearish"
-    },
-    {
       "category": "other",
       "headline": "Reid Hoffman gives millions to Dems in late spending spree as Epstein fight spills into election",
       "image": null,
@@ -106,14 +194,6 @@
       "sentiment": "bearish"
     },
     {
-      "category": "other",
-      "headline": "Fed officials are already saying they\u2019ll need to get back to hiking rates",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/30/musalem-fed-monetary-policy-tightening.html",
-      "published": "2026-10-30T18:18:17Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "tech",
       "headline": "Microsoft is winning the cloud wars and becoming Wall Street\u2019s new golden child",
       "image": "news-images/001729834043dc81b9274826.jpg",
@@ -123,19 +203,11 @@
     },
     {
       "category": "other",
-      "headline": "Binance hack: Investigators in a 'cat and mouse game' to recover $6.3 billion in stolen funds",
+      "headline": "After Intel\u2019s historic stock drop, analysts say there\u2019s no reason to buy the dip",
       "image": null,
-      "link": "https://www.cnbc.com/2026/10/30/binance-hack-stolen-crypto-recovery.html",
-      "published": "2026-10-30T18:08:07Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "crypto",
-      "headline": "Why bitcoin held up better after the record Binance hack",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/30/binance-hack-bitcoin-price.html",
-      "published": "2026-10-30T18:07:00Z",
-      "sentiment": "neutral"
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=8b1de4a1-0480-4479-a2ca-3fc375b9931e&amp;mod=mw_rss_bulletins",
+      "published": "2026-10-30T18:05:17Z",
+      "sentiment": "bearish"
     },
     {
       "category": "tech",
@@ -144,14 +216,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/equities-tumble-intraday-amid-tech-180055421.html?.tsrc=rss",
       "published": "2026-10-30T18:00:55Z",
       "sentiment": "bearish"
-    },
-    {
-      "category": "other",
-      "headline": "\u2018He was heartbroken\u2019: My husband\u2019s kids abandoned him when he was dying. Was he right to leave everything to me?",
-      "image": "news-images/cf08bbb217c3e9e8e581b442.jpg",
-      "link": "https://www.marketwatch.com/story/he-was-heartbroken-my-husbands-kids-never-helped-when-he-was-gravely-ill-was-he-right-to-leave-everything-to-me-1ad0616b?mod=mw_rss_topstories",
-      "published": "2026-10-30T18:00:00Z",
-      "sentiment": "neutral"
     },
     {
       "category": "energy",
@@ -170,22 +234,6 @@
       "sentiment": "bearish"
     },
     {
-      "category": "federal",
-      "headline": "American workers are finding their take-home pay isn\u2019t keeping up with inflation, with their wallets \u2018stretched thinner and thinner\u2019",
-      "image": "news-images/a0d1ba4e13a5be56ea901828.jpg",
-      "link": "https://www.marketwatch.com/story/american-workers-are-finding-their-take-home-pay-isnt-keeping-up-with-inflation-with-their-wallets-stretching-thinner-and-thinner-6a1af690?mod=mw_rss_topstories",
-      "published": "2026-10-30T17:44:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "financials",
-      "headline": "Class action lawsuit blames Trump officials for student loan forgiveness delays",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/30/lawsuit-blames-trump-officials-for-student-loan-forgiveness-delays.html",
-      "published": "2026-10-30T17:40:00Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "tech",
       "headline": "AI Selloff Gains Steam. Nasdaq Sinks Over 3%.",
       "image": null,
@@ -194,35 +242,11 @@
       "sentiment": "bullish"
     },
     {
-      "category": "other",
-      "headline": "You can expect the stock market to rally no matter who wins on Election Day",
-      "image": "news-images/27ae9f632cb26444e03e9c16.jpg",
-      "link": "https://www.marketwatch.com/story/you-can-expect-the-stock-market-to-rally-no-matter-who-wins-on-election-day-d4a3c282?mod=mw_rss_topstories",
-      "published": "2026-10-30T17:32:00Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "federal",
-      "headline": "Social Security\u2019s fate \u2014 and your benefits \u2014 are in the hands of the candidates elected this year",
-      "image": "news-images/13b51076d16d2cc4ef6114e2.jpg",
-      "link": "https://www.marketwatch.com/story/the-midterms-are-crucial-to-the-future-of-social-security-no-matter-how-old-you-are-0f080a9c?mod=mw_rss_topstories",
-      "published": "2026-10-30T17:21:00Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "tech",
       "headline": "Data centers are a political third rail. West Virginia is grabbing it anyway.",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=95464059-371f-42c7-af68-7cb7f6a20e3b&amp;mod=mw_rss_bulletins",
       "published": "2026-10-30T17:20:26Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "The big winners of the tech wreck are biopharma stocks",
-      "image": "news-images/64e121cc85de3e3df1902f22.jpg",
-      "link": "https://www.marketwatch.com/story/the-big-winners-of-the-tech-wreck-are-biopharma-stocks-2ac4d175?mod=mw_rss_topstories",
-      "published": "2026-10-30T17:13:00Z",
       "sentiment": "neutral"
     },
     {
@@ -234,27 +258,11 @@
       "sentiment": "neutral"
     },
     {
-      "category": "other",
-      "headline": "After Intel\u2019s historic stock drop, analysts say there\u2019s no reason to buy the dip",
-      "image": "news-images/69913892853eea8041ca4da7.jpg",
-      "link": "https://www.marketwatch.com/story/after-intels-historic-stock-drop-analysts-say-theres-no-reason-to-buy-the-dip-068446af?mod=mw_rss_topstories",
-      "published": "2026-10-30T16:45:00Z",
-      "sentiment": "bearish"
-    },
-    {
       "category": "tech",
       "headline": "Update: US Equity Indexes Slide as Mega-Cap Chipmakers Sink Following Intel's Results",
       "image": null,
       "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-slide-mega-163842952.html?.tsrc=rss",
       "published": "2026-10-30T16:38:42Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Trump administration is illegally delaying student-debt forgiveness for tens of thousands of public servants, lawsuit alleges",
-      "image": "news-images/fa52e134f292c6d09b4938f1.jpg",
-      "link": "https://www.marketwatch.com/story/trump-administration-is-illegally-delaying-student-debt-forgiveness-for-tens-of-thousands-of-public-servants-lawsuit-alleges-e4d31e59?mod=mw_rss_topstories",
-      "published": "2026-10-30T16:20:00Z",
       "sentiment": "neutral"
     },
     {
@@ -298,14 +306,6 @@
       "sentiment": "bearish"
     },
     {
-      "category": "tech",
-      "headline": "Stock Market Today: Nasdaq Futures Plunge 2% as Big Tech Sells Off",
-      "image": null,
-      "link": "https://247wallst.com/investing/2026/10/30/stock-market-today-nasdaq-futures-plunge-2-as-big-tech-sells-off/?.tsrc=rss",
-      "published": "2026-10-30T13:32:17Z",
-      "sentiment": "bearish"
-    },
-    {
       "category": "other",
       "headline": "Intel appears set to surrender $128 billion in market value at opening bell",
       "image": null,
@@ -322,16 +322,16 @@
       "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-10-30T19:11:32Z",
-  "source_item_count": 69,
+  "newest_item_published": "2026-10-30T20:02:48Z",
+  "source_item_count": 67,
   "sources": {
     "cnbc": {
-      "contributed": 11,
+      "contributed": 10,
       "error": null,
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-10-30T19:11:32Z",
+      "newest": "2026-10-30T20:02:48Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,11 +340,11 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-10-30T18:50:00Z",
+      "newest": "2026-10-30T19:45:00Z",
       "ok": true
     },
     "mw_bulletins": {
-      "contributed": 9,
+      "contributed": 10,
       "error": null,
       "fetched": 10,
       "fresh": 10,
@@ -355,10 +355,10 @@
     "yahoo_dji": {
       "contributed": 10,
       "error": null,
-      "fetched": 19,
-      "fresh": 18,
+      "fetched": 17,
+      "fresh": 17,
       "label": "Yahoo Finance",
-      "newest": "2026-10-30T18:57:07Z",
+      "newest": "2026-10-30T19:57:10Z",
       "ok": true
     }
   }
