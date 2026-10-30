@@ -1,6 +1,110 @@
 {
-  "generated_at": "2026-10-30T16:12:11Z",
+  "generated_at": "2026-10-30T17:12:07Z",
   "headlines": [
+    {
+      "category": "other",
+      "headline": "Alaska Senate: Judge fast tracks new bids to dismiss DOJ lawsuit over 2nd Sullivan candidacy",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/30/alaska-senate-election-doj-lawsuit-sullivan-peltola.html",
+      "published": "2026-10-30T17:03:38Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "Halloween gets pricier as chocolate costs climb \u2014 Hershey may feel the pinch",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/30/halloween-gets-pricier-as-chocolate-costs-rise-hershey-could-feel-it.html",
+      "published": "2026-10-30T16:55:41Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "S&P 500 Joins Nasdaq to End October in the Red",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/aad4b0ac-4b46-3fd9-8a07-f07611e55f81/s%26p-500-joins-nasdaq-to-end.html?.tsrc=rss",
+      "published": "2026-10-30T16:55:23Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "St. Louis Fed's Musalem: Another rate hike needed 'soon'",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/30/musalem-fed-monetary-policy-tightening.html",
+      "published": "2026-10-30T16:54:37Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Intel stock heads for worst day in more than 50 years, wiping $12 billion off government's stake",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html",
+      "published": "2026-10-30T16:54:11Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "After Intel\u2019s historic stock drop, analysts say there\u2019s no reason to buy the dip",
+      "image": "news-images/69913892853eea8041ca4da7.jpg",
+      "link": "https://www.marketwatch.com/story/after-intels-historic-stock-drop-analysts-say-theres-no-reason-to-buy-the-dip-068446af?mod=mw_rss_topstories",
+      "published": "2026-10-30T16:45:00Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "international",
+      "headline": "Chevron and Exxon hit all-time highs as refining profits soar in reaction to Iran and Ukraine wars",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/30/chevron-exxon-cvx-xom-earnings-q3-2026.html",
+      "published": "2026-10-30T16:44:31Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "tech",
+      "headline": "Google lost nearly half a trillion this week. Here's how Mike Khouw is trading it",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/30/google-lost-about-half-a-trillion-this-week-how-mike-khouw-trades-it-.html",
+      "published": "2026-10-30T16:41:34Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Update: US Equity Indexes Slide as Mega-Cap Chipmakers Sink Following Intel's Results",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-slide-mega-163842952.html?.tsrc=rss",
+      "published": "2026-10-30T16:38:42Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "consumer",
+      "headline": "Stock Market Today: Nasdaq Slumps On Weak Amazon Report; Medical Testing Name Soars (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/3cdf61c3-8737-3183-b5ff-f3bf8fc03ece/stock-market-today%3A-nasdaq.html?.tsrc=rss",
+      "published": "2026-10-30T16:31:40Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Binance's $6.3 billion hack: What we know and what comes next",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/30/billions-in-crypto-frozen-in-binance-hack-heres-what-happens-next-.html",
+      "published": "2026-10-30T16:31:36Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Trump administration is illegally delaying student-debt forgiveness for tens of thousands of public servants, lawsuit alleges",
+      "image": "news-images/fa52e134f292c6d09b4938f1.jpg",
+      "link": "https://www.marketwatch.com/story/trump-administration-is-illegally-delaying-student-debt-forgiveness-for-tens-of-thousands-of-public-servants-lawsuit-alleges-e4d31e59?mod=mw_rss_topstories",
+      "published": "2026-10-30T16:20:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "What AMD investors learned from Intel\u2019s earnings",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=76d0e380-81c0-426c-8673-6b6184b79fee&amp;mod=mw_rss_bulletins",
+      "published": "2026-10-30T16:13:51Z",
+      "sentiment": "neutral"
+    },
     {
       "category": "financials",
       "headline": "Class action lawsuit blames Trump officials for student loan forgiveness delays",
@@ -16,14 +120,6 @@
       "link": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
       "published": "2026-10-30T16:01:51Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "international",
-      "headline": "Chevron and Exxon hit all-time highs as refining profits soar in reaction to Iran and Ukraine wars",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/30/chevron-exxon-cvx-xom-earnings-q3-2026.html",
-      "published": "2026-10-30T16:01:11Z",
-      "sentiment": "bullish"
     },
     {
       "category": "other",
@@ -59,42 +155,10 @@
     },
     {
       "category": "other",
-      "headline": "Jim Cramer reveals 3 stocks to buy \u2014 plus, why he is not selling the Intel plunge",
-      "image": null,
-      "link": "https://www.cnbc.com/investingclub/2026/10/30/cramer-sees-3-stocks-to-buy-not-selling-the-intel-plunge.html",
-      "published": "2026-10-30T15:49:19Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "financials",
-      "headline": "Intel heads for worst day on Wall Street in more than 50 years on weak guidance",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html",
-      "published": "2026-10-30T15:43:48Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Cheaper cars are selling considerably faster than at the beginning of the year",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/30/cheap-cars-selling-fast.html",
-      "published": "2026-10-30T15:37:21Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
       "headline": "These are the biggest winners and losers during the stock market\u2019s wild October",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=d4cac0b6-aa58-4fda-81bc-8f92d27df185&amp;mod=mw_rss_bulletins",
       "published": "2026-10-30T15:33:40Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Gamble on democracy: Inside suspicious election-contracts trading on prediction markets",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/30/gamble-on-democracy-inside-suspicious-election-contracts-trading-on-prediction-markets-.html",
-      "published": "2026-10-30T15:33:00Z",
       "sentiment": "neutral"
     },
     {
@@ -114,14 +178,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "tech",
-      "headline": "MARKETS LIVE: Nasdaq plunges as Big Tech's AI outlays fuel tech sell-off, while crypto slides after $6.3bn Binance hack",
-      "image": null,
-      "link": "https://www.proactiveinvestors.com/companies/news/1100978/markets-live-ftse-100-set-to-rise-despite-wall-street-sell-off-and-asian-technology-rout-1100978.html?.tsrc=rss",
-      "published": "2026-10-30T15:16:00Z",
-      "sentiment": "bearish"
-    },
-    {
       "category": "other",
       "headline": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who\u2019s to blame?",
       "image": "news-images/2cf1fe333a00c3e0a871d35d.jpg",
@@ -139,34 +195,10 @@
     },
     {
       "category": "tech",
-      "headline": "Musk and Zuckerberg echo Trump's push to rebrand AI as 'super intelligence' on earnings calls. Others do not",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/30/trump-tech-allies-swap-ai-for-super-intelligence-in-earnings-calls.html",
-      "published": "2026-10-30T15:14:27Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
       "headline": "Data centers are a political third rail. West Virginia is grabbing it anyway.",
       "image": "news-images/3afd0b62f3d19dc457935c92.jpg",
       "link": "https://www.marketwatch.com/story/data-centers-are-a-political-third-rail-west-virginia-is-grabbing-it-anyway-80d129b5?mod=mw_rss_topstories",
       "published": "2026-10-30T15:14:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "crypto",
-      "headline": "Stock Market Today: Nasdaq Slammed As Bitcoin Crumbles On Massive Hack (Live Coverage)",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/3cdf61c3-8737-3183-b5ff-f3bf8fc03ece/stock-market-today%3A-nasdaq.html?.tsrc=rss",
-      "published": "2026-10-30T15:13:42Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Swiss central bank posts bumper $23 billion profit thanks to gold, foreign assets",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/30/swiss-national-bank-q3-profit-gold-foreign-asset.html",
-      "published": "2026-10-30T15:07:48Z",
       "sentiment": "neutral"
     },
     {
@@ -191,22 +223,6 @@
       "image": "news-images/f630f85b661e596b81f6eb24.jpg",
       "link": "https://www.marketwatch.com/story/this-strategist-correctly-recommended-shorting-big-tech-debt-last-year-now-he-says-the-yields-make-it-attractive-3ec2e0fe?mod=mw_rss_topstories",
       "published": "2026-10-30T14:30:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "It\u2019s the strangest job market the U.S. has ever seen. The low-hire, low-fire economy turns 3 years old.",
-      "image": "news-images/b8cf14bdc670552bbcebf56f.jpg",
-      "link": "https://www.marketwatch.com/story/its-the-strangest-job-market-the-u-s-has-ever-seen-the-low-hire-low-fire-economy-turns-3-years-old-ce8d0dfe?mod=mw_rss_topstories",
-      "published": "2026-10-30T14:22:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "AMD\u2019s stock slides after Intel earnings reveal two big issues",
-      "image": "news-images/b2127ffdc7387ebb2ffad03a.jpg",
-      "link": "https://www.marketwatch.com/story/amds-stock-slides-after-intel-earnings-reveal-two-big-issues-d3afed91?mod=mw_rss_topstories",
-      "published": "2026-10-30T14:19:00Z",
       "sentiment": "neutral"
     },
     {
@@ -282,14 +298,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "tech",
-      "headline": "Wall Street sell-off continues as investors question returns on \u2018monster AI splurge\u2019",
-      "image": null,
-      "link": "https://www.cnn.com/2026/10/30/investing/us-stocks-ai-investment?.tsrc=rss",
-      "published": "2026-10-30T12:08:03Z",
-      "sentiment": "bearish"
-    },
-    {
       "category": "energy",
       "headline": "Oil won\u2019t be getting cheap anytime soon, no matter what happens in the Gulf",
       "image": null,
@@ -312,18 +320,10 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=a091c53b-6df1-42af-a79c-34ddbc8400da&amp;mod=mw_rss_bulletins",
       "published": "2026-10-29T22:39:24Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "consumer",
-      "headline": "Live updates: Amazon confirms its Starlink rival is set to launch in 2026",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=f73b94db-8466-4e2b-a67d-486ecd6f91c8&amp;mod=mw_rss_bulletins",
-      "published": "2026-10-29T21:41:36Z",
-      "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-10-30T16:04:59Z",
-  "source_item_count": 70,
+  "newest_item_published": "2026-10-30T17:03:38Z",
+  "source_item_count": 69,
   "sources": {
     "cnbc": {
       "contributed": 10,
@@ -331,7 +331,7 @@
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-10-30T16:04:59Z",
+      "newest": "2026-10-30T17:03:38Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,7 +340,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-10-30T16:00:00Z",
+      "newest": "2026-10-30T16:45:00Z",
       "ok": true
     },
     "mw_bulletins": {
@@ -349,16 +349,16 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-10-30T15:33:40Z",
+      "newest": "2026-10-30T16:13:51Z",
       "ok": true
     },
     "yahoo_dji": {
       "contributed": 10,
       "error": null,
-      "fetched": 20,
-      "fresh": 19,
+      "fetched": 19,
+      "fresh": 18,
       "label": "Yahoo Finance",
-      "newest": "2026-10-30T15:50:14Z",
+      "newest": "2026-10-30T16:55:23Z",
       "ok": true
     }
   }
