@@ -1,13 +1,181 @@
 {
-  "generated_at": "2026-10-30T21:12:07Z",
+  "generated_at": "2026-10-30T22:56:14Z",
   "headlines": [
+    {
+      "category": "other",
+      "headline": "Jim Cramer says it's time to look beyond tech. Here are 4 consumer stocks he likes",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/30/jim-cramer-consumer-staples-stocks.html",
+      "published": "2026-10-30T22:52:04Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "This Halloween, are king-sized candy bars a better deal than fun-sized ones?",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=1274034d-9cd5-45bd-99a6-a56dc0444e6d&amp;mod=mw_rss_bulletins",
+      "published": "2026-10-30T22:45:29Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Meta outlook revised downward by S&P on cash flow and capex concerns",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/30/meta-outlook-to-revised-to-negative-by-sp-after-cash-flow-negative.html",
+      "published": "2026-10-30T22:42:26Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "This cybersecurity stock will be the next to join the S&P 500",
+      "image": "news-images/a94f7ce4a3c31c0dc5fc1003.jpg",
+      "link": "https://www.marketwatch.com/story/this-cybersecurity-stock-will-be-the-next-to-join-the-s-p-500-dc976803?mod=mw_rss_topstories",
+      "published": "2026-10-30T22:20:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Cramer\u2019s week ahead: Expect more volatility as tech earnings, midterms loom",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/30/jim-cramer-week-ahead-apple-amd-jobs-report.html",
+      "published": "2026-10-30T22:17:13Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Gamble on democracy: Inside suspicious election-contracts trading on prediction markets",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/30/gamble-on-democracy-inside-suspicious-election-contracts-trading-on-prediction-markets-.html",
+      "published": "2026-10-30T22:00:53Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Fed officials are already saying they\u2019ll need to get back to hiking rates",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/30/musalem-fed-monetary-policy-tightening.html",
+      "published": "2026-10-30T21:53:10Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "crypto",
+      "headline": "Binance loses $6.3 billion in crypto heist\u2014what happens to your money when an exchange gets hacked",
+      "image": null,
+      "link": "https://www.cnbc.com/make-it/2026/10/30/binance-crypto-hack-customer-funds.html",
+      "published": "2026-10-30T21:45:52Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "international",
+      "headline": "Why gold plunged to its lowest price in a year despite renewed Iran jitters",
+      "image": "news-images/eab6b30d09fc2e52551e813b.jpg",
+      "link": "https://www.marketwatch.com/story/why-gold-plunged-to-its-lowest-price-in-a-year-despite-renewed-iran-jitters-365be0e2?mod=mw_rss_topstories",
+      "published": "2026-10-30T21:30:00Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "Warsh wants the Fed to say less. Two officials are pushing for more transparency.",
+      "image": "news-images/140feca4b1ce54f35f464353.jpg",
+      "link": "https://www.marketwatch.com/story/the-fed-held-interest-rates-steady-but-these-officials-see-more-hikes-coming-soon-2098bbd8?mod=mw_rss_topstories",
+      "published": "2026-10-30T21:23:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "crypto",
+      "headline": "$6.3 billion Binance hack is largest crypto theft on record",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
+      "published": "2026-10-30T21:21:17Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "energy",
+      "headline": "Clearway Energy (CWEN) Suffers a Larger Drop Than the General Market: Key Insights",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/clearway-energy-cwen-suffers-larger-211502165.html?.tsrc=rss",
+      "published": "2026-10-30T21:15:02Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "ChargePoint Holdings, Inc. (CHPT) Ascends While Market Falls: Some Facts to Note",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/chargepoint-holdings-inc-chpt-ascends-211502526.html?.tsrc=rss",
+      "published": "2026-10-30T21:15:02Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "Why Blink Charging (BLNK) Dipped More Than Broader Market Today",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-blink-charging-blnk-dipped-211502136.html?.tsrc=rss",
+      "published": "2026-10-30T21:15:02Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "RH (RH) Falls More Steeply Than Broader Market: What Investors Need to Know",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rh-rh-falls-more-steeply-211502206.html?.tsrc=rss",
+      "published": "2026-10-30T21:15:02Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "Lyft (LYFT) Dips More Than Broader Market: What You Should Know",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lyft-lyft-dips-more-broader-211502748.html?.tsrc=rss",
+      "published": "2026-10-30T21:15:02Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "energy",
+      "headline": "Cenovus Energy (CVE) Ascends While Market Falls: Some Facts to Note",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/cenovus-energy-cve-ascends-while-211502797.html?.tsrc=rss",
+      "published": "2026-10-30T21:15:02Z",
+      "sentiment": "bearish"
+    },
     {
       "category": "other",
       "headline": "Stock Market Today: Nasdaq Slumps On Weak Intel Report; NetApp Gives Sell Signal",
       "image": null,
       "link": "https://finance.yahoo.com/m/3cdf61c3-8737-3183-b5ff-f3bf8fc03ece/stock-market-today%3A-nasdaq.html?.tsrc=rss",
-      "published": "2026-10-30T20:57:12Z",
+      "published": "2026-10-30T21:06:56Z",
       "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "Here's Why Star Bulk Carriers (SBLK) Fell More Than Broader Market",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/heres-why-star-bulk-carriers-210002606.html?.tsrc=rss",
+      "published": "2026-10-30T21:00:02Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Why the Market Dipped But Kraft Heinz (KHC) Gained Today",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-market-dipped-kraft-heinz-210002593.html?.tsrc=rss",
+      "published": "2026-10-30T21:00:02Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "Humacyte, Inc. (HUMA) Suffers a Larger Drop Than the General Market: Key Insights",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/humacyte-inc-huma-suffers-larger-210002811.html?.tsrc=rss",
+      "published": "2026-10-30T21:00:02Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "SentinelOne (S) Declines More Than Market: Some Information for Investors",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sentinelone-declines-more-market-information-210002145.html?.tsrc=rss",
+      "published": "2026-10-30T21:00:02Z",
+      "sentiment": "neutral"
     },
     {
       "category": "tech",
@@ -67,14 +235,6 @@
     },
     {
       "category": "other",
-      "headline": "US Equity Indexes Drop This Week as Disappointing Hyperscaler Results Offset Gains From Anthropic's IPO Boost",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-drop-week-204054955.html?.tsrc=rss",
-      "published": "2026-10-30T20:40:54Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "other",
       "headline": "Intel stock has worst day since 1970s, wiping about $12 billion off government's stake",
       "image": null,
       "link": "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html",
@@ -114,60 +274,12 @@
       "sentiment": "bearish"
     },
     {
-      "category": "other",
-      "headline": "Trump administration is illegally delaying student-debt forgiveness for tens of thousands of public servants, lawsuit alleges",
-      "image": "news-images/fa52e134f292c6d09b4938f1.jpg",
-      "link": "https://www.marketwatch.com/story/trump-administration-is-illegally-delaying-student-debt-forgiveness-for-tens-of-thousands-of-public-servants-lawsuit-alleges-e4d31e59?mod=mw_rss_topstories",
-      "published": "2026-10-30T20:23:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "How major US stock indexes fared Friday 10/30/2026",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/major-us-stock-indexes-fared-202111310.html?.tsrc=rss",
-      "published": "2026-10-30T20:21:11Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Update: US Equity Indexes Slump as Intel's Results Trigger Sell-Off in Mega-Cap Chipmakers",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-slump-intel-202046249.html?.tsrc=rss",
-      "published": "2026-10-30T20:20:46Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "tech",
-      "headline": "Chip stocks end in a sea of red, dragging down Nasdaq and S&P 500",
-      "image": null,
-      "link": "https://finance.yahoo.com/video/chip-stocks-end-sea-red-201300907.html?.tsrc=rss",
-      "published": "2026-10-30T20:13:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Stocks Plunge Again as AI Trade Unravels. Nasdaq Sees Worst Day Since June.",
-      "image": null,
-      "link": "https://www.ibtimes.com/stocks-plunge-investors-question-ai-spending-intel-outlook-3809231?.tsrc=rss",
-      "published": "2026-10-30T20:12:22Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "tech",
       "headline": "Nasdaq logs worst month since March 2025 as weak tech earnings rattle investors",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=a27a50f8-638a-4595-a28e-53a5150cdf91&amp;mod=mw_rss_bulletins",
       "published": "2026-10-30T20:11:04Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "AI Selloff Goes from Bad to Worse in Market's Biggest Loss Since June",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/271f9c34-4dd6-3322-93d4-ff7b4ccad30a/ai-selloff-goes-from-bad-to.html?.tsrc=rss",
-      "published": "2026-10-30T20:04:01Z",
-      "sentiment": "bearish"
     },
     {
       "category": "other",
@@ -178,99 +290,11 @@
       "sentiment": "neutral"
     },
     {
-      "category": "energy",
-      "headline": "Sector Update: Energy Stocks Gain Late Afternoon",
-      "image": null,
-      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-gain-afternoon-195710565.html?.tsrc=rss",
-      "published": "2026-10-30T19:57:10Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "other",
-      "headline": "\u2018Showy jewelry and fancy cars hold no appeal\u2019: We have a 99% chance of outliving our life savings. Why not spend it all?",
-      "image": "news-images/3703e9b7b6704210419dd704.jpg",
-      "link": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
-      "published": "2026-10-30T19:45:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "The Fed held interest rates steady, but these officials see more hikes coming soon",
-      "image": "news-images/140feca4b1ce54f35f464353.jpg",
-      "link": "https://www.marketwatch.com/story/the-fed-held-interest-rates-steady-but-these-officials-see-more-hikes-coming-soon-2098bbd8?mod=mw_rss_topstories",
-      "published": "2026-10-30T19:44:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "crypto",
-      "headline": "Binance loses $6.3 billion in crypto heist\u2014what happens to your money when an exchange gets hacked",
-      "image": null,
-      "link": "https://www.cnbc.com/make-it/2026/10/30/binance-crypto-hack-customer-funds.html",
-      "published": "2026-10-30T19:39:46Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Binance hack: Investigators in a 'cat and mouse game' to recover $6.3 billion in stolen funds",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/30/binance-hack-stolen-crypto-recovery.html",
-      "published": "2026-10-30T19:27:03Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "financials",
-      "headline": "Wall Street braces for Democratic gains as 2026 midterm election nears",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/30/2026-midterm-election-wall-street-prepares-for-democratic-gains.html",
-      "published": "2026-10-30T19:11:32Z",
-      "sentiment": "bullish"
-    },
-    {
       "category": "tech",
       "headline": "Nasdaq and S&P 500 plummeting in final hour amid tech rout; Dow down 700 points",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=a00a7a81-04a7-4c5d-8fd3-5a773debbb43&amp;mod=mw_rss_bulletins",
       "published": "2026-10-30T19:00:25Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Update: Nasdaq Plummets 975 Points as Intel's Results Help Trigger Sell-Off in Mega-Cap Chipmakers",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-plummets-975-points-intel-185707804.html?.tsrc=rss",
-      "published": "2026-10-30T18:57:07Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "tech",
-      "headline": "Tech gets crushed, defensive stocks shine. How we're making sense of it all",
-      "image": null,
-      "link": "https://www.cnbc.com/investingclub/2026/10/30/tech-gets-crushed-defensive-stocks-shine-how-were-making-sense-of-it-all.html",
-      "published": "2026-10-30T18:55:44Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Cheaper cars are selling considerably faster than at the beginning of the year",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/30/cheap-cars-selling-fast.html",
-      "published": "2026-10-30T18:45:35Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Reid Hoffman gives millions to Dems in late spending spree as Epstein fight spills into election",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/30/reid-hoffman-democrats-epstein-midterms-2026.html",
-      "published": "2026-10-30T18:32:17Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "energy",
-      "headline": "Tankers defy sharp escalation of Iranian attacks to keep crude oil flowing through Strait of Hormuz",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/10/30/tanker-attack-strait-hormuz-iran-war-oil.html",
-      "published": "2026-10-30T18:28:09Z",
       "sentiment": "neutral"
     },
     {
@@ -296,33 +320,9 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=d4cac0b6-aa58-4fda-81bc-8f92d27df185&amp;mod=mw_rss_bulletins",
       "published": "2026-10-30T15:33:40Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "The cost of money itself is on the midterm ballot. Here\u2019s how.",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=5a926cce-ef80-46b7-b5ac-609ffcf55fc5&amp;mod=mw_rss_bulletins",
-      "published": "2026-10-30T15:14:42Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Reddit shares are on track for their biggest-ever single-session loss",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=5270a882-a04a-4315-b7ed-d929f85648a4&amp;mod=mw_rss_bulletins",
-      "published": "2026-10-30T14:58:07Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Nasdaq and S&P 500 sharply lower at open as tech stocks stumble \u2014 live updates",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=481665c7-ba54-4817-9949-3776c9eb5ea1&amp;mod=mw_rss_bulletins",
-      "published": "2026-10-30T13:37:33Z",
-      "sentiment": "bearish"
     }
   ],
-  "newest_item_published": "2026-10-30T20:57:12Z",
+  "newest_item_published": "2026-10-30T22:52:04Z",
   "source_item_count": 68,
   "sources": {
     "cnbc": {
@@ -331,7 +331,7 @@
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-10-30T20:46:04Z",
+      "newest": "2026-10-30T22:52:04Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,25 +340,25 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-10-30T20:52:00Z",
+      "newest": "2026-10-30T22:20:00Z",
       "ok": true
     },
     "mw_bulletins": {
-      "contributed": 9,
+      "contributed": 7,
       "error": null,
       "fetched": 10,
       "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-10-30T20:42:04Z",
+      "newest": "2026-10-30T22:45:29Z",
       "ok": true
     },
     "yahoo_dji": {
-      "contributed": 11,
+      "contributed": 13,
       "error": null,
       "fetched": 18,
       "fresh": 18,
       "label": "Yahoo Finance",
-      "newest": "2026-10-30T20:57:12Z",
+      "newest": "2026-10-30T21:15:02Z",
       "ok": true
     }
   }
