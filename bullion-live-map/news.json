@@ -1,21 +1,157 @@
 {
-  "generated_at": "2026-11-02T13:12:09Z",
+  "generated_at": "2026-11-02T14:12:07Z",
   "headlines": [
     {
-      "category": "healthcare",
-      "headline": "Defense, healthcare, crypto and AI: How the midterm election could affect stocks",
+      "category": "energy",
+      "headline": "Crude oil dives to session low on Iran peace talk hopes ahead of midterms",
       "image": null,
-      "link": "https://www.cnbc.com/2026/11/02/midterm-election-stocks-defense-healthcare-crypto-ai.html",
-      "published": "2026-11-02T13:06:16Z",
+      "link": "https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html",
+      "published": "2026-11-02T14:10:50Z",
       "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Oracle files to sell $20 billion in new stock, bonds to finance AI buildout",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
+      "published": "2026-11-02T14:03:44Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Oracle\u2019s stock falls as the company details plan to raise $20 billion",
+      "image": "news-images/e4912438ac27ef5afddfe08d.jpg",
+      "link": "https://www.marketwatch.com/story/oracles-stock-falls-as-the-company-details-plan-to-raise-20-billion-f03f5e16?mod=mw_rss_topstories",
+      "published": "2026-11-02T14:03:00Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "Why 2026 midterms could shakeup the typical market playbook",
+      "image": null,
+      "link": "https://finance.yahoo.com/video/why-2026-midterms-could-shakeup-the-typical-market-playbook-140255606.html?.tsrc=rss",
+      "published": "2026-11-02T14:02:55Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "\u2018It seems bizarre\u2019: We\u2019re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing us to do Roth conversions?",
+      "image": "news-images/cbcd887ed89df38f16983c65.jpg",
+      "link": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
+      "published": "2026-11-02T14:00:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "energy",
+      "headline": "Update: US Equity Futures Rise Pre-Bell as Traders Focus on Midterm Elections, Earnings, Lower Oil Prices",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-rise-pre-135822690.html?.tsrc=rss",
+      "published": "2026-11-02T13:58:22Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Fake nuclear warnings in Ukraine as Moscow, Kyiv report separate cyberattacks on emergency apps",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/02/russia-ukraine-cyberattack-zelenskyy-putin.html",
+      "published": "2026-11-02T13:57:39Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "We're buying the dip in a stock after an expectations reset",
+      "image": null,
+      "link": "https://www.cnbc.com/investingclub/2026/11/02/were-buying-the-dip-in-a-stock-after-an-expectations-reset.html",
+      "published": "2026-11-02T13:56:01Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "energy",
+      "headline": "Oil prices could average $130 a barrel next year, according to Goldman Sachs",
+      "image": "news-images/4f3dc62b04e398cec5d25971.jpg",
+      "link": "https://www.marketwatch.com/story/how-oil-prices-could-average-130-per-barrel-next-year-according-to-goldman-sachs-235ce32b?mod=mw_rss_topstories",
+      "published": "2026-11-02T13:46:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "These 10 megadonors have spent a total of $1 billion on the midterm elections",
+      "image": "news-images/68955253eb1a13fd93e0e7d3.jpg",
+      "link": "https://www.marketwatch.com/story/these-10-megadonors-have-spent-a-total-of-1-billion-on-the-midterm-elections-0dc279cf?mod=mw_rss_topstories",
+      "published": "2026-11-02T13:44:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Ryanair CEO warns fares could rise by up to 20% in 2027 as fuel bill jumps by $2.2 billion",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/02/ryanair-h1-earnings-iran-war-fuel-costs.html",
+      "published": "2026-11-02T13:42:14Z",
+      "sentiment": "bullish"
     },
     {
       "category": "tech",
       "headline": "Stock Market Today: Dow Rises As Oil Prices Dive; Apple Falls Ahead Of Earnings (Live Coverage)",
       "image": null,
       "link": "https://finance.yahoo.com/m/d2c3bbee-4bc3-3931-9b35-8ffcd691e60c/stock-market-today%3A-dow-rises.html?.tsrc=rss",
-      "published": "2026-11-02T12:58:55Z",
+      "published": "2026-11-02T13:34:02Z",
       "sentiment": "bearish"
+    },
+    {
+      "category": "tech",
+      "headline": "The market view of the oil, AI and bond trades went through a major change in October",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/01/oil-bond-yields-ai-market.html",
+      "published": "2026-11-02T13:26:05Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "healthcare",
+      "headline": "Defense, healthcare, crypto and AI: How the midterm election could affect stocks",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/02/midterm-election-stocks-defense-healthcare-crypto-ai.html",
+      "published": "2026-11-02T13:23:58Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "industrials",
+      "headline": "Economic calendar: Factory and construction-spending data on agenda",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=b8a80bf3-faae-4879-acb8-6d8bafed588e&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-02T13:18:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Stock Market Today: Dow Jones, S&P 500, Nasdaq 100 Futures Rise Ahead of Apple, Palantir Earnings; RYAAY, USLM, INO in Focus (UPDATED)",
+      "image": null,
+      "link": "https://www.benzinga.com/markets/equities/26/11/62770209/stock-market-today-dow-jones-sp-500-futures-rise-ahead-of-apple-palantir-earnings-ryaay-uslm-ino-in-focus?utm_source=yahooFinance&amp;utm_campaign=partner_feed&amp;utm_medium=referral&amp;.tsrc=rss",
+      "published": "2026-11-02T13:15:14Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "My father has Alzheimer\u2019s and his caregiver is using his debit card for DoorDash. Do I intervene?",
+      "image": "news-images/8bc0a214aff57f8b3aeda089.jpg",
+      "link": "https://www.marketwatch.com/story/theres-a-lot-of-hurt-between-us-my-fathers-caregiver-is-using-his-debit-card-for-doordash-orders-what-can-i-do-714de7a5?mod=mw_rss_topstories",
+      "published": "2026-11-02T13:15:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "energy",
+      "headline": "US Equity Futures Rise as Traders Focus on Midterm Elections, Earnings Amid Oil Prices Declining",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-rise-traders-131107923.html?.tsrc=rss",
+      "published": "2026-11-02T13:11:07Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "energy",
+      "headline": "Stock Futures Higher, Oil Lower as Investors Return to Risk",
+      "image": null,
+      "link": "https://www.wsj.com/finance/stocks/stock-futures-higher-oil-lower-as-investors-return-to-risk-17e79294?.tsrc=rss",
+      "published": "2026-11-02T13:03:00Z",
+      "sentiment": "neutral"
     },
     {
       "category": "other",
@@ -24,14 +160,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-rise-pre-bell-traders-125823627.html?.tsrc=rss",
       "published": "2026-11-02T12:58:23Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "energy",
-      "headline": "U.S. crude falls below $100 amid reports of U.S.-Iran diplomatic efforts",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html",
-      "published": "2026-11-02T12:40:46Z",
-      "sentiment": "bearish"
     },
     {
       "category": "healthcare",
@@ -90,14 +218,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "tech",
-      "headline": "Tech stocks enter November after a brutal October: Is it time to buy the dip?",
-      "image": "news-images/69971c174d992f666d8c347a.jpg",
-      "link": "https://www.marketwatch.com/story/tech-stocks-enter-november-after-a-brutal-october-is-it-time-to-buy-the-dip-09d8aff8?mod=mw_rss_topstories",
-      "published": "2026-11-02T12:10:00Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "other",
       "headline": "Markets Rebound. Elections and Earnings Threaten to Reignite Fears.",
       "image": null,
@@ -122,43 +242,11 @@
       "sentiment": "bullish"
     },
     {
-      "category": "tech",
-      "headline": "Fake nuclear warnings in Ukraine as Moscow, Kyiv report separate cyberattacks on emergency apps",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/02/russia-ukraine-cyberattack-zelenskyy-putin.html",
-      "published": "2026-11-02T11:18:37Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "energy",
-      "headline": "How oil prices could average $130 per barrel next year, according to Goldman Sachs",
-      "image": "news-images/4f3dc62b04e398cec5d25971.jpg",
-      "link": "https://www.marketwatch.com/story/how-oil-prices-could-average-130-per-barrel-next-year-according-to-goldman-sachs-235ce32b?mod=mw_rss_topstories",
-      "published": "2026-11-02T11:14:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Citi throws in the towel on hyperscalers after a key stock-market bet misfires",
-      "image": "news-images/77c5446c8b3590b6252fc3a2.jpg",
-      "link": "https://www.marketwatch.com/story/the-latest-market-wobble-sees-citi-giving-up-on-this-big-tech-trade-181b0dea?mod=mw_rss_topstories",
-      "published": "2026-11-02T11:08:00Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "energy",
       "headline": "OpenAI deepens Abu Dhabi foothold as Sam Altman inks deals spanning energy, government and investment",
       "image": null,
       "link": "https://www.cnbc.com/2026/11/02/openai-abu-dhabi-ai-deals.html",
       "published": "2026-11-02T11:02:08Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Stock Market Today: Dow Jones, S&P 500 Futures Rise Ahead of Apple, Palantir Earnings: RYAAY, USLM, INO in Focus",
-      "image": null,
-      "link": "https://www.benzinga.com/markets/equities/26/11/62770209/stock-market-today-dow-jones-sp-500-futures-rise-ahead-of-apple-palantir-earnings-ryaay-uslm-ino-in-focus?utm_source=yahooFinance&amp;utm_campaign=partner_feed&amp;utm_medium=referral&amp;.tsrc=rss",
-      "published": "2026-11-02T10:29:28Z",
       "sentiment": "neutral"
     },
     {
@@ -168,22 +256,6 @@
       "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-futures-rise-premarket-after-wall-street-s-worst-week-in-months-aapl-pltr-googl-intc-tgtx-in-focus/cNG9MJPR92w?.tsrc=rss",
       "published": "2026-11-02T10:18:32Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "\u2018She\u2019s a Type A personality\u2019: My stepmother wants me to repay my late father\u2019s $40,000 wedding gift. Should I oblige?",
-      "image": "news-images/6721e4064bdf4047732dff7f.jpg",
-      "link": "https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories",
-      "published": "2026-11-02T10:15:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Ryanair CEO warns fares could rise by up to 20% in 2027 as fuel bill jumps by $2.2 billion",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/02/ryanair-h1-earnings-iran-war-fuel-costs.html",
-      "published": "2026-11-02T09:27:47Z",
-      "sentiment": "bullish"
     },
     {
       "category": "other",
@@ -218,70 +290,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "energy",
-      "headline": "US futures rebound from huge sell-off last week as oil prices retreat sharply",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-mostly-advance-tech-052925730.html?.tsrc=rss",
-      "published": "2026-11-02T05:29:25Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Binance sees $3.64 billion in net outflows as withdrawals resume after massive hack",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/02/binance-outflow-hack-bitcoin.html",
-      "published": "2026-11-02T05:09:45Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "financials",
-      "headline": "Canada-India $5.5 billion bank takeover attracts opposition from workers, politicians",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/02/canada-india-bank-takeover-protest-workers.html",
-      "published": "2026-11-02T04:09:34Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Dow Jones Futures Rise But Market Still Ails; Midterm Elections Ahead",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/d0bc23d0-115b-314d-8989-07ca797bebfa/dow-jones-futures-rise-but.html?.tsrc=rss",
-      "published": "2026-11-02T04:01:36Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Sam Altman makes surprise South Korea visit as OpenAI builds on chip partnerships",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/02/openai-sam-altman-samsung-sk-south-korea.html",
-      "published": "2026-11-02T02:58:53Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "U.S. stock futures rebound as Apple earnings eyed; mid-terms in focus",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-edge-high-010138847.html?.tsrc=rss",
-      "published": "2026-11-02T01:01:38Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "other",
-      "headline": "Judge dismisses Alaska Senate election lawsuit; DOJ vows appeal",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/01/alaska-senate-doj-lawsuit-dismissed-sullivan-peltola.html",
-      "published": "2026-11-01T23:17:57Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "tech",
-      "headline": "Everything changed for the oil, AI and bond trades over the past month",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/01/oil-bond-yields-ai-market.html",
-      "published": "2026-11-01T22:27:40Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "other",
       "headline": "Your stock portfolio increasingly hinges on the bond market \u2014 and the midterms",
       "image": null,
@@ -312,35 +320,27 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=863c546f-25c6-42a6-8910-a9bd2064b873&amp;mod=mw_rss_bulletins",
       "published": "2026-10-31T14:13:30Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "These 10 megadonors have spent a total of $1 billion on the midterm elections",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=f81c2fcc-f599-4598-bb20-06e0f8d7d1df&amp;mod=mw_rss_bulletins",
-      "published": "2026-10-31T13:38:27Z",
-      "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-11-02T13:06:16Z",
+  "newest_item_published": "2026-11-02T14:10:50Z",
   "source_item_count": 68,
   "sources": {
     "cnbc": {
-      "contributed": 14,
+      "contributed": 12,
       "error": null,
       "fetched": 30,
       "fresh": 26,
       "label": "CNBC",
-      "newest": "2026-11-02T13:06:16Z",
+      "newest": "2026-11-02T14:10:50Z",
       "ok": true
     },
     "marketwatch": {
-      "contributed": 9,
+      "contributed": 10,
       "error": null,
       "fetched": 10,
-      "fresh": 9,
+      "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-11-02T12:26:00Z",
+      "newest": "2026-11-02T14:03:00Z",
       "ok": true
     },
     "mw_bulletins": {
@@ -349,16 +349,16 @@
       "fetched": 10,
       "fresh": 6,
       "label": "MW Bulletins",
-      "newest": "2026-11-02T12:33:50Z",
+      "newest": "2026-11-02T13:18:00Z",
       "ok": true
     },
     "yahoo_dji": {
-      "contributed": 12,
+      "contributed": 13,
       "error": null,
       "fetched": 18,
-      "fresh": 14,
+      "fresh": 16,
       "label": "Yahoo Finance",
-      "newest": "2026-11-02T12:58:55Z",
+      "newest": "2026-11-02T14:02:55Z",
       "ok": true
     }
   }
