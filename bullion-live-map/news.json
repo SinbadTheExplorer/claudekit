@@ -1,6 +1,102 @@
 {
-  "generated_at": "2026-11-02T16:12:17Z",
+  "generated_at": "2026-11-02T17:12:05Z",
   "headlines": [
+    {
+      "category": "tech",
+      "headline": "CrowdStrike lands an upgrade, and Jim Cramer's advice on Apple ahead of earnings",
+      "image": null,
+      "link": "https://www.cnbc.com/investingclub/2026/11/02/crowdstrike-lands-an-upgrade-and-jim-cramers-advice-on-apple-ahead-of-earnings.html",
+      "published": "2026-11-02T17:04:34Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "Fed will vote on rates less often. What that could mean for borrowers",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/02/fed-rate-votes-consumer-borrowing-costs.html",
+      "published": "2026-11-02T17:03:07Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Trump administration asks Supreme Court to hear California mail-in ballot appeal",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/02/supreme-court-california-mail-ballots-election.html",
+      "published": "2026-11-02T17:00:36Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "\u2018It seems bizarre\u2019: We\u2019re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing us to do Roth conversions?",
+      "image": "news-images/cbcd887ed89df38f16983c65.jpg",
+      "link": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
+      "published": "2026-11-02T17:00:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Lumentum CEO touts 'enormous' opportunity in massive AI connectivity deal with Marvell",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/02/marvell-lumentum-ai-deal.html",
+      "published": "2026-11-02T16:59:45Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "These tech stocks got unfairly swept up in last week\u2019s selloff, analysts say",
+      "image": "news-images/2b67c5b6b1606ad4b9a2e510.jpg",
+      "link": "https://www.marketwatch.com/story/these-tech-stocks-got-unfairly-swept-up-in-last-weeks-selloff-analysts-say-e296c1b3?mod=mw_rss_topstories",
+      "published": "2026-11-02T16:50:00Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "Stock market after midterm elections: What S&P 500 history shows",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
+      "published": "2026-11-02T16:48:28Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Judge tosses DOJ case against ex-FBI officials accused of lying about Hunter Biden probe: Reports",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/02/fbi-hunter-biden-doj-case-dismissed.html",
+      "published": "2026-11-02T16:42:12Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "energy",
+      "headline": "Crude oil dives to session low on Iran peace talk hopes ahead of midterms",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html",
+      "published": "2026-11-02T16:38:58Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "industrials",
+      "headline": "Stock Market Today: Dow Rallies As Anthropic Shares Spending Plans; Steel Play Rolls Past Entry (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/d2c3bbee-4bc3-3931-9b35-8ffcd691e60c/stock-market-today%3A-dow.html?.tsrc=rss",
+      "published": "2026-11-02T16:31:55Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "Behind Anthropic\u2019s 1,127% revenue surge \u2014 and the computing bill that erased its profit",
+      "image": "news-images/1203e0c6fd0699b9a151b2ce.jpg",
+      "link": "https://www.marketwatch.com/story/behind-anthropics-1-127-revenue-surge-and-the-computing-bill-that-erased-its-profit-2fe7e513?mod=mw_rss_topstories",
+      "published": "2026-11-02T16:22:00Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "Anthropic reports $17 billion in Q3 revenue, purchase commitments of $895.4 billion in revised S-1",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
+      "published": "2026-11-02T16:13:00Z",
+      "sentiment": "neutral"
+    },
     {
       "category": "other",
       "headline": "Grand Theft Callout: \u2018GTA 6\u2019 fans are missing work on the game\u2019s release day because they \u2018don\u2019t want to wait\u2019 anymore",
@@ -15,22 +111,6 @@
       "image": "news-images/974a26a5f11df106c8eaa620.jpg",
       "link": "https://www.marketwatch.com/story/when-you-turn-this-age-its-your-best-chance-to-get-crucial-tax-and-healthcare-plans-in-place-for-retirement-e9400392?mod=mw_rss_topstories",
       "published": "2026-11-02T16:09:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Anthropic reports $17 billion in Q3 revenue, purchase commitments of $895.4 billion in revised S-1",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
-      "published": "2026-11-02T16:07:39Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Marvell CEO touts 'enormous' opportunity in massive AI connectivity bet on Lumentum",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/02/marvell-lumentum-ai-deal.html",
-      "published": "2026-11-02T16:03:51Z",
       "sentiment": "neutral"
     },
     {
@@ -58,14 +138,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "energy",
-      "headline": "Crude oil dives to session low on Iran peace talk hopes ahead of midterms",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html",
-      "published": "2026-11-02T15:56:54Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "tech",
       "headline": "Oracle files to sell $20 billion in new stock, bonds to finance AI buildout",
       "image": null,
@@ -79,14 +151,6 @@
       "image": "news-images/cced7b4f7a02b064a3937891.jpg",
       "link": "https://www.marketwatch.com/story/we-are-in-our-70s-should-we-pay-off-our-2-5-mortgage-or-build-up-our-savings-5a35e9c1?mod=mw_rss_topstories",
       "published": "2026-11-02T15:45:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Stock market after midterm elections: What S&P 500 history shows",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
-      "published": "2026-11-02T15:41:12Z",
       "sentiment": "neutral"
     },
     {
@@ -122,30 +186,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "energy",
-      "headline": "Stock Market Today: Dow Rallies As Amazon Pops; Oil Stocks Skid On These Hopes (Live Coverage)",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/d2c3bbee-4bc3-3931-9b35-8ffcd691e60c/stock-market-today%3A-dow.html?.tsrc=rss",
-      "published": "2026-11-02T15:25:34Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "other",
-      "headline": "My ex-husband sent me a text, promising $20,000 for our children\u2019s education. Now he refuses to pay. What can I do?",
-      "image": "news-images/3efb101cfeb57f72fcd94c54.jpg",
-      "link": "https://www.marketwatch.com/story/my-abusive-ex-husband-promised-20-000-for-our-kids-education-now-he-refuses-to-pay-is-he-legally-obligated-325ef50f?mod=mw_rss_topstories",
-      "published": "2026-11-02T15:15:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Marvell\u2019s deal for Lumentum is giving flashbacks to the dot-com bubble",
-      "image": "news-images/eb407b227cd265ba21b40552.jpg",
-      "link": "https://www.marketwatch.com/story/marvell-and-lumentum-officially-plan-to-combine-heres-what-to-know-5599b98a?mod=mw_rss_topstories",
-      "published": "2026-11-02T15:05:00Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "other",
       "headline": "Stocks Claw Back. The Selling Might Not Be Over Quite Yet.",
       "image": null,
@@ -163,34 +203,10 @@
     },
     {
       "category": "other",
-      "headline": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
-      "image": "news-images/45f4c003ac21ae6d91c7720a.jpg",
-      "link": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
-      "published": "2026-11-02T14:30:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
       "headline": "Dow Jones, Nasdaq, S&P 500 weekly preview: U.S. midterms, earnings to test markets",
       "image": null,
       "link": "https://finance.yahoo.com/markets/stocks/articles/dow-jones-nasdaq-p-500-141514632.html?.tsrc=rss",
       "published": "2026-11-02T14:15:14Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "energy",
-      "headline": "MARKETS LIVE: Wall Street futures claw back losses as oil plunges before midterms",
-      "image": null,
-      "link": "https://www.proactiveinvestors.com/companies/news/1101037/markets-live-london-mid-caps-claw-back-recent-losses-as-ftse-100-drifts-1101037.html?.tsrc=rss",
-      "published": "2026-11-02T14:15:00Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "other",
-      "headline": "\u2018She\u2019s a Type A personality\u2019: My stepmother wants me to repay my late father\u2019s $40,000 wedding gift. Should I oblige?",
-      "image": "news-images/6721e4064bdf4047732dff7f.jpg",
-      "link": "https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories",
-      "published": "2026-11-02T14:15:00Z",
       "sentiment": "neutral"
     },
     {
@@ -227,14 +243,6 @@
     },
     {
       "category": "other",
-      "headline": "Jim Cramer's top 10 things to watch in the stock market Monday",
-      "image": null,
-      "link": "https://www.cnbc.com/investingclub/2026/11/02/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html",
-      "published": "2026-11-02T13:56:54Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
       "headline": "Stock Market News for Nov 2, 2026",
       "image": null,
       "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-nov-2-132700821.html?.tsrc=rss",
@@ -248,14 +256,6 @@
       "link": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-11022026-12206945?.tsrc=rss",
       "published": "2026-11-02T13:27:00Z",
       "sentiment": "bearish"
-    },
-    {
-      "category": "tech",
-      "headline": "The market view of the oil, AI and bond trades went through a major change in October",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/01/oil-bond-yields-ai-market.html",
-      "published": "2026-11-02T13:26:05Z",
-      "sentiment": "neutral"
     },
     {
       "category": "healthcare",
@@ -315,39 +315,39 @@
     },
     {
       "category": "other",
-      "headline": "Your stock portfolio increasingly hinges on the bond market \u2014 and the midterms",
+      "headline": "Growing Expectations for a Midterm Election \"Blue Wave\" Holds 2 Risks for the 2nd Priciest Stock Market in History",
       "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=e019e3c9-1fe1-474c-8454-0b0604e94a0b&amp;mod=mw_rss_bulletins",
-      "published": "2026-10-31T16:17:54Z",
+      "link": "https://www.fool.com/investing/2026/11/02/midterm-election-blue-wave-holds-2-risks-for-2nd-priciest-stock-market-in-history/?.tsrc=rss",
+      "published": "2026-11-02T12:26:02Z",
       "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-11-02T16:11:00Z",
+  "newest_item_published": "2026-11-02T17:04:34Z",
   "source_item_count": 67,
   "sources": {
     "cnbc": {
-      "contributed": 12,
+      "contributed": 14,
       "error": null,
       "fetched": 30,
       "fresh": 29,
       "label": "CNBC",
-      "newest": "2026-11-02T16:07:39Z",
+      "newest": "2026-11-02T17:04:34Z",
       "ok": true
     },
     "marketwatch": {
-      "contributed": 10,
+      "contributed": 9,
       "error": null,
       "fetched": 10,
-      "fresh": 10,
+      "fresh": 9,
       "label": "MarketWatch",
-      "newest": "2026-11-02T16:11:00Z",
+      "newest": "2026-11-02T17:00:00Z",
       "ok": true
     },
     "mw_bulletins": {
-      "contributed": 5,
+      "contributed": 4,
       "error": null,
       "fetched": 10,
-      "fresh": 5,
+      "fresh": 4,
       "label": "MW Bulletins",
       "newest": "2026-11-02T16:03:01Z",
       "ok": true
@@ -358,7 +358,7 @@
       "fetched": 17,
       "fresh": 15,
       "label": "Yahoo Finance",
-      "newest": "2026-11-02T15:25:34Z",
+      "newest": "2026-11-02T16:31:55Z",
       "ok": true
     }
   }
