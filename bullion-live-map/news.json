@@ -1,6 +1,110 @@
 {
-  "generated_at": "2026-11-02T18:12:06Z",
+  "generated_at": "2026-11-02T19:12:07Z",
   "headlines": [
+    {
+      "category": "energy",
+      "headline": "Update: Equities Rise Intraday Ahead of Midterm Elections as Oil Slides",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/equities-rise-intraday-ahead-midterm-190006630.html?.tsrc=rss",
+      "published": "2026-11-02T19:00:06Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "healthcare",
+      "headline": "Defense, healthcare, crypto and AI: How the midterm election could affect stocks",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/02/midterm-election-stocks-defense-healthcare-crypto-ai.html",
+      "published": "2026-11-02T18:59:48Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Texas governor race tightens in prediction markets, but Abbott remains favored",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/02/texas-governor-prediction-markets-abbott-hinojosa.html",
+      "published": "2026-11-02T18:54:04Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Social Security may have to cut retirement benefits in six years. Here's how much money is at stake for beneficiaries",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/01/social-security-benefit-cuts-2032.html",
+      "published": "2026-11-02T18:46:31Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "energy",
+      "headline": "Sector Update: Energy Stocks Fall Monday Afternoon",
+      "image": null,
+      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-fall-monday-184523145.html?.tsrc=rss",
+      "published": "2026-11-02T18:45:23Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "Trump Account holders to receive SpaceX stock from Gwynne Shotwell in December",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/02/trump-accounts-spacex-shares-shotwell.html",
+      "published": "2026-11-02T18:38:19Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Why Marvell\u2019s deal for Lumentum is giving flashbacks to the dot-com bubble",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=ad478bf9-31ec-4ab9-b471-a617345a45cd&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-02T18:33:52Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "energy",
+      "headline": "US Equity Indexes Rise Amid Sinking Crude Oil",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-rise-amid-182526945.html?.tsrc=rss",
+      "published": "2026-11-02T18:25:26Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Apple reports after the bell. Options traders expect a big move",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/02/apple-reports-after-the-bell-options-traders-expect-a-big-move.html",
+      "published": "2026-11-02T18:19:03Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Options traders are getting anxious on Palantir and Apple ahead of earnings",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/02/options-traders-are-getting-anxious-on-palantir-and-apple-ahead-of-earnings.html",
+      "published": "2026-11-02T18:16:02Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "financials",
+      "headline": "It may take weeks to tally the midterm election results. Here\u2019s why Wall Street isn\u2019t worried.",
+      "image": "news-images/9cbc702f7e67c7320b00d64c.jpg",
+      "link": "https://www.marketwatch.com/story/it-may-take-weeks-to-tally-the-midterm-election-results-heres-why-wall-street-isnt-worried-ed9313fd?mod=mw_rss_topstories",
+      "published": "2026-11-02T18:16:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "The bond-market rally is defying the typical investing playbook. Here\u2019s why.",
+      "image": "news-images/b5285232dfc10c3c9ba64e52.jpg",
+      "link": "https://www.marketwatch.com/story/the-bond-market-rally-is-defying-the-typical-investing-playbook-heres-why-17a14342?mod=mw_rss_topstories",
+      "published": "2026-11-02T18:13:00Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "DOJ asks Supreme Court to block California counting disputed mail-in ballots",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/02/supreme-court-california-mail-ballots-election.html",
+      "published": "2026-11-02T18:12:15Z",
+      "sentiment": "neutral"
+    },
     {
       "category": "tech",
       "headline": "Oracle files to sell $20 billion in new stock, bonds to finance AI buildout",
@@ -8,6 +112,14 @@
       "link": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
       "published": "2026-11-02T18:09:26Z",
       "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Stock Market Today: Dow Rallies As Anthropic Shares Spending Plans; These Stocks Clear Entries (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/d2c3bbee-4bc3-3931-9b35-8ffcd691e60c/stock-market-today%3A-dow.html?.tsrc=rss",
+      "published": "2026-11-02T18:00:26Z",
+      "sentiment": "bullish"
     },
     {
       "category": "other",
@@ -90,14 +202,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "other",
-      "headline": "DOJ asks Supreme Court to block California counting disputed mail-in ballots",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/02/supreme-court-california-mail-ballots-election.html",
-      "published": "2026-11-02T17:26:55Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "energy",
       "headline": "Stock Market Midday, Nov. 2: Stocks Rally as Oil Prices Tumble on Diplomatic Hopes",
       "image": null,
@@ -112,14 +216,6 @@
       "link": "https://www.cnbc.com/investingclub/2026/11/02/crowdstrike-lands-an-upgrade-and-jim-cramers-advice-on-apple-ahead-of-earnings.html",
       "published": "2026-11-02T17:04:34Z",
       "sentiment": "bullish"
-    },
-    {
-      "category": "other",
-      "headline": "Fed will vote on rates less often. What that could mean for borrowers",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/02/fed-rate-votes-consumer-borrowing-costs.html",
-      "published": "2026-11-02T17:03:07Z",
-      "sentiment": "neutral"
     },
     {
       "category": "other",
@@ -138,14 +234,6 @@
       "sentiment": "bearish"
     },
     {
-      "category": "industrials",
-      "headline": "Stock Market Today: Dow Rallies As Anthropic Shares Spending Plans; Steel Play Rolls Past Entry (Live Coverage)",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/d2c3bbee-4bc3-3931-9b35-8ffcd691e60c/stock-market-today%3A-dow.html?.tsrc=rss",
-      "published": "2026-11-02T16:31:55Z",
-      "sentiment": "bullish"
-    },
-    {
       "category": "other",
       "headline": "Behind Anthropic\u2019s 1,127% revenue surge \u2014 and the computing bill that erased its profit",
       "image": "news-images/1203e0c6fd0699b9a151b2ce.jpg",
@@ -162,43 +250,11 @@
       "sentiment": "bearish"
     },
     {
-      "category": "healthcare",
-      "headline": "When you turn this age, it\u2019s your best chance to get crucial tax and healthcare plans in place for retirement",
-      "image": "news-images/974a26a5f11df106c8eaa620.jpg",
-      "link": "https://www.marketwatch.com/story/when-you-turn-this-age-its-your-best-chance-to-get-crucial-tax-and-healthcare-plans-in-place-for-retirement-e9400392?mod=mw_rss_topstories",
-      "published": "2026-11-02T16:09:00Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "other",
       "headline": "Booming U.S. manufacturers can\u2019t keep up with demand",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=14f1a40e-15e9-4ae1-ba7b-de642aeaea27&amp;mod=mw_rss_bulletins",
       "published": "2026-11-02T16:03:01Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Booming U.S. manufacturers can\u2019t keep up with demand \u2014 and high inflation isn\u2019t helping",
-      "image": "news-images/bd356fcb223bff30952ad67d.jpg",
-      "link": "https://www.marketwatch.com/story/booming-u-s-manufacturers-cant-keep-up-with-demand-and-high-inflation-isnt-helping-128a3902?mod=mw_rss_topstories",
-      "published": "2026-11-02T15:59:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "financials",
-      "headline": "Wall Street's Fear Index is doing something strange. Here's what it means for stocks",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/02/wall-streets-fear-index-is-doing-something-strange-heres-what-it-means-for-stocks.html",
-      "published": "2026-11-02T15:30:41Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Fake nuclear warnings in Ukraine as Moscow, Kyiv report separate cyberattacks on emergency apps",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/02/russia-ukraine-cyberattack-zelenskyy-putin.html",
-      "published": "2026-11-02T15:28:46Z",
       "sentiment": "neutral"
     },
     {
@@ -226,14 +282,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "healthcare",
-      "headline": "Connecticut Sen. Chris Murphy hospitalized after stroke, office says",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/01/chris-murphy-stroke-senate-hospital.html",
-      "published": "2026-11-02T14:14:00Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "other",
       "headline": "Why 2026 midterms could shakeup the typical market playbook",
       "image": null,
@@ -258,59 +306,11 @@
       "sentiment": "neutral"
     },
     {
-      "category": "other",
-      "headline": "Stock Market News for Nov 2, 2026",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-nov-2-132700821.html?.tsrc=rss",
-      "published": "2026-11-02T13:27:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Stock Market Today: Major Indexes Surge After Friday\u2019s Sell-Off as Oil Prices Plunge; Apple, Palantir Earnings on Deck",
-      "image": null,
-      "link": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-11022026-12206945?.tsrc=rss",
-      "published": "2026-11-02T13:27:00Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "healthcare",
-      "headline": "Defense, healthcare, crypto and AI: How the midterm election could affect stocks",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/02/midterm-election-stocks-defense-healthcare-crypto-ai.html",
-      "published": "2026-11-02T13:23:58Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "industrials",
       "headline": "Economic calendar: Factory and construction-spending data on agenda",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=b8a80bf3-faae-4879-acb8-6d8bafed588e&amp;mod=mw_rss_bulletins",
       "published": "2026-11-02T13:18:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Stock Market Today: Dow Jones, S&P 500, Nasdaq 100 Futures Rise Ahead of Apple, Palantir Earnings; RYAAY, USLM, INO in Focus (UPDATED)",
-      "image": null,
-      "link": "https://www.benzinga.com/markets/equities/26/11/62770209/stock-market-today-dow-jones-sp-500-futures-rise-ahead-of-apple-palantir-earnings-ryaay-uslm-ino-in-focus?utm_source=yahooFinance&amp;utm_campaign=partner_feed&amp;utm_medium=referral&amp;.tsrc=rss",
-      "published": "2026-11-02T13:15:14Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "energy",
-      "headline": "US Equity Futures Rise as Traders Focus on Midterm Elections, Earnings Amid Oil Prices Declining",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-rise-traders-131107923.html?.tsrc=rss",
-      "published": "2026-11-02T13:11:07Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Stocks Rise Pre-Bell as Traders Look Ahead to Midterm Elections, Fresh Labor Data",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-rise-pre-bell-traders-125823627.html?.tsrc=rss",
-      "published": "2026-11-02T12:58:23Z",
       "sentiment": "neutral"
     },
     {
@@ -322,16 +322,16 @@
       "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-11-02T18:09:26Z",
+  "newest_item_published": "2026-11-02T19:00:06Z",
   "source_item_count": 68,
   "sources": {
     "cnbc": {
-      "contributed": 14,
+      "contributed": 15,
       "error": null,
       "fetched": 30,
-      "fresh": 29,
+      "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-11-02T18:09:26Z",
+      "newest": "2026-11-02T18:59:48Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,25 +340,25 @@
       "fetched": 10,
       "fresh": 9,
       "label": "MarketWatch",
-      "newest": "2026-11-02T18:00:00Z",
+      "newest": "2026-11-02T18:16:00Z",
       "ok": true
     },
     "mw_bulletins": {
-      "contributed": 5,
+      "contributed": 6,
       "error": null,
       "fetched": 10,
-      "fresh": 5,
+      "fresh": 6,
       "label": "MW Bulletins",
-      "newest": "2026-11-02T17:40:45Z",
+      "newest": "2026-11-02T18:33:52Z",
       "ok": true
     },
     "yahoo_dji": {
-      "contributed": 12,
+      "contributed": 10,
       "error": null,
       "fetched": 18,
       "fresh": 16,
       "label": "Yahoo Finance",
-      "newest": "2026-11-02T17:12:55Z",
+      "newest": "2026-11-02T19:00:06Z",
       "ok": true
     }
   }
