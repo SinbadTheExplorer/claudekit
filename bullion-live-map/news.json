@@ -1,21 +1,133 @@
 {
-  "generated_at": "2026-11-02T20:12:08Z",
+  "generated_at": "2026-11-02T21:12:07Z",
   "headlines": [
     {
-      "category": "energy",
-      "headline": "Crude oil prices sell off more than 7% on Iran peace talk hopes ahead of U.S. midterms",
+      "category": "tech",
+      "headline": "Oracle files to sell $20 billion in new stock, bonds to finance AI buildout",
       "image": null,
-      "link": "https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html",
-      "published": "2026-11-02T20:10:00Z",
+      "link": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
+      "published": "2026-11-02T21:10:34Z",
       "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Palantir earnings reveal a major AI turning point",
+      "image": "news-images/51ddf463f556c967166edb43.jpg",
+      "link": "https://www.marketwatch.com/story/palantir-earnings-reveal-a-major-ai-turning-point-db766110?mod=mw_rss_topstories",
+      "published": "2026-11-02T21:09:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Dow closes over 200 points up, but Nasdaq falls sharply as tech stocks retreat",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=b618aac1-4a84-4f8f-b8c0-23ac7de4b9e6&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-02T21:03:41Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "tech",
+      "headline": "Lumentum CEO touts 'enormous' opportunity in massive AI connectivity deal with Marvell",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/02/marvell-lumentum-ai-deal.html",
+      "published": "2026-11-02T21:00:59Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "energy",
+      "headline": "Sector Update: Energy Stocks Decline Late Afternoon",
+      "image": null,
+      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-decline-afternoon-210002413.html?.tsrc=rss",
+      "published": "2026-11-02T21:00:02Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "\u2018It seems bizarre\u2019: We\u2019re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
+      "image": "news-images/cbcd887ed89df38f16983c65.jpg",
+      "link": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
+      "published": "2026-11-02T21:00:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "I bonds now pay 5.51% \u2014 but there are trade-offs. What to know before buying",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/02/i-bonds-rate.html",
+      "published": "2026-11-02T20:57:50Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "energy",
+      "headline": "Update: US Equity Indexes Mixed Amid Sliding Crude Oil, Technology",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-amid-205157979.html?.tsrc=rss",
+      "published": "2026-11-02T20:51:57Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Prediction market traders now see nearly 75% chance of Democrats winning the Senate",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/02/prediction-market-traders-now-see-nearly-75percent-chance-of-democrats-winning-the-senate.html",
+      "published": "2026-11-02T20:48:21Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "energy",
+      "headline": "Sector Update: Energy",
+      "image": null,
+      "link": "https://finance.yahoo.com/energy/articles/sector-energy-204505864.html?.tsrc=rss",
+      "published": "2026-11-02T20:45:05Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "energy",
+      "headline": "Here's how soon gas prices could go down now that oil is tumbling",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=e560b48c-598b-4397-b003-46a73d1fe8d8&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-02T20:31:34Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Chip stocks are suffering from a \u2018crisis of confidence\u2019 \u2014 but things aren\u2019t as gloomy as they seem",
+      "image": "news-images/bf57d5fb4e259af8254ee7f1.jpg",
+      "link": "https://www.marketwatch.com/story/chip-stocks-are-suffering-from-a-crisis-of-confidence-but-things-arent-as-gloomy-as-they-seem-6ed14ea9?mod=mw_rss_topstories",
+      "published": "2026-11-02T20:30:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Trump focuses on Reflecting Pool in final public speech before midterms",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/02/trump-midterm-election-speech-reflecting-pool.html",
+      "published": "2026-11-02T20:29:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Stock Market Today: Nasdaq Falls As Micron, Seagate Sink; These Stocks Clear Entries (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/d2c3bbee-4bc3-3931-9b35-8ffcd691e60c/stock-market-today%3A-nasdaq.html?.tsrc=rss",
+      "published": "2026-11-02T20:26:41Z",
+      "sentiment": "bearish"
     },
     {
       "category": "other",
       "headline": "Intel foundry push faces critical test after stock's 45% plunge in October",
       "image": null,
       "link": "https://www.cnbc.com/2026/11/02/intel-foundry-faces-critical-test-after-stocks-45percent-plunge-in-october.html",
-      "published": "2026-11-02T20:07:56Z",
+      "published": "2026-11-02T20:20:34Z",
       "sentiment": "bearish"
+    },
+    {
+      "category": "energy",
+      "headline": "Crude oil prices sell off more than 7% on Iran peace talk hopes ahead of U.S. midterms",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html",
+      "published": "2026-11-02T20:19:25Z",
+      "sentiment": "neutral"
     },
     {
       "category": "tech",
@@ -47,14 +159,6 @@
       "image": null,
       "link": "https://finance.yahoo.com/m/c7e7e077-64c6-32ac-ae61-a78db5f3bd39/the-s%26p-500-turns-red.-it%27s.html?.tsrc=rss",
       "published": "2026-11-02T19:33:16Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Lumentum CEO touts 'enormous' opportunity in massive AI connectivity deal with Marvell",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/02/marvell-lumentum-ai-deal.html",
-      "published": "2026-11-02T19:32:15Z",
       "sentiment": "neutral"
     },
     {
@@ -90,22 +194,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "other",
-      "headline": "Prediction market traders now see nearly 75% chance of Democrats winning the Senate",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/02/prediction-market-traders-now-see-nearly-75percent-chance-of-democrats-winning-the-senate.html",
-      "published": "2026-11-02T19:15:26Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Stock Market Today: Dow Rallies As Marvell, Lumentum Crater; These Stocks Clear Entries (Live Coverage)",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/d2c3bbee-4bc3-3931-9b35-8ffcd691e60c/stock-market-today%3A-dow.html?.tsrc=rss",
-      "published": "2026-11-02T19:09:34Z",
-      "sentiment": "bullish"
-    },
-    {
       "category": "tech",
       "headline": "Most Stocks Are Holding Up Even as AI Trade Falters",
       "image": null,
@@ -127,22 +215,6 @@
       "image": null,
       "link": "https://www.cnbc.com/2026/11/02/midterm-election-stocks-defense-healthcare-crypto-ai.html",
       "published": "2026-11-02T18:59:48Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Texas governor race tightens in prediction markets, but Abbott remains favored",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/02/texas-governor-prediction-markets-abbott-hinojosa.html",
-      "published": "2026-11-02T18:54:04Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Social Security may have to cut retirement benefits in six years. Here's how much money is at stake for beneficiaries",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/01/social-security-benefit-cuts-2032.html",
-      "published": "2026-11-02T18:46:31Z",
       "sentiment": "neutral"
     },
     {
@@ -170,22 +242,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "tech",
-      "headline": "Apple reports after the bell. Options traders expect a big move",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/02/apple-reports-after-the-bell-options-traders-expect-a-big-move.html",
-      "published": "2026-11-02T18:19:03Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Options traders are getting anxious on Palantir and Apple ahead of earnings",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/02/options-traders-are-getting-anxious-on-palantir-and-apple-ahead-of-earnings.html",
-      "published": "2026-11-02T18:16:02Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "financials",
       "headline": "It may take weeks to tally the midterm election results. Here\u2019s why Wall Street isn\u2019t worried.",
       "image": "news-images/9cbc702f7e67c7320b00d64c.jpg",
@@ -200,14 +256,6 @@
       "link": "https://www.marketwatch.com/story/the-bond-market-rally-is-defying-the-typical-investing-playbook-heres-why-17a14342?mod=mw_rss_topstories",
       "published": "2026-11-02T18:13:00Z",
       "sentiment": "bullish"
-    },
-    {
-      "category": "tech",
-      "headline": "Oracle files to sell $20 billion in new stock, bonds to finance AI buildout",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
-      "published": "2026-11-02T18:09:26Z",
-      "sentiment": "neutral"
     },
     {
       "category": "other",
@@ -242,51 +290,11 @@
       "sentiment": "neutral"
     },
     {
-      "category": "energy",
-      "headline": "Stock Market Midday, Nov. 2: Stocks Rally as Oil Prices Tumble on Diplomatic Hopes",
-      "image": null,
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/11/02/stock-market-midday-nov-2-stocks-rally-as-oil-prices-tumble-on-diplomatic-hopes/?.tsrc=rss",
-      "published": "2026-11-02T17:12:55Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "\u2018It seems bizarre\u2019: We\u2019re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
-      "image": "news-images/cbcd887ed89df38f16983c65.jpg",
-      "link": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
-      "published": "2026-11-02T17:00:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "These tech stocks got unfairly swept up in last week\u2019s selloff, analysts say",
-      "image": "news-images/2b67c5b6b1606ad4b9a2e510.jpg",
-      "link": "https://www.marketwatch.com/story/these-tech-stocks-got-unfairly-swept-up-in-last-weeks-selloff-analysts-say-e296c1b3?mod=mw_rss_topstories",
-      "published": "2026-11-02T16:50:00Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "other",
-      "headline": "Behind Anthropic\u2019s 1,127% revenue surge \u2014 and the computing bill that erased its profit",
-      "image": "news-images/1203e0c6fd0699b9a151b2ce.jpg",
-      "link": "https://www.marketwatch.com/story/behind-anthropics-1-127-revenue-surge-and-the-computing-bill-that-erased-its-profit-2fe7e513?mod=mw_rss_topstories",
-      "published": "2026-11-02T16:22:00Z",
-      "sentiment": "bullish"
-    },
-    {
       "category": "other",
       "headline": "Booming U.S. manufacturers can\u2019t keep up with demand",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=14f1a40e-15e9-4ae1-ba7b-de642aeaea27&amp;mod=mw_rss_bulletins",
       "published": "2026-11-02T16:03:01Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Stocks Claw Back. The Selling Might Not Be Over Quite Yet.",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/46a9f586-10bc-3d8e-848a-537be1a4e4ce/stocks-claw-back.-the-selling.html?.tsrc=rss",
-      "published": "2026-11-02T14:48:47Z",
       "sentiment": "neutral"
     },
     {
@@ -296,14 +304,6 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=883e1fe8-4b66-49a0-b9ab-b4a8047c5a0a&amp;mod=mw_rss_bulletins",
       "published": "2026-11-02T14:31:38Z",
       "sentiment": "bearish"
-    },
-    {
-      "category": "other",
-      "headline": "Dow Jones, Nasdaq, S&P 500 weekly preview: U.S. midterms, earnings to test markets",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dow-jones-nasdaq-p-500-141514632.html?.tsrc=rss",
-      "published": "2026-11-02T14:15:14Z",
-      "sentiment": "neutral"
     },
     {
       "category": "industrials",
@@ -322,16 +322,16 @@
       "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-11-02T20:10:00Z",
+  "newest_item_published": "2026-11-02T21:10:34Z",
   "source_item_count": 69,
   "sources": {
     "cnbc": {
-      "contributed": 14,
+      "contributed": 12,
       "error": null,
       "fetched": 30,
       "fresh": 29,
       "label": "CNBC",
-      "newest": "2026-11-02T20:10:00Z",
+      "newest": "2026-11-02T21:10:34Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,16 +340,16 @@
       "fetched": 10,
       "fresh": 9,
       "label": "MarketWatch",
-      "newest": "2026-11-02T19:27:00Z",
+      "newest": "2026-11-02T21:09:00Z",
       "ok": true
     },
     "mw_bulletins": {
-      "contributed": 7,
+      "contributed": 9,
       "error": null,
       "fetched": 10,
-      "fresh": 8,
+      "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-11-02T20:03:31Z",
+      "newest": "2026-11-02T21:03:41Z",
       "ok": true
     },
     "yahoo_dji": {
@@ -358,7 +358,7 @@
       "fetched": 19,
       "fresh": 18,
       "label": "Yahoo Finance",
-      "newest": "2026-11-02T19:33:16Z",
+      "newest": "2026-11-02T21:00:02Z",
       "ok": true
     }
   }
