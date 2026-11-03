@@ -1,6 +1,134 @@
 {
-  "generated_at": "2026-11-03T20:12:25Z",
+  "generated_at": "2026-11-03T21:12:20Z",
   "headlines": [
+    {
+      "category": "other",
+      "headline": "Ferrari raises 2026 guidance after Q3 earnings beat",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/03/ferrari-race-earnings-q3-2026.html",
+      "published": "2026-11-03T21:11:34Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "tech",
+      "headline": "Anthropic\u2019s IPO is a high-stakes referendum on Big Tech \u2014 and this chart proves it",
+      "image": "news-images/529747a8c0defaee992871ad.jpg",
+      "link": "https://www.marketwatch.com/story/anthropics-ipo-is-a-high-stakes-referendum-on-big-tech-and-this-chart-proves-it-d1c54d33?mod=mw_rss_topstories",
+      "published": "2026-11-03T21:04:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Shopify falls over 8% after Q3 revenue and merchandise volume miss estimates",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/03/shopify-q3-2026-earnings-gmv.html",
+      "published": "2026-11-03T21:03:30Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "energy",
+      "headline": "Sector Update: Energy Stocks Fall Late Afternoon",
+      "image": null,
+      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-fall-afternoon-210314611.html?.tsrc=rss",
+      "published": "2026-11-03T21:03:14Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "tech",
+      "headline": "Dow ends nearly 200 points down, Nasdaq and S&P 500 rebound as tech stocks climb",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=1f0e25ef-56a7-407d-b71b-b0dc028d8eff&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-03T21:02:38Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "tech",
+      "headline": "Update: US Equity Indexes Mixed as Technology Outperforms Sectors While Midterm Elections Underway",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-technology-205351278.html?.tsrc=rss",
+      "published": "2026-11-03T20:53:51Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Fannie Mae, Freddie Mac rally as Ackman presses for conservatorship exit",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/03/ackman-fannie-mae-freddie-mac-conservatorship.html",
+      "published": "2026-11-03T20:52:14Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "Options traders are betting heavily on these stocks ahead of election results",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/03/options-traders-are-betting-heavily-on-these-stocks-ahead-of-election-results.html",
+      "published": "2026-11-03T20:51:21Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Eaton's strong quarter should mark a bottom for shares of the AI buildout winner",
+      "image": null,
+      "link": "https://www.cnbc.com/investingclub/2026/11/03/eatons-strong-quarter-should-mark-a-bottom-for-shares-of-the-ai-buildout-winner.html",
+      "published": "2026-11-03T20:46:59Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "The internet is \u2018dying\u2019: AI is eating it and obliterating these business models",
+      "image": "news-images/2167798aa484b1f06953501e.jpg",
+      "link": "https://www.marketwatch.com/story/the-internet-is-dying-ai-is-eating-it-and-obliterating-these-business-models-435ae2b0?mod=mw_rss_topstories",
+      "published": "2026-11-03T20:46:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "realestate",
+      "headline": "The next wave of luxury real estate: marina developments with yacht parking",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/03/the-next-wave-of-luxury-real-estate-marinas-with-yacht-parking.html",
+      "published": "2026-11-03T20:41:27Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "AMD has been crushed into earnings. Here\u2019s one way to trade it",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/03/amd-has-been-crushed-into-earnings-heres-one-way-to-trade-it.html",
+      "published": "2026-11-03T20:40:51Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "energy",
+      "headline": "Sullivan: What the 2026 midterms could mean for energy investors",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/03/2026-midterms-energy-investors.html",
+      "published": "2026-11-03T20:36:08Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "consumer",
+      "headline": "Trump DOJ sends target letters to Democrats in Alaska Senate criminal probe: Reports",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/03/trump-doj-election-lawsuits-monitors-2026-midterms.html",
+      "published": "2026-11-03T20:33:31Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "AI-generated 'slopaganda' in political ads puts internet platforms on alert",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/03/ai-generated-slopaganda-in-political-ads-puts-platforms-on-alert.html",
+      "published": "2026-11-03T20:33:28Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Stock Market Today: Dow Dips, Palantir Fights Back; DuPont Surges Past Entry (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/810dfed2-d215-3d61-b039-c22ccd3cf6d4/stock-market-today%3A-dow-dips%2C.html?.tsrc=rss",
+      "published": "2026-11-03T20:19:41Z",
+      "sentiment": "bullish"
+    },
     {
       "category": "other",
       "headline": "Dow down, Nasdaq and S&P 500 up in final hour as Americans head to the polls",
@@ -8,14 +136,6 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=746f173d-4c84-43b8-8740-5bfe8119df13&amp;mod=mw_rss_bulletins",
       "published": "2026-11-03T20:07:56Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "energy",
-      "headline": "Crude oil prices fall for second day as market hopes for diplomatic resolution to Iran war",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/03/oil-prices-climb-after-us-reportedly-strikes-irans-qeshm-island.html",
-      "published": "2026-11-03T20:02:10Z",
-      "sentiment": "bearish"
     },
     {
       "category": "other",
@@ -35,58 +155,10 @@
     },
     {
       "category": "healthcare",
-      "headline": "Sen. Chris Murphy still hospitalized after suffering a stroke over the weekend",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/03/chris-murphy-hospitalized-stroke.html",
-      "published": "2026-11-03T19:36:16Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "CrowdStrike launches AI kill switch that it says can stop internal agents that go rogue",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/03/crowdstrike-ai-kill-switch-rogue-agents.html",
-      "published": "2026-11-03T19:35:24Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Election Day: Here is the No. 1 issue we're watching as a signal for stocks",
-      "image": null,
-      "link": "https://www.cnbc.com/investingclub/2026/11/03/election-day-here-is-the-no-1-issue-were-watching-as-a-signal-for-stocks.html",
-      "published": "2026-11-03T19:29:41Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Pfizer hikes full-year outlook on new product growth, taps company veteran as new CFO",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/03/pfizer-pfe-earnings-q3-2026.html",
-      "published": "2026-11-03T19:25:44Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "healthcare",
       "headline": "Medicare prescription drug costs will jump 50% in 2027.\u00a0Doing nothing could cost you.",
       "image": "news-images/5b45255539ee11fa97035d84.jpg",
       "link": "https://www.marketwatch.com/story/medicare-prescription-drug-costs-will-jump-50-in-2027-doing-nothing-could-cost-you-b701dfb7?mod=mw_rss_topstories",
       "published": "2026-11-03T19:23:00Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "other",
-      "headline": "Options traders are betting heavily on these stocks ahead of election results",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/03/options-traders-are-betting-heavily-on-these-stocks-ahead-of-election-results.html",
-      "published": "2026-11-03T19:22:30Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Job openings posted big September gain in positive sign for labor market ahead of payrolls report",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/03/job-openings-posted-big-september-gain-in-positive-sign-for-labor-market-ahead-of-payrolls-report.html",
-      "published": "2026-11-03T19:15:21Z",
       "sentiment": "bullish"
     },
     {
@@ -98,36 +170,12 @@
       "sentiment": "neutral"
     },
     {
-      "category": "energy",
-      "headline": "Sullivan: What the 2026 midterms could mean for energy investors",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/03/2026-midterms-energy-investors.html",
-      "published": "2026-11-03T19:03:06Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "other",
       "headline": "My wife and I have no kids and a 99% chance of outliving our life savings. Why not spend it all?",
       "image": "news-images/3703e9b7b6704210419dd704.jpg",
       "link": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
       "published": "2026-11-03T19:00:00Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Stock Market Today: Dow Dips, Palantir Fights Back; These Insurance Stocks Clear Entry Points (Live Coverage)",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/810dfed2-d215-3d61-b039-c22ccd3cf6d4/stock-market-today%3A-dow-dips%2C.html?.tsrc=rss",
-      "published": "2026-11-03T18:52:38Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Ferrari raises 2026 guidance after Q3 earnings beat",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/03/ferrari-race-earnings-q3-2026.html",
-      "published": "2026-11-03T18:52:06Z",
-      "sentiment": "bullish"
     },
     {
       "category": "energy",
@@ -143,14 +191,6 @@
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=cce514a7-08c1-4a64-a39e-50927780fc88&amp;mod=mw_rss_bulletins",
       "published": "2026-11-03T18:48:45Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Binance co-CEO Richard Teng says hackers used fake job interviews, AI tool to steal $6.3 billion in crypto",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/03/binance-co-ceo-teng-says-hackers-used-fake-job-interviews-to-steal-6point3-billion-in-crypto.html",
-      "published": "2026-11-03T18:40:37Z",
       "sentiment": "neutral"
     },
     {
@@ -226,36 +266,12 @@
       "sentiment": "bearish"
     },
     {
-      "category": "other",
-      "headline": "\u2018She\u2019s a Type A personality\u2019: My stepmother wants me to repay my late father\u2019s $40,000 wedding gift. Should I oblige?",
-      "image": "news-images/6721e4064bdf4047732dff7f.jpg",
-      "link": "https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories",
-      "published": "2026-11-03T17:01:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "U.S. jobs market perks up, but it\u2019s still not a great time to get hired",
-      "image": "news-images/fba58c13726080169e169fa6.jpg",
-      "link": "https://www.marketwatch.com/story/u-s-jobs-market-perks-up-but-its-still-not-a-great-time-to-get-hired-bc39f44f?mod=mw_rss_topstories",
-      "published": "2026-11-03T16:56:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Stock Market Today (Nov. 3, 2026): Nasdaq edges higher as U.S. midterm voting begins",
+      "category": "energy",
+      "headline": "Stocks Rebound as Crude Oil Prices Fall and Chipmakers Recover",
       "image": null,
-      "link": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-03-2026?.tsrc=rss",
-      "published": "2026-11-03T14:58:01Z",
+      "link": "https://www.barchart.com/story/news/8617576/stocks-rebound-as-crude-oil-prices-fall-and-chipmakers-recover?.tsrc=rss",
+      "published": "2026-11-03T15:01:50Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "US Midterm Elections: Dow Falls Nearly 200 Points, S&P 500 And Nasdaq Edge Higher As Polls Begin",
-      "image": null,
-      "link": "https://stocktwits.com/news-articles/markets/equity/us-midterm-elections-dow-falls-nearly-200-points-s-and-p-500-and-nasdaq-edge-higher-as-polls-begin/cNGX48VR95x?.tsrc=rss",
-      "published": "2026-11-03T14:52:00Z",
-      "sentiment": "bearish"
     },
     {
       "category": "other",
@@ -263,14 +279,6 @@
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=ff33899a-f4d2-459d-b85c-37fe3c73f10e&amp;mod=mw_rss_bulletins",
       "published": "2026-11-03T14:30:50Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Stock Market Today: Dow Futures Plunge 323 Points, Apple Sinks, and Iran Strikes Send Oil Soaring",
-      "image": null,
-      "link": "https://247wallst.com/investing/2026/11/03/stock-market-today-dow-futures-plunge-323-points-apple-sinks-and-iran-strikes-send-oil-soaring/?.tsrc=rss",
-      "published": "2026-11-03T14:17:47Z",
       "sentiment": "neutral"
     },
     {
@@ -312,17 +320,9 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=364a55dc-e3c3-40ae-b334-5c88ec05909c&amp;mod=mw_rss_bulletins",
       "published": "2026-11-03T00:05:36Z",
       "sentiment": "bearish"
-    },
-    {
-      "category": "other",
-      "headline": "Want to help your adult kids and grandkids? Give them their inheritance now.",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=2a20faf4-2e5e-45b8-9065-eae73c34237f&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-02T23:58:59Z",
-      "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-11-03T20:07:56Z",
+  "newest_item_published": "2026-11-03T21:11:34Z",
   "source_item_count": 65,
   "sources": {
     "cnbc": {
@@ -331,7 +331,7 @@
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-11-03T20:02:10Z",
+      "newest": "2026-11-03T21:11:34Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,7 +340,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-11-03T20:00:00Z",
+      "newest": "2026-11-03T21:04:00Z",
       "ok": true
     },
     "mw_bulletins": {
@@ -349,7 +349,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-11-03T20:07:56Z",
+      "newest": "2026-11-03T21:02:38Z",
       "ok": true
     },
     "yahoo_dji": {
@@ -358,7 +358,7 @@
       "fetched": 15,
       "fresh": 15,
       "label": "Yahoo Finance",
-      "newest": "2026-11-03T19:14:40Z",
+      "newest": "2026-11-03T21:03:14Z",
       "ok": true
     }
   }
