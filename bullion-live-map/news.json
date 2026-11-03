@@ -1,13 +1,93 @@
 {
-  "generated_at": "2026-11-03T17:12:22Z",
+  "generated_at": "2026-11-03T18:12:22Z",
   "headlines": [
     {
       "category": "other",
       "headline": "Trump is going to get 'trounced' in the midterms \u2014 and knows it, Anthony Scaramucci tells CNBC",
       "image": null,
       "link": "https://www.cnbc.com/2026/11/03/scaramucci-trump-midterms-election.html",
-      "published": "2026-11-03T17:09:51Z",
+      "published": "2026-11-03T18:11:24Z",
       "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Midterm elections could jolt stocks if Democrats sweep Congress",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/03/midterm-election-stock-market.html",
+      "published": "2026-11-03T18:05:18Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Binance co-CEO Richard Teng says hackers used fake job interviews, AI tool to steal $6.3 billion in crypto",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/03/binance-co-ceo-teng-says-hackers-used-fake-job-interviews-to-steal-6point3-billion-in-crypto.html",
+      "published": "2026-11-03T17:58:41Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "U.S. regulators just cleared a path to trade this trendy futures product",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=59c4eeb1-7da4-41a0-84de-18482e3d841f&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-03T17:56:04Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Update: US Equity Indexes Mixed as Apple's Results Underwhelm on Election Day",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-apple-175030319.html?.tsrc=rss",
+      "published": "2026-11-03T17:50:30Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "AI-generated 'slopaganda' in political ads puts internet platforms on alert",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/03/ai-generated-slopaganda-in-political-ads-puts-platforms-on-alert.html",
+      "published": "2026-11-03T17:37:31Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "My father has Alzheimer\u2019s and his caregiver is using his debit card for DoorDash. Should I intervene?",
+      "image": "news-images/8bc0a214aff57f8b3aeda089.jpg",
+      "link": "https://www.marketwatch.com/story/theres-a-lot-of-hurt-between-us-my-fathers-caregiver-is-using-his-debit-card-for-doordash-orders-what-can-i-do-714de7a5?mod=mw_rss_topstories",
+      "published": "2026-11-03T17:30:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "healthcare",
+      "headline": "Stock Market Today: Dow Dips On Election Day; These Biotech, Insurance Stocks Clear Entries (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/810dfed2-d215-3d61-b039-c22ccd3cf6d4/stock-market-today%3A-dow-dips.html?.tsrc=rss",
+      "published": "2026-11-03T17:28:54Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Palantir sinks 2% after earnings as analysts point to slowdown in total contract value",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/03/apple-palantir-stock-earnings.html",
+      "published": "2026-11-03T17:24:34Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Want to help your adult kids and grandkids? Give them money while you\u2019re still alive.",
+      "image": "news-images/61d4cdbae9467f6798c8502e.jpg",
+      "link": "https://www.marketwatch.com/story/if-you-really-want-to-help-your-adult-kids-and-grandkids-give-them-money-while-youre-still-alive-bef6b056?mod=mw_rss_topstories",
+      "published": "2026-11-03T17:15:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Top Midday Stories: Apple Fiscal Q4 EPS, Revenue Top Estimates, Shares Fall; Meta Reportedly Targeting Up to $25 Billion in Bond Sale",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-apple-fiscal-170956313.html?.tsrc=rss",
+      "published": "2026-11-03T17:09:56Z",
+      "sentiment": "bearish"
     },
     {
       "category": "other",
@@ -42,35 +122,11 @@
       "sentiment": "bearish"
     },
     {
-      "category": "tech",
-      "headline": "Binance co-CEO Richard Teng says hackers used fake job interviews, AI tool to steal $6.3 billion in crypto",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/03/binance-co-ceo-teng-says-hackers-used-fake-job-interviews-to-steal-6point3-billion-in-crypto.html",
-      "published": "2026-11-03T16:52:17Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Midterm elections could jolt stocks if Democrats sweep Congress",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/03/midterm-election-stock-market.html",
-      "published": "2026-11-03T16:51:00Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "other",
       "headline": "U.S. clears path for first regulated equity perpetual futures",
       "image": "news-images/22b9ae8f421528912e7d9114.jpg",
       "link": "https://www.marketwatch.com/story/u-s-clears-path-for-first-regulated-equity-perpetual-futures-6bb35905?mod=mw_rss_topstories",
       "published": "2026-11-03T16:46:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Stock Market Today: Dow Dips As Apple Slides On Earnings; This Biotech Stock Clears A Buy Point (Live Coverage)",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/810dfed2-d215-3d61-b039-c22ccd3cf6d4/stock-market-today%3A-dow-dips.html?.tsrc=rss",
-      "published": "2026-11-03T16:32:36Z",
       "sentiment": "neutral"
     },
     {
@@ -87,14 +143,6 @@
       "image": "news-images/2f88eb3ea46e0c9e0ffd19e2.jpg",
       "link": "https://www.marketwatch.com/story/its-good-to-be-old-ive-been-invited-to-a-dozen-free-meals-that-turn-into-annuity-sales-pitches-should-i-stop-going-63df67ca?mod=mw_rss_topstories",
       "published": "2026-11-03T16:30:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Want to help your adult kids and grandkids? Give them money while you\u2019re still alive.",
-      "image": "news-images/61d4cdbae9467f6798c8502e.jpg",
-      "link": "https://www.marketwatch.com/story/if-you-really-want-to-help-your-adult-kids-and-grandkids-give-them-money-while-youre-still-alive-bef6b056?mod=mw_rss_topstories",
-      "published": "2026-11-03T16:25:00Z",
       "sentiment": "neutral"
     },
     {
@@ -146,28 +194,12 @@
       "sentiment": "neutral"
     },
     {
-      "category": "other",
-      "headline": "Palantir sinks 3% after earnings as analysts point to slowdown in total contract value",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/03/apple-palantir-stock-earnings.html",
-      "published": "2026-11-03T15:52:44Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "tech",
       "headline": "The Texas governor\u2019s race might be a make-or-break contest for a wobbling AI trade",
       "image": "news-images/e50217e9c9288a5a149a94e5.jpg",
       "link": "https://www.marketwatch.com/story/the-texas-governors-race-might-be-a-make-or-break-contest-for-a-wobbling-ai-trade-7764aa29?mod=mw_rss_topstories",
       "published": "2026-11-03T15:44:00Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Yum Brands earnings beat estimates, but cyclospora outbreak weighs on Taco Bell",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/03/yum-brands-yum-q3-2026-earnings.html",
-      "published": "2026-11-03T15:19:14Z",
-      "sentiment": "bearish"
     },
     {
       "category": "other",
@@ -184,14 +216,6 @@
       "link": "https://stocktwits.com/news-articles/markets/equity/us-midterm-elections-dow-falls-nearly-200-points-s-and-p-500-and-nasdaq-edge-higher-as-polls-begin/cNGX48VR95x?.tsrc=rss",
       "published": "2026-11-03T14:52:00Z",
       "sentiment": "bearish"
-    },
-    {
-      "category": "other",
-      "headline": "Learning from \u2018Love Is Blind\u2019 money drama",
-      "image": "news-images/98485ea59d6dfa19d57405c0.jpg",
-      "link": "https://www.marketwatch.com/story/learning-from-love-is-blind-money-drama-810175f9?mod=mw_rss_topstories",
-      "published": "2026-11-03T14:46:00Z",
-      "sentiment": "neutral"
     },
     {
       "category": "other",
@@ -250,22 +274,6 @@
       "sentiment": "bearish"
     },
     {
-      "category": "other",
-      "headline": "US Equity Futures Mixed Pre-Bell as Traders Await Midterm Election Results",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-mixed-pre-130109558.html?.tsrc=rss",
-      "published": "2026-11-03T13:01:09Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "energy",
-      "headline": "Buy, Sell, or Hold? Tuesday\u2019s Top Upgrades and Downgrades: AON, Bloom Energy, Chevron, Cloudflare, Marvell Technologies, Lumentum Holdings, Merck & Co., Roku, X-Energy, and More",
-      "image": null,
-      "link": "https://247wallst.com/investing/2026/11/03/buy-sell-or-hold-tuesdays-top-upgrades-and-downgrades-aon-bloom-energy-chevron-cloudflare-marvell-technologies-lumentum-holdings-merck-co-roku-x-energy-and-more/?.tsrc=rss",
-      "published": "2026-11-03T12:59:26Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "industrials",
       "headline": "Economic calendar: Factory-orders and job-openings data hit as Americans vote",
       "image": null,
@@ -312,18 +320,10 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=6ddebdd5-4a95-4cd3-aaec-5e830651e7ce&amp;mod=mw_rss_bulletins",
       "published": "2026-11-02T22:20:17Z",
       "sentiment": "bullish"
-    },
-    {
-      "category": "financials",
-      "headline": "Wall Street\u2019s most hated stocks are faring far better than its favorites",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=b341f427-a3d0-486b-8860-fbe351026d39&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-02T22:18:35Z",
-      "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-11-03T17:09:51Z",
-  "source_item_count": 66,
+  "newest_item_published": "2026-11-03T18:11:24Z",
+  "source_item_count": 65,
   "sources": {
     "cnbc": {
       "contributed": 12,
@@ -331,7 +331,7 @@
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-11-03T17:09:51Z",
+      "newest": "2026-11-03T18:11:24Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,7 +340,7 @@
       "fetched": 10,
       "fresh": 9,
       "label": "MarketWatch",
-      "newest": "2026-11-03T17:01:00Z",
+      "newest": "2026-11-03T17:30:00Z",
       "ok": true
     },
     "mw_bulletins": {
@@ -349,16 +349,16 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-11-03T14:30:50Z",
+      "newest": "2026-11-03T17:56:04Z",
       "ok": true
     },
     "yahoo_dji": {
       "contributed": 10,
       "error": null,
-      "fetched": 16,
-      "fresh": 15,
+      "fetched": 15,
+      "fresh": 14,
       "label": "Yahoo Finance",
-      "newest": "2026-11-03T16:32:36Z",
+      "newest": "2026-11-03T17:50:30Z",
       "ok": true
     }
   }
