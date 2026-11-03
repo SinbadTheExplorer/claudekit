@@ -1,20 +1,108 @@
 {
-  "generated_at": "2026-11-03T15:12:06Z",
+  "generated_at": "2026-11-03T16:12:10Z",
   "headlines": [
     {
       "category": "other",
-      "headline": "What the 2026 midterm elections could mean for Trump\u2019s final two years",
+      "headline": "Job openings posted big September gain in positive sign for labor market ahead of payrolls report",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/03/job-openings-posted-big-september-gain-in-positive-sign-for-labor-market-ahead-of-payrolls-report.html",
+      "published": "2026-11-03T16:10:21Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "Trump midterm election lawsuits, state pushback come to a head Tuesday",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/03/trump-doj-election-lawsuits-monitors-2026-midterms.html",
+      "published": "2026-11-03T16:09:44Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "energy",
+      "headline": "Crude oil prices fall for second day as market hopes for diplomatic resolution to Iran war",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/03/oil-prices-climb-after-us-reportedly-strikes-irans-qeshm-island.html",
+      "published": "2026-11-03T16:01:39Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "What the 2026 midterm elections could mean for Trump's final two years",
       "image": null,
       "link": "https://www.cnbc.com/2026/11/03/midterm-elections-congress-trump-democrats-republicans.html",
-      "published": "2026-11-03T15:00:01Z",
+      "published": "2026-11-03T16:01:33Z",
       "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Shopify falls 7% after Q3 revenue and merchandise volume miss estimates",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/03/shopify-q3-2026-earnings-gmv.html",
+      "published": "2026-11-03T15:58:54Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "Palantir sinks 3% after earnings as analysts point to slowdown in total contract value",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/03/apple-palantir-stock-earnings.html",
+      "published": "2026-11-03T15:52:44Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Disney plans several thousand layoffs, asks some managers to cut costs by up to 20%",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/03/disney-layoffs-cost-cuts.html",
+      "published": "2026-11-03T15:51:30Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "The Texas governor\u2019s race might be a make-or-break contest for a wobbling AI trade",
+      "image": "news-images/e50217e9c9288a5a149a94e5.jpg",
+      "link": "https://www.marketwatch.com/story/the-texas-governors-race-might-be-a-make-or-break-contest-for-a-wobbling-ai-trade-7764aa29?mod=mw_rss_topstories",
+      "published": "2026-11-03T15:44:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Stock Market Today: Dow Dips But Chip Stocks Pop On Election Day; Apple Slides On Earnings (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/810dfed2-d215-3d61-b039-c22ccd3cf6d4/stock-market-today%3A-dow-dips.html?.tsrc=rss",
+      "published": "2026-11-03T15:20:23Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Yum Brands earnings beat estimates, but cyclospora outbreak weighs on Taco Bell",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/03/yum-brands-yum-q3-2026-earnings.html",
+      "published": "2026-11-03T15:19:14Z",
+      "sentiment": "bearish"
     },
     {
       "category": "other",
       "headline": "Bill Ackman warns of 'casino' stock market as speculative trading grows",
       "image": null,
       "link": "https://www.cnbc.com/2026/11/03/bill-ackman-casino-stock-market.html",
-      "published": "2026-11-03T14:59:05Z",
+      "published": "2026-11-03T15:16:08Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "We're trimming some more off a stock that's enjoying nice post-earnings gains",
+      "image": null,
+      "link": "https://www.cnbc.com/investingclub/2026/11/03/were-trimming-some-more-off-a-stock-thats-enjoying-nice-post-earnings-gains.html",
+      "published": "2026-11-03T15:09:51Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "Las Vegas Raiders owner Mark Davis says he feels no pressure to rush backup QB Fernando Mendoza",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/03/las-vegas-raiders-owner-mark-davis-wont-rush-fernando-mendoza-.html",
+      "published": "2026-11-03T15:02:30Z",
       "sentiment": "neutral"
     },
     {
@@ -24,14 +112,6 @@
       "link": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-03-2026?.tsrc=rss",
       "published": "2026-11-03T14:58:01Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "energy",
-      "headline": "Crude oil prices fall for second day as market hopes for diplomatic resolution to Iran war",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/03/oil-prices-climb-after-us-reportedly-strikes-irans-qeshm-island.html",
-      "published": "2026-11-03T14:57:03Z",
-      "sentiment": "bearish"
     },
     {
       "category": "other",
@@ -67,34 +147,10 @@
     },
     {
       "category": "tech",
-      "headline": "Stock Market Today: Dow Slides On Election Day; Apple, Palantir Dive On Earnings (Live Coverage)",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/810dfed2-d215-3d61-b039-c22ccd3cf6d4/stock-market-today%3A-dow.html?.tsrc=rss",
-      "published": "2026-11-03T14:42:28Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
       "headline": "Apple stock sinks as global memory crisis hurts profits, giving Ternus his first big test",
       "image": null,
       "link": "https://www.cnbc.com/2026/11/03/apple-earnings-john-ternus-faces-first-test-amid-high-memory-costs.html",
       "published": "2026-11-03T14:38:03Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Palantir slumps 5% after earnings as analysts point to slowdown in total contract value",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/03/apple-palantir-stock-earnings.html",
-      "published": "2026-11-03T14:31:39Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "tech",
-      "headline": "Supermarket fridges hit with cyberattacks across Europe \u2014 here's what's happening",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/03/supermarket-fridges-hack-cyberattack-europe.html",
-      "published": "2026-11-03T14:31:25Z",
       "sentiment": "neutral"
     },
     {
@@ -106,43 +162,11 @@
       "sentiment": "neutral"
     },
     {
-      "category": "other",
-      "headline": "Pfizer hikes full-year outlook as newer products grow, taps company veteran as new CFO",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/03/pfizer-pfe-earnings-q3-2026.html",
-      "published": "2026-11-03T14:18:27Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "tech",
       "headline": "Stock Market Today: Dow Futures Plunge 323 Points, Apple Sinks, and Iran Strikes Send Oil Soaring",
       "image": null,
       "link": "https://247wallst.com/investing/2026/11/03/stock-market-today-dow-futures-plunge-323-points-apple-sinks-and-iran-strikes-send-oil-soaring/?.tsrc=rss",
       "published": "2026-11-03T14:17:47Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Versant earnings beat expectations as digital platforms drive growth",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/03/versant-vsnt-q3-2026-earnings.html",
-      "published": "2026-11-03T14:17:42Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "other",
-      "headline": "Yum Brands earnings beat estimates, but cyclospora outbreak weighs on Taco Bell",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/03/yum-brands-yum-q3-2026-earnings.html",
-      "published": "2026-11-03T14:14:06Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "other",
-      "headline": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
-      "image": null,
-      "link": "https://www.cnbc.com/investingclub/2026/11/03/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
-      "published": "2026-11-03T14:11:53Z",
       "sentiment": "neutral"
     },
     {
@@ -178,27 +202,11 @@
       "sentiment": "neutral"
     },
     {
-      "category": "consumer",
-      "headline": "Baked by Melissa enters Target with first at-home cupcake mix",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/03/baked-by-melissa-cupcake-kits-target.html",
-      "published": "2026-11-03T13:40:04Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "other",
       "headline": "\u2018It\u2019s good to be old\u2019: I\u2019ve been invited to a dozen free meals that turn into annuity sales pitches. Should I stop going?",
       "image": "news-images/2f88eb3ea46e0c9e0ffd19e2.jpg",
       "link": "https://www.marketwatch.com/story/its-good-to-be-old-ive-been-invited-to-a-dozen-free-meals-that-turn-into-annuity-sales-pitches-should-i-stop-going-63df67ca?mod=mw_rss_topstories",
       "published": "2026-11-03T13:31:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Midterm elections could jolt stocks if Democrats sweep Congress",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/03/midterm-election-stock-market.html",
-      "published": "2026-11-03T13:28:36Z",
       "sentiment": "neutral"
     },
     {
@@ -215,14 +223,6 @@
       "image": "news-images/82fda9e0147b0ac9c80fe1a6.jpg",
       "link": "https://www.marketwatch.com/story/shopifys-stock-slides-after-earnings-this-is-whats-worrying-wall-street-e2e8d52b?mod=mw_rss_topstories",
       "published": "2026-11-03T13:26:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Trump DOJ election lawsuits and monitors loom over 2026 midterms",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/03/trump-doj-election-lawsuits-monitors-2026-midterms.html",
-      "published": "2026-11-03T13:24:27Z",
       "sentiment": "neutral"
     },
     {
@@ -274,14 +274,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "financials",
-      "headline": "Wall Street\u2019s most hated stocks are faring far better than its favorites",
-      "image": "news-images/7b7806dbd16a98c9268e2fba.jpg",
-      "link": "https://www.marketwatch.com/story/wall-streets-most-hated-stocks-are-faring-far-better-than-its-favorites-4c1d6c68?mod=mw_rss_topstories",
-      "published": "2026-11-03T12:22:00Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "tech",
       "headline": "Apple\u2019s iPhone business is booming. Here\u2019s why the stock is falling anyway.",
       "image": null,
@@ -320,18 +312,26 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=6ddebdd5-4a95-4cd3-aaec-5e830651e7ce&amp;mod=mw_rss_bulletins",
       "published": "2026-11-02T22:20:17Z",
       "sentiment": "bullish"
+    },
+    {
+      "category": "financials",
+      "headline": "Wall Street\u2019s most hated stocks are faring far better than its favorites",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=b341f427-a3d0-486b-8860-fbe351026d39&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-02T22:18:35Z",
+      "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-11-03T15:04:00Z",
+  "newest_item_published": "2026-11-03T16:10:21Z",
   "source_item_count": 68,
   "sources": {
     "cnbc": {
-      "contributed": 15,
+      "contributed": 14,
       "error": null,
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-11-03T15:00:01Z",
+      "newest": "2026-11-03T16:10:21Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,11 +340,11 @@
       "fetched": 10,
       "fresh": 7,
       "label": "MarketWatch",
-      "newest": "2026-11-03T15:04:00Z",
+      "newest": "2026-11-03T15:44:00Z",
       "ok": true
     },
     "mw_bulletins": {
-      "contributed": 8,
+      "contributed": 9,
       "error": null,
       "fetched": 10,
       "fresh": 10,
@@ -358,7 +358,7 @@
       "fetched": 18,
       "fresh": 17,
       "label": "Yahoo Finance",
-      "newest": "2026-11-03T14:58:01Z",
+      "newest": "2026-11-03T15:20:23Z",
       "ok": true
     }
   }
