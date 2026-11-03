@@ -1,6 +1,14 @@
 {
-  "generated_at": "2026-11-03T20:03:42Z",
+  "generated_at": "2026-11-03T20:12:25Z",
   "headlines": [
+    {
+      "category": "other",
+      "headline": "Dow down, Nasdaq and S&P 500 up in final hour as Americans head to the polls",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=746f173d-4c84-43b8-8740-5bfe8119df13&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-03T20:07:56Z",
+      "sentiment": "neutral"
+    },
     {
       "category": "energy",
       "headline": "Crude oil prices fall for second day as market hopes for diplomatic resolution to Iran war",
@@ -312,17 +320,9 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=2a20faf4-2e5e-45b8-9065-eae73c34237f&amp;mod=mw_rss_bulletins",
       "published": "2026-11-02T23:58:59Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Live updates: Apple can't keep up with iPhone Duo demand",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=90837a89-ffe7-456c-99b7-fc3284516f70&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-02T23:02:18Z",
-      "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-11-03T20:02:10Z",
+  "newest_item_published": "2026-11-03T20:07:56Z",
   "source_item_count": 65,
   "sources": {
     "cnbc": {
@@ -349,7 +349,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-11-03T18:48:45Z",
+      "newest": "2026-11-03T20:07:56Z",
       "ok": true
     },
     "yahoo_dji": {
