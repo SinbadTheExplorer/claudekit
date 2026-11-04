@@ -1,13 +1,237 @@
 {
-  "generated_at": "2026-11-03T21:12:20Z",
+  "generated_at": "2026-11-04T00:33:54Z",
   "headlines": [
     {
-      "category": "other",
-      "headline": "Ferrari raises 2026 guidance after Q3 earnings beat",
+      "category": "tech",
+      "headline": "Why AMD\u2019s stock is rising \u2014 and sending a confident message about the AI trade",
       "image": null,
-      "link": "https://www.cnbc.com/2026/11/03/ferrari-race-earnings-q3-2026.html",
-      "published": "2026-11-03T21:11:34Z",
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=7d66e0c7-d2dd-4cd2-81b1-3c1d6fd878be&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-04T00:21:35Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Here\u2019s why AMD\u2019s stock is rising \u2014 and sending a confident message about the AI trade",
+      "image": "news-images/1205a326706c0e40134e8af4.jpg",
+      "link": "https://www.marketwatch.com/story/heres-why-amds-stock-is-rising-and-sending-a-confident-message-about-the-ai-trade-11cb4d8a?mod=mw_rss_topstories",
+      "published": "2026-11-04T00:17:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Stock Market Election Night: Futures Mixed As Votes Trickle In; AMD, Arista Jump On Earnings",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/e5be454d-07fd-3d94-8114-a4e8ff2910de/stock-market-election-night%3A.html?.tsrc=rss",
+      "published": "2026-11-04T00:09:42Z",
       "sentiment": "bullish"
+    },
+    {
+      "category": "tech",
+      "headline": "Jim Cramer sees signs of life in tech stocks \u2014 but not from the usual winners",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/03/jim-cramer-sees-signs-of-life-in-tech-stocks-but-not-from-the-usual-winners.html",
+      "published": "2026-11-03T23:58:09Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "CrowdStrike's new kill switch can stop rogue AI agents in their tracks, CEO says",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/03/crowdstrikes-new-kill-switch-can-stop-rogue-ai-agents-in-their-tracks-ceo-says.html",
+      "published": "2026-11-03T23:37:07Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "S&P 500, Nasdaq Recover From AI Rout On US Midterm Election Day \u2014  META, AAPL, AMD, SKHY In Focus",
+      "image": null,
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-recover-from-ai-rout-on-us-midterm-election-day-meta-aapl-amd-skhy-in-focus/cNGXlSbR9dS?.tsrc=rss",
+      "published": "2026-11-03T23:29:55Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "financials",
+      "headline": "Strand bookstore to pay nearly $1.5 million over Covid loan tied to Sen. Wyden's wife",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/03/strand-bookstore-ppp-loan-ron-wyden-wife-settlement.html",
+      "published": "2026-11-03T23:28:01Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "consumer",
+      "headline": "Trump DOJ sends target letters to Democrats in Alaska Senate criminal probe: Reports",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/03/trump-doj-election-lawsuits-monitors-2026-midterms.html",
+      "published": "2026-11-03T23:26:39Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "energy",
+      "headline": "This overlooked energy source could solve AI\u2019s power crunch",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=676acefc-42ff-4fcf-9c68-21da36e0a857&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-03T23:20:20Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "AMD stock jumps 8% on earnings as data center revenue nearly doubles",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/03/amd-amd-q3-earnings-report-2026-.html",
+      "published": "2026-11-03T23:04:37Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "tech",
+      "headline": "Stock Market Today, Nov. 3: Markets Edge Higher as Semiconductor Stocks Rebound",
+      "image": null,
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/11/03/stock-market-today-nov-3-markets-edge-higher-as-semiconductor-stocks-rebound/?.tsrc=rss",
+      "published": "2026-11-03T23:03:59Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "tech",
+      "headline": "What analysts are telling us while Apple\u2019s stock falls after earnings report",
+      "image": "news-images/6b2c674b3c88ed5531ea16c5.jpg",
+      "link": "https://www.marketwatch.com/story/what-analysts-are-saying-as-apples-stock-falls-after-earnings-report-f0afa357?mod=mw_rss_topstories",
+      "published": "2026-11-03T22:48:00Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "financials",
+      "headline": "Shopify\u2019s stock slides after earnings. This is what\u2019s worrying Wall Street.",
+      "image": "news-images/82fda9e0147b0ac9c80fe1a6.jpg",
+      "link": "https://www.marketwatch.com/story/shopifys-stock-slides-after-earnings-this-is-whats-worrying-wall-street-e2e8d52b?mod=mw_rss_topstories",
+      "published": "2026-11-03T22:45:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Apple stock sinks as global memory crisis hurts profits, giving Ternus his first big test",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/03/apple-earnings-john-ternus-faces-first-test-amid-high-memory-costs.html",
+      "published": "2026-11-03T22:35:24Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "JetBlue raises bag fees for third time in a year as fuel costs bite",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/03/jetblue-checked-bag-fee.html",
+      "published": "2026-11-03T22:26:20Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Superior Group (SGC) Stock Declines While Market Improves: Some Information for Investors",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/superior-group-sgc-stock-declines-221502830.html?.tsrc=rss",
+      "published": "2026-11-03T22:15:02Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "PagSeguro Digital Ltd. (PAGS) Stock Falls Amid Market Uptick: What Investors Need to Know",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/pagseguro-digital-ltd-pags-stock-221502354.html?.tsrc=rss",
+      "published": "2026-11-03T22:15:02Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "Griffon (GFF) Stock Declines While Market Improves: Some Information for Investors",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/griffon-gff-stock-declines-while-221501993.html?.tsrc=rss",
+      "published": "2026-11-03T22:15:01Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Lennar (LEN) Stock Sinks As Market Gains: What You Should Know",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lennar-len-stock-sinks-market-221501027.html?.tsrc=rss",
+      "published": "2026-11-03T22:15:01Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "Autodesk (ADSK) Stock Slides as Market Rises: Facts to Know Before You Trade",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/autodesk-adsk-stock-slides-market-221501169.html?.tsrc=rss",
+      "published": "2026-11-03T22:15:01Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Midterm election live updates: What's at stake for stocks and the economy",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=e9a9925a-2227-4da6-9408-455882628ee9&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-03T22:06:28Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "international",
+      "headline": "AI\u2019s control over the bond market is growing \u2014 even rivaling war and elections",
+      "image": "news-images/32198bf53621a9b223867520.jpg",
+      "link": "https://www.marketwatch.com/story/ais-control-over-the-bond-market-is-growing-even-rivaling-war-and-elections-5d727b35?mod=mw_rss_topstories",
+      "published": "2026-11-03T22:06:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Update: US Equity Indexes Mixed Amid Tech Gains, Midterm Elections Underway",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-amid-215434601.html?.tsrc=rss",
+      "published": "2026-11-03T21:54:34Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "tech",
+      "headline": "Midterm elections 2026: The 4 major battleground states for AI policy",
+      "image": null,
+      "link": "https://finance.yahoo.com/video/midterm-elections-2026-the-4-major-battleground-states-for-ai-policy-215433564.html?.tsrc=rss",
+      "published": "2026-11-03T21:54:33Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "On Holding (ONON) Exceeds Market Returns: Some Facts to Consider",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/holding-onon-exceeds-market-returns-215002240.html?.tsrc=rss",
+      "published": "2026-11-03T21:50:02Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "S&P 500 is looking over the edge of a technical cliff \u2014 what happens if it falls off?",
+      "image": "news-images/6b3248ed20a56e9ae3fff43f.jpg",
+      "link": "https://www.marketwatch.com/story/s-p-500-is-looking-over-the-edge-of-a-technical-cliff-what-happens-if-it-falls-off-be97ebd9?mod=mw_rss_topstories",
+      "published": "2026-11-03T21:30:00Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "Depressing, but true: If you want to get ahead at work, embrace virtue signaling",
+      "image": "news-images/43ad85ee890995ec83bb54e3.jpg",
+      "link": "https://www.marketwatch.com/story/depressing-but-true-if-you-want-to-get-ahead-at-work-embrace-virtue-signaling-b4e72f0a?mod=mw_rss_topstories",
+      "published": "2026-11-03T21:27:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "AMD earnings are out \u2014 and the stock is up. Here's what investors need to know.",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=4ae586eb-a3bd-4ab0-b860-0c6b6a7f5d83&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-03T21:20:13Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Super Micro\u2019s stock pops as earnings show booming demand for AI servers",
+      "image": "news-images/dbef7345d920dd4b1a6eafa8.jpg",
+      "link": "https://www.marketwatch.com/story/super-micros-stock-pops-as-earnings-show-booming-demand-for-ai-servers-2d179658?mod=mw_rss_topstories",
+      "published": "2026-11-03T21:13:00Z",
+      "sentiment": "neutral"
     },
     {
       "category": "tech",
@@ -18,36 +242,12 @@
       "sentiment": "neutral"
     },
     {
-      "category": "other",
-      "headline": "Shopify falls over 8% after Q3 revenue and merchandise volume miss estimates",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/03/shopify-q3-2026-earnings-gmv.html",
-      "published": "2026-11-03T21:03:30Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "energy",
-      "headline": "Sector Update: Energy Stocks Fall Late Afternoon",
-      "image": null,
-      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-fall-afternoon-210314611.html?.tsrc=rss",
-      "published": "2026-11-03T21:03:14Z",
-      "sentiment": "bearish"
-    },
-    {
       "category": "tech",
       "headline": "Dow ends nearly 200 points down, Nasdaq and S&P 500 rebound as tech stocks climb",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=1f0e25ef-56a7-407d-b71b-b0dc028d8eff&amp;mod=mw_rss_bulletins",
       "published": "2026-11-03T21:02:38Z",
       "sentiment": "bullish"
-    },
-    {
-      "category": "tech",
-      "headline": "Update: US Equity Indexes Mixed as Technology Outperforms Sectors While Midterm Elections Underway",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-technology-205351278.html?.tsrc=rss",
-      "published": "2026-11-03T20:53:51Z",
-      "sentiment": "neutral"
     },
     {
       "category": "other",
@@ -82,54 +282,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "realestate",
-      "headline": "The next wave of luxury real estate: marina developments with yacht parking",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/03/the-next-wave-of-luxury-real-estate-marinas-with-yacht-parking.html",
-      "published": "2026-11-03T20:41:27Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "AMD has been crushed into earnings. Here\u2019s one way to trade it",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/03/amd-has-been-crushed-into-earnings-heres-one-way-to-trade-it.html",
-      "published": "2026-11-03T20:40:51Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "energy",
-      "headline": "Sullivan: What the 2026 midterms could mean for energy investors",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/03/2026-midterms-energy-investors.html",
-      "published": "2026-11-03T20:36:08Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "consumer",
-      "headline": "Trump DOJ sends target letters to Democrats in Alaska Senate criminal probe: Reports",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/03/trump-doj-election-lawsuits-monitors-2026-midterms.html",
-      "published": "2026-11-03T20:33:31Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "AI-generated 'slopaganda' in political ads puts internet platforms on alert",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/03/ai-generated-slopaganda-in-political-ads-puts-platforms-on-alert.html",
-      "published": "2026-11-03T20:33:28Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Stock Market Today: Dow Dips, Palantir Fights Back; DuPont Surges Past Entry (Live Coverage)",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/810dfed2-d215-3d61-b039-c22ccd3cf6d4/stock-market-today%3A-dow-dips%2C.html?.tsrc=rss",
-      "published": "2026-11-03T20:19:41Z",
-      "sentiment": "bullish"
-    },
-    {
       "category": "other",
       "headline": "Dow down, Nasdaq and S&P 500 up in final hour as Americans head to the polls",
       "image": null,
@@ -146,83 +298,11 @@
       "sentiment": "neutral"
     },
     {
-      "category": "energy",
-      "headline": "An overlooked energy source could solve AI\u2019s power crunch \u2014 and these 2 stocks are prime plays",
-      "image": "news-images/c78fa7f919eedce294cc6957.jpg",
-      "link": "https://www.marketwatch.com/story/an-overlooked-energy-source-could-solve-ais-power-crunch-and-these-2-stocks-are-prime-plays-bc5d988a?mod=mw_rss_topstories",
-      "published": "2026-11-03T19:57:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "healthcare",
-      "headline": "Medicare prescription drug costs will jump 50% in 2027.\u00a0Doing nothing could cost you.",
-      "image": "news-images/5b45255539ee11fa97035d84.jpg",
-      "link": "https://www.marketwatch.com/story/medicare-prescription-drug-costs-will-jump-50-in-2027-doing-nothing-could-cost-you-b701dfb7?mod=mw_rss_topstories",
-      "published": "2026-11-03T19:23:00Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "federal",
-      "headline": "Update: US Equity Indexes Mixed as Apple's Fiscal Q4 Disappoints While Investors Await Midterm Election Results",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-apple-191440044.html?.tsrc=rss",
-      "published": "2026-11-03T19:14:40Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "My wife and I have no kids and a 99% chance of outliving our life savings. Why not spend it all?",
-      "image": "news-images/3703e9b7b6704210419dd704.jpg",
-      "link": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
-      "published": "2026-11-03T19:00:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "energy",
-      "headline": "Sector Update: Energy Stocks Decline Tuesday Afternoon",
-      "image": null,
-      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-decline-tuesday-184914955.html?.tsrc=rss",
-      "published": "2026-11-03T18:49:14Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "other",
       "headline": "Why investors shouldn't let today's election results influence their decisions",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=cce514a7-08c1-4a64-a39e-50927780fc88&amp;mod=mw_rss_bulletins",
       "published": "2026-11-03T18:48:45Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Update: Equities Mixed Intraday as Traders Await US Midterm Election Results",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/equities-mixed-intraday-traders-await-183425739.html?.tsrc=rss",
-      "published": "2026-11-03T18:34:25Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "\u2018It seems bizarre\u2019: We\u2019re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
-      "image": "news-images/cbcd887ed89df38f16983c65.jpg",
-      "link": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
-      "published": "2026-11-03T18:30:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Once election results are in, here\u2019s what investors should focus on next",
-      "image": "news-images/8689d961ed1f6eb2f0f57664.jpg",
-      "link": "https://www.marketwatch.com/story/once-election-results-are-in-heres-what-investors-should-focus-on-next-75c5ac5d?mod=mw_rss_topstories",
-      "published": "2026-11-03T18:27:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "energy",
-      "headline": "Sector Update: Energy",
-      "image": null,
-      "link": "https://finance.yahoo.com/energy/articles/sector-energy-181444380.html?.tsrc=rss",
-      "published": "2026-11-03T18:14:44Z",
       "sentiment": "neutral"
     },
     {
@@ -234,96 +314,16 @@
       "sentiment": "neutral"
     },
     {
-      "category": "tech",
-      "headline": "Update: US Equity Indexes Mixed as Apple's Results Underwhelm on Election Day",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-apple-175030319.html?.tsrc=rss",
-      "published": "2026-11-03T17:50:30Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "My father has Alzheimer\u2019s and his caregiver is using his debit card for DoorDash. Should I intervene?",
-      "image": "news-images/8bc0a214aff57f8b3aeda089.jpg",
-      "link": "https://www.marketwatch.com/story/theres-a-lot-of-hurt-between-us-my-fathers-caregiver-is-using-his-debit-card-for-doordash-orders-what-can-i-do-714de7a5?mod=mw_rss_topstories",
-      "published": "2026-11-03T17:30:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Want to help your adult kids and grandkids? Give them money while you\u2019re still alive.",
-      "image": "news-images/61d4cdbae9467f6798c8502e.jpg",
-      "link": "https://www.marketwatch.com/story/if-you-really-want-to-help-your-adult-kids-and-grandkids-give-them-money-while-youre-still-alive-bef6b056?mod=mw_rss_topstories",
-      "published": "2026-11-03T17:15:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Top Midday Stories: Apple Fiscal Q4 EPS, Revenue Top Estimates, Shares Fall; Meta Reportedly Targeting Up to $25 Billion in Bond Sale",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-apple-fiscal-170956313.html?.tsrc=rss",
-      "published": "2026-11-03T17:09:56Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "energy",
-      "headline": "Stocks Rebound as Crude Oil Prices Fall and Chipmakers Recover",
-      "image": null,
-      "link": "https://www.barchart.com/story/news/8617576/stocks-rebound-as-crude-oil-prices-fall-and-chipmakers-recover?.tsrc=rss",
-      "published": "2026-11-03T15:01:50Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "other",
       "headline": "Stocks open mostly higher as investors brace for a volatile Election Day",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=ff33899a-f4d2-459d-b85c-37fe3c73f10e&amp;mod=mw_rss_bulletins",
       "published": "2026-11-03T14:30:50Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Are prediction markets overhyping Democrats\u2019 Election Day odds?",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=e3a08e7b-73d2-41e4-a7bc-1aefb6f7bf41&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-03T13:42:32Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "financials",
-      "headline": "Shopify\u2019s stock slides after earnings. This is what\u2019s worrying Wall Street.",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=11b8dbe0-054a-487d-983e-774635776ad6&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-03T13:15:16Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "industrials",
-      "headline": "Economic calendar: Factory-orders and job-openings data hit as Americans vote",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=f8765910-2479-466d-a6c4-5f89c190eec6&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-03T12:26:58Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Apple\u2019s iPhone business is booming. Here\u2019s why the stock is falling anyway.",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=2001bfc1-23dd-4058-9961-277a832d1c46&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-03T00:54:13Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "tech",
-      "headline": "Nasdaq-100 tumbles into its third correction this year as AI worries mount",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=364a55dc-e3c3-40ae-b334-5c88ec05909c&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-03T00:05:36Z",
-      "sentiment": "bearish"
     }
   ],
-  "newest_item_published": "2026-11-03T21:11:34Z",
-  "source_item_count": 65,
+  "newest_item_published": "2026-11-04T00:21:35Z",
+  "source_item_count": 68,
   "sources": {
     "cnbc": {
       "contributed": 10,
@@ -331,7 +331,7 @@
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-11-03T21:11:34Z",
+      "newest": "2026-11-03T23:58:09Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,25 +340,25 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-11-03T21:04:00Z",
+      "newest": "2026-11-04T00:17:00Z",
       "ok": true
     },
     "mw_bulletins": {
-      "contributed": 10,
+      "contributed": 9,
       "error": null,
       "fetched": 10,
       "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-11-03T21:02:38Z",
+      "newest": "2026-11-04T00:21:35Z",
       "ok": true
     },
     "yahoo_dji": {
-      "contributed": 10,
+      "contributed": 11,
       "error": null,
-      "fetched": 15,
-      "fresh": 15,
+      "fetched": 18,
+      "fresh": 18,
       "label": "Yahoo Finance",
-      "newest": "2026-11-03T21:03:14Z",
+      "newest": "2026-11-04T00:09:42Z",
       "ok": true
     }
   }
