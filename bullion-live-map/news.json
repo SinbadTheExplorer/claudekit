@@ -1,12 +1,92 @@
 {
-  "generated_at": "2026-11-04T16:12:05Z",
+  "generated_at": "2026-11-04T17:12:06Z",
   "headlines": [
     {
       "category": "federal",
-      "headline": "10-year Treasury yield is little changed as traders mull over Democrats' midterm victories",
+      "headline": "10-year Treasury yield slides as traders mull over Democrats' midterm victories, oil prices drop",
       "image": null,
       "link": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html",
-      "published": "2026-11-04T16:07:16Z",
+      "published": "2026-11-04T17:11:00Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "Uber beats on revenue, CEO tells CNBC the company is 'investing significantly' to add drivers",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/04/uber-stock-q3-2026-earnings.html",
+      "published": "2026-11-04T17:04:32Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "Dow jumps 1,500 points, heading for best day of 2026 \u2014 live updates",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=c62bb8a5-1311-453d-b98b-310eb6fdb245&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-04T17:00:02Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "These 3 Stocks Boost Dow Jones' Bounce. Here's Why.",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/c7014575-4c6b-3dac-93d8-abfccb19ce70/these-3-stocks-boost-dow.html?.tsrc=rss",
+      "published": "2026-11-04T16:58:39Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "financials",
+      "headline": "Jim Cramer says this bank stock is a buy after its post-election pullback",
+      "image": null,
+      "link": "https://www.cnbc.com/investingclub/2026/11/04/cramer-says-this-bank-stock-is-a-buy-after-its-post-election-pullback.html",
+      "published": "2026-11-04T16:54:39Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "The midterm elections are over. Read a recap of the action.",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=dd1b14ac-389e-4ea7-86e3-861a3321f54e&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-04T16:51:06Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "What Republicans' huge loss means for Trump",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/04/trump-midterm-election-results-congress.html",
+      "published": "2026-11-04T16:44:04Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Wall Street rallies as Blue Wave upends fiscal and AI investment outlook",
+      "image": null,
+      "link": "https://www.proactiveinvestors.com/companies/news/1101240/wall-street-rallies-as-blue-wave-upends-fiscal-and-ai-investment-outlook-1101240.html?.tsrc=rss",
+      "published": "2026-11-04T16:44:00Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "healthcare",
+      "headline": "Medicare prescription drug costs will jump 50% in 2027.\u00a0Doing nothing could cost you.",
+      "image": "news-images/5b45255539ee11fa97035d84.jpg",
+      "link": "https://www.marketwatch.com/story/medicare-prescription-drug-costs-will-jump-50-in-2027-doing-nothing-could-cost-you-b701dfb7?mod=mw_rss_topstories",
+      "published": "2026-11-04T16:38:00Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "healthcare",
+      "headline": "CVS to split off drugstore business in major breakup of healthcare giant; shares fall 10%",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/04/cvs-to-split-off-drugstore-business.html",
+      "published": "2026-11-04T16:35:50Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "energy",
+      "headline": "Stock Market Today: Dow, Nasdaq Flex Strength As Military, Oil Stocks Take A Dive (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/762d358c-ec5a-3821-a3f9-e47c4e4c3f0c/stock-market-today%3A-dow%2C.html?.tsrc=rss",
+      "published": "2026-11-04T16:12:32Z",
       "sentiment": "neutral"
     },
     {
@@ -24,14 +104,6 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=7f67f49b-a017-43a6-b33b-564e4726a57b&amp;mod=mw_rss_bulletins",
       "published": "2026-11-04T16:04:31Z",
       "sentiment": "bearish"
-    },
-    {
-      "category": "other",
-      "headline": "Jim Cramer's top 10 things to watch in the stock market Wednesday",
-      "image": null,
-      "link": "https://www.cnbc.com/investingclub/2026/11/04/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday.html",
-      "published": "2026-11-04T15:46:18Z",
-      "sentiment": "neutral"
     },
     {
       "category": "other",
@@ -82,12 +154,12 @@
       "sentiment": "neutral"
     },
     {
-      "category": "healthcare",
-      "headline": "CVS to split off drugstore business in major breakup of healthcare giant; shares fall 10%",
+      "category": "other",
+      "headline": "Elon Musk\u2019s record election bet backfired. The backlash may reach beyond one billionaire",
       "image": null,
-      "link": "https://www.cnbc.com/2026/11/04/cvs-to-split-off-drugstore-business.html",
-      "published": "2026-11-04T15:26:08Z",
-      "sentiment": "bearish"
+      "link": "https://www.cnbc.com/2026/11/04/elon-musk-midterms-ai-data-centers.html",
+      "published": "2026-11-04T15:29:01Z",
+      "sentiment": "neutral"
     },
     {
       "category": "tech",
@@ -95,14 +167,6 @@
       "image": null,
       "link": "https://finance.yahoo.com/markets/article/apple-microsoft-hit-all-time-highs-as-nasdaq-surges-2-in-post-election-rally-alphacheck-152548814.html?.tsrc=rss",
       "published": "2026-11-04T15:25:48Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "healthcare",
-      "headline": "Stock Market Today: Dow Soars On Election Landslide; Building, Retail, Healthcare Areas Jump (Live Coverage)",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/762d358c-ec5a-3821-a3f9-e47c4e4c3f0c/stock-market-today%3A-dow-soars.html?.tsrc=rss",
-      "published": "2026-11-04T15:24:33Z",
       "sentiment": "bullish"
     },
     {
@@ -147,14 +211,6 @@
     },
     {
       "category": "other",
-      "headline": "Analysis: The Democrats have one chance to extract concessions from Trump. Markets will hate it",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/04/democrats-trump-debt-ceiling-fight.html",
-      "published": "2026-11-04T15:05:19Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
       "headline": "Dow Heads for Best Midterm Election Rally Since 1982",
       "image": null,
       "link": "https://finance.yahoo.com/m/c96d51b9-8b31-3071-91c7-75c217eab449/dow-heads-for-best-midterm.html?.tsrc=rss",
@@ -171,26 +227,10 @@
     },
     {
       "category": "other",
-      "headline": "Caitlin Clark signs as first-ever brand partner with Dick's and Foot Locker",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/04/caitlin-clark-signs-as-first-brand-partner-with-dicks-foot-locker-.html",
-      "published": "2026-11-04T15:00:01Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
       "headline": "Midterm elections deliver a \u2018blue wave.\u2019 The stock market sees green.",
       "image": "news-images/4e37ef48c6cb71768d5b3086.jpg",
       "link": "https://www.marketwatch.com/story/midterm-elections-deliver-a-blue-wave-the-stock-market-sees-green-5900a779?mod=mw_rss_topstories",
       "published": "2026-11-04T14:59:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "AI data center stocks and Musk's SpaceX decline as Texas governor result raises risks of a slowdown",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/04/ai-stocks-texas-governor-data-centers.html",
-      "published": "2026-11-04T14:43:57Z",
       "sentiment": "neutral"
     },
     {
@@ -231,30 +271,6 @@
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=4978c01e-eeba-4e58-aa78-450c74a4a5a0&amp;mod=mw_rss_bulletins",
       "published": "2026-11-04T14:31:15Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Exchange-Traded Funds, Equity Futures Rise Pre-Bell Wednesday as Investors React to US Midterm Election Results",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-141810509.html?.tsrc=rss",
-      "published": "2026-11-04T14:18:10Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "financials",
-      "headline": "Wall Street Futures Point to Stronger Open as Investors Assess US Midterm Election Results: Dow Jones, S&P, Nasdaq",
-      "image": null,
-      "link": "https://investorshub.advfn.com/market-news/article/39265/wall-street-futures-point-to-stronger-open-as-investors-assess-us-midterm-election-results-dow-jones-sp-nasdaq?.tsrc=rss",
-      "published": "2026-11-04T14:11:36Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "The internet is \u2018dying\u2019: AI is eating it and obliterating these business models",
-      "image": "news-images/2167798aa484b1f06953501e.jpg",
-      "link": "https://www.marketwatch.com/story/the-internet-is-dying-ai-is-eating-it-and-obliterating-these-business-models-435ae2b0?mod=mw_rss_topstories",
-      "published": "2026-11-04T14:05:00Z",
       "sentiment": "neutral"
     },
     {
@@ -304,26 +320,10 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=447ffe70-b0d6-4e8c-b804-8d12c138bf6b&amp;mod=mw_rss_bulletins",
       "published": "2026-11-04T09:49:02Z",
       "sentiment": "bullish"
-    },
-    {
-      "category": "financials",
-      "headline": "JPMorgan strategists say midterm election was a 'clearing event': markets live",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=a908f00d-d107-45d7-a519-e26c25e7bd3e&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-04T08:57:14Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Ossoff now leads in prediction markets for 2028 nomination: live coverage",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=24adbcc7-81d1-4c43-b8d0-f34ad1a20c4f&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-04T08:15:37Z",
-      "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-11-04T16:07:16Z",
-  "source_item_count": 64,
+  "newest_item_published": "2026-11-04T17:11:00Z",
+  "source_item_count": 62,
   "sources": {
     "cnbc": {
       "contributed": 10,
@@ -331,7 +331,7 @@
       "fetched": 30,
       "fresh": 29,
       "label": "CNBC",
-      "newest": "2026-11-04T16:07:16Z",
+      "newest": "2026-11-04T17:11:00Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,7 +340,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-11-04T16:05:00Z",
+      "newest": "2026-11-04T16:38:00Z",
       "ok": true
     },
     "mw_bulletins": {
@@ -349,16 +349,16 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-11-04T16:04:31Z",
+      "newest": "2026-11-04T17:00:02Z",
       "ok": true
     },
     "yahoo_dji": {
       "contributed": 10,
       "error": null,
-      "fetched": 14,
-      "fresh": 14,
+      "fetched": 12,
+      "fresh": 12,
       "label": "Yahoo Finance",
-      "newest": "2026-11-04T15:39:27Z",
+      "newest": "2026-11-04T16:58:39Z",
       "ok": true
     }
   }
