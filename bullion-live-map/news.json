@@ -1,6 +1,78 @@
 {
-  "generated_at": "2026-11-04T17:12:06Z",
+  "generated_at": "2026-11-04T18:12:10Z",
   "headlines": [
+    {
+      "category": "federal",
+      "headline": "These 12 stocks are good bets to beat the 10-year Treasury over the next decade",
+      "image": "news-images/c22639649fb88d240e8e243d.jpg",
+      "link": "https://www.marketwatch.com/story/these-12-stocks-are-good-bets-to-beat-the-10-year-treasury-over-the-next-decade-cc4f308b?mod=mw_rss_topstories",
+      "published": "2026-11-04T18:03:00Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "Update: US Equity Indexes Surge After Democrats Win Midterm Elections",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-surge-democrats-175446121.html?.tsrc=rss",
+      "published": "2026-11-04T17:54:46Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "healthcare",
+      "headline": "CVS to split off drugstore business in major breakup of healthcare giant; shares fall 10%",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/04/cvs-to-split-off-drugstore-business.html",
+      "published": "2026-11-04T17:49:47Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "tech",
+      "headline": "Watch out for Big Tech companies like Meta and Alphabet issuing more shares and diluting your stock ownership",
+      "image": "news-images/62b6aaf4de816e5c6d2410e0.jpg",
+      "link": "https://www.marketwatch.com/story/watch-out-for-big-tech-companies-like-meta-and-alphabet-issuing-more-shares-and-diluting-your-stock-ownership-283e8c96?mod=mw_rss_topstories",
+      "published": "2026-11-04T17:44:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Stock Market Today: Dow Soars 1,500 Points, Lockheed Socked; Breadth Goes Bullish (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/762d358c-ec5a-3821-a3f9-e47c4e4c3f0c/stock-market-today%3A-dow-soars.html?.tsrc=rss",
+      "published": "2026-11-04T17:35:30Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "Analysis: The Democrats have one chance to extract concessions from Trump. Markets will hate it",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/04/democrats-trump-debt-ceiling-fight.html",
+      "published": "2026-11-04T17:32:26Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Kraft Heinz to divest its North American coffee business in $650 million deal",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/04/kraft-heinz-coffee-business-one-rock-deal.html",
+      "published": "2026-11-04T17:21:06Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "healthcare",
+      "headline": "Hospital stocks rally while drugmakers brace for scrutiny. Here\u2019s what the Democratic wave means for healthcare.",
+      "image": "news-images/9965b0618f32eb797b2f2aaf.jpg",
+      "link": "https://www.marketwatch.com/story/hospital-stocks-rally-while-drugmakers-brace-for-scrutiny-heres-what-the-democratic-wave-means-for-healthcare-625b79f3?mod=mw_rss_topstories",
+      "published": "2026-11-04T17:19:00Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "federal",
+      "headline": "What Trump can achieve without approval from a Democratic-led Congress",
+      "image": "news-images/689409a3c15a2d1ae2793b14.jpg",
+      "link": "https://www.marketwatch.com/story/what-trump-can-achieve-without-approval-from-a-democratic-led-congress-3401de75?mod=mw_rss_topstories",
+      "published": "2026-11-04T17:13:00Z",
+      "sentiment": "neutral"
+    },
     {
       "category": "federal",
       "headline": "10-year Treasury yield slides as traders mull over Democrats' midterm victories, oil prices drop",
@@ -16,6 +88,14 @@
       "link": "https://www.cnbc.com/2026/11/04/uber-stock-q3-2026-earnings.html",
       "published": "2026-11-04T17:04:32Z",
       "sentiment": "bullish"
+    },
+    {
+      "category": "federal",
+      "headline": "Dow Skyrockets 1,500 Points in Best Day Since Trump's Tariff Pause",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/280f9056-9586-3201-ac6c-cdb248e692b6/dow-skyrockets-1%2C500-points.html?.tsrc=rss",
+      "published": "2026-11-04T17:02:21Z",
+      "sentiment": "neutral"
     },
     {
       "category": "other",
@@ -74,22 +154,6 @@
       "sentiment": "bullish"
     },
     {
-      "category": "healthcare",
-      "headline": "CVS to split off drugstore business in major breakup of healthcare giant; shares fall 10%",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/04/cvs-to-split-off-drugstore-business.html",
-      "published": "2026-11-04T16:35:50Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "energy",
-      "headline": "Stock Market Today: Dow, Nasdaq Flex Strength As Military, Oil Stocks Take A Dive (Live Coverage)",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/762d358c-ec5a-3821-a3f9-e47c4e4c3f0c/stock-market-today%3A-dow%2C.html?.tsrc=rss",
-      "published": "2026-11-04T16:12:32Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "energy",
       "headline": "The U.S. economy is barreling ahead \u2014 but there\u2019s one big problem",
       "image": "news-images/fb4d3fb241bfdc3d760cbc9c.jpg",
@@ -127,14 +191,6 @@
       "image": null,
       "link": "https://finance.yahoo.com/markets/article/stocks-shrugged-off-the-blue-wave-overnight--history-says-dont-trust-the-bounce-yet-153846605.html?.tsrc=rss",
       "published": "2026-11-04T15:38:46Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Kraft Heinz to divest its North American coffee business in $650 million deal",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/04/kraft-heinz-coffee-business-one-rock-deal.html",
-      "published": "2026-11-04T15:35:23Z",
       "sentiment": "neutral"
     },
     {
@@ -219,54 +275,6 @@
     },
     {
       "category": "other",
-      "headline": "Three things that explain what\u2019s changing with Obamacare in 2027",
-      "image": "news-images/3519582946cbbf34c5ebcaf0.jpg",
-      "link": "https://www.marketwatch.com/story/three-things-that-explain-whats-changing-with-obamacare-in-2027-7c94585b?mod=mw_rss_topstories",
-      "published": "2026-11-04T15:03:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Midterm elections deliver a \u2018blue wave.\u2019 The stock market sees green.",
-      "image": "news-images/4e37ef48c6cb71768d5b3086.jpg",
-      "link": "https://www.marketwatch.com/story/midterm-elections-deliver-a-blue-wave-the-stock-market-sees-green-5900a779?mod=mw_rss_topstories",
-      "published": "2026-11-04T14:59:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Dow Surges 1,000 Points in Classic Post-Election Relief Rally",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/af8f0d4a-62de-30ae-9b34-015e524b0c57/dow-surges-1%2C000-points-in.html?.tsrc=rss",
-      "published": "2026-11-04T14:43:12Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "other",
-      "headline": "Big Tech\u2019s $500 billion spending spree leaves a lot less for shareholders",
-      "image": "news-images/55632807ca2b0b52ebf984fa.jpg",
-      "link": "https://www.marketwatch.com/story/big-techs-500-billion-spending-spree-leaves-a-lot-less-for-shareholders-4ed57fb5?mod=mw_rss_topstories",
-      "published": "2026-11-04T14:39:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Divided Government Sends the Dow Up 1000 Points",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/divided-government-sends-dow-1000-143400199.html?.tsrc=rss",
-      "published": "2026-11-04T14:34:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "healthcare",
-      "headline": "CVS Health plans to split in two. Here\u2019s what is driving the massive healthcare breakup.",
-      "image": "news-images/08b6dce0059e9900b2463022.jpg",
-      "link": "https://www.marketwatch.com/story/cvs-health-plans-to-split-in-two-heres-what-is-driving-the-massive-healthcare-breakup-27c0d6be?mod=mw_rss_topstories",
-      "published": "2026-11-04T14:33:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
       "headline": "Dow opens 1,000 points higher, heading for one of its top days of 2026",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=4978c01e-eeba-4e58-aa78-450c74a4a5a0&amp;mod=mw_rss_bulletins",
@@ -312,26 +320,18 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=59074c63-73ad-4b96-af3d-04bc69622054&amp;mod=mw_rss_bulletins",
       "published": "2026-11-04T10:29:06Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Dow futures now point to 500-point opening gain: markets live",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=447ffe70-b0d6-4e8c-b804-8d12c138bf6b&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-04T09:49:02Z",
-      "sentiment": "bullish"
     }
   ],
-  "newest_item_published": "2026-11-04T17:11:00Z",
-  "source_item_count": 62,
+  "newest_item_published": "2026-11-04T18:03:00Z",
+  "source_item_count": 61,
   "sources": {
     "cnbc": {
-      "contributed": 10,
+      "contributed": 11,
       "error": null,
       "fetched": 30,
       "fresh": 29,
       "label": "CNBC",
-      "newest": "2026-11-04T17:11:00Z",
+      "newest": "2026-11-04T17:49:47Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,25 +340,25 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-11-04T16:38:00Z",
+      "newest": "2026-11-04T18:03:00Z",
       "ok": true
     },
     "mw_bulletins": {
-      "contributed": 10,
+      "contributed": 9,
       "error": null,
       "fetched": 10,
       "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-11-04T17:00:02Z",
+      "newest": "2026-11-04T17:26:37Z",
       "ok": true
     },
     "yahoo_dji": {
       "contributed": 10,
       "error": null,
-      "fetched": 12,
-      "fresh": 12,
+      "fetched": 11,
+      "fresh": 11,
       "label": "Yahoo Finance",
-      "newest": "2026-11-04T16:58:39Z",
+      "newest": "2026-11-04T17:54:46Z",
       "ok": true
     }
   }
