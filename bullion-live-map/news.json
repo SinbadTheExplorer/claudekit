@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-11-04T20:12:06Z",
+  "generated_at": "2026-11-04T20:23:41Z",
   "headlines": [
+    {
+      "category": "other",
+      "headline": "What Republicans' huge loss means for Trump",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/04/trump-midterm-election-results-congress.html",
+      "published": "2026-11-04T20:23:18Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "The midterm election results are redrawing the map for AI data centers",
+      "image": "news-images/c79015d7f48de1c0b92904c8.jpg",
+      "link": "https://www.marketwatch.com/story/the-midterm-election-results-are-redrawing-the-map-for-ai-data-centers-8625dc0c?mod=mw_rss_topstories",
+      "published": "2026-11-04T20:21:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "energy",
+      "headline": "As Vistra and other energy stocks slide, some analysts warn of an \u2018excessive knee-jerk\u2019 reaction",
+      "image": "news-images/8866d60ae53168aad9366646.jpg",
+      "link": "https://www.marketwatch.com/story/as-vistra-and-other-energy-stocks-slide-some-analysts-warn-of-an-excessive-knee-jerk-reaction-aece0737?mod=mw_rss_topstories",
+      "published": "2026-11-04T20:17:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Stock Market Today: Dow Soars 1,500 Points; Microsoft Surges Off This Entry (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/762d358c-ec5a-3821-a3f9-e47c4e4c3f0c/stock-market-today%3A-dow-soars.html?.tsrc=rss",
+      "published": "2026-11-04T20:10:38Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "financials",
+      "headline": "Dow, Nasdaq and S&P 500 soaring in final hour as Wall Street reacts to blue wave",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=eceb020b-204e-4880-886b-db423aed089d&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-04T20:10:38Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "Why we're kicking CVS out of our Bullpen watchlist. Plus, Intel's CEO makes a stand",
+      "image": null,
+      "link": "https://www.cnbc.com/investingclub/2026/11/04/why-were-kicking-cvs-out-of-our-bullpen-watchlist-plus-intels-ceo-makes-a-stand.html",
+      "published": "2026-11-04T20:05:55Z",
+      "sentiment": "neutral"
+    },
     {
       "category": "consumer",
       "headline": "Wayfair sales jump 10% as furniture retailer says it's winning share of sluggish market",
@@ -74,27 +122,11 @@
       "sentiment": "bullish"
     },
     {
-      "category": "other",
-      "headline": "What Republicans' huge loss means for Trump",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/04/trump-midterm-election-results-congress.html",
-      "published": "2026-11-04T19:46:27Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "tech",
       "headline": "Hyperscalers and Apple surge after election results remove investor uncertainty",
       "image": null,
       "link": "https://www.cnbc.com/2026/11/04/apple-and-other-big-tech-stocks-surge-after-2026-midterm-elections.html",
       "published": "2026-11-04T19:37:43Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "tech",
-      "headline": "The post-election rally masks a sharp split in the AI trade. Who stands to win?",
-      "image": null,
-      "link": "https://www.cnbc.com/investingclub/2026/11/04/post-election-rally-masks-a-sharp-split-in-the-ai-trade-who-wins.html",
-      "published": "2026-11-04T19:21:20Z",
       "sentiment": "bullish"
     },
     {
@@ -112,14 +144,6 @@
       "link": "https://www.cnbc.com/2026/11/04/a-massive-trade-just-happened-in-a-leading-mortgage-lender-watch-options-action-live.html",
       "published": "2026-11-04T19:08:15Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Stock Market Today: Dow Soars 1,500 Points As At Least 10 Stocks Break Out (Live Coverage)",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/762d358c-ec5a-3821-a3f9-e47c4e4c3f0c/stock-market-today%3A-dow-soars.html?.tsrc=rss",
-      "published": "2026-11-04T19:06:41Z",
-      "sentiment": "bullish"
     },
     {
       "category": "energy",
@@ -242,14 +266,6 @@
       "sentiment": "bullish"
     },
     {
-      "category": "federal",
-      "headline": "What Trump can achieve without approval from a Democratic-led Congress",
-      "image": "news-images/689409a3c15a2d1ae2793b14.jpg",
-      "link": "https://www.marketwatch.com/story/what-trump-can-achieve-without-approval-from-a-democratic-led-congress-3401de75?mod=mw_rss_topstories",
-      "published": "2026-11-04T17:13:00Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "other",
       "headline": "Dow jumps 1,500 points, heading for best day of 2026 \u2014 live updates",
       "image": null,
@@ -264,14 +280,6 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=dd1b14ac-389e-4ea7-86e3-861a3321f54e&amp;mod=mw_rss_bulletins",
       "published": "2026-11-04T16:51:06Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "healthcare",
-      "headline": "Medicare prescription drug costs will jump 50% in 2027.\u00a0Doing nothing could cost you.",
-      "image": "news-images/5b45255539ee11fa97035d84.jpg",
-      "link": "https://www.marketwatch.com/story/medicare-prescription-drug-costs-will-jump-50-in-2027-doing-nothing-could-cost-you-b701dfb7?mod=mw_rss_topstories",
-      "published": "2026-11-04T16:38:00Z",
-      "sentiment": "bullish"
     },
     {
       "category": "tech",
@@ -312,17 +320,9 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=2db8f852-c9b3-4902-9b30-ca08eb140eef&amp;mod=mw_rss_bulletins",
       "published": "2026-11-04T11:19:09Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Democratic win will lift next year's fiscal spending by 0.25% of GDP: Goldman",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=3e546240-527f-4eab-a572-ee239df0bfbe&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-04T10:59:21Z",
-      "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-11-04T20:04:26Z",
+  "newest_item_published": "2026-11-04T20:23:18Z",
   "source_item_count": 62,
   "sources": {
     "cnbc": {
@@ -331,7 +331,7 @@
       "fetched": 30,
       "fresh": 29,
       "label": "CNBC",
-      "newest": "2026-11-04T20:04:26Z",
+      "newest": "2026-11-04T20:23:18Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,7 +340,7 @@
       "fetched": 10,
       "fresh": 9,
       "label": "MarketWatch",
-      "newest": "2026-11-04T20:04:00Z",
+      "newest": "2026-11-04T20:21:00Z",
       "ok": true
     },
     "mw_bulletins": {
@@ -349,7 +349,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-11-04T18:46:45Z",
+      "newest": "2026-11-04T20:10:38Z",
       "ok": true
     },
     "yahoo_dji": {
@@ -358,7 +358,7 @@
       "fetched": 12,
       "fresh": 12,
       "label": "Yahoo Finance",
-      "newest": "2026-11-04T19:52:52Z",
+      "newest": "2026-11-04T20:10:38Z",
       "ok": true
     }
   }
