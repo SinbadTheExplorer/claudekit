@@ -1,6 +1,110 @@
 {
-  "generated_at": "2026-11-04T19:12:06Z",
+  "generated_at": "2026-11-04T20:12:06Z",
   "headlines": [
+    {
+      "category": "consumer",
+      "headline": "Wayfair sales jump 10% as furniture retailer says it's winning share of sluggish market",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/04/wayfair-w-q3-2026-earnings.html",
+      "published": "2026-11-04T20:04:26Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "tech",
+      "headline": "Microsoft and Amazon combine for a $400 billion market-cap boost \u2014\u00a0and these factors show why",
+      "image": "news-images/5616b74d3b03733a52fd4a4d.jpg",
+      "link": "https://www.marketwatch.com/story/microsoft-and-amazon-combine-for-a-400-billion-market-cap-boost-and-these-factors-show-why-6655d1a9?mod=mw_rss_topstories",
+      "published": "2026-11-04T20:04:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "healthcare",
+      "headline": "CVS Health plans to split itself up. Here's why a breakup could make sense now",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/04/cvs-health-pharmacy-aetna-split.html",
+      "published": "2026-11-04T19:58:41Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Democrats take Congress in a blue wave. Here's what it means for your money",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/04/blue-wave-democrats-control-congress-your-money.html",
+      "published": "2026-11-04T19:53:55Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "New Flutter CEO bets on FanDuel promotions to win customers as profits suffer",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/04/flutter-fanduel-promotions-q3-2026.html",
+      "published": "2026-11-04T19:53:32Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Dow Surges After Democrats Sweep Midterm Elections",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dow-surges-democrats-sweep-midterm-195252465.html?.tsrc=rss",
+      "published": "2026-11-04T19:52:52Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "tech",
+      "headline": "Voters rebuff data centers in every ballot measure except one during the 2026 midterms",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/04/data-center-ballot-measures-2026-midterm.html",
+      "published": "2026-11-04T19:51:18Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "consumer",
+      "headline": "McDonald's stock rises as earnings beat, U.S. restaurants show improvement",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/04/mcdonalds-is-about-to-report-earnings-heres-what-to-expect.html",
+      "published": "2026-11-04T19:47:32Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "energy",
+      "headline": "Update: US Equity Indexes Surge as Democrats' Seismic Gains in Midterm Elections Send Crude Oil Tumbling",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-surge-democrats-194711258.html?.tsrc=rss",
+      "published": "2026-11-04T19:47:11Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "What Republicans' huge loss means for Trump",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/04/trump-midterm-election-results-congress.html",
+      "published": "2026-11-04T19:46:27Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Hyperscalers and Apple surge after election results remove investor uncertainty",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/04/apple-and-other-big-tech-stocks-surge-after-2026-midterm-elections.html",
+      "published": "2026-11-04T19:37:43Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "tech",
+      "headline": "The post-election rally masks a sharp split in the AI trade. Who stands to win?",
+      "image": null,
+      "link": "https://www.cnbc.com/investingclub/2026/11/04/post-election-rally-masks-a-sharp-split-in-the-ai-trade-who-wins.html",
+      "published": "2026-11-04T19:21:20Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "federal",
+      "headline": "Dow surges 1,500 points after Democrats take control of Congress",
+      "image": null,
+      "link": "https://www.cbsnews.com/news/stock-market-soar-democrats-take-control-of-congress/?.tsrc=rss",
+      "published": "2026-11-04T19:15:37Z",
+      "sentiment": "bullish"
+    },
     {
       "category": "financials",
       "headline": "A massive trade just happened in a leading mortgage lender: Watch Options Action Live",
@@ -8,14 +112,6 @@
       "link": "https://www.cnbc.com/2026/11/04/a-massive-trade-just-happened-in-a-leading-mortgage-lender-watch-options-action-live.html",
       "published": "2026-11-04T19:08:15Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Dow surges 1,500 points after Democrats take control of Congress",
-      "image": null,
-      "link": "https://www.cbsnews.com/news/stock-market-soar-democrats-take-control-of-congress/?.tsrc=rss",
-      "published": "2026-11-04T19:07:57Z",
-      "sentiment": "bullish"
     },
     {
       "category": "other",
@@ -39,14 +135,6 @@
       "image": null,
       "link": "https://www.cnbc.com/2026/11/04/congressional-democrats-affordability-oversight.html",
       "published": "2026-11-04T19:00:52Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Voters rebuff data centers in every ballot measure except one during the 2026 midterms",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/04/data-center-ballot-measures-2026-midterm.html",
-      "published": "2026-11-04T18:58:21Z",
       "sentiment": "neutral"
     },
     {
@@ -82,28 +170,12 @@
       "sentiment": "bearish"
     },
     {
-      "category": "other",
-      "headline": "Trump hammers Fox News, blaming network for GOP losses as ratings slide",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/04/trump-fox-news-gop-midterm-losses.html",
-      "published": "2026-11-04T18:37:11Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "federal",
       "headline": "\u2018I have no financial safety net\u2019: I\u2019m 66, rely on Social Security and have $500 in savings. What politician speaks for me?",
       "image": "news-images/c289c6a3606dc68376f7c1fe.jpg",
       "link": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
       "published": "2026-11-04T18:37:00Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "healthcare",
-      "headline": "CVS to split off drugstore business in major breakup of healthcare giant; shares fall 10%",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/04/cvs-to-split-off-drugstore-business.html",
-      "published": "2026-11-04T18:35:35Z",
-      "sentiment": "bearish"
     },
     {
       "category": "other",
@@ -120,14 +192,6 @@
       "link": "https://finance.yahoo.com/news/blue-chips-surge-past-2-181600445.html?.tsrc=rss",
       "published": "2026-11-04T18:16:00Z",
       "sentiment": "bearish"
-    },
-    {
-      "category": "tech",
-      "headline": "Google responds to political backlash over removing search from schools that ban AI",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/03/google-responds-to-outrage-over-removing-search-in-schools-that-ban-ai.html",
-      "published": "2026-11-04T18:13:10Z",
-      "sentiment": "neutral"
     },
     {
       "category": "federal",
@@ -154,11 +218,11 @@
       "sentiment": "neutral"
     },
     {
-      "category": "other",
-      "headline": "Analysis: The Democrats have one chance to extract concessions from Trump. Markets will hate it",
+      "category": "energy",
+      "headline": "The U.S. economy is barreling ahead \u2014 but there\u2019s one big problem",
       "image": null,
-      "link": "https://www.cnbc.com/2026/11/04/democrats-trump-debt-ceiling-fight.html",
-      "published": "2026-11-04T17:32:26Z",
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=300c1c15-d2fb-4744-97c1-6df70d538e43&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-04T17:26:37Z",
       "sentiment": "neutral"
     },
     {
@@ -168,14 +232,6 @@
       "link": "https://www.investopedia.com/big-tech-rallies-defense-prison-stocks-sink-here-what-s-moving-after-the-democrats-sweep-12236110?.tsrc=rss",
       "published": "2026-11-04T17:26:35Z",
       "sentiment": "bullish"
-    },
-    {
-      "category": "other",
-      "headline": "Kraft Heinz to divest its North American coffee business in $650 million deal",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/04/kraft-heinz-coffee-business-one-rock-deal.html",
-      "published": "2026-11-04T17:21:06Z",
-      "sentiment": "neutral"
     },
     {
       "category": "healthcare",
@@ -194,52 +250,12 @@
       "sentiment": "neutral"
     },
     {
-      "category": "federal",
-      "headline": "10-year Treasury yield slides as traders mull over Democrats' midterm victories, oil prices drop",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html",
-      "published": "2026-11-04T17:11:00Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "other",
-      "headline": "Uber beats on revenue, CEO tells CNBC the company is 'investing significantly' to add drivers",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/04/uber-stock-q3-2026-earnings.html",
-      "published": "2026-11-04T17:04:32Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "federal",
-      "headline": "Dow Skyrockets 1,500 Points in Best Day Since Trump's Tariff Pause",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/280f9056-9586-3201-ac6c-cdb248e692b6/dow-skyrockets-1%2C500-points.html?.tsrc=rss",
-      "published": "2026-11-04T17:02:21Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "other",
       "headline": "Dow jumps 1,500 points, heading for best day of 2026 \u2014 live updates",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=c62bb8a5-1311-453d-b98b-310eb6fdb245&amp;mod=mw_rss_bulletins",
       "published": "2026-11-04T17:00:02Z",
       "sentiment": "bullish"
-    },
-    {
-      "category": "other",
-      "headline": "These 3 Stocks Boost Dow Jones' Bounce. Here's Why.",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/c7014575-4c6b-3dac-93d8-abfccb19ce70/these-3-stocks-boost-dow.html?.tsrc=rss",
-      "published": "2026-11-04T16:58:39Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "financials",
-      "headline": "Jim Cramer says this bank stock is a buy after its post-election pullback",
-      "image": null,
-      "link": "https://www.cnbc.com/investingclub/2026/11/04/cramer-says-this-bank-stock-is-a-buy-after-its-post-election-pullback.html",
-      "published": "2026-11-04T16:54:39Z",
-      "sentiment": "neutral"
     },
     {
       "category": "other",
@@ -258,28 +274,12 @@
       "sentiment": "bullish"
     },
     {
-      "category": "energy",
-      "headline": "The U.S. economy is barreling ahead \u2014 but there\u2019s one big problem",
-      "image": "news-images/fb4d3fb241bfdc3d760cbc9c.jpg",
-      "link": "https://www.marketwatch.com/story/the-u-s-economy-is-barreling-ahead-but-theres-one-big-problem-6d62e3b3?mod=mw_rss_topstories",
-      "published": "2026-11-04T16:05:00Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "tech",
       "headline": "Chip stocks are falling today as election results rattle investors",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=7f67f49b-a017-43a6-b33b-564e4726a57b&amp;mod=mw_rss_bulletins",
       "published": "2026-11-04T16:04:31Z",
       "sentiment": "bearish"
-    },
-    {
-      "category": "other",
-      "headline": "Depressing, but true: If you want to get ahead at work, embrace virtue signaling",
-      "image": "news-images/43ad85ee890995ec83bb54e3.jpg",
-      "link": "https://www.marketwatch.com/story/depressing-but-true-if-you-want-to-get-ahead-at-work-embrace-virtue-signaling-b4e72f0a?mod=mw_rss_topstories",
-      "published": "2026-11-04T15:33:00Z",
-      "sentiment": "neutral"
     },
     {
       "category": "other",
@@ -322,8 +322,8 @@
       "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-11-04T19:08:15Z",
-  "source_item_count": 63,
+  "newest_item_published": "2026-11-04T20:04:26Z",
+  "source_item_count": 62,
   "sources": {
     "cnbc": {
       "contributed": 11,
@@ -331,20 +331,20 @@
       "fetched": 30,
       "fresh": 29,
       "label": "CNBC",
-      "newest": "2026-11-04T19:08:15Z",
+      "newest": "2026-11-04T20:04:26Z",
       "ok": true
     },
     "marketwatch": {
-      "contributed": 10,
+      "contributed": 9,
       "error": null,
       "fetched": 10,
-      "fresh": 10,
+      "fresh": 9,
       "label": "MarketWatch",
-      "newest": "2026-11-04T18:57:00Z",
+      "newest": "2026-11-04T20:04:00Z",
       "ok": true
     },
     "mw_bulletins": {
-      "contributed": 9,
+      "contributed": 10,
       "error": null,
       "fetched": 10,
       "fresh": 10,
@@ -355,10 +355,10 @@
     "yahoo_dji": {
       "contributed": 10,
       "error": null,
-      "fetched": 13,
-      "fresh": 13,
+      "fetched": 12,
+      "fresh": 12,
       "label": "Yahoo Finance",
-      "newest": "2026-11-04T19:07:57Z",
+      "newest": "2026-11-04T19:52:52Z",
       "ok": true
     }
   }
