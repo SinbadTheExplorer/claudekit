@@ -1,6 +1,150 @@
 {
-  "generated_at": "2026-11-05T17:12:08Z",
+  "generated_at": "2026-11-05T18:12:07Z",
   "headlines": [
+    {
+      "category": "other",
+      "headline": "Blue Origin pushes launch to January 2027 as it races to rebuild damaged launch pad",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/05/blue-origin-launch-new-glenn.html",
+      "published": "2026-11-05T18:03:11Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "energy",
+      "headline": "Bloom Energy\u2019s stock is one of the S&P 500\u2019s biggest losers amid fears of data-center delays",
+      "image": "news-images/153e7eff41fe351969edd8e0.jpg",
+      "link": "https://www.marketwatch.com/story/bloom-energys-stock-is-one-of-the-s-p-500s-biggest-losers-amid-fears-of-data-center-delays-a44c96bb?mod=mw_rss_topstories",
+      "published": "2026-11-05T18:03:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Two months after my father\u2019s funeral, my stepmother asked me to repay his $40,000 wedding gift. Should I do what she says?",
+      "image": "news-images/6721e4064bdf4047732dff7f.jpg",
+      "link": "https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories",
+      "published": "2026-11-05T18:00:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "energy",
+      "headline": "Trump's energy deals are about to face a wave of investigations by Democrats",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/05/trump-election-energy-venezuela-critical-mineral-renewable-iran.html",
+      "published": "2026-11-05T17:56:55Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Democrats\u2019 big election win revives a difficult Social Security question: Who pays?",
+      "image": "news-images/703f88925ac07f9ccad98c65.jpg",
+      "link": "https://www.marketwatch.com/story/democrats-big-election-win-revives-a-difficult-social-security-question-who-pays-17ba9448?mod=mw_rss_topstories",
+      "published": "2026-11-05T17:54:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Trump Media Just Lost a Quarter of Its Value in a Day",
+      "image": null,
+      "link": "https://247wallst.com/investing/2026/11/05/trump-media-just-lost-a-quarter-of-its-value-in-a-day/?.tsrc=rss",
+      "published": "2026-11-05T17:53:50Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Is this \u2018the big one\u2019 for the stock market? Wall Street weighs the tech selloff.",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=ded49252-ef0a-464c-a3af-9884cf62d06f&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-05T17:45:42Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "financials",
+      "headline": "Democrats to probe JPMorgan's relationship with Jeffrey Epstein when they take Senate control",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/05/jpmorgan-epstein-democrats-erdoes-midterm-election.html",
+      "published": "2026-11-05T17:42:29Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "healthcare",
+      "headline": "HSA-eligible health plans in 2027: What to know about tax savings vs. higher deductibles",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/05/hsa-health-plan-2027.html",
+      "published": "2026-11-05T17:41:16Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Micron, Sandisk and other AI stocks are falling hard: \u2018Investors don\u2019t like uncertainty.\u2019",
+      "image": "news-images/43b9eab3b5f1b63215187fe3.jpg",
+      "link": "https://www.marketwatch.com/story/micron-sandisk-and-other-ai-stocks-are-falling-hard-investors-dont-like-uncertainty-94d2a3b9?mod=mw_rss_topstories",
+      "published": "2026-11-05T17:39:00Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "tech",
+      "headline": "Stock Market Today: Nasdaq Slumps 4% As AI Unwinds; Qualcomm Tumbles On Soft Outlook (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/38cb0654-6e49-3715-b4e4-f2f830876d7a/stock-market-today%3A-nasdaq.html?.tsrc=rss",
+      "published": "2026-11-05T17:34:58Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "financials",
+      "headline": "Wall Street's fear gauge surges the most since April. Why traders think it should be even higher",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/05/wall-streets-fear-gauge-surges-the-most-since-april-why-traders-think-it-should-be-even-higher.html",
+      "published": "2026-11-05T17:34:16Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "I\u2019m 65 and worth more than $5.6 million. Can I buy a $200,000 camper even though the price feels \u2018crazy high\u2019?",
+      "image": "news-images/cedcbecf794155d90b197d35.jpg",
+      "link": "https://www.marketwatch.com/story/im-65-and-worth-more-than-5-6-million-can-i-buy-a-200-000-camper-even-though-the-price-feels-crazy-high-55f668f8?mod=mw_rss_topstories",
+      "published": "2026-11-05T17:33:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "\u2018I have no financial safety net\u2019: I\u2019m 66, rely on Social Security and have just $500 in savings. What hope do I have?",
+      "image": "news-images/c289c6a3606dc68376f7c1fe.jpg",
+      "link": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
+      "published": "2026-11-05T17:30:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Update: Nasdaq Enters Correction Territory as Volatility Spikes Amid Chip Rout",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-enters-correction-territory-volatility-172724977.html?.tsrc=rss",
+      "published": "2026-11-05T17:27:24Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Three tax proposals targeting the rich that the new Congress could revive",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/05/three-tax-proposals-targeting-the-rich-the-new-congress-could-revive.html",
+      "published": "2026-11-05T17:24:30Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "financials",
+      "headline": "Wall Street's Fear Gauge Just Made a Massive Move",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/options/articles/wall-streets-fear-gauge-just-172244609.html?.tsrc=rss",
+      "published": "2026-11-05T17:22:44Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Is this \u2018the big one\u2019 for the stock market? Wall Street sounds off as tech plunges.",
+      "image": "news-images/c885c5bc0cfb438152e84a84.jpg",
+      "link": "https://www.marketwatch.com/story/is-this-the-big-one-for-the-stock-market-wall-street-sounds-off-as-tech-plunges-185df529?mod=mw_rss_topstories",
+      "published": "2026-11-05T17:11:00Z",
+      "sentiment": "bearish"
+    },
     {
       "category": "other",
       "headline": "How to buy a new car for under $30,000 in this economy",
@@ -18,28 +162,12 @@
       "sentiment": "neutral"
     },
     {
-      "category": "federal",
-      "headline": "Three tax proposals targeting the rich that the new Congress could revive",
+      "category": "tech",
+      "headline": "This Strategist Says AI Trade Isn't Dead Yet",
       "image": null,
-      "link": "https://www.cnbc.com/2026/11/05/three-tax-proposals-targeting-the-rich-the-new-congress-could-revive.html",
-      "published": "2026-11-05T17:00:28Z",
+      "link": "https://finance.yahoo.com/m/5b6bfff8-2993-3dd5-ad3c-bd346232e114/this-strategist-says-ai-trade.html?.tsrc=rss",
+      "published": "2026-11-05T16:57:09Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Figma sinks after earnings beat as company prioritizes long-term growth with AI changes",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/04/figma-fig-q3-earnings-report-2026.html",
-      "published": "2026-11-05T16:58:35Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "tech",
-      "headline": "Stock Market Today: Nasdaq Slumps 4% As AI Trade Unwinds; CrowdStrike Sells Off (Live Coverage)",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/38cb0654-6e49-3715-b4e4-f2f830876d7a/stock-market-today%3A-nasdaq.html?.tsrc=rss",
-      "published": "2026-11-05T16:53:16Z",
-      "sentiment": "bearish"
     },
     {
       "category": "healthcare",
@@ -66,14 +194,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "tech",
-      "headline": "Micron, Sandisk and other AI stocks are falling hard: \u2018Investors don\u2019t like uncertainty.\u2019",
-      "image": "news-images/43b9eab3b5f1b63215187fe3.jpg",
-      "link": "https://www.marketwatch.com/story/micron-sandisk-and-other-ai-stocks-are-falling-hard-investors-dont-like-uncertainty-94d2a3b9?mod=mw_rss_topstories",
-      "published": "2026-11-05T16:44:00Z",
-      "sentiment": "bearish"
-    },
-    {
       "category": "federal",
       "headline": "Barkin sees interest rate hikes ahead, but at a gradual pace",
       "image": null,
@@ -98,14 +218,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "financials",
-      "headline": "Democrats to probe JPMorgan's relationship with Jeffrey Epstein when they take Senate control",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/05/jpmorgan-epstein-democrats-erdoes-midterm-election.html",
-      "published": "2026-11-05T16:31:33Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "other",
       "headline": "Traders watch S&P 500 circuit-breaker levels as selloff deepens",
       "image": null,
@@ -119,14 +231,6 @@
       "image": null,
       "link": "https://www.cnbc.com/2026/11/05/wonder-confidential-ipo-filing.html",
       "published": "2026-11-05T16:27:10Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "energy",
-      "headline": "Trump's energy deals are about to face a wave of investigations by Democrats",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/05/trump-election-energy-venezuela-critical-mineral-renewable-iran.html",
-      "published": "2026-11-05T16:23:48Z",
       "sentiment": "neutral"
     },
     {
@@ -147,42 +251,10 @@
     },
     {
       "category": "other",
-      "headline": "California\u2019s billionaire tax faces defeat, but Democrats plan higher taxes on the wealthy",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/05/as-california-billionaire-tax-fizzles-democrats-plan-taxes-on-wealthy.html",
-      "published": "2026-11-05T16:19:21Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
       "headline": "A record number of first-time home buyers now pay in cash. Here\u2019s where they get the money.",
       "image": "news-images/fa79abc06be7943b69bb9e4d.jpg",
       "link": "https://www.marketwatch.com/story/a-record-10-of-first-time-home-buyers-now-pay-in-cash-heres-where-they-get-the-money-70f2e656?mod=mw_rss_topstories",
       "published": "2026-11-05T16:15:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "healthcare",
-      "headline": "This pancreatic cancer treatment is on track for \u2018one of the best drug launches of all time\u2019",
-      "image": "news-images/f094da120e0305dff1e440d4.jpg",
-      "link": "https://www.marketwatch.com/story/this-pancreatic-cancer-treatment-is-on-track-for-one-of-the-best-drug-launches-of-all-time-37bf86ce?mod=mw_rss_topstories",
-      "published": "2026-11-05T16:12:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Voters say the economy drove them to the polls \u2014 and blame Trump for their troubles",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/04/2026-midterms-trump-economy-iran-war.html",
-      "published": "2026-11-05T16:07:59Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "An Anthropic IPO when the AI trade is this turbulent? Goodspeed!",
-      "image": "news-images/080b4085250b0cdad9c63771.jpg",
-      "link": "https://www.marketwatch.com/story/an-anthropic-ipo-when-the-ai-trade-is-this-turbulent-godspeed-08ca0496?mod=mw_rss_topstories",
-      "published": "2026-11-05T16:00:00Z",
       "sentiment": "neutral"
     },
     {
@@ -194,44 +266,12 @@
       "sentiment": "neutral"
     },
     {
-      "category": "other",
-      "headline": "\u2018My life could be cut short\u2019: I\u2019m 55, married and have a brain tumor. Should I splash out on a $210,000 Porsche?",
-      "image": "news-images/646626015cdf2503ac459c16.jpg",
-      "link": "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories",
-      "published": "2026-11-05T15:30:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "\u2018I have no financial safety net\u2019: I\u2019m 66, rely on Social Security and have just $500 in savings. What hope do I have?",
-      "image": "news-images/c289c6a3606dc68376f7c1fe.jpg",
-      "link": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
-      "published": "2026-11-05T15:30:00Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "tech",
       "headline": "Dow tumbles, S&P 500 and Nasdaq drop on sharp tech selloff \u2014 live updates",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=6d752cc4-4434-42d2-a918-6f5c86328baf&amp;mod=mw_rss_bulletins",
       "published": "2026-11-05T15:27:19Z",
       "sentiment": "bearish"
-    },
-    {
-      "category": "tech",
-      "headline": "Midterm Results Put These 4 Renewable, Healthcare & AI Stocks in Focus",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/midterm-results-put-4-renewable-152400817.html?.tsrc=rss",
-      "published": "2026-11-05T15:24:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Learning from \u2018Love Is Blind\u2019 money drama",
-      "image": "news-images/98485ea59d6dfa19d57405c0.jpg",
-      "link": "https://www.marketwatch.com/story/learning-from-love-is-blind-money-drama-810175f9?mod=mw_rss_topstories",
-      "published": "2026-11-05T15:16:00Z",
-      "sentiment": "neutral"
     },
     {
       "category": "other",
@@ -242,43 +282,11 @@
       "sentiment": "neutral"
     },
     {
-      "category": "other",
-      "headline": "Billionaires aren\u2019t off the hook for higher taxes, even if they did dodge California\u2019s wealth tax",
-      "image": "news-images/40f5eca044a466e4209eec36.jpg",
-      "link": "https://www.marketwatch.com/story/billionaires-arent-off-the-hook-for-higher-taxes-even-if-they-did-dodge-californias-wealth-tax-a73f9045?mod=mw_rss_topstories",
-      "published": "2026-11-05T15:01:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Stocks Wobble as Midterm Rally Fades. AI Selloff Gains Steam.",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/bdb718b4-8cc0-39f8-9b92-ca47cfded828/stocks-wobble-as-midterm.html?.tsrc=rss",
-      "published": "2026-11-05T14:32:05Z",
-      "sentiment": "bullish"
-    },
-    {
       "category": "tech",
       "headline": "Dow opens higher after big gains, but Nasdaq falls on tech struggles",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=55532d81-a772-46bc-91a1-56e6e1427a5c&amp;mod=mw_rss_bulletins",
       "published": "2026-11-05T14:30:50Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "US Stock Futures Mixed as Investors Assess Election Results and Await October Jobs Report: Dow Jones, S&P, Nasdaq, Wall Street",
-      "image": null,
-      "link": "https://investorshub.advfn.com/market-news/article/39359/us-stock-futures-mixed-as-investors-assess-election-results-and-await-october-jobs-report-dow-jones-sp-nasdaq-wall-street?.tsrc=rss",
-      "published": "2026-11-05T14:17:40Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Exchange-Traded Funds, Equity Futures Mixed Pre-Bell Thursday Amid Pressure on AI Shares",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-141133476.html?.tsrc=rss",
-      "published": "2026-11-05T14:11:33Z",
       "sentiment": "neutral"
     },
     {
@@ -312,18 +320,10 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=ce28fe3d-b913-443f-92ec-6c3ff9e89e67&amp;mod=mw_rss_bulletins",
       "published": "2026-11-04T21:39:39Z",
       "sentiment": "bullish"
-    },
-    {
-      "category": "federal",
-      "headline": "Dow books 1,500-point gain, stocks soar after Democrats gain control of Congress",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=e9dca177-81c7-476f-b468-eb5a816fa929&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-04T21:03:56Z",
-      "sentiment": "bullish"
     }
   ],
-  "newest_item_published": "2026-11-05T17:04:00Z",
-  "source_item_count": 63,
+  "newest_item_published": "2026-11-05T18:03:11Z",
+  "source_item_count": 61,
   "sources": {
     "cnbc": {
       "contributed": 12,
@@ -331,7 +331,7 @@
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-11-05T17:03:35Z",
+      "newest": "2026-11-05T18:03:11Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,7 +340,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-11-05T17:04:00Z",
+      "newest": "2026-11-05T18:03:00Z",
       "ok": true
     },
     "mw_bulletins": {
@@ -349,16 +349,16 @@
       "fetched": 10,
       "fresh": 9,
       "label": "MW Bulletins",
-      "newest": "2026-11-05T16:25:13Z",
+      "newest": "2026-11-05T17:45:42Z",
       "ok": true
     },
     "yahoo_dji": {
       "contributed": 10,
       "error": null,
-      "fetched": 13,
-      "fresh": 13,
+      "fetched": 11,
+      "fresh": 11,
       "label": "Yahoo Finance",
-      "newest": "2026-11-05T16:53:16Z",
+      "newest": "2026-11-05T17:53:50Z",
       "ok": true
     }
   }
