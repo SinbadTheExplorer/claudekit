@@ -1,6 +1,70 @@
 {
-  "generated_at": "2026-11-05T20:37:01Z",
+  "generated_at": "2026-11-05T21:12:05Z",
   "headlines": [
+    {
+      "category": "tech",
+      "headline": "Stocks crater as midterms spur investor exodus from tech and AI",
+      "image": null,
+      "link": "https://www.cbsnews.com/news/stocks-midterm-elections-tech-companies-ai-data-centers/?.tsrc=rss",
+      "published": "2026-11-05T21:08:27Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Dow ends 1,800 points down, Nasdaq slides 5.5% into correction as stocks plummet",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=37df4238-fd0c-49c9-825a-3567660700f6&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-05T21:07:42Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "energy",
+      "headline": "Sector Update: Energy Stocks Drop Thursday",
+      "image": null,
+      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-drop-thursday-210255557.html?.tsrc=rss",
+      "published": "2026-11-05T21:02:55Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "IRS announces bigger estate and gift tax exemption for 2027",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/05/2027-estate-and-gift-tax-exemption-irs-raises-limit.html",
+      "published": "2026-11-05T20:51:57Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "industrials",
+      "headline": "Stock Market Today: Dow Loses 1,700 As Nasdaq Craters; Tesla, SpaceX Lose $450 Bil. In Two Days (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/38cb0654-6e49-3715-b4e4-f2f830876d7a/stock-market-today%3A-dow-loses.html?.tsrc=rss",
+      "published": "2026-11-05T20:50:40Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Update: Nasdaq Sinks Into Correction Territory, Dow Erases Mega Post-Election Rally Amid Big-Tech Rout",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-sinks-correction-territory-dow-204537057.html?.tsrc=rss",
+      "published": "2026-11-05T20:45:37Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "federal",
+      "headline": "\u2018I have no financial safety net\u2019: I\u2019m 66, rely on Social Security and have just $500 in savings. What hope do I have?",
+      "image": "news-images/c289c6a3606dc68376f7c1fe.jpg",
+      "link": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
+      "published": "2026-11-05T20:45:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "IRS announces new federal income tax brackets for 2027",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/05/2027-federal-tax-brackets.html",
+      "published": "2026-11-05T20:37:22Z",
+      "sentiment": "neutral"
+    },
     {
       "category": "other",
       "headline": "The 2027 tax brackets are out. See what the standard deduction and SALT tax breaks will be.",
@@ -58,30 +122,6 @@
       "sentiment": "bullish"
     },
     {
-      "category": "other",
-      "headline": "IRS announces bigger estate and gift tax exemption for 2027",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/05/2027-estate-and-gift-tax-exemption-irs-raises-limit.html",
-      "published": "2026-11-05T19:54:26Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "IRS announces new federal income tax brackets for 2027",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/05/2027-federal-tax-brackets.html",
-      "published": "2026-11-05T19:53:13Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Stock Market Today: Dow Down 1,500 Points As Volatility Spikes; Expedia Posts A Soft Outlook (Live Coverage)",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/38cb0654-6e49-3715-b4e4-f2f830876d7a/stock-market-today%3A-dow-down.html?.tsrc=rss",
-      "published": "2026-11-05T19:46:20Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "federal",
       "headline": "After tech-stock rout, October jobs report could bring relief \u2014 or more pain",
       "image": "news-images/d1612bf2e17e1f71e9a929fd.jpg",
@@ -96,14 +136,6 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=14f68ba3-a8be-4f52-8c89-c73228eded1d&amp;mod=mw_rss_bulletins",
       "published": "2026-11-05T19:38:22Z",
       "sentiment": "bearish"
-    },
-    {
-      "category": "tech",
-      "headline": "Stocks crater as midterms spur investor exodus from tech and AI",
-      "image": null,
-      "link": "https://www.cbsnews.com/news/stocks-midterm-elections-tech-companies-ai-data-centers/?.tsrc=rss",
-      "published": "2026-11-05T19:34:36Z",
-      "sentiment": "neutral"
     },
     {
       "category": "healthcare",
@@ -243,14 +275,6 @@
     },
     {
       "category": "other",
-      "headline": "Two months after my father\u2019s funeral, my stepmother asked me to repay his $40,000 wedding gift. Should I do what she says?",
-      "image": "news-images/6721e4064bdf4047732dff7f.jpg",
-      "link": "https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories",
-      "published": "2026-11-05T18:00:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
       "headline": "Trump Media Just Lost a Quarter of Its Value in a Day",
       "image": null,
       "link": "https://247wallst.com/investing/2026/11/05/trump-media-just-lost-a-quarter-of-its-value-in-a-day/?.tsrc=rss",
@@ -259,27 +283,11 @@
     },
     {
       "category": "tech",
-      "headline": "Stocks plunge as midterm results send AI trade into a tailspin",
-      "image": null,
-      "link": "https://www.cnn.com/2026/11/05/investing/tech-heavy-nasdaq-plunges?.tsrc=rss",
-      "published": "2026-11-05T17:50:57Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "tech",
       "headline": "Is this \u2018the big one\u2019 for the stock market? Wall Street weighs the tech selloff.",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=ded49252-ef0a-464c-a3af-9884cf62d06f&amp;mod=mw_rss_bulletins",
       "published": "2026-11-05T17:45:42Z",
       "sentiment": "bearish"
-    },
-    {
-      "category": "financials",
-      "headline": "Democrats to probe JPMorgan's relationship with Jeffrey Epstein when they take Senate control",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/05/jpmorgan-epstein-democrats-erdoes-midterm-election.html",
-      "published": "2026-11-05T17:42:29Z",
-      "sentiment": "neutral"
     },
     {
       "category": "other",
@@ -312,26 +320,18 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=55532d81-a772-46bc-91a1-56e6e1427a5c&amp;mod=mw_rss_bulletins",
       "published": "2026-11-05T14:30:50Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Economic calendar: Jobless claims and productivity data coming soon",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=b56f0c81-25e1-4157-bdb8-0894b731515a&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-05T12:32:54Z",
-      "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-11-05T20:33:54Z",
+  "newest_item_published": "2026-11-05T21:08:27Z",
   "source_item_count": 63,
   "sources": {
     "cnbc": {
-      "contributed": 11,
+      "contributed": 10,
       "error": null,
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-11-05T20:17:16Z",
+      "newest": "2026-11-05T20:51:57Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,7 +340,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-11-05T20:22:00Z",
+      "newest": "2026-11-05T20:45:00Z",
       "ok": true
     },
     "mw_bulletins": {
@@ -349,16 +349,16 @@
       "fetched": 10,
       "fresh": 9,
       "label": "MW Bulletins",
-      "newest": "2026-11-05T20:33:54Z",
+      "newest": "2026-11-05T21:07:42Z",
       "ok": true
     },
     "yahoo_dji": {
-      "contributed": 10,
+      "contributed": 11,
       "error": null,
       "fetched": 13,
-      "fresh": 13,
+      "fresh": 12,
       "label": "Yahoo Finance",
-      "newest": "2026-11-05T20:21:25Z",
+      "newest": "2026-11-05T21:08:27Z",
       "ok": true
     }
   }
