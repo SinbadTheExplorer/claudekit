@@ -1,12 +1,140 @@
 {
-  "generated_at": "2026-11-05T15:12:06Z",
+  "generated_at": "2026-11-05T16:12:52Z",
   "headlines": [
+    {
+      "category": "other",
+      "headline": "Voters say the economy drove them to the polls \u2014 and blame Trump for their troubles",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/04/2026-midterms-trump-economy-iran-war.html",
+      "published": "2026-11-05T16:07:59Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Micron, Sandisk and other AI stocks are falling hard: \u2018Investors don\u2019t like uncertainty\u2019",
+      "image": "news-images/43b9eab3b5f1b63215187fe3.jpg",
+      "link": "https://www.marketwatch.com/story/micron-sandisk-and-other-ai-stocks-are-falling-hard-investors-dont-like-uncertainty-94d2a3b9?mod=mw_rss_topstories",
+      "published": "2026-11-05T16:06:00Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "federal",
+      "headline": "Bank of England hikes interest rate for the first time since Iran war, warns inflation will near 5%",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/05/interest-rates-inflation-uk.html",
+      "published": "2026-11-05T16:01:47Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "An Anthropic IPO when the AI trade is this turbulent? Goodspeed!",
+      "image": "news-images/080b4085250b0cdad9c63771.jpg",
+      "link": "https://www.marketwatch.com/story/an-anthropic-ipo-when-the-ai-trade-is-this-turbulent-godspeed-08ca0496?mod=mw_rss_topstories",
+      "published": "2026-11-05T16:00:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Stocks Reverse Post-Midterm Gains as Jitters Return and the AI Trade Unravels. Nasdaq Plunges into Correction Territory.",
+      "image": null,
+      "link": "https://www.ibtimes.com/stocks-plunge-ai-shares-texas-data-center-regulation-3809454?.tsrc=rss",
+      "published": "2026-11-05T15:57:37Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Marc Lore's Wonder confidentially files for IPO",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/05/wonder-confidential-ipo-filing.html",
+      "published": "2026-11-05T15:57:32Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Stock Market Today: Nasdaq Craters 5% As Chips Sell Off; Arm Misses Key Metric (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/38cb0654-6e49-3715-b4e4-f2f830876d7a/stock-market-today%3A-nasdaq.html?.tsrc=rss",
+      "published": "2026-11-05T15:55:00Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "crypto",
+      "headline": "Democratic sweep puts crypto on defensive in Washington",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/05/crypto-midterms-democrats-clarity-act.html",
+      "published": "2026-11-05T15:43:08Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Expedia CEO says AI agents aren't changing booking habits \u2014 yet",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/05/expedia-ai-agents-booking-habits.html",
+      "published": "2026-11-05T15:34:55Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "\u2018My life could be cut short\u2019: I\u2019m 55, married and have a brain tumor. Should I splash out on a $210,000 Porsche?",
+      "image": "news-images/646626015cdf2503ac459c16.jpg",
+      "link": "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories",
+      "published": "2026-11-05T15:30:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "\u2018I have no financial safety net\u2019: I\u2019m 66, rely on Social Security and have just $500 in savings. What hope do I have?",
+      "image": "news-images/c289c6a3606dc68376f7c1fe.jpg",
+      "link": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
+      "published": "2026-11-05T15:30:00Z",
+      "sentiment": "neutral"
+    },
     {
       "category": "federal",
       "headline": "Barkin sees interest rate hikes ahead, but at a gradual pace",
       "image": null,
       "link": "https://www.cnbc.com/2026/11/05/barkin-sees-interest-rate-hikes-ahead-but-at-a-gradual-pace.html",
-      "published": "2026-11-05T15:09:22Z",
+      "published": "2026-11-05T15:27:57Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Dow tumbles, S&P 500 and Nasdaq drop on sharp tech selloff \u2014 live updates",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=6d752cc4-4434-42d2-a918-6f5c86328baf&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-05T15:27:19Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "international",
+      "headline": "Bomb threats disrupt flights across Europe for the second time. Here\u2019s what we know",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/05/bomb-threats-flights-europe.html",
+      "published": "2026-11-05T15:26:06Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Qualcomm slides 9% after earnings, leading postelection chip stock sell-off",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/05/qualcomm-earnings-chip-stocks-election.html",
+      "published": "2026-11-05T15:24:47Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "federal",
+      "headline": "Three tax proposals targeting the rich that the new Congress could revive",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/05/three-tax-proposals-targeting-the-rich-the-new-congress-could-revive.html",
+      "published": "2026-11-05T15:16:10Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Learning from \u2018Love Is Blind\u2019 money drama",
+      "image": "news-images/98485ea59d6dfa19d57405c0.jpg",
+      "link": "https://www.marketwatch.com/story/learning-from-love-is-blind-money-drama-810175f9?mod=mw_rss_topstories",
+      "published": "2026-11-05T15:16:00Z",
       "sentiment": "neutral"
     },
     {
@@ -74,36 +202,12 @@
       "sentiment": "neutral"
     },
     {
-      "category": "other",
-      "headline": "This is the secret sauce for the economy \u2014 and it\u2019s showing up in faster U.S. growth",
-      "image": "news-images/1922bfeae1af8bc911e421b1.jpg",
-      "link": "https://www.marketwatch.com/story/this-is-the-secret-sauce-for-the-economy-and-its-showing-up-in-faster-u-s-growth-fb78ce21?mod=mw_rss_topstories",
-      "published": "2026-11-05T14:49:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Stock Market Today: Dow Slips After Postelection Rally; Cava, Dutch Bros Plunge On Earnings News (Live Coverage)",
+      "category": "tech",
+      "headline": "Stocks Wobble as Midterm Rally Fades. AI Selloff Gains Steam.",
       "image": null,
-      "link": "https://finance.yahoo.com/m/38cb0654-6e49-3715-b4e4-f2f830876d7a/stock-market-today%3A-dow-slips.html?.tsrc=rss",
-      "published": "2026-11-05T14:40:48Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Jim Cramer's top 10 things to watch in the stock market Thursday",
-      "image": null,
-      "link": "https://www.cnbc.com/investingclub/2026/11/05/jim-cramers-top-10-things-to-watch-in-the-stock-market-thursday.html",
-      "published": "2026-11-05T14:39:12Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Here's what the Democratic election rout could mean for the U.S. economy",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/05/emocratic-midterm-economy.html",
-      "published": "2026-11-05T14:33:32Z",
-      "sentiment": "neutral"
+      "link": "https://finance.yahoo.com/m/bdb718b4-8cc0-39f8-9b92-ca47cfded828/stocks-wobble-as-midterm.html?.tsrc=rss",
+      "published": "2026-11-05T14:32:05Z",
+      "sentiment": "bullish"
     },
     {
       "category": "tech",
@@ -112,30 +216,6 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=55532d81-a772-46bc-91a1-56e6e1427a5c&amp;mod=mw_rss_bulletins",
       "published": "2026-11-05T14:30:50Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "crypto",
-      "headline": "Democratic sweep puts crypto on defensive in Washington",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/05/crypto-midterms-democrats-clarity-act.html",
-      "published": "2026-11-05T14:27:01Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "energy",
-      "headline": "World's largest olive oil company plummets 20% after rivals agree to takeover deal",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/05/deoleo-olive-oil-takeover-dcoop-acesur.html",
-      "published": "2026-11-05T14:25:23Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Stocks outside the AI trade are rallying \u2014 and Washington just added fuel",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/article/stocks-outside-the-ai-trade-are-rallying--and-washington-just-added-fuel-143058937.html?.tsrc=rss",
-      "published": "2026-11-05T14:20:29Z",
-      "sentiment": "bullish"
     },
     {
       "category": "federal",
@@ -155,35 +235,11 @@
     },
     {
       "category": "other",
-      "headline": "Three things that explain what\u2019s changing with Obamacare in 2027",
-      "image": "news-images/3519582946cbbf34c5ebcaf0.jpg",
-      "link": "https://www.marketwatch.com/story/three-things-that-explain-whats-changing-with-obamacare-in-2027-7c94585b?mod=mw_rss_topstories",
-      "published": "2026-11-05T14:04:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
-      "image": "news-images/45f4c003ac21ae6d91c7720a.jpg",
-      "link": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
-      "published": "2026-11-05T14:00:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
       "headline": "What the post-midterm market rally is revealing about Washington's big shift",
       "image": null,
       "link": "https://finance.yahoo.com/video/what-the-post-midterm-market-rally-is-revealing-about-washingtons-big-shift-135955844.html?.tsrc=rss",
       "published": "2026-11-05T13:59:55Z",
       "sentiment": "bullish"
-    },
-    {
-      "category": "financials",
-      "headline": "Banks are turning cautious on lending, according to the Fed. What it means for the economy",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/05/fed-bank-lending-standards-small-business.html",
-      "published": "2026-11-05T13:52:38Z",
-      "sentiment": "neutral"
     },
     {
       "category": "tech",
@@ -192,14 +248,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-mixed-pre-134844265.html?.tsrc=rss",
       "published": "2026-11-05T13:48:44Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Qualcomm\u2019s stock falls as twin forces pressure sales",
-      "image": "news-images/6ea9b310637bceef6456c450.jpg",
-      "link": "https://www.marketwatch.com/story/qualcomms-stock-falls-as-twin-forces-pressure-sales-fa161159?mod=mw_rss_topstories",
-      "published": "2026-11-05T13:47:00Z",
-      "sentiment": "bearish"
     },
     {
       "category": "tech",
@@ -211,35 +259,11 @@
     },
     {
       "category": "tech",
-      "headline": "OpenAI pledges to halt NDAs in new data center policy proposal after election rebuke",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/05/openai-to-pay-for-data-center-power-after-election-shows-ai-concern.html",
-      "published": "2026-11-05T13:44:45Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "financials",
-      "headline": "What Wall Street billionaires are saying about Democrats' midterm sweep",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/04/billionaires-musk-branson-democrats-midterms-ai-wall-street.html",
-      "published": "2026-11-05T13:44:27Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
       "headline": "These AI Names Sat Out the Midterm Rally. Now, the Losses Are Intensifying.",
       "image": null,
       "link": "https://finance.yahoo.com/m/58b262e7-3c2a-3452-b404-767df7ff91cb/these-ai-names-sat-out-the.html?.tsrc=rss",
       "published": "2026-11-05T13:41:56Z",
       "sentiment": "bullish"
-    },
-    {
-      "category": "tech",
-      "headline": "Chinese AI lab Moonshot turned to Europe for Nvidia Blackwell access amid U.S. China curbs, sources tell CNBC",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/05/moonshot-ai-nvidia-chips-europe-china.html",
-      "published": "2026-11-05T13:34:14Z",
-      "sentiment": "neutral"
     },
     {
       "category": "other",
@@ -248,22 +272,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-nov-5-132500891.html?.tsrc=rss",
       "published": "2026-11-05T13:25:00Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "\u2018It seems bizarre\u2019: We\u2019re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
-      "image": "news-images/cbcd887ed89df38f16983c65.jpg",
-      "link": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
-      "published": "2026-11-05T13:15:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Dow Jones Futures Rise As Techs Fall; Apple, Microsoft, Amazon Flash Buy Signals",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/a147bf9a-4218-3171-97a4-fb80fda211eb/dow-jones-futures-rise-as.html?.tsrc=rss",
-      "published": "2026-11-05T13:13:38Z",
-      "sentiment": "bearish"
     },
     {
       "category": "other",
@@ -312,18 +320,10 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=02f37a8c-7fd8-4804-825d-dea6d57614d7&amp;mod=mw_rss_bulletins",
       "published": "2026-11-04T20:36:56Z",
       "sentiment": "bearish"
-    },
-    {
-      "category": "financials",
-      "headline": "Dow, Nasdaq and S&P 500 soaring in final hour as Wall Street reacts to blue wave",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=eceb020b-204e-4880-886b-db423aed089d&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-04T20:10:38Z",
-      "sentiment": "bullish"
     }
   ],
-  "newest_item_published": "2026-11-05T15:09:22Z",
-  "source_item_count": 68,
+  "newest_item_published": "2026-11-05T16:07:59Z",
+  "source_item_count": 67,
   "sources": {
     "cnbc": {
       "contributed": 11,
@@ -331,7 +331,7 @@
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-11-05T15:09:22Z",
+      "newest": "2026-11-05T16:07:59Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,7 +340,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-11-05T15:01:00Z",
+      "newest": "2026-11-05T16:06:00Z",
       "ok": true
     },
     "mw_bulletins": {
@@ -349,16 +349,16 @@
       "fetched": 10,
       "fresh": 9,
       "label": "MW Bulletins",
-      "newest": "2026-11-05T15:06:18Z",
+      "newest": "2026-11-05T15:27:19Z",
       "ok": true
     },
     "yahoo_dji": {
       "contributed": 10,
       "error": null,
-      "fetched": 18,
-      "fresh": 16,
+      "fetched": 17,
+      "fresh": 15,
       "label": "Yahoo Finance",
-      "newest": "2026-11-05T14:40:48Z",
+      "newest": "2026-11-05T15:57:37Z",
       "ok": true
     }
   }
