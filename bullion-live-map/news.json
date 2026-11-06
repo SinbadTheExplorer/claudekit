@@ -1,13 +1,109 @@
 {
-  "generated_at": "2026-11-06T16:12:06Z",
+  "generated_at": "2026-11-06T17:12:05Z",
   "headlines": [
     {
-      "category": "energy",
-      "headline": "Oil prices set for sharp weekly fall after midterm elections as investors weigh Iran conflict risk",
+      "category": "tech",
+      "headline": "The AI \u2018credit card\u2019 is getting costlier as CoreWeave bond yield tops 16%",
       "image": null,
-      "link": "https://www.cnbc.com/2026/11/06/oil-price-today-brent-wti.html",
-      "published": "2026-11-06T16:07:23Z",
-      "sentiment": "bearish"
+      "link": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+      "published": "2026-11-06T17:09:53Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Dynasties or Parity? How MLB, the NFL, and the NBA try to find competitive balance",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/06/dynasties-or-parity-how-mlb-nfl-nba-try-to-find-competitive-balance.html",
+      "published": "2026-11-06T17:01:52Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Watch live: Cramer updates his views on all the Club stocks and 1 to buy right now",
+      "image": null,
+      "link": "https://www.cnbc.com/investingclub/2026/11/06/watch-jim-cramer-live.html",
+      "published": "2026-11-06T16:58:47Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/06/open-ai-data-centers-election.html",
+      "published": "2026-11-06T16:57:39Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Update: US Equity Indexes Rebound, Treasury Yields Rise Following Blowout Jobs Report",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-rebound-treasury-165611154.html?.tsrc=rss",
+      "published": "2026-11-06T16:56:11Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "tech",
+      "headline": "Stocks rebound after tech selloff that pushed Nasdaq into correction",
+      "image": null,
+      "link": "https://www.cbsnews.com/news/stocks-tech-sell-off-nasdaq-correction-dow/?.tsrc=rss",
+      "published": "2026-11-06T16:49:49Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Montana votes to ban corporate political money. Next stop? Probably the Supreme Court",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/06/montana-initiative-194-corporate-spending.html",
+      "published": "2026-11-06T16:47:50Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Stock Market Today: Dow Wobbles, Nasdaq Rises After AI Trade Rout; SpaceX, Rocket Lab Climb (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/259a2432-7041-3624-978f-9a7336f10b31/stock-market-today%3A-dow.html?.tsrc=rss",
+      "published": "2026-11-06T16:47:22Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Data center double-down: Hassett says blue wave won't stop AI build-out",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/06/data-centers-ai-elections-hassett.html",
+      "published": "2026-11-06T16:34:01Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "financials",
+      "headline": "Wall Street's fear gauge may be flashing a buy sign",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/06/wall-streets-fear-gauge-may-be-flashing-a-buy-sign.html",
+      "published": "2026-11-06T16:29:01Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Hims & Hers struck a GLP-1 deal with Lilly. Its stock is rallying.",
+      "image": "news-images/3f641b6fa74fe26fc20dd42c.jpg",
+      "link": "https://www.marketwatch.com/story/hims-hers-struck-a-glp-1-deal-with-lilly-its-stock-is-rallying-d06ebe60?mod=mw_rss_topstories",
+      "published": "2026-11-06T16:29:00Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "tech",
+      "headline": "Layoffs with dignity? Why these tech companies are offering free laptops and LinkedIn Premium.",
+      "image": "news-images/d69bae6343b20dc29065b200.jpg",
+      "link": "https://www.marketwatch.com/story/layoffs-with-dignity-why-these-tech-firms-are-offering-free-laptops-and-linkedin-premium-28750d39?mod=mw_rss_topstories",
+      "published": "2026-11-06T16:27:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Cybertruck\u2019s run comes to an end as Musk kills off pricey pet project",
+      "image": "news-images/e8e423de51b9dc6871a0cbb9.jpg",
+      "link": "https://www.marketwatch.com/story/is-it-the-end-of-the-cybertruck-elon-musk-announces-factory-will-shift-production-3e33cafd?mod=mw_rss_topstories",
+      "published": "2026-11-06T16:17:00Z",
+      "sentiment": "neutral"
     },
     {
       "category": "federal",
@@ -15,22 +111,6 @@
       "image": null,
       "link": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
       "published": "2026-11-06T16:06:59Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Watch live: Cramer sees no quick fix for this market \u2014 but there are still moves to make",
-      "image": null,
-      "link": "https://www.cnbc.com/investingclub/2026/11/06/watch-jim-cramer-live.html",
-      "published": "2026-11-06T16:06:05Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Data center double-down: Hassett says Blue Wave won't stop AI build-out",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/06/data-centers-ai-elections-hassett.html",
-      "published": "2026-11-06T15:55:48Z",
       "sentiment": "neutral"
     },
     {
@@ -47,22 +127,6 @@
       "image": "news-images/c976971de8c62d4184b56eec.jpg",
       "link": "https://www.marketwatch.com/story/nvidia-amd-and-other-chip-stocks-rebound-is-the-violent-ai-selloff-over-8f7df533?mod=mw_rss_topstories",
       "published": "2026-11-06T15:48:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Stock Market Today: Dow Pares Losses After Jobs Surprise; Nvidia, AMD Lead Tech Rebound (Live Coverage)",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/259a2432-7041-3624-978f-9a7336f10b31/stock-market-today%3A-dow-pares.html?.tsrc=rss",
-      "published": "2026-11-06T15:36:33Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "other",
-      "headline": "Dynasties or Parity? How MLB, the NFL, and the NBA try to find competitive balance",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/06/dynasties-or-parity-how-mlb-nfl-nba-try-to-find-competitive-balance.html",
-      "published": "2026-11-06T15:32:21Z",
       "sentiment": "neutral"
     },
     {
@@ -91,14 +155,6 @@
     },
     {
       "category": "tech",
-      "headline": "Stocks fall as Nasdaq bounce fails to ease AI doubts",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tech-firms-suffer-bloodbath-us-022200707.html?.tsrc=rss",
-      "published": "2026-11-06T15:22:57Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "tech",
       "headline": "$3 trillion wipe-out, CEOs on the volatility of politics, and the status of the AI trade",
       "image": null,
       "link": "https://finance.yahoo.com/video/3-trillion-wipe-out-ceos-on-the-volatility-of-politics-and-the-status-of-the-ai-trade-151554253.html?.tsrc=rss",
@@ -106,12 +162,12 @@
       "sentiment": "neutral"
     },
     {
-      "category": "tech",
-      "headline": "Stocks rebound after tech selloff that pushed Nasdaq into correction",
+      "category": "other",
+      "headline": "Nasdaq Rises 1%. Can the Gains Be Trusted?",
       "image": null,
-      "link": "https://www.cbsnews.com/news/stocks-tech-sell-off-nasdaq-correction-dow/?.tsrc=rss",
-      "published": "2026-11-06T15:11:16Z",
-      "sentiment": "neutral"
+      "link": "https://finance.yahoo.com/m/0ba804cc-1729-320b-b539-26f4dc50d9d0/nasdaq-rises-1%25.-can-the.html?.tsrc=rss",
+      "published": "2026-11-06T15:09:35Z",
+      "sentiment": "bullish"
     },
     {
       "category": "healthcare",
@@ -163,22 +219,6 @@
     },
     {
       "category": "tech",
-      "headline": "The S&P 500 has become a big AI bet. Here are some simple alternatives.",
-      "image": "news-images/7859c75f3826633b0e4b9425.jpg",
-      "link": "https://www.marketwatch.com/story/the-s-p-500-has-become-a-big-ai-bet-here-are-some-simple-alternatives-3c7574a4?mod=mw_rss_topstories",
-      "published": "2026-11-06T14:51:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "\u2018It feels like he\u2019s quietly building a separate life\u2019: My husband inherited $500,000, but he refuses to spend it on our home",
-      "image": "news-images/1ce16511e13f790e782241f8.jpg",
-      "link": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
-      "published": "2026-11-06T14:50:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
       "headline": "Magnificent Seven Lost $1 Trillion in Tech Rout. Here's How Much Each Plunged.",
       "image": null,
       "link": "https://www.ibtimes.com/tech-stocks-ai-spending-fears-market-selloff-3809480?.tsrc=rss",
@@ -194,12 +234,12 @@
       "sentiment": "neutral"
     },
     {
-      "category": "other",
-      "headline": "Nasdaq Rises 1%. Can the Gains Be Trusted?",
+      "category": "tech",
+      "headline": "Nasdaq higher as chip stocks attempt to recover from brutal losses",
       "image": null,
-      "link": "https://finance.yahoo.com/m/0ba804cc-1729-320b-b539-26f4dc50d9d0/nasdaq-rises-1%25.-can-the.html?.tsrc=rss",
-      "published": "2026-11-06T14:32:32Z",
-      "sentiment": "bullish"
+      "link": "https://www.foxbusiness.com/markets/stocks-11-6-2026?.tsrc=rss",
+      "published": "2026-11-06T14:33:26Z",
+      "sentiment": "neutral"
     },
     {
       "category": "crypto",
@@ -216,38 +256,6 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=8eab4a0e-6480-4c44-8216-34d7bdb8f8f9&amp;mod=mw_rss_bulletins",
       "published": "2026-11-06T14:31:27Z",
       "sentiment": "bearish"
-    },
-    {
-      "category": "other",
-      "headline": "How much in Roth conversions can you do in 2027 with the new tax brackets?",
-      "image": "news-images/9931d6d507caf4542708ef17.jpg",
-      "link": "https://www.marketwatch.com/story/how-much-roth-conversion-can-you-do-in-2027-with-the-new-tax-brackets-a2f940c8?mod=mw_rss_topstories",
-      "published": "2026-11-06T14:26:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "healthcare",
-      "headline": "Family offices boost startup investments in October, backing women's health and caregivers",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/06/family-offices-boost-startup-investments-in-october.html",
-      "published": "2026-11-06T14:16:28Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "financials",
-      "headline": "Wall Street's fear gauge may be flashing a buy sign",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/06/wall-streets-fear-gauge-may-be-flashing-a-buy-sign.html",
-      "published": "2026-11-06T14:02:11Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Our top 10 things to watch in the stock market Friday",
-      "image": null,
-      "link": "https://www.cnbc.com/investingclub/2026/11/06/our-top-10-things-to-watch-in-the-stock-market-friday.html",
-      "published": "2026-11-06T14:01:45Z",
-      "sentiment": "neutral"
     },
     {
       "category": "other",
@@ -312,18 +320,10 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=f90ce007-a988-4b7b-973e-a9d45ec1c6f2&amp;mod=mw_rss_bulletins",
       "published": "2026-11-05T23:52:23Z",
       "sentiment": "bullish"
-    },
-    {
-      "category": "industrials",
-      "headline": "'Musk selloff': Tesla and SpaceX combine for $456 billion two-day wipeout",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=37a848a7-2324-48a0-bd74-abe2a35267fe&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-05T22:36:53Z",
-      "sentiment": "bearish"
     }
   ],
-  "newest_item_published": "2026-11-06T16:07:23Z",
-  "source_item_count": 66,
+  "newest_item_published": "2026-11-06T17:09:53Z",
+  "source_item_count": 67,
   "sources": {
     "cnbc": {
       "contributed": 10,
@@ -331,7 +331,7 @@
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-11-06T16:07:23Z",
+      "newest": "2026-11-06T17:09:53Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,25 +340,25 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-11-06T15:48:00Z",
+      "newest": "2026-11-06T16:29:00Z",
       "ok": true
     },
     "mw_bulletins": {
-      "contributed": 10,
+      "contributed": 9,
       "error": null,
       "fetched": 10,
       "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-11-06T14:31:27Z",
+      "newest": "2026-11-06T16:19:24Z",
       "ok": true
     },
     "yahoo_dji": {
-      "contributed": 10,
+      "contributed": 11,
       "error": null,
-      "fetched": 16,
-      "fresh": 15,
+      "fetched": 17,
+      "fresh": 16,
       "label": "Yahoo Finance",
-      "newest": "2026-11-06T15:36:33Z",
+      "newest": "2026-11-06T16:56:11Z",
       "ok": true
     }
   }
