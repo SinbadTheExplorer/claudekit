@@ -1,6 +1,110 @@
 {
-  "generated_at": "2026-11-06T17:12:05Z",
+  "generated_at": "2026-11-06T18:12:06Z",
   "headlines": [
+    {
+      "category": "energy",
+      "headline": "Mississippi Senate: Longshot Ty Pinkins says he aimed to spoil Hyde-Smith, boost Colom vote",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/06/mississippi-senate-ty-pinkins-colom-hyde-smith.html",
+      "published": "2026-11-06T18:03:13Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "You\u2019re fired! But you can keep the laptop and insurance. And here\u2019s $10,000.",
+      "image": "news-images/d69bae6343b20dc29065b200.jpg",
+      "link": "https://www.marketwatch.com/story/layoffs-with-dignity-why-these-tech-firms-are-offering-free-laptops-and-linkedin-premium-28750d39?mod=mw_rss_topstories",
+      "published": "2026-11-06T18:03:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "I\u2019m 65 and worth more than $5.6 million. Can I afford a $200,000 camper?",
+      "image": "news-images/cedcbecf794155d90b197d35.jpg",
+      "link": "https://www.marketwatch.com/story/im-65-and-worth-more-than-5-6-million-can-i-buy-a-200-000-camper-even-though-the-price-feels-crazy-high-55f668f8?mod=mw_rss_topstories",
+      "published": "2026-11-06T18:00:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Nvidia, AMD and other chip stocks rebound \u2014 but is relief from the \u2018violent\u2019 selloff only temporary?",
+      "image": "news-images/c976971de8c62d4184b56eec.jpg",
+      "link": "https://www.marketwatch.com/story/nvidia-amd-and-other-chip-stocks-rebound-is-the-violent-ai-selloff-over-8f7df533?mod=mw_rss_topstories",
+      "published": "2026-11-06T18:00:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Unemployment rate falls, but there are 1.3 million more jobless than 4 years ago",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=7b83419a-8df1-47da-8485-625a2b95f9f2&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-06T17:59:23Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "DraftKings\u2019 expensive bet on prediction markets is crushing its stock",
+      "image": "news-images/026e88b61535a2545e293c89.jpg",
+      "link": "https://www.marketwatch.com/story/draftkings-expensive-bet-on-prediction-markets-is-crushing-its-stock-277bee0d?mod=mw_rss_topstories",
+      "published": "2026-11-06T17:51:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Watch the Annual Meeting: Cramer on the fate of the AI buildout and stocks to buy now",
+      "image": null,
+      "link": "https://www.cnbc.com/investingclub/2026/11/06/watch-jim-cramer-live.html",
+      "published": "2026-11-06T17:48:16Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "What\u2019s next for your portfolio after the decline in Big Tech stocks?",
+      "image": "news-images/153b1274379385b685257124.jpg",
+      "link": "https://www.marketwatch.com/story/whats-next-for-your-portfolio-after-the-decline-in-big-tech-stocks-2873452f?mod=mw_rss_topstories",
+      "published": "2026-11-06T17:47:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Two months after my father\u2019s funeral, my stepmother asked me to repay his $40,000 wedding gift. Should I do what she says?",
+      "image": "news-images/6721e4064bdf4047732dff7f.jpg",
+      "link": "https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories",
+      "published": "2026-11-06T17:45:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "What the AI stock crash cost your 401(k) for every $1,000 invested",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/article/what-the-ai-stock-crash-cost-your-401k-for-every-1000-invested-172821837.html?.tsrc=rss",
+      "published": "2026-11-06T17:28:21Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "tech",
+      "headline": "OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/06/open-ai-data-centers-election.html",
+      "published": "2026-11-06T17:24:48Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "The S&P 500 could be dangerously exposed to AI. Here are some simple alternatives.",
+      "image": "news-images/7859c75f3826633b0e4b9425.jpg",
+      "link": "https://www.marketwatch.com/story/the-s-p-500-has-become-a-big-ai-bet-here-are-some-simple-alternatives-3c7574a4?mod=mw_rss_topstories",
+      "published": "2026-11-06T17:19:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "\u2018We\u2019re losing to cottage cheese\u2019: The protein-maxxing craze is hurting cream cheese sales",
+      "image": "news-images/94ee1eaaf757556007bad4d1.jpg",
+      "link": "https://www.marketwatch.com/story/were-losing-to-cottage-cheese-the-protein-maxxing-craze-is-hurting-cream-cheese-sales-40ae94f3?mod=mw_rss_topstories",
+      "published": "2026-11-06T17:14:00Z",
+      "sentiment": "neutral"
+    },
     {
       "category": "tech",
       "headline": "The AI \u2018credit card\u2019 is getting costlier as CoreWeave bond yield tops 16%",
@@ -15,22 +119,6 @@
       "image": null,
       "link": "https://www.cnbc.com/2026/11/06/dynasties-or-parity-how-mlb-nfl-nba-try-to-find-competitive-balance.html",
       "published": "2026-11-06T17:01:52Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Watch live: Cramer updates his views on all the Club stocks and 1 to buy right now",
-      "image": null,
-      "link": "https://www.cnbc.com/investingclub/2026/11/06/watch-jim-cramer-live.html",
-      "published": "2026-11-06T16:58:47Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/06/open-ai-data-centers-election.html",
-      "published": "2026-11-06T16:57:39Z",
       "sentiment": "neutral"
     },
     {
@@ -91,19 +179,19 @@
     },
     {
       "category": "tech",
-      "headline": "Layoffs with dignity? Why these tech companies are offering free laptops and LinkedIn Premium.",
-      "image": "news-images/d69bae6343b20dc29065b200.jpg",
-      "link": "https://www.marketwatch.com/story/layoffs-with-dignity-why-these-tech-firms-are-offering-free-laptops-and-linkedin-premium-28750d39?mod=mw_rss_topstories",
-      "published": "2026-11-06T16:27:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
       "headline": "Cybertruck\u2019s run comes to an end as Musk kills off pricey pet project",
       "image": "news-images/e8e423de51b9dc6871a0cbb9.jpg",
       "link": "https://www.marketwatch.com/story/is-it-the-end-of-the-cybertruck-elon-musk-announces-factory-will-shift-production-3e33cafd?mod=mw_rss_topstories",
       "published": "2026-11-06T16:17:00Z",
       "sentiment": "neutral"
+    },
+    {
+      "category": "energy",
+      "headline": "Oil prices set for sharp weekly fall after midterm elections as investors weigh Iran conflict risk",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/06/oil-price-today-brent-wti.html",
+      "published": "2026-11-06T16:07:23Z",
+      "sentiment": "bearish"
     },
     {
       "category": "federal",
@@ -123,38 +211,6 @@
     },
     {
       "category": "tech",
-      "headline": "Nvidia, AMD and other chip stocks rebound. Is the \u2018violent\u2019 AI selloff over?",
-      "image": "news-images/c976971de8c62d4184b56eec.jpg",
-      "link": "https://www.marketwatch.com/story/nvidia-amd-and-other-chip-stocks-rebound-is-the-violent-ai-selloff-over-8f7df533?mod=mw_rss_topstories",
-      "published": "2026-11-06T15:48:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "\u2018It seems bizarre\u2019: We\u2019re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
-      "image": "news-images/cbcd887ed89df38f16983c65.jpg",
-      "link": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
-      "published": "2026-11-06T15:30:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "\u2018I have no financial safety net\u2019: I\u2019m 66, rely on Social Security and have just $500 in savings. What hope do I have?",
-      "image": "news-images/c289c6a3606dc68376f7c1fe.jpg",
-      "link": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
-      "published": "2026-11-06T15:30:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "financials",
-      "headline": "These three stars need to align before investors rush back into stocks, Bank of America strategist says",
-      "image": "news-images/9ff8a82749461a1bbf571d90.jpg",
-      "link": "https://www.marketwatch.com/story/these-three-stars-need-to-align-before-investors-rush-back-into-stocks-bank-of-america-strategist-says-52879caa?mod=mw_rss_topstories",
-      "published": "2026-11-06T15:27:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
       "headline": "$3 trillion wipe-out, CEOs on the volatility of politics, and the status of the AI trade",
       "image": null,
       "link": "https://finance.yahoo.com/video/3-trillion-wipe-out-ceos-on-the-volatility-of-politics-and-the-status-of-the-ai-trade-151554253.html?.tsrc=rss",
@@ -170,43 +226,11 @@
       "sentiment": "bullish"
     },
     {
-      "category": "healthcare",
-      "headline": "Moderna raises its revenue outlook \u2014 but all eyes are on what happens next with its cancer vaccine",
-      "image": "news-images/9f034ef435954d7627f184b8.jpg",
-      "link": "https://www.marketwatch.com/story/modernas-stock-jumps-after-biotech-raises-sales-outlook-65363127?mod=mw_rss_topstories",
-      "published": "2026-11-06T15:09:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Tesla to wind down Cybertruck production in Texas next year to ramp Cybercab, Musk says",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/06/tesla-cybertruck-texas-musk.html",
-      "published": "2026-11-06T15:06:11Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "My 93-year-old father changed his will at the 11th hour, leaving my brother his entire $500,000 estate. Can I challenge it?",
-      "image": "news-images/01b3c589d596966412edb869.jpg",
-      "link": "https://www.marketwatch.com/story/my-93-year-old-father-changed-his-will-at-the-11th-hour-leaving-my-brother-his-entire-500-000-estate-can-i-challenge-it-ecfc63d2?mod=mw_rss_topstories",
-      "published": "2026-11-06T15:00:00Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "other",
       "headline": "$3 trillion was wiped off the S&P 500 \u2014 but it ain't doomsday",
       "image": null,
       "link": "https://finance.yahoo.com/video/3-trillion-was-wiped-off-the-sp-500--but-it-aint-doomsday-145656545.html?.tsrc=rss",
       "published": "2026-11-06T14:56:56Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "international",
-      "headline": "Trump\u2019s Iran war has changed the future of Social Security",
-      "image": "news-images/5f8300bd1622ca93a3ac87f7.jpg",
-      "link": "https://www.marketwatch.com/story/trumps-iran-war-has-changed-the-future-of-social-security-7a500f9f?mod=mw_rss_topstories",
-      "published": "2026-11-06T14:55:00Z",
       "sentiment": "neutral"
     },
     {
@@ -232,22 +256,6 @@
       "link": "https://www.ibtimes.com/trump-blames-democrats-nasdaq-ai-market-selloff-3809488?.tsrc=rss",
       "published": "2026-11-06T14:37:55Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Nasdaq higher as chip stocks attempt to recover from brutal losses",
-      "image": null,
-      "link": "https://www.foxbusiness.com/markets/stocks-11-6-2026?.tsrc=rss",
-      "published": "2026-11-06T14:33:26Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "crypto",
-      "headline": "Bitcoin ETFs See $430 Million Of Outflows As U.S. Market Plunges",
-      "image": null,
-      "link": "https://www.cryptoprowl.com/releases/bitcoin-etfs-see-430-million-of-outflows-as-us-market-plunges-7733?.tsrc=rss",
-      "published": "2026-11-06T14:32:00Z",
-      "sentiment": "bearish"
     },
     {
       "category": "tech",
@@ -312,26 +320,18 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=a6ac657e-4d81-4cc2-bce8-f35b81007bac&amp;mod=mw_rss_bulletins",
       "published": "2026-11-05T23:53:29Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Cloudflare stock mounts big comeback after fastest sales surge in nearly 4 years",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=f90ce007-a988-4b7b-973e-a9d45ec1c6f2&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-05T23:52:23Z",
-      "sentiment": "bullish"
     }
   ],
-  "newest_item_published": "2026-11-06T17:09:53Z",
+  "newest_item_published": "2026-11-06T18:03:13Z",
   "source_item_count": 67,
   "sources": {
     "cnbc": {
-      "contributed": 10,
+      "contributed": 11,
       "error": null,
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-11-06T17:09:53Z",
+      "newest": "2026-11-06T18:03:13Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,7 +340,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-11-06T16:29:00Z",
+      "newest": "2026-11-06T18:03:00Z",
       "ok": true
     },
     "mw_bulletins": {
@@ -349,16 +349,16 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-11-06T16:19:24Z",
+      "newest": "2026-11-06T17:59:23Z",
       "ok": true
     },
     "yahoo_dji": {
-      "contributed": 11,
+      "contributed": 10,
       "error": null,
       "fetched": 17,
-      "fresh": 16,
+      "fresh": 17,
       "label": "Yahoo Finance",
-      "newest": "2026-11-06T16:56:11Z",
+      "newest": "2026-11-06T17:28:21Z",
       "ok": true
     }
   }
