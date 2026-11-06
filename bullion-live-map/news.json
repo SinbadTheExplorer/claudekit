@@ -1,13 +1,301 @@
 {
-  "generated_at": "2026-11-05T21:12:05Z",
+  "generated_at": "2026-11-06T01:29:39Z",
   "headlines": [
+    {
+      "category": "other",
+      "headline": "IRS announces new federal income tax brackets for 2027",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/05/2027-federal-tax-brackets.html",
+      "published": "2026-11-06T01:21:08Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Dow Jones Futures Fall, Techs Bounce After Nasdaq Dives 5.5%; Nvidia, Sandisk, CoreWeave, SpaceX Plunge",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/0cd2227b-7753-3d54-a8c5-286efe82ac39/dow-jones-futures-fall%2C-techs.html?.tsrc=rss",
+      "published": "2026-11-06T01:18:01Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "tech",
+      "headline": "Nasdaq sell-off batters Asian chip stocks as SK Hynix, Samsung, Softbank, TSMC tumble",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/06/tech-stocks-sk-hynix-samsung-softbank.html",
+      "published": "2026-11-06T01:11:35Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "The Nasdaq Composite Just Shattered Its Single-Session Point-Loss Record: 3 Reasons These Elevator-Down Moves May Be Just Beginning",
+      "image": null,
+      "link": "https://www.fool.com/investing/2026/11/05/nasdaq-composite-shattered-single-session-point-loss-record-3-reasons-elevator-down-moves-just-beginning/?.tsrc=rss",
+      "published": "2026-11-06T01:10:02Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Here\u2019s what\u2019s driving Iren\u2019s stock higher after a brutal selloff",
+      "image": "news-images/ddc7bda084f03a4d4dbcf19c.jpg",
+      "link": "https://www.marketwatch.com/story/heres-whats-driving-irens-stock-higher-after-a-brutal-selloff-0ced09b0?mod=mw_rss_topstories",
+      "published": "2026-11-06T01:07:00Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "Cloudflare\u2019s stock mounts a big comeback after fastest sales surge in nearly 4 years",
+      "image": "news-images/61794fa800772906cf216d1b.jpg",
+      "link": "https://www.marketwatch.com/story/cloudflares-stock-mounts-a-big-comeback-after-fastest-sales-surge-in-nearly-4-years-d80d994d?mod=mw_rss_topstories",
+      "published": "2026-11-06T01:06:00Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "financials",
+      "headline": "Trump blames Democrats for Wall Street selloff after historic midterm election win",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/trump-blames-democrats-wall-street-010352357.html?.tsrc=rss",
+      "published": "2026-11-06T01:03:52Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "tech",
+      "headline": "S&P 500, Nasdaq, Dow Futures Dip As Investors Step Back From AI And Tech With Nasdaq In Correction Territory \u2014  NVDA, AAPL, UBER, SOXX In Focus",
+      "image": null,
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-dow-futures-dip-as-investors-step-back-from-ai-and-tech-with-nasdaq-in-correction-territory-nvda-aapl-uber-soxx-in-focus/cNGlIylR94A?.tsrc=rss",
+      "published": "2026-11-06T01:00:30Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "IRS unveils higher capital gains tax brackets for 2027",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/05/capital-gains-tax-2027-federal.html",
+      "published": "2026-11-06T01:00:10Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "tech",
+      "headline": "Review & Preview: AI Reckoning",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/194a3d94-5d6d-325b-82e6-9daef9090cb8/review-%26-preview%3A-ai-reckoning.html?.tsrc=rss",
+      "published": "2026-11-06T00:55:00Z",
+      "sentiment": "neutral"
+    },
     {
       "category": "tech",
       "headline": "Stocks crater as midterms spur investor exodus from tech and AI",
       "image": null,
       "link": "https://www.cbsnews.com/news/stocks-midterm-elections-tech-companies-ai-data-centers/?.tsrc=rss",
-      "published": "2026-11-05T21:08:27Z",
+      "published": "2026-11-06T00:53:24Z",
       "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Buy the dip or wait it out? Young investors react to the stock selloff.",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=53efda92-671a-4bfe-a8de-41b153f652d0&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-06T00:45:48Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "tech",
+      "headline": "Massive tech sell-off wipes $2.5 trillion from the stock market",
+      "image": null,
+      "link": "https://www.cnn.com/2026/11/05/investing/tech-heavy-nasdaq-plunges?.tsrc=rss",
+      "published": "2026-11-06T00:20:14Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "Costco is taking aim at its May record high \u2014 how it got here and where's it going",
+      "image": null,
+      "link": "https://www.cnbc.com/investingclub/2026/11/05/costco-is-taking-aim-at-its-may-record-high-how-it-got-here-and-wheres-going.html",
+      "published": "2026-11-05T23:56:24Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "How to buy a new car for under $30,000 in this economy",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=a6ac657e-4d81-4cc2-bce8-f35b81007bac&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-05T23:53:29Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Cloudflare stock mounts big comeback after fastest sales surge in nearly 4 years",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=f90ce007-a988-4b7b-973e-a9d45ec1c6f2&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-05T23:52:23Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "Here are the 2027 capital-gains tax rates for each income level",
+      "image": "news-images/238eac6280907f404e255a0a.jpg",
+      "link": "https://www.marketwatch.com/story/here-are-the-2027-capital-gains-tax-rates-for-each-income-level-166fc306?mod=mw_rss_topstories",
+      "published": "2026-11-05T23:48:00Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "Mississippi Senate election: Democrat Scott Colom narrowly leads Republican Cindy Hyde-Smith",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/05/mississippi-senate-election-scott-colom-hyde-smith.html",
+      "published": "2026-11-05T23:40:00Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "tech",
+      "headline": "Magnificent 7 loses $1 trillion. The most eye-popping stats from Thursday's tech stock plunge",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/05/stock-market-selloff-ai-fears.html",
+      "published": "2026-11-05T23:39:32Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "Neocloud IREN says $4 billion in annualized revenue being delayed due to customer request",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/05/iren-earnings-report-q1-2027-.html",
+      "published": "2026-11-05T23:25:02Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Jim Cramer says the AI sell-off isn't over, but it isn't another dot-com crash",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/05/jim-cramer-ai-stocks-sell-off.html",
+      "published": "2026-11-05T23:17:51Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "Blue Origin pushes launch to January 2027 as it races to rebuild damaged launchpad",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/05/blue-origin-launch-new-glenn.html",
+      "published": "2026-11-05T23:02:14Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Tech stocks log worst day since 2020 as carnage comes to the AI trade",
+      "image": "news-images/21ccf412a2921bd64b5f636a.jpg",
+      "link": "https://www.marketwatch.com/story/tech-stocks-log-worst-day-since-2020-as-carnage-comes-to-the-ai-trade-56109845?mod=mw_rss_topstories",
+      "published": "2026-11-05T22:48:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "What Wall Street's tech stock sell-off means for your 401(k)",
+      "image": null,
+      "link": "https://www.foxbusiness.com/economy/wall-street-stocks-tech-sell-off-november-5-2026?.tsrc=rss",
+      "published": "2026-11-05T22:40:08Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "The 2027 tax brackets are out. See what the standard deduction and SALT tax breaks will be.",
+      "image": "news-images/bf357a7f3e4b152eeaf7c989.jpg",
+      "link": "https://www.marketwatch.com/story/the-2027-tax-brackets-are-out-see-what-the-standard-deduction-and-salt-tax-breaks-will-be-5dd1d293?mod=mw_rss_topstories",
+      "published": "2026-11-05T22:40:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "industrials",
+      "headline": "'Musk selloff': Tesla and SpaceX combine for $456 billion two-day wipeout",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=37a848a7-2324-48a0-bd74-abe2a35267fe&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-05T22:36:53Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "tech",
+      "headline": "Update: Nasdaq Enters Correction Territory, Dow Plunges Over 1,800 Points as Investors Dump Big Tech",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-enters-correction-territory-dow-223339396.html?.tsrc=rss",
+      "published": "2026-11-05T22:33:39Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "industrials",
+      "headline": "Elon Musk's Tesla and SpaceX lose over $420 billion in combined market cap after midterms",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/05/tesla-spacex-stocks-fall-after-2026-midterms.html",
+      "published": "2026-11-05T22:31:13Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "How much in Roth conversions can you do in 2027 with the new tax brackets?",
+      "image": "news-images/9931d6d507caf4542708ef17.jpg",
+      "link": "https://www.marketwatch.com/story/how-much-roth-conversion-can-you-do-in-2027-with-the-new-tax-brackets-a2f940c8?mod=mw_rss_topstories",
+      "published": "2026-11-05T22:24:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Nvidia's Huang is asked to brief Congress on reported Chinese spy relationship",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/05/nvidia-jensen-huang-china-spy-congress.html",
+      "published": "2026-11-05T22:21:29Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "ChargePoint Holdings, Inc. (CHPT) Stock Moves -3.94%: What You Should Know",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/chargepoint-holdings-inc-chpt-stock-221503669.html?.tsrc=rss",
+      "published": "2026-11-05T22:15:03Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "RH (RH) Declines More Than Market: Some Information for Investors",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rh-rh-declines-more-market-221503364.html?.tsrc=rss",
+      "published": "2026-11-05T22:15:03Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Lucid Group (LCID) Falls More Steeply Than Broader Market: What Investors Need to Know",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lucid-group-lcid-falls-more-221502116.html?.tsrc=rss",
+      "published": "2026-11-05T22:15:02Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "consumer",
+      "headline": "Buy the dip or wait it out? Young investors react as retail stock selling hits one of its highest levels since COVID crash.",
+      "image": "news-images/94f02c7bb592dad34cde9c59.jpg",
+      "link": "https://www.marketwatch.com/story/buy-the-dip-or-wait-it-out-young-investors-react-as-retail-stock-selling-hits-one-of-its-highest-levels-since-covid-crash-610d8087?mod=mw_rss_topstories",
+      "published": "2026-11-05T21:44:00Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "industrials",
+      "headline": "The \u2018Musk selloff\u2019 deepens as Tesla and SpaceX combine for $456 billion two-day wipeout",
+      "image": "news-images/9842d11b73d58105be32f37a.jpg",
+      "link": "https://www.marketwatch.com/story/the-musk-selloff-deepens-as-tesla-and-spacex-combine-for-450-billion-two-day-wipeout-d300ab4f?mod=mw_rss_topstories",
+      "published": "2026-11-05T21:43:00Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "federal",
+      "headline": "After tech-stock rout, October jobs report could bring relief \u2014 or more pain",
+      "image": "news-images/d1612bf2e17e1f71e9a929fd.jpg",
+      "link": "https://www.marketwatch.com/story/after-tech-stock-rout-october-jobs-report-could-bring-relief-or-more-pain-db93357e?mod=mw_rss_topstories",
+      "published": "2026-11-05T21:39:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Is this \u2018the big one\u2019 for the stock market? Wall Street sounds off as tech plunges.",
+      "image": "news-images/c885c5bc0cfb438152e84a84.jpg",
+      "link": "https://www.marketwatch.com/story/is-this-the-big-one-for-the-stock-market-wall-street-sounds-off-as-tech-plunges-185df529?mod=mw_rss_topstories",
+      "published": "2026-11-05T21:37:00Z",
+      "sentiment": "bearish"
     },
     {
       "category": "other",
@@ -15,86 +303,6 @@
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=37df4238-fd0c-49c9-825a-3567660700f6&amp;mod=mw_rss_bulletins",
       "published": "2026-11-05T21:07:42Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "energy",
-      "headline": "Sector Update: Energy Stocks Drop Thursday",
-      "image": null,
-      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-drop-thursday-210255557.html?.tsrc=rss",
-      "published": "2026-11-05T21:02:55Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "other",
-      "headline": "IRS announces bigger estate and gift tax exemption for 2027",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/05/2027-estate-and-gift-tax-exemption-irs-raises-limit.html",
-      "published": "2026-11-05T20:51:57Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "industrials",
-      "headline": "Stock Market Today: Dow Loses 1,700 As Nasdaq Craters; Tesla, SpaceX Lose $450 Bil. In Two Days (Live Coverage)",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/38cb0654-6e49-3715-b4e4-f2f830876d7a/stock-market-today%3A-dow-loses.html?.tsrc=rss",
-      "published": "2026-11-05T20:50:40Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Update: Nasdaq Sinks Into Correction Territory, Dow Erases Mega Post-Election Rally Amid Big-Tech Rout",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-sinks-correction-territory-dow-204537057.html?.tsrc=rss",
-      "published": "2026-11-05T20:45:37Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "federal",
-      "headline": "\u2018I have no financial safety net\u2019: I\u2019m 66, rely on Social Security and have just $500 in savings. What hope do I have?",
-      "image": "news-images/c289c6a3606dc68376f7c1fe.jpg",
-      "link": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
-      "published": "2026-11-05T20:45:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "IRS announces new federal income tax brackets for 2027",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/05/2027-federal-tax-brackets.html",
-      "published": "2026-11-05T20:37:22Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "The 2027 tax brackets are out. See what the standard deduction and SALT tax breaks will be.",
-      "image": "news-images/bf357a7f3e4b152eeaf7c989.jpg",
-      "link": "https://www.marketwatch.com/story/the-2027-tax-brackets-are-out-see-what-the-standard-deduction-and-salt-tax-breaks-will-be-5dd1d293?mod=mw_rss_topstories",
-      "published": "2026-11-05T20:22:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "crypto",
-      "headline": "Bitcoin, stocks crash in steepest selloff since Liberation Day",
-      "image": null,
-      "link": "https://www.thestreet.com/crypto/markets/bitcoin-stocks-crash-as-markets-erase-post-election-rally?.tsrc=rss",
-      "published": "2026-11-05T20:21:25Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "energy",
-      "headline": "Bloom Energy\u2019s stock is one of the S&P 500\u2019s biggest losers amid fears of data-center delays",
-      "image": "news-images/153e7eff41fe351969edd8e0.jpg",
-      "link": "https://www.marketwatch.com/story/bloom-energys-stock-is-one-of-the-s-p-500s-biggest-losers-amid-fears-of-data-center-delays-a44c96bb?mod=mw_rss_topstories",
-      "published": "2026-11-05T20:21:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Top Democrats call to rein in AI buildout after midterms sweep: 'National data center moratorium now'",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/05/democrats-data-center-restrictions-midterms.html",
-      "published": "2026-11-05T20:17:16Z",
       "sentiment": "neutral"
     },
     {
@@ -106,232 +314,24 @@
       "sentiment": "bearish"
     },
     {
-      "category": "tech",
-      "headline": "AI meltdown: Chip stocks and neoclouds plunge, pushing Nasdaq to worst day since April 2025",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/05/qualcomm-earnings-chip-stocks-election.html",
-      "published": "2026-11-05T20:08:49Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "financials",
-      "headline": "How Wall Street's postelection rally got obliterated \u2014 and what's next",
-      "image": null,
-      "link": "https://www.cnbc.com/investingclub/2026/11/05/how-wall-streets-postelection-rally-got-obliterated-and-whats-next.html",
-      "published": "2026-11-05T20:06:31Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "federal",
-      "headline": "After tech-stock rout, October jobs report could bring relief \u2014 or more pain",
-      "image": "news-images/d1612bf2e17e1f71e9a929fd.jpg",
-      "link": "https://www.marketwatch.com/story/after-tech-stock-rout-october-jobs-report-could-bring-relief-or-more-pain-db93357e?mod=mw_rss_topstories",
-      "published": "2026-11-05T19:46:00Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "industrials",
       "headline": "\u2018Musk selloff\u2019 deepens as Tesla, SpaceX combine for $450 billion two-day wipeout",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=14f68ba3-a8be-4f52-8c89-c73228eded1d&amp;mod=mw_rss_bulletins",
       "published": "2026-11-05T19:38:22Z",
       "sentiment": "bearish"
-    },
-    {
-      "category": "healthcare",
-      "headline": "This pancreatic cancer treatment is on track for \u2018one of the best drug launches of all time\u2019",
-      "image": "news-images/f094da120e0305dff1e440d4.jpg",
-      "link": "https://www.marketwatch.com/story/this-pancreatic-cancer-treatment-is-on-track-for-one-of-the-best-drug-launches-of-all-time-37bf86ce?mod=mw_rss_topstories",
-      "published": "2026-11-05T19:32:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "international",
-      "headline": "Trump\u2019s Iran war has changed the future of Social Security",
-      "image": "news-images/5f8300bd1622ca93a3ac87f7.jpg",
-      "link": "https://www.marketwatch.com/story/trumps-iran-war-has-changed-the-future-of-social-security-7a500f9f?mod=mw_rss_topstories",
-      "published": "2026-11-05T19:32:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "industrials",
-      "headline": "The \u2018Musk selloff\u2019 deepens as Tesla and SpaceX combine for $450 billion two-day wipeout",
-      "image": "news-images/9842d11b73d58105be32f37a.jpg",
-      "link": "https://www.marketwatch.com/story/the-musk-selloff-deepens-as-tesla-and-spacex-combine-for-450-billion-two-day-wipeout-d300ab4f?mod=mw_rss_topstories",
-      "published": "2026-11-05T19:29:00Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "financials",
-      "headline": "Anthropic's IPO plans run up against a battered Wall Street",
-      "image": null,
-      "link": "https://finance.yahoo.com/technology/article/anthropics-ipo-plans-run-up-against-a-battered-wall-street-192138177.html?.tsrc=rss",
-      "published": "2026-11-05T19:21:38Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "financials",
-      "headline": "Wall Street's fear gauge surges the most since April. Why traders think it should be even higher",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/05/wall-streets-fear-gauge-surges-the-most-since-april-why-traders-think-it-should-be-even-higher.html",
-      "published": "2026-11-05T19:20:21Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "tech",
-      "headline": "Update: Nasdaq Enters Correction Territory, Dow Erases Post-Election Rally Amid Big-Tech Rout",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-enters-correction-territory-dow-191906339.html?.tsrc=rss",
-      "published": "2026-11-05T19:19:06Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "tech",
-      "headline": "Equities Plunge in Tech-Led Sell-Off Amid Data Center Restriction Fears",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/equities-plunge-tech-led-sell-191442459.html?.tsrc=rss",
-      "published": "2026-11-05T19:14:42Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "energy",
-      "headline": "Trump's energy deals are about to face a wave of investigations by Democrats",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/05/trump-election-energy-venezuela-critical-mineral-renewable-iran.html",
-      "published": "2026-11-05T19:13:06Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "As Nvidia\u2019s stock heads for bear market, bargain hunters see golden opportunity",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=1ee0b1e4-45dc-411c-b1a3-289d9a49b432&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-05T19:11:37Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "other",
-      "headline": "Blue Origin pushes launch to January 2027 as it races to rebuild damaged launch pad",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/05/blue-origin-launch-new-glenn.html",
-      "published": "2026-11-05T19:02:32Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "As Nvidia\u2019s stock heads for a bear market, bargain hunters see a golden buying opportunity",
-      "image": "news-images/55cba948c3c72fc1f33c309b.jpg",
-      "link": "https://www.marketwatch.com/story/as-nvidias-stock-heads-for-a-bear-market-bargain-hunters-see-a-golden-buying-opportunity-1a5917e6?mod=mw_rss_topstories",
-      "published": "2026-11-05T18:59:00Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "healthcare",
-      "headline": "HSA-eligible health plans in 2027: What to know about tax savings vs. higher deductibles",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/05/hsa-health-plan-2027.html",
-      "published": "2026-11-05T18:57:08Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Voters rejected AI data centers over resource concerns. Here's why measuring water usage is hard",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/05/meta-spacex-ai-data-centers-use-millions-of-gallons-of-water-a-day.html",
-      "published": "2026-11-05T18:52:21Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Dow posts biggest gain of the year after Democrats sweep Congress",
-      "image": null,
-      "link": "https://www.cbsnews.com/news/stock-market-soar-democrats-take-control-of-congress/?.tsrc=rss",
-      "published": "2026-11-05T18:46:22Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "energy",
-      "headline": "Sector Update: Energy Stocks Lower Thursday Afternoon",
-      "image": null,
-      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-lower-thursday-183515064.html?.tsrc=rss",
-      "published": "2026-11-05T18:35:15Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Micron, Sandisk and other AI stocks are falling hard: \u2018Investors don\u2019t like uncertainty\u2019",
-      "image": "news-images/43b9eab3b5f1b63215187fe3.jpg",
-      "link": "https://www.marketwatch.com/story/micron-sandisk-and-other-ai-stocks-are-falling-hard-investors-dont-like-uncertainty-94d2a3b9?mod=mw_rss_topstories",
-      "published": "2026-11-05T18:18:00Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "other",
-      "headline": "My 93-year-old father changed his will at the 11th hour, leaving my brother his entire $500,000 estate. Can I challenge it?",
-      "image": "news-images/01b3c589d596966412edb869.jpg",
-      "link": "https://www.marketwatch.com/story/my-93-year-old-father-changed-his-will-at-the-11th-hour-leaving-my-brother-his-entire-500-000-estate-can-i-challenge-it-ecfc63d2?mod=mw_rss_topstories",
-      "published": "2026-11-05T18:15:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Trump Media Just Lost a Quarter of Its Value in a Day",
-      "image": null,
-      "link": "https://247wallst.com/investing/2026/11/05/trump-media-just-lost-a-quarter-of-its-value-in-a-day/?.tsrc=rss",
-      "published": "2026-11-05T17:53:50Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Is this \u2018the big one\u2019 for the stock market? Wall Street weighs the tech selloff.",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=ded49252-ef0a-464c-a3af-9884cf62d06f&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-05T17:45:42Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "other",
-      "headline": "The year\u2019s most successful stock-market trades are unraveling \u2014 perhaps for good",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=61340f3b-1d5b-4b14-aad9-26cdff97f78c&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-05T16:25:13Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Dow tumbles, S&P 500 and Nasdaq drop on sharp tech selloff \u2014 live updates",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=6d752cc4-4434-42d2-a918-6f5c86328baf&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-05T15:27:19Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "other",
-      "headline": "One in 10 first-time home buyers paid in cash. Here\u2019s where they get the money.",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=64e6387e-c691-4195-8284-2c3e58fd61a3&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-05T15:06:18Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Dow opens higher after big gains, but Nasdaq falls on tech struggles",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=55532d81-a772-46bc-91a1-56e6e1427a5c&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-05T14:30:50Z",
-      "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-11-05T21:08:27Z",
-  "source_item_count": 63,
+  "newest_item_published": "2026-11-06T01:21:08Z",
+  "source_item_count": 66,
   "sources": {
     "cnbc": {
-      "contributed": 10,
+      "contributed": 11,
       "error": null,
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-11-05T20:51:57Z",
+      "newest": "2026-11-06T01:21:08Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,25 +340,25 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-11-05T20:45:00Z",
+      "newest": "2026-11-06T01:07:00Z",
       "ok": true
     },
     "mw_bulletins": {
-      "contributed": 9,
+      "contributed": 7,
       "error": null,
       "fetched": 10,
       "fresh": 9,
       "label": "MW Bulletins",
-      "newest": "2026-11-05T21:07:42Z",
+      "newest": "2026-11-06T00:45:48Z",
       "ok": true
     },
     "yahoo_dji": {
-      "contributed": 11,
+      "contributed": 12,
       "error": null,
-      "fetched": 13,
-      "fresh": 12,
+      "fetched": 16,
+      "fresh": 16,
       "label": "Yahoo Finance",
-      "newest": "2026-11-05T21:08:27Z",
+      "newest": "2026-11-06T01:18:01Z",
       "ok": true
     }
   }
