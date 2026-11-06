@@ -1,12 +1,140 @@
 {
-  "generated_at": "2026-11-06T14:12:05Z",
+  "generated_at": "2026-11-06T15:12:07Z",
   "headlines": [
+    {
+      "category": "healthcare",
+      "headline": "Moderna raises its revenue outlook \u2014 but all eyes are on what happens next with its cancer vaccine",
+      "image": "news-images/9f034ef435954d7627f184b8.jpg",
+      "link": "https://www.marketwatch.com/story/modernas-stock-jumps-after-biotech-raises-sales-outlook-65363127?mod=mw_rss_topstories",
+      "published": "2026-11-06T15:09:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Tesla to wind down Cybertruck production in Texas next year to ramp Cybercab, Musk says",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/06/tesla-cybertruck-texas-musk.html",
+      "published": "2026-11-06T15:06:11Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "My 93-year-old father changed his will at the 11th hour, leaving my brother his entire $500,000 estate. Can I challenge it?",
+      "image": "news-images/01b3c589d596966412edb869.jpg",
+      "link": "https://www.marketwatch.com/story/my-93-year-old-father-changed-his-will-at-the-11th-hour-leaving-my-brother-his-entire-500-000-estate-can-i-challenge-it-ecfc63d2?mod=mw_rss_topstories",
+      "published": "2026-11-06T15:00:00Z",
+      "sentiment": "neutral"
+    },
     {
       "category": "federal",
       "headline": "U.S. economy added 165,000 jobs in October, way more than expected; unemployment rate slips to 4.1%",
       "image": null,
       "link": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
-      "published": "2026-11-06T14:07:54Z",
+      "published": "2026-11-06T14:57:35Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "international",
+      "headline": "Trump\u2019s Iran war has changed the future of Social Security",
+      "image": "news-images/5f8300bd1622ca93a3ac87f7.jpg",
+      "link": "https://www.marketwatch.com/story/trumps-iran-war-has-changed-the-future-of-social-security-7a500f9f?mod=mw_rss_topstories",
+      "published": "2026-11-06T14:55:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "DraftKings Plunges 27% on Weak 2027 Forecast and Prediction-Market Spending; Flutter Sinks 8%, Penn Entertainment Drops 4%",
+      "image": null,
+      "link": "https://247wallst.com/investing/2026/11/06/draftkings-plunges-27-on-weak-2027-forecast-and-prediction-market-spending-flutter-sinks-8-penn-entertainment-drops-4/?.tsrc=rss",
+      "published": "2026-11-06T14:54:31Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "tech",
+      "headline": "Stock Market Today: Dow Slides 450 Points Amid Jobs Surprise; Nvidia Leads Tech Rebound (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/259a2432-7041-3624-978f-9a7336f10b31/stock-market-today%3A-dow.html?.tsrc=rss",
+      "published": "2026-11-06T14:51:48Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "tech",
+      "headline": "The S&P 500 has become a big AI bet. Here are some simple alternatives.",
+      "image": "news-images/7859c75f3826633b0e4b9425.jpg",
+      "link": "https://www.marketwatch.com/story/the-s-p-500-has-become-a-big-ai-bet-here-are-some-simple-alternatives-3c7574a4?mod=mw_rss_topstories",
+      "published": "2026-11-06T14:51:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "\u2018It feels like he\u2019s quietly building a separate life\u2019: My husband inherited $500,000, but he refuses to spend it on our home",
+      "image": "news-images/1ce16511e13f790e782241f8.jpg",
+      "link": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
+      "published": "2026-11-06T14:50:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Magnificent Seven Lost $1 Trillion in Tech Rout. Here's How Much Each Plunged.",
+      "image": null,
+      "link": "https://www.ibtimes.com/tech-stocks-ai-spending-fears-market-selloff-3809480?.tsrc=rss",
+      "published": "2026-11-06T14:41:34Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "Trump Says Voters Only Have Themselves to Blame For The Stock Market Rout",
+      "image": null,
+      "link": "https://www.ibtimes.com/trump-blames-democrats-nasdaq-ai-market-selloff-3809488?.tsrc=rss",
+      "published": "2026-11-06T14:37:55Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Nasdaq Rises 1%. Can the Gains Be Trusted?",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/0ba804cc-1729-320b-b539-26f4dc50d9d0/nasdaq-rises-1%25.-can-the.html?.tsrc=rss",
+      "published": "2026-11-06T14:32:32Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "crypto",
+      "headline": "Bitcoin ETFs See $430 Million Of Outflows As U.S. Market Plunges",
+      "image": null,
+      "link": "https://www.cryptoprowl.com/releases/bitcoin-etfs-see-430-million-of-outflows-as-us-market-plunges-7733?.tsrc=rss",
+      "published": "2026-11-06T14:32:00Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "tech",
+      "headline": "Nasdaq opens higher after tech rout; Dow falls",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=8eab4a0e-6480-4c44-8216-34d7bdb8f8f9&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-06T14:31:27Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "Stock Market Today: Election Results Continue to Ease Market Fears",
+      "image": null,
+      "link": "https://247wallst.com/investing/2026/11/06/stock-market-today-election-results-continue-to-ease-market-fears/?.tsrc=rss",
+      "published": "2026-11-06T14:28:16Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "How much in Roth conversions can you do in 2027 with the new tax brackets?",
+      "image": "news-images/9931d6d507caf4542708ef17.jpg",
+      "link": "https://www.marketwatch.com/story/how-much-roth-conversion-can-you-do-in-2027-with-the-new-tax-brackets-a2f940c8?mod=mw_rss_topstories",
+      "published": "2026-11-06T14:26:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Exchange-Traded Funds Higher, Equity Futures Mixed as US October Jobs Rise More than Expected",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-higher-equity-142316139.html?.tsrc=rss",
+      "published": "2026-11-06T14:23:16Z",
       "sentiment": "neutral"
     },
     {
@@ -14,8 +142,24 @@
       "headline": "Family offices boost startup investments in October, backing women's health and caregivers",
       "image": null,
       "link": "https://www.cnbc.com/2026/11/06/family-offices-boost-startup-investments-in-october.html",
-      "published": "2026-11-06T14:02:15Z",
+      "published": "2026-11-06T14:16:28Z",
       "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "\u2018It seems bizarre\u2019: We\u2019re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
+      "image": "news-images/cbcd887ed89df38f16983c65.jpg",
+      "link": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
+      "published": "2026-11-06T14:15:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "US Stock Futures Mixed After Wall Street Sell-Off as Strong Jobs Data Fails to Ease AI Concerns: Dow Jones, S&P, Nasdaq",
+      "image": null,
+      "link": "https://investorshub.advfn.com/market-news/article/39459/us-stock-futures-mixed-after-wall-street-sell-off-as-strong-jobs-data-fails-to-ease-ai-concerns-dow-jones-sp-nasdaq?.tsrc=rss",
+      "published": "2026-11-06T14:13:13Z",
+      "sentiment": "bearish"
     },
     {
       "category": "financials",
@@ -31,14 +175,6 @@
       "image": null,
       "link": "https://www.cnbc.com/investingclub/2026/11/06/our-top-10-things-to-watch-in-the-stock-market-friday.html",
       "published": "2026-11-06T14:01:45Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Tesla to wind down Cybertruck production in Texas next year to ramp Cybercab, Musk says",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/06/tesla-cybertruck-texas-musk.html",
-      "published": "2026-11-06T14:01:03Z",
       "sentiment": "neutral"
     },
     {
@@ -74,14 +210,6 @@
       "sentiment": "bearish"
     },
     {
-      "category": "tech",
-      "headline": "Stock Market Today: Dow Slides 500 Points Amid Surprise Jobs Report; Nvidia Leads Tech Rebound (Live Coverage)",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/259a2432-7041-3624-978f-9a7336f10b31/stock-market-today%3A-dow.html?.tsrc=rss",
-      "published": "2026-11-06T13:44:42Z",
-      "sentiment": "bullish"
-    },
-    {
       "category": "other",
       "headline": "U.S. added 165,000 jobs in October, more than expected \u2014 live updates",
       "image": null,
@@ -107,26 +235,10 @@
     },
     {
       "category": "other",
-      "headline": "Equity Futures Mostly Point Higher Following Tech-Led Selloff",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/equity-futures-mostly-point-higher-132049207.html?.tsrc=rss",
-      "published": "2026-11-06T13:20:49Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "other",
       "headline": "'The whole landscape changed': Gaming CEOs see new opportunities post-midterms",
       "image": null,
       "link": "https://www.cnbc.com/2026/11/06/midterm-gambling-prediction-markets.html",
       "published": "2026-11-06T13:20:41Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "industrials",
-      "headline": "Where's the growth? Legacy automakers face a tougher 2027 as costs rise, market tightens",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/06/automakers-rising-costs-flat-production-2027.html",
-      "published": "2026-11-06T13:19:53Z",
       "sentiment": "neutral"
     },
     {
@@ -146,30 +258,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "other",
-      "headline": "Billionaires aren\u2019t off the hook for higher taxes, even if they did dodge California\u2019s wealth tax",
-      "image": "news-images/40f5eca044a466e4209eec36.jpg",
-      "link": "https://www.marketwatch.com/story/billionaires-arent-off-the-hook-for-higher-taxes-even-if-they-did-dodge-californias-wealth-tax-a73f9045?mod=mw_rss_topstories",
-      "published": "2026-11-06T13:13:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Nasdaq Futures Rally After Asian AI Rout as Investors Brace for Jobs Day",
-      "image": null,
-      "link": "https://www.wsj.com/finance/stocks/nasdaq-futures-steady-after-asian-ai-rout-as-investors-brace-for-jobs-day-83415c52?.tsrc=rss",
-      "published": "2026-11-06T13:11:00Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "other",
-      "headline": "The wealthiest 10% of Americans are pulling ahead of everyone else. This is what\u2019s making them richer.",
-      "image": "news-images/15c13ed1627c18aa2b19640e.jpg",
-      "link": "https://www.marketwatch.com/story/the-wealthiest-10-of-americans-are-pulling-ahead-of-everyone-else-this-is-whats-making-them-richer-bd83c2f6?mod=mw_rss_topstories",
-      "published": "2026-11-06T13:11:00Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "federal",
       "headline": "What will October's jobs report tell us? Find out here.",
       "image": null,
@@ -179,98 +267,10 @@
     },
     {
       "category": "other",
-      "headline": "A record number of first-time home buyers now pay in cash. Here\u2019s where they get the money.",
-      "image": "news-images/fa79abc06be7943b69bb9e4d.jpg",
-      "link": "https://www.marketwatch.com/story/a-record-10-of-first-time-home-buyers-now-pay-in-cash-heres-where-they-get-the-money-70f2e656?mod=mw_rss_topstories",
-      "published": "2026-11-06T13:09:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "How to buy a new car for under $30,000 in this economy",
-      "image": "news-images/9ff2eeb7ecf4ed2ab8afa8c1.jpg",
-      "link": "https://www.marketwatch.com/story/how-to-buy-a-new-car-for-under-30-000-in-this-economy-24b01f99?mod=mw_rss_topstories",
-      "published": "2026-11-06T13:08:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "The 2027 tax brackets are out. See what the standard deduction and SALT tax breaks will be.",
-      "image": "news-images/bf357a7f3e4b152eeaf7c989.jpg",
-      "link": "https://www.marketwatch.com/story/the-2027-tax-brackets-are-out-see-what-the-standard-deduction-and-salt-tax-breaks-will-be-5dd1d293?mod=mw_rss_topstories",
-      "published": "2026-11-06T13:07:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Here are the 2027 capital-gains tax rates for each income level",
-      "image": "news-images/238eac6280907f404e255a0a.jpg",
-      "link": "https://www.marketwatch.com/story/here-are-the-2027-capital-gains-tax-rates-for-each-income-level-166fc306?mod=mw_rss_topstories",
-      "published": "2026-11-06T13:03:00Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "tech",
-      "headline": "Dow Jones Futures Fall, AI Stocks Nvidia, Sandisk, CoreWeave, SpaceX Bounce; Tesla To End Cybertruck Production",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/0cd2227b-7753-3d54-a8c5-286efe82ac39/dow-jones-futures-fall%2C-ai.html?.tsrc=rss",
-      "published": "2026-11-06T13:01:21Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "energy",
-      "headline": "Buy, Sell, or Hold? Friday\u2019s Top Upgrades and Downgrades: Becton Dickinson, BJ\u2019s Wholesale Club, Cogent Communications, Fervo Energy, JinkoSolar, Molson-Coors, Pfizer, SiTime, Steven Madden, and More",
-      "image": null,
-      "link": "https://247wallst.com/investing/2026/11/06/buy-sell-or-hold-fridays-top-upgrades-and-downgrades-becton-dickinson-bjs-wholesale-club-cogent-communications-fervo-energy-jinkosolar-molson-coors-pfizer-sitime-steven-madden-and-mor/?.tsrc=rss",
-      "published": "2026-11-06T13:00:10Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "US Equity Futures Mixed Pre-Bell as Traders Buy Dip Following Post-Election Tech Stock Rout",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-mixed-pre-125254104.html?.tsrc=rss",
-      "published": "2026-11-06T12:52:54Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Moderna\u2019s stock jumps after biotech raises sales outlook",
-      "image": "news-images/9f034ef435954d7627f184b8.jpg",
-      "link": "https://www.marketwatch.com/story/modernas-stock-jumps-after-biotech-raises-sales-outlook-65363127?mod=mw_rss_topstories",
-      "published": "2026-11-06T12:48:00Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "tech",
-      "headline": "Expect More Fireworks as Markets Adjust to the New AI Reality",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/fa157cbc-c03a-37c0-849e-dd1f268063d2/expect-more-fireworks-as.html?.tsrc=rss",
-      "published": "2026-11-06T12:43:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
       "headline": "Economic calendar: Key jobs data early, then consumer credit and Fed speakers",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=ec116f2b-e911-40db-aa49-3ba3808a5ff8&amp;mod=mw_rss_bulletins",
       "published": "2026-11-06T11:52:17Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "realestate",
-      "headline": "Coherent Signed a $20 Billion Deal. The Market Sold It Off 13% Anyway",
-      "image": null,
-      "link": "https://www.tikr.com/blog/coherent-signed-a-20-billion-deal-the-market-sold-it-off-13-anyway?ref=yahoofinance&amp;tlnk=yf-261106-82jqxpr9&amp;.tsrc=rss",
-      "published": "2026-11-06T11:43:44Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "High AI Anxiety Eases on Wall Street Pre-Bell; Asia, Europe Off",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/high-ai-anxiety-eases-wall-111154583.html?.tsrc=rss",
-      "published": "2026-11-06T11:11:54Z",
       "sentiment": "neutral"
     },
     {
@@ -299,6 +299,14 @@
     },
     {
       "category": "other",
+      "headline": "How to buy a new car for under $30,000 in this economy",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=a6ac657e-4d81-4cc2-bce8-f35b81007bac&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-05T23:53:29Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
       "headline": "Cloudflare stock mounts big comeback after fastest sales surge in nearly 4 years",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=f90ce007-a988-4b7b-973e-a9d45ec1c6f2&amp;mod=mw_rss_bulletins",
@@ -312,26 +320,18 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=37a848a7-2324-48a0-bd74-abe2a35267fe&amp;mod=mw_rss_bulletins",
       "published": "2026-11-05T22:36:53Z",
       "sentiment": "bearish"
-    },
-    {
-      "category": "federal",
-      "headline": "After tech-stock rout, October jobs report could bring relief \u2014 or more pain",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=1edc7ea6-1c97-449e-b820-2df88c301abb&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-05T22:34:59Z",
-      "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-11-06T14:07:54Z",
-  "source_item_count": 68,
+  "newest_item_published": "2026-11-06T15:09:00Z",
+  "source_item_count": 67,
   "sources": {
     "cnbc": {
-      "contributed": 11,
+      "contributed": 10,
       "error": null,
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-11-06T14:07:54Z",
+      "newest": "2026-11-06T15:06:11Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,25 +340,25 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-11-06T13:30:00Z",
+      "newest": "2026-11-06T15:09:00Z",
       "ok": true
     },
     "mw_bulletins": {
-      "contributed": 9,
+      "contributed": 10,
       "error": null,
       "fetched": 10,
       "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-11-06T13:31:34Z",
+      "newest": "2026-11-06T14:31:27Z",
       "ok": true
     },
     "yahoo_dji": {
       "contributed": 10,
       "error": null,
-      "fetched": 18,
-      "fresh": 18,
+      "fetched": 17,
+      "fresh": 16,
       "label": "Yahoo Finance",
-      "newest": "2026-11-06T13:55:35Z",
+      "newest": "2026-11-06T14:54:31Z",
       "ok": true
     }
   }
