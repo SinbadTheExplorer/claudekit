@@ -1,12 +1,36 @@
 {
-  "generated_at": "2026-11-06T19:55:50Z",
+  "generated_at": "2026-11-06T20:12:05Z",
   "headlines": [
+    {
+      "category": "other",
+      "headline": "A disturbing employment trend is hiding beneath the latest strong job numbers",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/06/long-term-unemployment-october-jobs-report.html",
+      "published": "2026-11-06T20:11:17Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Nasdaq up sharply in final hour, but stocks still on track for weekly losses",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=f1e86ea5-a7a5-413a-8e94-e34f8db64c17&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-06T20:04:17Z",
+      "sentiment": "neutral"
+    },
     {
       "category": "other",
       "headline": "OpenAI bugging suspect Alfozan pleads not guilty",
       "image": null,
       "link": "https://www.cnbc.com/2026/11/06/openai-bugging-alfozan-saudi.html",
-      "published": "2026-11-06T19:54:04Z",
+      "published": "2026-11-06T19:58:29Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Trump says Stephen Miller to replace Susie Wiles as White House chief of staff",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/06/trump-stephen-miller-wiles-chief-of-staff.html",
+      "published": "2026-11-06T19:58:28Z",
       "sentiment": "neutral"
     },
     {
@@ -26,20 +50,12 @@
       "sentiment": "neutral"
     },
     {
-      "category": "federal",
-      "headline": "Trump says Stephen Miller to replace Susie Wiles as White House chief of staff",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/06/trump-stephen-miller-wiles-chief-of-staff.html",
-      "published": "2026-11-06T19:51:29Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "other",
-      "headline": "A disturbing employment trend is hiding beneath the latest strong job numbers",
+      "headline": "After the Midterm Rally, the Dow Is on Track to Beat the Nasdaq for the First Time Since 2022. Here's What History Says Could Come Next.",
       "image": null,
-      "link": "https://www.cnbc.com/2026/11/06/long-term-unemployment-october-jobs-report.html",
-      "published": "2026-11-06T19:49:09Z",
-      "sentiment": "neutral"
+      "link": "https://www.fool.com/investing/2026/11/06/after-the-midterm-rally-the-dow-is-on-track-to-bea/?.tsrc=rss",
+      "published": "2026-11-06T19:50:00Z",
+      "sentiment": "bullish"
     },
     {
       "category": "energy",
@@ -258,14 +274,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "other",
-      "headline": "Nasdaq Rises 1%. Can the Gains Be Trusted?",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/0ba804cc-1729-320b-b539-26f4dc50d9d0/nasdaq-rises-1%25.-can-the.html?.tsrc=rss",
-      "published": "2026-11-06T15:09:35Z",
-      "sentiment": "bullish"
-    },
-    {
       "category": "tech",
       "headline": "Nasdaq opens higher after tech rout; Dow falls",
       "image": null,
@@ -312,18 +320,10 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=f79ebd16-1c8b-4373-8def-3ef829cf3d8d&amp;mod=mw_rss_bulletins",
       "published": "2026-11-06T09:08:18Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Buy the dip or wait it out? Young investors react to the stock selloff.",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=53efda92-671a-4bfe-a8de-41b153f652d0&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-06T00:45:48Z",
-      "sentiment": "bearish"
     }
   ],
-  "newest_item_published": "2026-11-06T19:54:04Z",
-  "source_item_count": 67,
+  "newest_item_published": "2026-11-06T20:11:17Z",
+  "source_item_count": 66,
   "sources": {
     "cnbc": {
       "contributed": 11,
@@ -331,7 +331,7 @@
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-11-06T19:54:04Z",
+      "newest": "2026-11-06T20:11:17Z",
       "ok": true
     },
     "marketwatch": {
@@ -349,16 +349,16 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-11-06T19:11:46Z",
+      "newest": "2026-11-06T20:04:17Z",
       "ok": true
     },
     "yahoo_dji": {
       "contributed": 10,
       "error": null,
-      "fetched": 17,
-      "fresh": 16,
+      "fetched": 16,
+      "fresh": 15,
       "label": "Yahoo Finance",
-      "newest": "2026-11-06T19:15:48Z",
+      "newest": "2026-11-06T19:50:00Z",
       "ok": true
     }
   }
