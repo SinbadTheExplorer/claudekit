@@ -1,13 +1,109 @@
 {
-  "generated_at": "2026-11-09T13:12:08Z",
+  "generated_at": "2026-11-09T14:12:06Z",
   "headlines": [
+    {
+      "category": "tech",
+      "headline": "As Nvidia\u2019s stock falls, here\u2019s what Wall Street has to say about the Jensen Huang scandal",
+      "image": "news-images/dcd321f59c40b35d24f25438.jpg",
+      "link": "https://www.marketwatch.com/story/how-wall-street-is-reacting-to-the-news-of-nvidias-jensen-huang-investigation-into-spy-claims-d8c839ab?mod=mw_rss_topstories",
+      "published": "2026-11-09T14:09:00Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "energy",
+      "headline": "Update: US Equity Futures Higher Pre-Bell as Traders Assess Oil Price Drop, Await AI-Related Earnings This Week",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-higher-pre-135516996.html?.tsrc=rss",
+      "published": "2026-11-09T13:55:16Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "Home listings pile up in October, but sellers won't slash prices",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/09/home-listings-pile-up-in-october-but-sellers-wont-slash-prices.html",
+      "published": "2026-11-09T13:54:29Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "healthcare",
+      "headline": "A failed trial for a heart drug casts shadow over rivals developing similar therapies",
+      "image": "news-images/f6bb896e1fa5ddc42ba7e146.jpg",
+      "link": "https://www.marketwatch.com/story/a-failed-trial-for-a-heart-drug-casts-shadow-over-rivals-developing-similar-therapies-2d9bd79f?mod=mw_rss_topstories",
+      "published": "2026-11-09T13:54:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Stock Market Today: Dow Rallies As Oil Prices Slide; Nvidia Stock Dives On CEO Huang Probe (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/6fc3228f-8806-33c0-9e3b-4402850ebacd/stock-market-today%3A-dow.html?.tsrc=rss",
+      "published": "2026-11-09T13:53:00Z",
+      "sentiment": "bullish"
+    },
     {
       "category": "tech",
       "headline": "Nvidia stock falls 5% as scrutiny turns to Jensen Huang\u2019s relationship with alleged Chinese spy",
       "image": null,
       "link": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html",
-      "published": "2026-11-09T13:10:25Z",
+      "published": "2026-11-09T13:46:19Z",
       "sentiment": "bearish"
+    },
+    {
+      "category": "financials",
+      "headline": "Corporate America\u2019s profit numbers are just barely beating Wall Street\u2019s expectations",
+      "image": "news-images/f8543610556b7f4295408f88.jpg",
+      "link": "https://www.marketwatch.com/story/corporate-americas-profit-numbers-are-just-barely-beating-wall-streets-expectations-eaa67fe2?mod=mw_rss_topstories",
+      "published": "2026-11-09T13:36:00Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "My 93-year-old father changed his will at the 11th hour, leaving my brother his entire $500,000 estate. Can I challenge it?",
+      "image": "news-images/01b3c589d596966412edb869.jpg",
+      "link": "https://www.marketwatch.com/story/my-93-year-old-father-changed-his-will-at-the-11th-hour-leaving-my-brother-his-entire-500-000-estate-can-i-challenge-it-ecfc63d2?mod=mw_rss_topstories",
+      "published": "2026-11-09T13:30:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Retirement is now part of the affordability crisis. Politicians should pay attention.",
+      "image": "news-images/33c1cf81be91cf7dd11f13c1.jpg",
+      "link": "https://www.marketwatch.com/story/retirement-is-now-part-of-the-affordability-crisis-politicians-should-pay-attention-2923b2d7?mod=mw_rss_topstories",
+      "published": "2026-11-09T13:30:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "healthcare",
+      "headline": "Could supplements be the next big opportunity in the GLP-1 weight-loss drug boom?",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/09/novonesis-glp1-weight-loss-drugs-supplements-probiotics.html",
+      "published": "2026-11-09T13:27:57Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "tech",
+      "headline": "US Stocks Set for Higher Opening With Technology Trade in Focus Amid Nvidia CEO Scandal",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-stocks-set-higher-opening-132647644.html?.tsrc=rss",
+      "published": "2026-11-09T13:26:47Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Nvidia Slides Premarket as Stock Futures Rally",
+      "image": null,
+      "link": "https://www.wsj.com/finance/stocks/stock-futures-treasurys-steady-but-nvidia-slides-premarket-on-huang-probe-31deea55?.tsrc=rss",
+      "published": "2026-11-09T13:20:00Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "tech",
+      "headline": "Nvidia's CEO turmoil gives newly empowered Democrats fresh ammunition in pursuit of oversight",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-affair-congress-scrutiny.html",
+      "published": "2026-11-09T13:13:52Z",
+      "sentiment": "neutral"
     },
     {
       "category": "other",
@@ -18,28 +114,20 @@
       "sentiment": "neutral"
     },
     {
+      "category": "other",
+      "headline": "U.S. Job Growth Beats Expectations in October: Sector ETFs in Focus",
+      "image": null,
+      "link": "https://finance.yahoo.com/economy/articles/u-job-growth-beats-expectations-130000069.html?.tsrc=rss",
+      "published": "2026-11-09T13:00:00Z",
+      "sentiment": "bullish"
+    },
+    {
       "category": "energy",
       "headline": "US Equity Futures Higher Pre-Bell as Traders Assess Oil Price Drop, Await AI-Related Earnings This Week",
       "image": null,
       "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-higher-pre-125311861.html?.tsrc=rss",
       "published": "2026-11-09T12:53:11Z",
       "sentiment": "bearish"
-    },
-    {
-      "category": "tech",
-      "headline": "Nvidia's CEO turmoil gives newly empowered Democrats fresh ammunition in pursuit of oversight",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-affair-congress-scrutiny.html",
-      "published": "2026-11-09T12:47:30Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Buy, Sell, or Hold? Monday\u2019s Top Upgrades and Downgrades: Advanced Micro Devices, Airbnb, DraftKings, L3 Harris Technologies, Molson-Coors, Nvidia,  Take-Two Interactive, Uber Technologies, and More",
-      "image": null,
-      "link": "https://247wallst.com/investing/2026/11/09/buy-sell-or-hold-mondays-top-upgrades-and-downgrades-advanced-micro-devices-airbnb-draftkings-l3-harris-technologies-molson-coors-nvidia-take-two-interactive-uber-technologies-and-more/?.tsrc=rss",
-      "published": "2026-11-09T12:40:17Z",
-      "sentiment": "neutral"
     },
     {
       "category": "other",
@@ -170,22 +258,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "financials",
-      "headline": "The market\u2019s correction is entering its final phase \u2014 but wait before buying the dip, says Morgan Stanley chief strategist",
-      "image": "news-images/cb0fbab2a71ffb6d1749fe93.jpg",
-      "link": "https://www.marketwatch.com/story/the-markets-correction-is-entering-its-final-phase-but-wait-before-buying-the-dip-says-morgan-stanley-chief-strategist-2c1be13e?mod=mw_rss_topstories",
-      "published": "2026-11-09T10:26:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "\u2018We had the worst fight\u2019: I want my husband to retire at 65, but I don\u2019t want to lose his $280,000 salary. Is that unreasonable?",
-      "image": "news-images/003009a389dabacce5f79fde.jpg",
-      "link": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
-      "published": "2026-11-09T10:15:00Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "other",
       "headline": "Stock Market News for Nov 9, 2026",
       "image": null,
@@ -194,83 +266,11 @@
       "sentiment": "neutral"
     },
     {
-      "category": "other",
-      "headline": "Ryan Serhant of \u2018Owning Manhattan\u2019 on why you shouldn\u2019t wait to buy a house, and the hot spots to watch for",
-      "image": "news-images/3e365505b5286208d6bb2d65.jpg",
-      "link": "https://www.marketwatch.com/story/ryan-serhant-of-owning-manhattan-on-why-you-shouldnt-wait-to-buy-a-house-and-the-hot-spots-to-watch-for-9c2731c3?mod=mw_rss_topstories",
-      "published": "2026-11-09T10:04:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Brewers star Christian Yelich is selling his hillside Malibu mansion for $30 million",
-      "image": "news-images/a16183226fde7d5e8b4353b3.jpg",
-      "link": "https://www.marketwatch.com/story/brewers-star-christian-yelich-is-selling-his-hillside-malibu-mansion-for-30-million-92bee567?mod=mw_rss_topstories",
-      "published": "2026-11-09T10:02:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "US Stock Futures Mixed as Investors Assess Berkshire Hathaway Earnings, Nvidia Reports and AI Regulation Plans: Dow Jones, S&P, Nasdaq, Wall Street",
-      "image": null,
-      "link": "https://investorshub.advfn.com/market-news/article/39501/us-stock-futures-mixed-as-investors-assess-berkshire-hathaway-earnings-nvidia-reports-and-ai-regulation-plans-dow-jones-sp-nasdaq-wall-street?.tsrc=rss",
-      "published": "2026-11-09T09:59:52Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "realestate",
-      "headline": "President Donald Trump Just Called Nov. 5 One of the Stock Market's \"Worst Days in History\" Due to Election Results -- but Warning Signs Have Been Apparent for Months",
-      "image": null,
-      "link": "https://www.fool.com/investing/2026/11/09/donald-trump-called-one-of-stock-market-worst-days-in-history-election-results-warning-signs-apparent-for-months/?.tsrc=rss",
-      "published": "2026-11-09T09:26:02Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Huang allegations, Berkshire earnings, AI regulations - What\u2019s moving markets",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/articles/huang-allegations-berkshire-earnings-ai-091315250.html?.tsrc=rss",
-      "published": "2026-11-09T09:13:15Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "How Wall Street is reacting to the news of Nvidia\u2019s investigation into Jensen Huang spy claims",
-      "image": "news-images/dcd321f59c40b35d24f25438.jpg",
-      "link": "https://www.marketwatch.com/story/how-wall-street-is-reacting-to-the-news-of-nvidias-jensen-huang-investigation-into-spy-claims-d8c839ab?mod=mw_rss_topstories",
-      "published": "2026-11-09T09:12:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Stock market today: Dow, S&P 500, Nasdaq futures rise with Nvidia stock, AI trade in focus",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-9-dow-sp-500-nasdaq-nvidia-090535419.html?.tsrc=rss",
-      "published": "2026-11-09T09:05:35Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "international",
       "headline": "From supermarket fridges to passenger flights, a wave of threats is testing Europe's defenses",
       "image": null,
       "link": "https://www.cnbc.com/2026/11/09/europe-fridge-hacks-bomb-threats-cyberattack.html",
       "published": "2026-11-09T08:59:16Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "China wholesale inflation hits highest in more than four years as consumer measure slows",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html",
-      "published": "2026-11-09T02:50:22Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Democrats amp up Trump investigation threats, Blanche counters he may probe lawmakers",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/08/democrats-trump-oversight-blanche-doj-investigations.html",
-      "published": "2026-11-08T18:57:56Z",
       "sentiment": "neutral"
     },
     {
@@ -322,7 +322,7 @@
       "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-11-09T13:10:25Z",
+  "newest_item_published": "2026-11-09T14:09:00Z",
   "source_item_count": 69,
   "sources": {
     "cnbc": {
@@ -331,7 +331,7 @@
       "fetched": 30,
       "fresh": 25,
       "label": "CNBC",
-      "newest": "2026-11-09T13:10:25Z",
+      "newest": "2026-11-09T13:54:29Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,7 +340,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-11-09T12:27:00Z",
+      "newest": "2026-11-09T14:09:00Z",
       "ok": true
     },
     "mw_bulletins": {
@@ -356,9 +356,9 @@
       "contributed": 12,
       "error": null,
       "fetched": 19,
-      "fresh": 19,
+      "fresh": 18,
       "label": "Yahoo Finance",
-      "newest": "2026-11-09T12:53:11Z",
+      "newest": "2026-11-09T13:55:16Z",
       "ok": true
     }
   }
