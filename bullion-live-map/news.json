@@ -1,13 +1,77 @@
 {
-  "generated_at": "2026-11-09T15:12:07Z",
+  "generated_at": "2026-11-09T16:12:06Z",
   "headlines": [
     {
-      "category": "tech",
-      "headline": "Nvidia stock falls 5% as scrutiny turns to Jensen Huang\u2019s affair with alleged Chinese spy",
+      "category": "other",
+      "headline": "Honda to invest $3 billion in new vehicle assembly plant in Ohio",
       "image": null,
-      "link": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html",
-      "published": "2026-11-09T15:03:03Z",
-      "sentiment": "bearish"
+      "link": "https://www.cnbc.com/2026/11/09/honda-to-invest-3-billion-in-new-vehicle-assembly-plant-in-ohio.html",
+      "published": "2026-11-09T16:10:33Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "\u2018It seems bizarre\u2019: We\u2019re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
+      "image": "news-images/cbcd887ed89df38f16983c65.jpg",
+      "link": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
+      "published": "2026-11-09T16:00:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Nvidia's CEO turmoil gives newly empowered Democrats fresh ammunition in pursuit of oversight",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-affair-congress-scrutiny.html",
+      "published": "2026-11-09T15:49:30Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Trump questions midterm election results, revives voting-machine conspiracy",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/09/trump-election-results-democrats.html",
+      "published": "2026-11-09T15:44:09Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "How SpaceX was able to avert one of the market\u2019s biggest fears about its stock",
+      "image": "news-images/e7693447761007663b6df86e.jpg",
+      "link": "https://www.marketwatch.com/story/how-spacex-was-able-to-avert-one-of-the-markets-biggest-fears-about-its-stock-93870736?mod=mw_rss_topstories",
+      "published": "2026-11-09T15:35:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Weekend trading of Nvidia scandal shines light on new financial products",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/09/weekend-trading-of-nvidia-scandal-shines-light-on-new-financial-products.html",
+      "published": "2026-11-09T15:31:32Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Stock Market Today: Dow Charges Higher As Chip Stocks Surge; Nvidia Dives On CEO Jensen Huang Probe (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/6fc3228f-8806-33c0-9e3b-4402850ebacd/stock-market-today%3A-dow.html?.tsrc=rss",
+      "published": "2026-11-09T15:28:05Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "healthcare",
+      "headline": "A failed trial for a heart drug casts shadow over rivals developing similar therapies",
+      "image": "news-images/f6bb896e1fa5ddc42ba7e146.jpg",
+      "link": "https://www.marketwatch.com/story/a-failed-trial-for-a-heart-drug-casts-shadow-over-rivals-developing-similar-therapies-2d9bd79f?mod=mw_rss_topstories",
+      "published": "2026-11-09T15:16:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Nvidia Stock Slides After Chip Maker Opens Probe",
+      "image": null,
+      "link": "https://www.wsj.com/finance/stocks/stock-futures-treasurys-steady-but-nvidia-slides-premarket-on-huang-probe-31deea55?.tsrc=rss",
+      "published": "2026-11-09T15:10:00Z",
+      "sentiment": "neutral"
     },
     {
       "category": "other",
@@ -35,11 +99,11 @@
     },
     {
       "category": "tech",
-      "headline": "Stock Market Today: Dow Rallies As Oil Prices Slide; Nvidia Stock Dives On CEO Huang Probe (Live Coverage)",
+      "headline": "Nvidia Investigation Can't Overshadow a Dip-Buying Wave",
       "image": null,
-      "link": "https://finance.yahoo.com/m/6fc3228f-8806-33c0-9e3b-4402850ebacd/stock-market-today%3A-dow.html?.tsrc=rss",
-      "published": "2026-11-09T14:41:49Z",
-      "sentiment": "bullish"
+      "link": "https://finance.yahoo.com/m/dd589af3-429e-3b29-aaad-42a534fa0510/nvidia-investigation-can%27t.html?.tsrc=rss",
+      "published": "2026-11-09T14:32:48Z",
+      "sentiment": "neutral"
     },
     {
       "category": "other",
@@ -59,7 +123,7 @@
     },
     {
       "category": "other",
-      "headline": "\u2018She can always change her mind\u2019: Should a widow leave the family home to her stepchildren?",
+      "headline": "Should a widow leave her late partner\u2019s home to her stepkids \u2014 or cut off contact with them?",
       "image": "news-images/faefa2f6534aaf2d674a937d.jpg",
       "link": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
       "published": "2026-11-09T14:30:00Z",
@@ -146,14 +210,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "healthcare",
-      "headline": "A failed trial for a heart drug casts shadow over rivals developing similar therapies",
-      "image": "news-images/f6bb896e1fa5ddc42ba7e146.jpg",
-      "link": "https://www.marketwatch.com/story/a-failed-trial-for-a-heart-drug-casts-shadow-over-rivals-developing-similar-therapies-2d9bd79f?mod=mw_rss_topstories",
-      "published": "2026-11-09T13:54:00Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "financials",
       "headline": "Corporate America\u2019s profit numbers are just barely beating Wall Street\u2019s expectations",
       "image": "news-images/f8543610556b7f4295408f88.jpg",
@@ -166,14 +222,6 @@
       "headline": "My 93-year-old father changed his will at the 11th hour, leaving my brother his entire $500,000 estate. Can I challenge it?",
       "image": "news-images/01b3c589d596966412edb869.jpg",
       "link": "https://www.marketwatch.com/story/my-93-year-old-father-changed-his-will-at-the-11th-hour-leaving-my-brother-his-entire-500-000-estate-can-i-challenge-it-ecfc63d2?mod=mw_rss_topstories",
-      "published": "2026-11-09T13:30:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Retirement is now part of the affordability crisis. Politicians should pay attention.",
-      "image": "news-images/33c1cf81be91cf7dd11f13c1.jpg",
-      "link": "https://www.marketwatch.com/story/retirement-is-now-part-of-the-affordability-crisis-politicians-should-pay-attention-2923b2d7?mod=mw_rss_topstories",
       "published": "2026-11-09T13:30:00Z",
       "sentiment": "neutral"
     },
@@ -192,14 +240,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/us-stocks-set-higher-opening-132647644.html?.tsrc=rss",
       "published": "2026-11-09T13:26:47Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Nvidia Slides Premarket as Stock Futures Rally",
-      "image": null,
-      "link": "https://www.wsj.com/finance/stocks/stock-futures-treasurys-steady-but-nvidia-slides-premarket-on-huang-probe-31deea55?.tsrc=rss",
-      "published": "2026-11-09T13:20:00Z",
-      "sentiment": "bullish"
     },
     {
       "category": "other",
@@ -235,30 +275,6 @@
     },
     {
       "category": "other",
-      "headline": "The biggest takeaway from Berkshire Hathaway\u2019s latest quarter isn\u2019t the $357 billion cash or its stock buybacks",
-      "image": "news-images/a97641e440ab9f354cea9ea4.jpg",
-      "link": "https://www.marketwatch.com/story/the-biggest-takeaway-from-berkshire-hathaways-latest-quarter-isnt-the-357-billion-cash-or-its-stock-buybacks-3069f6a9?mod=mw_rss_topstories",
-      "published": "2026-11-09T12:27:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "consumer",
-      "headline": "Restaurant chains refocus on food quality to bring back diners",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/09/restaurant-chains-better-food-diners.html",
-      "published": "2026-11-09T12:00:01Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "CoreWeave confronts 'doom cycle' narrative as neocloud credit risk overshadows growth",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/09/coreweave-debt-credit-risk-neoclouds.html",
-      "published": "2026-11-09T12:00:01Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
       "headline": "S&P 500 futures move to session highs: live updates",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=1f808902-55a8-485b-9d87-722088eca855&amp;mod=mw_rss_bulletins",
@@ -271,14 +287,6 @@
       "image": null,
       "link": "https://stocktwits.com/news-articles/markets/equity/us-stock-futures-rise-dow-futures-lead-gains-as-wall-street-eyes-inflation-data-ai-earnings-nvda-tsla-crwv-in-focus/cNGr7iLR9eF?.tsrc=rss",
       "published": "2026-11-09T11:40:52Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "tech",
-      "headline": "Premarket movers: Nvidia slides on Huang probe, NVR extends rally",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/premarket-movers-nvidia-slides-huang-113609873.html?.tsrc=rss",
-      "published": "2026-11-09T11:36:09Z",
       "sentiment": "bullish"
     },
     {
@@ -312,26 +320,18 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=7bc433c2-d23e-45f5-8a27-21538529fed2&amp;mod=mw_rss_bulletins",
       "published": "2026-11-08T14:32:42Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "You follow the rules for smart stock trading. But are they the right rules?",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=fb051d31-c4ed-443b-b29a-47cd2e47401e&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-07T16:08:41Z",
-      "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-11-09T15:03:03Z",
+  "newest_item_published": "2026-11-09T16:10:33Z",
   "source_item_count": 68,
   "sources": {
     "cnbc": {
-      "contributed": 11,
+      "contributed": 12,
       "error": null,
       "fetched": 30,
-      "fresh": 25,
+      "fresh": 23,
       "label": "CNBC",
-      "newest": "2026-11-09T15:03:03Z",
+      "newest": "2026-11-09T16:10:33Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,14 +340,14 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-11-09T15:00:00Z",
+      "newest": "2026-11-09T16:00:00Z",
       "ok": true
     },
     "mw_bulletins": {
-      "contributed": 9,
+      "contributed": 8,
       "error": null,
       "fetched": 10,
-      "fresh": 9,
+      "fresh": 8,
       "label": "MW Bulletins",
       "newest": "2026-11-09T14:31:46Z",
       "ok": true
@@ -358,7 +358,7 @@
       "fetched": 18,
       "fresh": 17,
       "label": "Yahoo Finance",
-      "newest": "2026-11-09T14:41:49Z",
+      "newest": "2026-11-09T15:28:05Z",
       "ok": true
     }
   }
