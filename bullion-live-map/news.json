@@ -1,12 +1,44 @@
 {
-  "generated_at": "2026-11-09T19:12:05Z",
+  "generated_at": "2026-11-09T20:12:09Z",
   "headlines": [
     {
       "category": "other",
-      "headline": "Poppi founders are going after PepsiCo's Gatorade with new beverage startup Jetty",
+      "headline": "Hegseth impeachment articles introduced by Rep. Massie",
       "image": null,
-      "link": "https://www.cnbc.com/2026/11/08/poppi-founders-jetty-hydration-gatorade.html",
-      "published": "2026-11-09T19:04:02Z",
+      "link": "https://www.cnbc.com/2026/11/09/pete-hegseth-impeachment-articles-massie.html",
+      "published": "2026-11-09T20:07:15Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Dow up 1,200 points in final hour, S&P and Nasdaq surge after last week's swoon",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=67cf0ce0-5b96-4c0b-8d0f-d87a940f628a&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-09T20:02:59Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "federal",
+      "headline": "Trump administration proposes stricter work-search rules for unemployment benefits",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/09/trump-unemployment-work-search-rule.html",
+      "published": "2026-11-09T19:59:55Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Wall Street rallies by $1tn even as Bailey warns AI may not pay off",
+      "image": null,
+      "link": "https://uk.finance.yahoo.com/news/wall-street-rallies-1tn-even-194911782.html?.tsrc=rss",
+      "published": "2026-11-09T19:49:11Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "energy",
+      "headline": "Gas prices are finally below $4 a gallon, but Thanksgiving fuel costs will still be the highest since 2000",
+      "image": "news-images/ec95333bb7abd1b708c98f9c.jpg",
+      "link": "https://www.marketwatch.com/story/gas-prices-are-finally-below-4-a-gallon-but-thanksgiving-fuel-costs-will-still-be-the-highest-since-2000-94a7865b?mod=mw_rss_topstories",
+      "published": "2026-11-09T19:46:00Z",
       "sentiment": "neutral"
     },
     {
@@ -14,8 +46,64 @@
       "headline": "Millions of dollars poured into prediction markets on election night, trading on Democratic control of Congress and Texas governor's race",
       "image": null,
       "link": "https://www.cnbc.com/2026/11/09/millions-of-dollars-poured-into-prediction-markets-on-election-night.html",
-      "published": "2026-11-09T19:03:48Z",
+      "published": "2026-11-09T19:41:13Z",
       "sentiment": "neutral"
+    },
+    {
+      "category": "industrials",
+      "headline": "Boeing to cut 5% of commercial airplane workers as production increase takes longer than expected",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/09/boeing-layoffs-commercial-airplane.html",
+      "published": "2026-11-09T19:35:58Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "financials",
+      "headline": "Elizabeth Warren set to take over the Senate banking committee. Here's what she plans to do",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/09/elizabeth-warren-senate-banking-agenda.html",
+      "published": "2026-11-09T19:34:43Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Jensen Huang affair puts Nvidia's future at risk, with no clear successor to the renowned CEO",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/09/jensen-huang-affair-nvidia-succession.html",
+      "published": "2026-11-09T19:33:23Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Stock Market Today: Dow Jumps, Gold Stock Clears Entry; These Jensen Huang Details Emerge (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/6fc3228f-8806-33c0-9e3b-4402850ebacd/stock-market-today%3A-dow.html?.tsrc=rss",
+      "published": "2026-11-09T19:32:26Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "energy",
+      "headline": "What employers should do to build a pipeline of talented Gen Z workers",
+      "image": "news-images/64994c67c9812b46be0138b5.jpg",
+      "link": "https://www.marketwatch.com/story/what-employers-should-do-to-build-a-pipeline-of-talented-gen-z-workers-31c0e9b9?mod=mw_rss_topstories",
+      "published": "2026-11-09T19:28:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "This beaten-down data center stock could be worth a look, says Mike Khouw",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/09/this-beaten-down-data-center-stock-could-be-worth-a-look-says-mike-khouw.html",
+      "published": "2026-11-09T19:23:57Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "The Stock Market Is Crashing. History Says the Smartest Investors Are Making This 1 Simple Move.",
+      "image": null,
+      "link": "https://www.fool.com/investing/2026/11/09/the-stock-market-is-crashing-history-says-the-smar/?.tsrc=rss",
+      "published": "2026-11-09T19:20:00Z",
+      "sentiment": "bearish"
     },
     {
       "category": "other",
@@ -90,27 +178,11 @@
       "sentiment": "bullish"
     },
     {
-      "category": "industrials",
-      "headline": "Boeing to cut 5% of commercial airplane workers as production increase takes longer than expected",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/09/boeing-layoffs-commercial-airplane.html",
-      "published": "2026-11-09T18:16:37Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "federal",
       "headline": "Hot U.S. inflation hasn\u2019t cooled off. Rising consumer prices to keep Fed rate hike on track.",
       "image": "news-images/15fa930cec2ab92341ba0a77.jpg",
       "link": "https://www.marketwatch.com/story/hot-u-s-inflation-hasnt-cooled-off-rising-consumer-prices-to-keep-fed-rate-hike-on-track-926c44b0?mod=mw_rss_topstories",
       "published": "2026-11-09T18:16:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Goldman CEO Solomon says AI financing remains strong despite market jitters",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/09/goldman-ceo-ai-financing-market.html",
-      "published": "2026-11-09T18:14:47Z",
       "sentiment": "neutral"
     },
     {
@@ -123,14 +195,6 @@
     },
     {
       "category": "other",
-      "headline": "Stock Market Today: Dow Pops, Finance Play Hits Buy Zone; Details Emerge On Jensen Huang Probe (Live Coverage)",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/6fc3228f-8806-33c0-9e3b-4402850ebacd/stock-market-today%3A-dow-pops%2C.html?.tsrc=rss",
-      "published": "2026-11-09T18:09:52Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
       "headline": "His, mine or ours? I\u2019m 53 and not sure how to handle merging finances with my long-term partner.",
       "image": "news-images/3e0a5ee6a9f498f398410ae2.jpg",
       "link": "https://www.marketwatch.com/story/his-mine-or-ours-im-53-and-not-sure-how-to-handle-merging-finances-with-my-long-term-partner-4c34c914?mod=mw_rss_topstories",
@@ -138,11 +202,11 @@
       "sentiment": "neutral"
     },
     {
-      "category": "other",
-      "headline": "Trump questions midterm election results, revives voting-machine conspiracy",
+      "category": "tech",
+      "headline": "There is no one at Nvidia who would be ready to replace Jensen Huang",
       "image": null,
-      "link": "https://www.cnbc.com/2026/11/09/trump-election-results-democrats.html",
-      "published": "2026-11-09T18:02:48Z",
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=f6935744-32fa-48ad-9af3-43c01773ffba&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-09T18:04:13Z",
       "sentiment": "neutral"
     },
     {
@@ -151,14 +215,6 @@
       "image": "news-images/003009a389dabacce5f79fde.jpg",
       "link": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
       "published": "2026-11-09T18:00:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "The issues a 'really frustrated' Trump may actually work with Democrats on, according to former Speaker Paul Ryan",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/09/the-issues-a-really-frustrated-trump-may-actually-work-with-democrats-on-according-to-former-speaker-paul-ryan.html",
-      "published": "2026-11-09T17:52:52Z",
       "sentiment": "neutral"
     },
     {
@@ -175,14 +231,6 @@
       "image": "news-images/faefa2f6534aaf2d674a937d.jpg",
       "link": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
       "published": "2026-11-09T17:30:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "There is no one at Nvidia who would be ready to replace Jensen Huang",
-      "image": "news-images/a9d88df3c40b7a4596925a46.jpg",
-      "link": "https://www.marketwatch.com/story/there-is-no-one-at-nvidia-who-would-be-ready-to-replace-jensen-huang-816cc405?mod=mw_rss_topstories",
-      "published": "2026-11-09T17:21:00Z",
       "sentiment": "neutral"
     },
     {
@@ -224,46 +272,6 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=f693cd99-53c6-461d-8cf2-0ae8093a010a&amp;mod=mw_rss_bulletins",
       "published": "2026-11-09T17:12:51Z",
       "sentiment": "bullish"
-    },
-    {
-      "category": "tech",
-      "headline": "Nvidia's CEO turmoil gives newly empowered Democrats fresh ammunition in pursuit of oversight",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-affair-congress-scrutiny.html",
-      "published": "2026-11-09T17:05:25Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "financials",
-      "headline": "Wells Fargo Doesn\u2019t Think Becton Dickinson (BDX) Is Done Skyrocketing",
-      "image": null,
-      "link": "https://finance.yahoo.com/healthcare/articles/wells-fargo-doesn-t-think-165803051.html?.tsrc=rss",
-      "published": "2026-11-09T16:58:03Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "financials",
-      "headline": "Why Wall Street Is Still Bullish on Allied Gold (AAUC) After Its 45% Surge",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-wall-street-still-bullish-165610183.html?.tsrc=rss",
-      "published": "2026-11-09T16:56:10Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "federal",
-      "headline": "Wall Street's Four Main Benchmarks Start the Week Higher as Inflation Data Nears",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/wall-streets-four-main-benchmarks-164600239.html?.tsrc=rss",
-      "published": "2026-11-09T16:46:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "realestate",
-      "headline": "Why renters are obsessed with these $300 \u2018boneless couches\u2019",
-      "image": "news-images/b9bcf70b508acebef902c25e.jpg",
-      "link": "https://www.marketwatch.com/story/why-renters-are-obsessed-with-these-300-boneless-couches-65a2e4fe?mod=mw_rss_topstories",
-      "published": "2026-11-09T16:26:00Z",
-      "sentiment": "neutral"
     },
     {
       "category": "other",
@@ -312,26 +320,18 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=76efbc77-34ed-442d-9d34-fed91050c7b1&amp;mod=mw_rss_bulletins",
       "published": "2026-11-08T17:48:33Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "What to know about Anthropic\u2019s rush to go public before Thanksgiving",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=0054c46c-82a2-475c-a7e4-eafae27a1d46&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-08T17:33:05Z",
-      "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-11-09T19:04:02Z",
+  "newest_item_published": "2026-11-09T20:07:15Z",
   "source_item_count": 69,
   "sources": {
     "cnbc": {
       "contributed": 11,
       "error": null,
       "fetched": 30,
-      "fresh": 27,
+      "fresh": 28,
       "label": "CNBC",
-      "newest": "2026-11-09T19:04:02Z",
+      "newest": "2026-11-09T20:07:15Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,25 +340,25 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-11-09T18:33:00Z",
+      "newest": "2026-11-09T19:46:00Z",
       "ok": true
     },
     "mw_bulletins": {
-      "contributed": 8,
+      "contributed": 9,
       "error": null,
       "fetched": 10,
       "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-11-09T18:58:34Z",
+      "newest": "2026-11-09T20:02:59Z",
       "ok": true
     },
     "yahoo_dji": {
-      "contributed": 11,
+      "contributed": 10,
       "error": null,
       "fetched": 19,
       "fresh": 19,
       "label": "Yahoo Finance",
-      "newest": "2026-11-09T18:55:07Z",
+      "newest": "2026-11-09T19:49:11Z",
       "ok": true
     }
   }
