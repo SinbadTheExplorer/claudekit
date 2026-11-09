@@ -1,12 +1,84 @@
 {
-  "generated_at": "2026-11-09T16:12:06Z",
+  "generated_at": "2026-11-09T17:12:05Z",
   "headlines": [
+    {
+      "category": "tech",
+      "headline": "Nvidia's CEO turmoil gives newly empowered Democrats fresh ammunition in pursuit of oversight",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-affair-congress-scrutiny.html",
+      "published": "2026-11-09T17:05:25Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "financials",
+      "headline": "Wells Fargo Doesn\u2019t Think Becton Dickinson (BDX) Is Done Skyrocketing",
+      "image": null,
+      "link": "https://finance.yahoo.com/healthcare/articles/wells-fargo-doesn-t-think-165803051.html?.tsrc=rss",
+      "published": "2026-11-09T16:58:03Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "financials",
+      "headline": "Why Wall Street Is Still Bullish on Allied Gold (AAUC) After Its 45% Surge",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-wall-street-still-bullish-165610183.html?.tsrc=rss",
+      "published": "2026-11-09T16:56:10Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "Trump questions midterm election results, revives voting-machine conspiracy",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/09/trump-election-results-democrats.html",
+      "published": "2026-11-09T16:55:01Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Wall Street's Four Main Benchmarks Start the Week Higher as Inflation Data Nears",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/wall-streets-four-main-benchmarks-164600239.html?.tsrc=rss",
+      "published": "2026-11-09T16:46:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Jim Cramer says this is the stock to buy as data center development slows",
+      "image": null,
+      "link": "https://www.cnbc.com/investingclub/2026/11/09/cramer-says-this-is-the-stock-to-buy-as-data-center-development-slows.html",
+      "published": "2026-11-09T16:42:53Z",
+      "sentiment": "neutral"
+    },
     {
       "category": "other",
       "headline": "Honda to invest $3 billion in new vehicle assembly plant in Ohio",
       "image": null,
       "link": "https://www.cnbc.com/2026/11/09/honda-to-invest-3-billion-in-new-vehicle-assembly-plant-in-ohio.html",
-      "published": "2026-11-09T16:10:33Z",
+      "published": "2026-11-09T16:39:12Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Stock Market Today: Dow Rallies; Software Stock Clears Entry; Nvidia Off Lows Amid Huang Probe (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/6fc3228f-8806-33c0-9e3b-4402850ebacd/stock-market-today%3A-dow.html?.tsrc=rss",
+      "published": "2026-11-09T16:33:33Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "realestate",
+      "headline": "Why renters are obsessed with these $300 \u2018boneless couches\u2019",
+      "image": "news-images/b9bcf70b508acebef902c25e.jpg",
+      "link": "https://www.marketwatch.com/story/why-renters-are-obsessed-with-these-300-boneless-couches-65a2e4fe?mod=mw_rss_topstories",
+      "published": "2026-11-09T16:26:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Indices Hunt for Support After Steep Weekly Losses as Volatility Gauge Stays Elevated",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/indices-hunt-support-steep-weekly-160800955.html?.tsrc=rss",
+      "published": "2026-11-09T16:08:00Z",
       "sentiment": "neutral"
     },
     {
@@ -15,22 +87,6 @@
       "image": "news-images/cbcd887ed89df38f16983c65.jpg",
       "link": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
       "published": "2026-11-09T16:00:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Nvidia's CEO turmoil gives newly empowered Democrats fresh ammunition in pursuit of oversight",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-affair-congress-scrutiny.html",
-      "published": "2026-11-09T15:49:30Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Trump questions midterm election results, revives voting-machine conspiracy",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/09/trump-election-results-democrats.html",
-      "published": "2026-11-09T15:44:09Z",
       "sentiment": "neutral"
     },
     {
@@ -48,14 +104,6 @@
       "link": "https://www.cnbc.com/2026/11/09/weekend-trading-of-nvidia-scandal-shines-light-on-new-financial-products.html",
       "published": "2026-11-09T15:31:32Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Stock Market Today: Dow Charges Higher As Chip Stocks Surge; Nvidia Dives On CEO Jensen Huang Probe (Live Coverage)",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/6fc3228f-8806-33c0-9e3b-4402850ebacd/stock-market-today%3A-dow.html?.tsrc=rss",
-      "published": "2026-11-09T15:28:05Z",
-      "sentiment": "bullish"
     },
     {
       "category": "healthcare",
@@ -186,14 +234,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "other",
-      "headline": "Jim Cramer's top 10 things to watch in the stock market Monday",
-      "image": null,
-      "link": "https://www.cnbc.com/investingclub/2026/11/09/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html",
-      "published": "2026-11-09T14:11:35Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "energy",
       "headline": "Update: US Equity Futures Higher Pre-Bell as Traders Assess Oil Price Drop, Await AI-Related Earnings This Week",
       "image": null,
@@ -218,11 +258,11 @@
       "sentiment": "bullish"
     },
     {
-      "category": "other",
-      "headline": "My 93-year-old father changed his will at the 11th hour, leaving my brother his entire $500,000 estate. Can I challenge it?",
-      "image": "news-images/01b3c589d596966412edb869.jpg",
-      "link": "https://www.marketwatch.com/story/my-93-year-old-father-changed-his-will-at-the-11th-hour-leaving-my-brother-his-entire-500-000-estate-can-i-challenge-it-ecfc63d2?mod=mw_rss_topstories",
-      "published": "2026-11-09T13:30:00Z",
+      "category": "tech",
+      "headline": "Stock Market Today: Major Indexes Soar as Market Looks to Rebound from Last Week\u2019s Losses; Nvidia Plunges as Company Investigates CEO Huang",
+      "image": null,
+      "link": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-11092026-12244409?.tsrc=rss",
+      "published": "2026-11-09T13:28:56Z",
       "sentiment": "neutral"
     },
     {
@@ -231,38 +271,6 @@
       "image": null,
       "link": "https://www.cnbc.com/2026/11/09/novonesis-glp1-weight-loss-drugs-supplements-probiotics.html",
       "published": "2026-11-09T13:27:57Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "tech",
-      "headline": "US Stocks Set for Higher Opening With Technology Trade in Focus Amid Nvidia CEO Scandal",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-stocks-set-higher-opening-132647644.html?.tsrc=rss",
-      "published": "2026-11-09T13:26:47Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "These states are offering extra ACA premium subsidies in 2027",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/09/aca-state-subsidies-2027.html",
-      "published": "2026-11-09T13:00:01Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "U.S. Job Growth Beats Expectations in October: Sector ETFs in Focus",
-      "image": null,
-      "link": "https://finance.yahoo.com/economy/articles/u-job-growth-beats-expectations-130000069.html?.tsrc=rss",
-      "published": "2026-11-09T13:00:00Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "energy",
-      "headline": "US Equity Futures Higher Pre-Bell as Traders Assess Oil Price Drop, Await AI-Related Earnings This Week",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-higher-pre-125311861.html?.tsrc=rss",
-      "published": "2026-11-09T12:53:11Z",
       "sentiment": "bearish"
     },
     {
@@ -280,14 +288,6 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=1f808902-55a8-485b-9d87-722088eca855&amp;mod=mw_rss_bulletins",
       "published": "2026-11-09T11:54:54Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "US Stock Futures Rise, Dow Futures Lead Gains As Wall Street Eyes Inflation Data, AI Earnings \u2014 NVDA, TSLA, CRWV In Focus",
-      "image": null,
-      "link": "https://stocktwits.com/news-articles/markets/equity/us-stock-futures-rise-dow-futures-lead-gains-as-wall-street-eyes-inflation-data-ai-earnings-nvda-tsla-crwv-in-focus/cNGr7iLR9eF?.tsrc=rss",
-      "published": "2026-11-09T11:40:52Z",
-      "sentiment": "bullish"
     },
     {
       "category": "federal",
@@ -322,16 +322,16 @@
       "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-11-09T16:10:33Z",
+  "newest_item_published": "2026-11-09T17:05:25Z",
   "source_item_count": 68,
   "sources": {
     "cnbc": {
-      "contributed": 12,
+      "contributed": 11,
       "error": null,
       "fetched": 30,
       "fresh": 23,
       "label": "CNBC",
-      "newest": "2026-11-09T16:10:33Z",
+      "newest": "2026-11-09T17:05:25Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,7 +340,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-11-09T16:00:00Z",
+      "newest": "2026-11-09T16:26:00Z",
       "ok": true
     },
     "mw_bulletins": {
@@ -353,12 +353,12 @@
       "ok": true
     },
     "yahoo_dji": {
-      "contributed": 10,
+      "contributed": 11,
       "error": null,
       "fetched": 18,
       "fresh": 17,
       "label": "Yahoo Finance",
-      "newest": "2026-11-09T15:28:05Z",
+      "newest": "2026-11-09T16:58:03Z",
       "ok": true
     }
   }
