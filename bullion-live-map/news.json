@@ -1,6 +1,230 @@
 {
-  "generated_at": "2026-11-09T17:12:05Z",
+  "generated_at": "2026-11-09T19:12:05Z",
   "headlines": [
+    {
+      "category": "other",
+      "headline": "Poppi founders are going after PepsiCo's Gatorade with new beverage startup Jetty",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/08/poppi-founders-jetty-hydration-gatorade.html",
+      "published": "2026-11-09T19:04:02Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Millions of dollars poured into prediction markets on election night, trading on Democratic control of Congress and Texas governor's race",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/09/millions-of-dollars-poured-into-prediction-markets-on-election-night.html",
+      "published": "2026-11-09T19:03:48Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Anthropic releases first frontier models since Amodei's call for slowdown as IPO buzz builds",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/09/anthropic-claude-fable-5-2-mythos-5-2.html",
+      "published": "2026-11-09T19:00:01Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Honda to invest $3 billion in new vehicle assembly plant in Ohio",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/09/honda-to-invest-3-billion-in-new-vehicle-assembly-plant-in-ohio.html",
+      "published": "2026-11-09T18:59:43Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Update: Equities Rally, Oil Drops Intraday; Nvidia Slumps Amid CEO Probe",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/equities-rally-oil-drops-intraday-185507615.html?.tsrc=rss",
+      "published": "2026-11-09T18:55:07Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "energy",
+      "headline": "Sector Update: Energy Stocks Higher Monday Afternoon",
+      "image": null,
+      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-higher-monday-184627929.html?.tsrc=rss",
+      "published": "2026-11-09T18:46:27Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Jensen Huang exit odds are low on prediction markets after Nvidia probe",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/09/jensen-huang-nvidia-exit-prediction-markets.html",
+      "published": "2026-11-09T18:46:01Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "A massive trade in Nvidia just went off \u2013 here are the details",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/09/a-massive-trade-in-nvidia-just-went-off-here-are-the-details.html",
+      "published": "2026-11-09T18:37:59Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Are AMD and Broadcom the real winners of the Nvidia spy scandal?",
+      "image": "news-images/7a155b5982c6391a96ba69b1.jpg",
+      "link": "https://www.marketwatch.com/story/are-amd-and-broadcom-the-real-winners-of-the-nvidia-spy-scandal-d2343072?mod=mw_rss_topstories",
+      "published": "2026-11-09T18:33:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Think the bond market is broken? History says a massive turnaround could be coming.",
+      "image": "news-images/75a6cf136fa1c13c284090b2.jpg",
+      "link": "https://www.marketwatch.com/story/think-the-bond-market-is-broken-history-says-a-massive-turnaround-could-be-coming-dfaae450?mod=mw_rss_topstories",
+      "published": "2026-11-09T18:26:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "energy",
+      "headline": "Update: US Equity Indexes Jump as Growth Sectors Rally Hard While Crude Oil Sinks",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-jump-growth-182137318.html?.tsrc=rss",
+      "published": "2026-11-09T18:21:37Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "industrials",
+      "headline": "Boeing to cut 5% of commercial airplane workers as production increase takes longer than expected",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/09/boeing-layoffs-commercial-airplane.html",
+      "published": "2026-11-09T18:16:37Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Hot U.S. inflation hasn\u2019t cooled off. Rising consumer prices to keep Fed rate hike on track.",
+      "image": "news-images/15fa930cec2ab92341ba0a77.jpg",
+      "link": "https://www.marketwatch.com/story/hot-u-s-inflation-hasnt-cooled-off-rising-consumer-prices-to-keep-fed-rate-hike-on-track-926c44b0?mod=mw_rss_topstories",
+      "published": "2026-11-09T18:16:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Goldman CEO Solomon says AI financing remains strong despite market jitters",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/09/goldman-ceo-ai-financing-market.html",
+      "published": "2026-11-09T18:14:47Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Funeral homes are finding new life hosting weddings and golf outings, as the traditional burial business dies out",
+      "image": "news-images/c9d4cb9d9fab5e85c0984403.jpg",
+      "link": "https://www.marketwatch.com/story/funeral-homes-are-finding-new-life-hosting-weddings-and-golf-outings-as-the-traditional-burial-business-dies-out-15831d13?mod=mw_rss_topstories",
+      "published": "2026-11-09T18:11:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Stock Market Today: Dow Pops, Finance Play Hits Buy Zone; Details Emerge On Jensen Huang Probe (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/6fc3228f-8806-33c0-9e3b-4402850ebacd/stock-market-today%3A-dow-pops%2C.html?.tsrc=rss",
+      "published": "2026-11-09T18:09:52Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "His, mine or ours? I\u2019m 53 and not sure how to handle merging finances with my long-term partner.",
+      "image": "news-images/3e0a5ee6a9f498f398410ae2.jpg",
+      "link": "https://www.marketwatch.com/story/his-mine-or-ours-im-53-and-not-sure-how-to-handle-merging-finances-with-my-long-term-partner-4c34c914?mod=mw_rss_topstories",
+      "published": "2026-11-09T18:08:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Trump questions midterm election results, revives voting-machine conspiracy",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/09/trump-election-results-democrats.html",
+      "published": "2026-11-09T18:02:48Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "\u2018We had the worst fight\u2019: I want my husband to retire at 65, but I don\u2019t want to lose his $280,000 salary. Is that unreasonable?",
+      "image": "news-images/003009a389dabacce5f79fde.jpg",
+      "link": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
+      "published": "2026-11-09T18:00:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "The issues a 'really frustrated' Trump may actually work with Democrats on, according to former Speaker Paul Ryan",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/09/the-issues-a-really-frustrated-trump-may-actually-work-with-democrats-on-according-to-former-speaker-paul-ryan.html",
+      "published": "2026-11-09T17:52:52Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "healthcare",
+      "headline": "Ozempic, Zepbound and other GLP-1 drugs have a possible risk of vision loss",
+      "image": "news-images/7e0a3e7c71bc6b9e1e2ae388.jpg",
+      "link": "https://www.marketwatch.com/story/ozempic-zepbound-and-other-glp-1-drugs-have-a-possible-risk-of-vision-loss-b3738f36?mod=mw_rss_topstories",
+      "published": "2026-11-09T17:52:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Should a widow leave her late partner\u2019s home to her stepkids \u2014 or cut off contact with them?",
+      "image": "news-images/faefa2f6534aaf2d674a937d.jpg",
+      "link": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
+      "published": "2026-11-09T17:30:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "There is no one at Nvidia who would be ready to replace Jensen Huang",
+      "image": "news-images/a9d88df3c40b7a4596925a46.jpg",
+      "link": "https://www.marketwatch.com/story/there-is-no-one-at-nvidia-who-would-be-ready-to-replace-jensen-huang-816cc405?mod=mw_rss_topstories",
+      "published": "2026-11-09T17:21:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "energy",
+      "headline": "Update: US Equity Indexes Jump as Growth Sectors Stage Rally Amid Sliding Crude Oil",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-jump-growth-171855293.html?.tsrc=rss",
+      "published": "2026-11-09T17:18:55Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "Here\u2019s Why Jefferies Upgraded Steven Madden (SHOO) Stock",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-jefferies-upgraded-steven-madden-171733975.html?.tsrc=rss",
+      "published": "2026-11-09T17:17:33Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "Here\u2019s Why Barclays Analyst Upgraded Ryanair (RYAAY)",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-barclays-analyst-upgraded-ryanair-171616715.html?.tsrc=rss",
+      "published": "2026-11-09T17:16:16Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "Here\u2019s Why William Blair Upgraded Appian (APPN) Stock",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-william-blair-upgraded-appian-171522406.html?.tsrc=rss",
+      "published": "2026-11-09T17:15:22Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "Dow's surge hits 1,000 points today; S&P 500 and Nasdaq also see big gains",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=f693cd99-53c6-461d-8cf2-0ae8093a010a&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-09T17:12:51Z",
+      "sentiment": "bullish"
+    },
     {
       "category": "tech",
       "headline": "Nvidia's CEO turmoil gives newly empowered Democrats fresh ammunition in pursuit of oversight",
@@ -26,44 +250,12 @@
       "sentiment": "bullish"
     },
     {
-      "category": "other",
-      "headline": "Trump questions midterm election results, revives voting-machine conspiracy",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/09/trump-election-results-democrats.html",
-      "published": "2026-11-09T16:55:01Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "federal",
       "headline": "Wall Street's Four Main Benchmarks Start the Week Higher as Inflation Data Nears",
       "image": null,
       "link": "https://finance.yahoo.com/markets/stocks/articles/wall-streets-four-main-benchmarks-164600239.html?.tsrc=rss",
       "published": "2026-11-09T16:46:00Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Jim Cramer says this is the stock to buy as data center development slows",
-      "image": null,
-      "link": "https://www.cnbc.com/investingclub/2026/11/09/cramer-says-this-is-the-stock-to-buy-as-data-center-development-slows.html",
-      "published": "2026-11-09T16:42:53Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Honda to invest $3 billion in new vehicle assembly plant in Ohio",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/09/honda-to-invest-3-billion-in-new-vehicle-assembly-plant-in-ohio.html",
-      "published": "2026-11-09T16:39:12Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Stock Market Today: Dow Rallies; Software Stock Clears Entry; Nvidia Off Lows Amid Huang Probe (Live Coverage)",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/6fc3228f-8806-33c0-9e3b-4402850ebacd/stock-market-today%3A-dow.html?.tsrc=rss",
-      "published": "2026-11-09T16:33:33Z",
-      "sentiment": "bullish"
     },
     {
       "category": "realestate",
@@ -75,147 +267,11 @@
     },
     {
       "category": "other",
-      "headline": "Indices Hunt for Support After Steep Weekly Losses as Volatility Gauge Stays Elevated",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/indices-hunt-support-steep-weekly-160800955.html?.tsrc=rss",
-      "published": "2026-11-09T16:08:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "\u2018It seems bizarre\u2019: We\u2019re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
-      "image": "news-images/cbcd887ed89df38f16983c65.jpg",
-      "link": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
-      "published": "2026-11-09T16:00:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "How SpaceX was able to avert one of the market\u2019s biggest fears about its stock",
-      "image": "news-images/e7693447761007663b6df86e.jpg",
-      "link": "https://www.marketwatch.com/story/how-spacex-was-able-to-avert-one-of-the-markets-biggest-fears-about-its-stock-93870736?mod=mw_rss_topstories",
-      "published": "2026-11-09T15:35:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Weekend trading of Nvidia scandal shines light on new financial products",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/09/weekend-trading-of-nvidia-scandal-shines-light-on-new-financial-products.html",
-      "published": "2026-11-09T15:31:32Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "healthcare",
-      "headline": "A failed trial for a heart drug casts shadow over rivals developing similar therapies",
-      "image": "news-images/f6bb896e1fa5ddc42ba7e146.jpg",
-      "link": "https://www.marketwatch.com/story/a-failed-trial-for-a-heart-drug-casts-shadow-over-rivals-developing-similar-therapies-2d9bd79f?mod=mw_rss_topstories",
-      "published": "2026-11-09T15:16:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Nvidia Stock Slides After Chip Maker Opens Probe",
-      "image": null,
-      "link": "https://www.wsj.com/finance/stocks/stock-futures-treasurys-steady-but-nvidia-slides-premarket-on-huang-probe-31deea55?.tsrc=rss",
-      "published": "2026-11-09T15:10:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "\u2018My life could be cut short\u2019: I\u2019m 55, married and have a brain tumor. Should I splash out on a $210,000 Porsche?",
-      "image": "news-images/646626015cdf2503ac459c16.jpg",
-      "link": "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories",
-      "published": "2026-11-09T15:00:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Goodyear Tire CEO Mark Stewart steps down as company continues turnaround plan",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/09/goodyear-roger-wood-interim-ceo.html",
-      "published": "2026-11-09T14:56:47Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "As Nvidia\u2019s stock falls, here\u2019s what Wall Street has to say about the Jensen Huang scandal",
-      "image": "news-images/dcd321f59c40b35d24f25438.jpg",
-      "link": "https://www.marketwatch.com/story/how-wall-street-is-reacting-to-the-news-of-nvidias-jensen-huang-investigation-into-spy-claims-d8c839ab?mod=mw_rss_topstories",
-      "published": "2026-11-09T14:45:00Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "tech",
-      "headline": "Nvidia Investigation Can't Overshadow a Dip-Buying Wave",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/dd589af3-429e-3b29-aaad-42a534fa0510/nvidia-investigation-can%27t.html?.tsrc=rss",
-      "published": "2026-11-09T14:32:48Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
       "headline": "Dow, S&P 500 and Nasdaq open higher after last week\u2019s selloff",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=e7b77823-406d-44ff-abc4-686eb36ce579&amp;mod=mw_rss_bulletins",
       "published": "2026-11-09T14:31:46Z",
       "sentiment": "bearish"
-    },
-    {
-      "category": "other",
-      "headline": "Eli Lilly\u2019s Foundayo obesity pill eases sleep apnea in late-stage trial, paving way for approval",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/09/eli-lilly-foundayo-sleep-apnea-trial.html",
-      "published": "2026-11-09T14:30:01Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Should a widow leave her late partner\u2019s home to her stepkids \u2014 or cut off contact with them?",
-      "image": "news-images/faefa2f6534aaf2d674a937d.jpg",
-      "link": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
-      "published": "2026-11-09T14:30:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Stock Market Today: Nvidia Pressures Indexes to Maintain Rebound",
-      "image": null,
-      "link": "https://247wallst.com/investing/2026/11/09/stock-market-today-nvidia-pressures-indexes-to-maintain-rebound/?.tsrc=rss",
-      "published": "2026-11-09T14:28:18Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "consumer",
-      "headline": "Amazon's Astro home robot has fans but looks destined for the 'trash heap.' Why it's trying again",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/08/amazon-home-robot-fauna-sprout.html",
-      "published": "2026-11-09T14:24:34Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "tech",
-      "headline": "As AI trade falters, Goldman Sachs says this lagging region is now positioned to outperform",
-      "image": "news-images/243885c18ce747e85769038c.jpg",
-      "link": "https://www.marketwatch.com/story/as-ai-trade-falters-goldman-sachs-says-this-lagging-region-is-now-positioned-to-outperform-589805c6?mod=mw_rss_topstories",
-      "published": "2026-11-09T14:16:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Why tech workers are flocking to NYC",
-      "image": null,
-      "link": "https://www.cnbc.com/make-it/2026/11/09/new-york-city-tech-workers-jobs.html",
-      "published": "2026-11-09T14:15:02Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "\u2018We had the worst fight\u2019: I want my husband to retire at 65, but I don\u2019t want to lose his $280,000 salary. Is that unreasonable?",
-      "image": "news-images/003009a389dabacce5f79fde.jpg",
-      "link": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
-      "published": "2026-11-09T14:15:00Z",
-      "sentiment": "neutral"
     },
     {
       "category": "financials",
@@ -224,54 +280,6 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=2d3e0218-7979-4e04-adf5-8490c2100440&amp;mod=mw_rss_bulletins",
       "published": "2026-11-09T14:13:40Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "international",
-      "headline": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Monday Amid Global Market Recovery",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-141309144.html?.tsrc=rss",
-      "published": "2026-11-09T14:13:09Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "energy",
-      "headline": "Update: US Equity Futures Higher Pre-Bell as Traders Assess Oil Price Drop, Await AI-Related Earnings This Week",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-higher-pre-135516996.html?.tsrc=rss",
-      "published": "2026-11-09T13:55:16Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "other",
-      "headline": "Home listings pile up in October, but sellers won't slash prices",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/09/home-listings-pile-up-in-october-but-sellers-wont-slash-prices.html",
-      "published": "2026-11-09T13:54:29Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "financials",
-      "headline": "Corporate America\u2019s profit numbers are just barely beating Wall Street\u2019s expectations",
-      "image": "news-images/f8543610556b7f4295408f88.jpg",
-      "link": "https://www.marketwatch.com/story/corporate-americas-profit-numbers-are-just-barely-beating-wall-streets-expectations-eaa67fe2?mod=mw_rss_topstories",
-      "published": "2026-11-09T13:36:00Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "tech",
-      "headline": "Stock Market Today: Major Indexes Soar as Market Looks to Rebound from Last Week\u2019s Losses; Nvidia Plunges as Company Investigates CEO Huang",
-      "image": null,
-      "link": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-11092026-12244409?.tsrc=rss",
-      "published": "2026-11-09T13:28:56Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "healthcare",
-      "headline": "Could supplements be the next big opportunity in the GLP-1 weight-loss drug boom?",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/09/novonesis-glp1-weight-loss-drugs-supplements-probiotics.html",
-      "published": "2026-11-09T13:27:57Z",
-      "sentiment": "bearish"
     },
     {
       "category": "other",
@@ -312,26 +320,18 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=0054c46c-82a2-475c-a7e4-eafae27a1d46&amp;mod=mw_rss_bulletins",
       "published": "2026-11-08T17:33:05Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "The U.S. stock market has rarely been this unified. It\u2019s not a good thing.",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=7bc433c2-d23e-45f5-8a27-21538529fed2&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-08T14:32:42Z",
-      "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-11-09T17:05:25Z",
-  "source_item_count": 68,
+  "newest_item_published": "2026-11-09T19:04:02Z",
+  "source_item_count": 69,
   "sources": {
     "cnbc": {
       "contributed": 11,
       "error": null,
       "fetched": 30,
-      "fresh": 23,
+      "fresh": 27,
       "label": "CNBC",
-      "newest": "2026-11-09T17:05:25Z",
+      "newest": "2026-11-09T19:04:02Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,25 +340,25 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-11-09T16:26:00Z",
+      "newest": "2026-11-09T18:33:00Z",
       "ok": true
     },
     "mw_bulletins": {
       "contributed": 8,
       "error": null,
       "fetched": 10,
-      "fresh": 8,
+      "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-11-09T14:31:46Z",
+      "newest": "2026-11-09T18:58:34Z",
       "ok": true
     },
     "yahoo_dji": {
       "contributed": 11,
       "error": null,
-      "fetched": 18,
-      "fresh": 17,
+      "fetched": 19,
+      "fresh": 19,
       "label": "Yahoo Finance",
-      "newest": "2026-11-09T16:58:03Z",
+      "newest": "2026-11-09T18:55:07Z",
       "ok": true
     }
   }
