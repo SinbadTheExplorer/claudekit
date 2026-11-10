@@ -1,20 +1,36 @@
 {
-  "generated_at": "2026-11-10T20:12:06Z",
+  "generated_at": "2026-11-10T20:25:54Z",
   "headlines": [
+    {
+      "category": "other",
+      "headline": "Jim Jordan elected House GOP leader",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/10/jim-jordan-congress-republicans-midterm.html",
+      "published": "2026-11-10T20:24:45Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Schumer accuses Trump of defending Nvidia CEO Jensen Huang at cost of national security",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/10/moolenaar-nvidia-jensen-huang-affair-chinese-spy.html",
+      "published": "2026-11-10T20:19:35Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "GE Vernova sellers have it all wrong \u2014 plus, why Fed rate hike odds are soaring",
+      "image": null,
+      "link": "https://www.cnbc.com/investingclub/2026/11/10/ge-vernova-sellers-have-it-all-wrong-plus-why-fed-rate-hike-odds-are-soaring.html",
+      "published": "2026-11-10T20:02:53Z",
+      "sentiment": "bullish"
+    },
     {
       "category": "tech",
       "headline": "Nvidia hires law firm Wachtell Lipton to lead Jensen Huang affair probe",
       "image": null,
       "link": "https://www.cnbc.com/2026/11/10/nvidia-wachtell-lipton-huang-affair.html",
       "published": "2026-11-10T20:01:18Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Jim Jordan elected House GOP leader",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/10/jim-jordan-congress-republicans-midterm.html",
-      "published": "2026-11-10T19:55:08Z",
       "sentiment": "neutral"
     },
     {
@@ -218,11 +234,11 @@
       "sentiment": "bearish"
     },
     {
-      "category": "tech",
-      "headline": "China panel chair Moolenaar demands answers on Nvidia CEO's alleged affair with a Chinese spy",
+      "category": "energy",
+      "headline": "Sector Update: Energy Stocks Mixed Tuesday Afternoon",
       "image": null,
-      "link": "https://www.cnbc.com/2026/11/10/moolenaar-nvidia-jensen-huang-affair-chinese-spy.html",
-      "published": "2026-11-10T18:22:44Z",
+      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-mixed-tuesday-182754599.html?.tsrc=rss",
+      "published": "2026-11-10T18:27:54Z",
       "sentiment": "neutral"
     },
     {
@@ -255,14 +271,6 @@
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=981c1c64-e735-4049-bc05-60fa26241216&amp;mod=mw_rss_bulletins",
       "published": "2026-11-10T18:10:02Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Credit card debt climbs to a record $1.29 trillion, New York Fed research finds",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/10/credit-card-debt-record.html",
-      "published": "2026-11-10T18:08:40Z",
       "sentiment": "neutral"
     },
     {
@@ -312,17 +320,9 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=6e04b5eb-b807-4968-90fc-2a422a290a4f&amp;mod=mw_rss_bulletins",
       "published": "2026-11-10T00:57:07Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "October inflation data could put stock market's broad-based rally to the test",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=b7d9ad4a-fcbe-4b1d-9474-e77598af01ef&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-09T23:26:46Z",
-      "sentiment": "bullish"
     }
   ],
-  "newest_item_published": "2026-11-10T20:01:18Z",
+  "newest_item_published": "2026-11-10T20:24:45Z",
   "source_item_count": 67,
   "sources": {
     "cnbc": {
@@ -331,7 +331,7 @@
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-11-10T20:01:18Z",
+      "newest": "2026-11-10T20:24:45Z",
       "ok": true
     },
     "marketwatch": {
@@ -344,16 +344,16 @@
       "ok": true
     },
     "mw_bulletins": {
-      "contributed": 10,
+      "contributed": 9,
       "error": null,
       "fetched": 10,
       "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-11-10T19:32:41Z",
+      "newest": "2026-11-10T20:15:58Z",
       "ok": true
     },
     "yahoo_dji": {
-      "contributed": 10,
+      "contributed": 11,
       "error": null,
       "fetched": 17,
       "fresh": 16,
