@@ -1,6 +1,94 @@
 {
-  "generated_at": "2026-11-10T15:12:07Z",
+  "generated_at": "2026-11-10T16:12:11Z",
   "headlines": [
+    {
+      "category": "other",
+      "headline": "House Oversight calls on DOJ to interview key Epstein witnesses, says govt. \u2018failed\u2019 survivors",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/10/jeffrey-epstein-house-oversight-doj.html",
+      "published": "2026-11-10T16:11:06Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "realestate",
+      "headline": "Inside Alts: Bridgepoint sees opportunity in 're-rated' real estate",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/10/bridgepoint-sees-opportunity-in-re-rated-real-estate.html",
+      "published": "2026-11-10T16:04:59Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html",
+      "published": "2026-11-10T16:04:49Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "\u2018Boneless couches\u2019 are the new futons",
+      "image": "news-images/b9bcf70b508acebef902c25e.jpg",
+      "link": "https://www.marketwatch.com/story/why-renters-are-obsessed-with-these-300-boneless-couches-65a2e4fe?mod=mw_rss_topstories",
+      "published": "2026-11-10T16:01:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Should a widow leave her late partner\u2019s home to her stepkids \u2014 or cut off contact with them?",
+      "image": "news-images/faefa2f6534aaf2d674a937d.jpg",
+      "link": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
+      "published": "2026-11-10T16:01:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Why stocks are falling and 10-year yields are climbing back near 5% after Tuesday\u2019s inflation report",
+      "image": "news-images/4f890d03c6d376365887bbac.jpg",
+      "link": "https://www.marketwatch.com/story/why-stocks-are-falling-and-10-year-yields-are-climbing-back-near-5-after-tuesdays-inflation-report-389b8392?mod=mw_rss_topstories",
+      "published": "2026-11-10T15:47:00Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "\u2018I\u2019m sick of flying\u2019: I paid for priority boarding, but the overhead bins were full. Was I duped?",
+      "image": "news-images/e608328c397cf7e68154d9c6.jpg",
+      "link": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
+      "published": "2026-11-10T15:45:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Anthropic sets IPO price range of $70 to $78, looks to start trading  Nov. 19, sources say",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html",
+      "published": "2026-11-10T15:42:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Stock Market Today: Dow Dips On Hot Inflation Data; Nvidia Falls Again, Anthropic Sets IPO Range (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/c7fbd2af-5702-3c77-9aa6-7c6578bb8abb/stock-market-today%3A-dow-dips.html?.tsrc=rss",
+      "published": "2026-11-10T15:31:28Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "federal",
+      "headline": "\u2018The thought of living to 100 terrifies me\u2019: Is Social Security a giant Ponzi scheme?",
+      "image": "news-images/d614f939562eaaf70c13752f.jpg",
+      "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+      "published": "2026-11-10T15:30:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "financials",
+      "headline": "Elon Musk was half right in his comment last week about SoftBank backpedaling on a gas-turbine order",
+      "image": "news-images/ae2ddb9a8009d6e70623ecb0.jpg",
+      "link": "https://www.marketwatch.com/story/elon-musk-was-half-right-in-his-comment-last-week-about-softbank-back-pedaling-on-a-gas-turbine-order-c293d335?mod=mw_rss_topstories",
+      "published": "2026-11-10T15:30:00Z",
+      "sentiment": "neutral"
+    },
     {
       "category": "other",
       "headline": "Rivian CEO says new R2 SUV, autonomy make 2027 an \u2018inflection year\u2019 as EV maker marks five years since IPO",
@@ -34,36 +122,12 @@
       "sentiment": "neutral"
     },
     {
-      "category": "other",
-      "headline": "Anthropic sets IPO price range of $70 to $78, looks to start trading  Nov. 19, sources say",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html",
-      "published": "2026-11-10T14:50:18Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html",
-      "published": "2026-11-10T14:50:03Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "international",
       "headline": "Pete Hegseth decries impeachment push, defends Iran war handling",
       "image": null,
       "link": "https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html",
       "published": "2026-11-10T14:48:34Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Stock Market Today: Dow Falls On Surprise Inflation Data; AI Giant Anthropic Sets IPO Range (Live Coverage)",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/c7fbd2af-5702-3c77-9aa6-7c6578bb8abb/stock-market-today%3A-dow-falls.html?.tsrc=rss",
-      "published": "2026-11-10T14:44:33Z",
-      "sentiment": "bearish"
     },
     {
       "category": "healthcare",
@@ -90,28 +154,12 @@
       "sentiment": "bearish"
     },
     {
-      "category": "other",
-      "headline": "Does anyone feel safe from layoffs right now?",
-      "image": null,
-      "link": "https://www.cnbc.com/make-it/2026/11/10/layoff-announcements-are-slowing-this-year-workers-are-still-worried.html",
-      "published": "2026-11-10T14:30:56Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "federal",
       "headline": "Exchange-Traded Funds, Equity Futures Mixed Pre-Bell Tuesday Amid October Consumer Inflation Report",
       "image": null,
       "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-141241479.html?.tsrc=rss",
       "published": "2026-11-10T14:12:41Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "How much you can make in 2027 and still pay 0% capital gains tax",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/10/2027-zero-percent-capital-gains-tax.html",
-      "published": "2026-11-10T14:12:02Z",
-      "sentiment": "bullish"
     },
     {
       "category": "federal",
@@ -162,14 +210,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "financials",
-      "headline": "Elon Musk was half-right in his comment last week about SoftBank back-pedaling on a gas-turbine order",
-      "image": "news-images/ae2ddb9a8009d6e70623ecb0.jpg",
-      "link": "https://www.marketwatch.com/story/elon-musk-was-half-right-in-his-comment-last-week-about-softbank-back-pedaling-on-a-gas-turbine-order-c293d335?mod=mw_rss_topstories",
-      "published": "2026-11-10T13:32:00Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "tech",
       "headline": "Here\u2019s what Nvidia investors should be focusing on now. Hint: It\u2019s not Jensen Huang\u2019s affair.",
       "image": "news-images/ec728ed871ff20b89186d60a.jpg",
@@ -195,11 +235,11 @@
     },
     {
       "category": "federal",
-      "headline": "Stock Market Today: Futures Mixed After Yesterday\u2019s Massive Gains as Investors Await Key Inflation Report",
+      "headline": "Stock Market Today: Major Index Futures Fall After Hotter-Than-Expected Inflation Report as Treasury Yields Surge; Nvidia Shares Continue Sliding",
       "image": null,
       "link": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-11102026-12246538?.tsrc=rss",
       "published": "2026-11-10T13:10:01Z",
-      "sentiment": "bullish"
+      "sentiment": "neutral"
     },
     {
       "category": "federal",
@@ -219,50 +259,10 @@
     },
     {
       "category": "federal",
-      "headline": "Nvidia couldn\u2019t derail the stock market\u2019s rally. Hot inflation might.",
-      "image": "news-images/190edbb775240b124599a7cb.jpg",
-      "link": "https://www.marketwatch.com/story/nvidia-couldnt-derail-the-stock-markets-rally-hot-inflation-might-8a572024?mod=mw_rss_topstories",
-      "published": "2026-11-10T12:33:00Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "other",
-      "headline": "Anthropic officially sets the stage for an IPO valuing the company north of $1 trillion",
-      "image": "news-images/3ddc34a1bc02b5e7fe848713.jpg",
-      "link": "https://www.marketwatch.com/story/anthropic-reportedly-retracts-ipo-terms-sent-to-banks-by-mistake-exposing-jitters-over-ai-investments-6116578d?mod=mw_rss_topstories",
-      "published": "2026-11-10T12:32:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "\u2018We had the worst fight\u2019: I want my husband to retire at 65, but I don\u2019t want to lose his $280,000 salary. Is that unreasonable?",
-      "image": "news-images/003009a389dabacce5f79fde.jpg",
-      "link": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
-      "published": "2026-11-10T12:16:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Should a widow leave her late partner\u2019s home to her stepkids \u2014 or cut off contact with them?",
-      "image": "news-images/faefa2f6534aaf2d674a937d.jpg",
-      "link": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
-      "published": "2026-11-10T11:15:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
       "headline": "CPI, Crude Views Support Wall Street Pre-Bell; Asia, Europe Up",
       "image": null,
       "link": "https://finance.yahoo.com/economy/articles/cpi-crude-views-support-wall-111250477.html?.tsrc=rss",
       "published": "2026-11-10T11:12:50Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "\u2018I\u2019m sick of flying\u2019: I paid for priority boarding, but the overhead bins were full. Was I duped?",
-      "image": "news-images/e608328c397cf7e68154d9c6.jpg",
-      "link": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
-      "published": "2026-11-10T10:45:00Z",
       "sentiment": "neutral"
     },
     {
@@ -322,8 +322,8 @@
       "sentiment": "bullish"
     }
   ],
-  "newest_item_published": "2026-11-10T15:11:48Z",
-  "source_item_count": 69,
+  "newest_item_published": "2026-11-10T16:11:06Z",
+  "source_item_count": 67,
   "sources": {
     "cnbc": {
       "contributed": 10,
@@ -331,7 +331,7 @@
       "fetched": 30,
       "fresh": 29,
       "label": "CNBC",
-      "newest": "2026-11-10T15:11:48Z",
+      "newest": "2026-11-10T16:11:06Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,7 +340,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-11-10T14:58:00Z",
+      "newest": "2026-11-10T16:01:00Z",
       "ok": true
     },
     "mw_bulletins": {
@@ -355,10 +355,10 @@
     "yahoo_dji": {
       "contributed": 10,
       "error": null,
-      "fetched": 19,
-      "fresh": 18,
+      "fetched": 17,
+      "fresh": 16,
       "label": "Yahoo Finance",
-      "newest": "2026-11-10T14:44:33Z",
+      "newest": "2026-11-10T15:31:28Z",
       "ok": true
     }
   }
