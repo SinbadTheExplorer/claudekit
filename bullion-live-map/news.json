@@ -1,6 +1,166 @@
 {
-  "generated_at": "2026-11-10T19:12:05Z",
+  "generated_at": "2026-11-10T20:12:06Z",
   "headlines": [
+    {
+      "category": "tech",
+      "headline": "Nvidia hires law firm Wachtell Lipton to lead Jensen Huang affair probe",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/10/nvidia-wachtell-lipton-huang-affair.html",
+      "published": "2026-11-10T20:01:18Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Jim Jordan elected House GOP leader",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/10/jim-jordan-congress-republicans-midterm.html",
+      "published": "2026-11-10T19:55:08Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "An overzealous Fed is quickly becoming the biggest risk to stocks in 2027",
+      "image": "news-images/ce1fbcfbfe28e01a9d09a0f1.jpg",
+      "link": "https://www.marketwatch.com/story/an-overzealous-fed-is-quickly-becoming-the-biggest-risk-to-stocks-in-2027-ba28e51d?mod=mw_rss_topstories",
+      "published": "2026-11-10T19:52:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Stock Market Today: Dow Dips As Nvidia Dives; Microsoft Skids On Anthropic Tools Move (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/c7fbd2af-5702-3c77-9aa6-7c6578bb8abb/stock-market-today%3A-dow-dips.html?.tsrc=rss",
+      "published": "2026-11-10T19:51:50Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Traders bet on a pop for Anthropic's historic IPO",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/10/traders-bet-on-a-pop-for-anthropics-historic-ipo.html",
+      "published": "2026-11-10T19:51:18Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "10-year Treasury yield races back to 5% as inflation data, Waller comments drive rate hike expectations",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/10/us-bonds-treasurys-yields.html",
+      "published": "2026-11-10T19:51:08Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Anthropic officially sets the stage for an IPO valuing the company north of $1 trillion",
+      "image": "news-images/3ddc34a1bc02b5e7fe848713.jpg",
+      "link": "https://www.marketwatch.com/story/anthropic-reportedly-retracts-ipo-terms-sent-to-banks-by-mistake-exposing-jitters-over-ai-investments-6116578d?mod=mw_rss_topstories",
+      "published": "2026-11-10T19:47:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "consumer",
+      "headline": "Amazon's Ring unveils flying drone and robot to patrol homes and businesses",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/10/amazons-ring-unveils-flying-drone-robot-to-patrol-homes-businesses.html",
+      "published": "2026-11-10T19:43:59Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Op-ed: In Nvidia CEO Jensen Huang's alleged China spy scandal, there's plenty of blame to go around",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/10/nvidia-ceo-jensen-huang-china-spy-scandal.html",
+      "published": "2026-11-10T19:40:41Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "financials",
+      "headline": "Fed could hike rates at each of its next three meetings, Deutsche Bank says",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=7e8d66eb-3764-46ca-90ca-80cd5e6e616c&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-10T19:32:41Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Homeowners tap equity as HELOC balances post biggest jump since 2005: New York Fed report",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/10/heloc-balances-new-york-fed.html",
+      "published": "2026-11-10T19:30:12Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "Should a widow leave her late partner\u2019s home to her stepkids \u2014 or cut off contact with them?",
+      "image": "news-images/faefa2f6534aaf2d674a937d.jpg",
+      "link": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
+      "published": "2026-11-10T19:30:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Corporate America is making a trillion-dollar mistake about retirement",
+      "image": "news-images/714f1ba08fafe525633a6a38.jpg",
+      "link": "https://www.marketwatch.com/story/corporate-america-is-making-a-trillion-dollar-mistake-about-retirement-234c8996?mod=mw_rss_topstories",
+      "published": "2026-11-10T19:29:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Buy the Dip: 5 Stocks Insiders Are Loading Up On After the Recent Market Sell-Off",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/buy-dip-5-stocks-insiders-191927761.html?.tsrc=rss",
+      "published": "2026-11-10T19:19:27Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "tech",
+      "headline": "AMD\u2019s stock fades as investors weigh whether Nvidia\u2019s turmoil will mean lasting wins",
+      "image": "news-images/85350c92b2d7f3bad6dd8418.jpg",
+      "link": "https://www.marketwatch.com/story/amds-stock-fades-as-investors-weigh-whether-nvidias-turmoil-will-mean-lasting-wins-1ecfbc5e?mod=mw_rss_topstories",
+      "published": "2026-11-10T19:17:00Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "Insiders Are Eyeing HF Sinclair (DINO) After The Stock\u2019s Recent Sell-Off",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/insiders-eyeing-hf-sinclair-dino-191659419.html?.tsrc=rss",
+      "published": "2026-11-10T19:16:59Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "TTM Technologies (TTMI) Sees Almost 28% Jump in Insider Position Following Recent Dip",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ttm-technologies-ttmi-sees-almost-191654888.html?.tsrc=rss",
+      "published": "2026-11-10T19:15:38Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "consumer",
+      "headline": "Dow Leader Amazon Approaches Latest Buy Point As Ferrari Races Higher On Formula 1 Strength",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/140069ae-8a59-3b10-9880-bd0bd13cff6d/dow-leader-amazon-approaches.html?.tsrc=rss",
+      "published": "2026-11-10T19:10:36Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Caterpillar (CAT) Is Amongst The Notable Names Insiders Are Loading Up On After the Recent Crash",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/caterpillar-cat-amongst-notable-names-191027709.html?.tsrc=rss",
+      "published": "2026-11-10T19:10:27Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "Independent Board Member Increases Stake in SPX Technologies (SPXC) Following Stock\u2019s Bearish Run",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/independent-board-member-increases-stake-190818364.html?.tsrc=rss",
+      "published": "2026-11-10T19:08:18Z",
+      "sentiment": "neutral"
+    },
     {
       "category": "other",
       "headline": "Alphatec Holdings (ATEC) Is Garnering Insider Attention at the Back of a Recent Sell-Off",
@@ -35,14 +195,6 @@
     },
     {
       "category": "federal",
-      "headline": "10-year Treasury yield races back to 5% as inflation data, Waller comments drive rate hike expectations",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/10/us-bonds-treasurys-yields.html",
-      "published": "2026-11-10T18:48:55Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
       "headline": "\u2018The thought of living to 100 terrifies me\u2019: Is Social Security a giant Ponzi scheme?",
       "image": "news-images/d614f939562eaaf70c13752f.jpg",
       "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
@@ -64,22 +216,6 @@
       "link": "https://finance.yahoo.com/economy/policy/articles/us-equity-indexes-drop-october-183806175.html?.tsrc=rss",
       "published": "2026-11-10T18:38:06Z",
       "sentiment": "bearish"
-    },
-    {
-      "category": "energy",
-      "headline": "Sector Update: Energy Stocks Mixed Tuesday Afternoon",
-      "image": null,
-      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-mixed-tuesday-182754599.html?.tsrc=rss",
-      "published": "2026-11-10T18:27:54Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "consumer",
-      "headline": "Amazon's Ring unveils flying drone and robot to patrol homes and businesses",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/10/amazons-ring-unveils-flying-drone-robot-to-patrol-homes-businesses.html",
-      "published": "2026-11-10T18:23:36Z",
-      "sentiment": "neutral"
     },
     {
       "category": "tech",
@@ -122,139 +258,11 @@
       "sentiment": "neutral"
     },
     {
-      "category": "tech",
-      "headline": "AI Data Center Suppliers Report Growth as October Inflation Data Reaches Wall Street",
-      "image": null,
-      "link": "https://finance.yahoo.com/technology/ai/articles/ai-data-center-suppliers-report-181000410.html?.tsrc=rss",
-      "published": "2026-11-10T18:10:00Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "other",
       "headline": "Credit card debt climbs to a record $1.29 trillion, New York Fed research finds",
       "image": null,
       "link": "https://www.cnbc.com/2026/11/10/credit-card-debt-record.html",
       "published": "2026-11-10T18:08:40Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Stock Market Today: Dow Dips On Hot Inflation Data, Rate Hike Calls; Rubio Says This On Iran (Live Coverage)",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/c7fbd2af-5702-3c77-9aa6-7c6578bb8abb/stock-market-today%3A-dow-dips.html?.tsrc=rss",
-      "published": "2026-11-10T18:04:25Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "international",
-      "headline": "Pete Hegseth decries impeachment push, defends Iran war handling",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html",
-      "published": "2026-11-10T17:48:47Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "\u2018We had the worst fight\u2019: I want my husband to retire at 65, but I don\u2019t want to lose his $280,000 salary. Is that unreasonable?",
-      "image": "news-images/003009a389dabacce5f79fde.jpg",
-      "link": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
-      "published": "2026-11-10T17:45:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Stock Market Midday, Nov. 10: Stocks Slide on Hot Inflation Data",
-      "image": null,
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/11/10/stock-market-midday-nov-10-stocks-slide-on-hot-inflation-data/?.tsrc=rss",
-      "published": "2026-11-10T17:40:20Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Stocks fall as the 10-year Treasury yield reclaims 5%",
-      "image": "news-images/4f890d03c6d376365887bbac.jpg",
-      "link": "https://www.marketwatch.com/story/why-stocks-are-falling-and-10-year-yields-are-climbing-back-near-5-after-tuesdays-inflation-report-389b8392?mod=mw_rss_topstories",
-      "published": "2026-11-10T17:34:00Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "other",
-      "headline": "Anthropic officially sets the stage for an IPO valuing the company north of $1 trillion",
-      "image": "news-images/3ddc34a1bc02b5e7fe848713.jpg",
-      "link": "https://www.marketwatch.com/story/anthropic-reportedly-retracts-ipo-terms-sent-to-banks-by-mistake-exposing-jitters-over-ai-investments-6116578d?mod=mw_rss_topstories",
-      "published": "2026-11-10T17:33:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Update: US Equity Indexes Drop as Inflation Data Strengthens Case for Fed Rate Increase",
-      "image": null,
-      "link": "https://finance.yahoo.com/economy/policy/articles/us-equity-indexes-drop-inflation-173153828.html?.tsrc=rss",
-      "published": "2026-11-10T17:31:53Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "federal",
-      "headline": "Here's the inflation breakdown for October 2026 \u2014 in one chart",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/10/october-2026-cpi-inflation-breakdown.html",
-      "published": "2026-11-10T16:36:40Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Anthropic's trillion-dollar IPO is coming, but retail investors could have owned AI stock much earlier",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/10/anthropic-ipo-shares-invest.html",
-      "published": "2026-11-10T16:30:23Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Ex-Google recruiter: You're answering 'Tell me about yourself?' all wrong, and other job interview mistakes\u2014do this instead",
-      "image": null,
-      "link": "https://www.cnbc.com/make-it/2026/11/10/ex-google-recruiter-how-to-avoid-3-common-job-interview-mistakes.html",
-      "published": "2026-11-10T16:30:01Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "energy",
-      "headline": "U.S. gas prices fall below $4 for the first time since July",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/10/us-gas-prices-below-four-dollars.html",
-      "published": "2026-11-10T16:29:09Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "other",
-      "headline": "\u2018Boneless couches\u2019 are the new futons",
-      "image": "news-images/b9bcf70b508acebef902c25e.jpg",
-      "link": "https://www.marketwatch.com/story/why-renters-are-obsessed-with-these-300-boneless-couches-65a2e4fe?mod=mw_rss_topstories",
-      "published": "2026-11-10T16:01:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Should a widow leave her late partner\u2019s home to her stepkids \u2014 or cut off contact with them?",
-      "image": "news-images/faefa2f6534aaf2d674a937d.jpg",
-      "link": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
-      "published": "2026-11-10T16:01:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Nasdaq Falls 1% After Inflation Halts Rebounding Momentum",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/ab0aa9ff-7592-33b7-a3c9-46072fe6df17/nasdaq-falls-1%25-after.html?.tsrc=rss",
-      "published": "2026-11-10T14:34:04Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "federal",
-      "headline": "Exchange-Traded Funds, Equity Futures Mixed Pre-Bell Tuesday Amid October Consumer Inflation Report",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-141241479.html?.tsrc=rss",
-      "published": "2026-11-10T14:12:41Z",
       "sentiment": "neutral"
     },
     {
@@ -312,26 +320,18 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=b7d9ad4a-fcbe-4b1d-9474-e77598af01ef&amp;mod=mw_rss_bulletins",
       "published": "2026-11-09T23:26:46Z",
       "sentiment": "bullish"
-    },
-    {
-      "category": "other",
-      "headline": "Dow sees third 1,000-point swing in four days. Why the volatility isn\u2019t over yet",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=ae6f3a14-ea52-4804-beca-022eac7e3d9a&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-09T22:11:16Z",
-      "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-11-10T19:02:31Z",
+  "newest_item_published": "2026-11-10T20:01:18Z",
   "source_item_count": 67,
   "sources": {
     "cnbc": {
       "contributed": 10,
       "error": null,
       "fetched": 30,
-      "fresh": 29,
+      "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-11-10T18:48:55Z",
+      "newest": "2026-11-10T20:01:18Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,7 +340,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-11-10T19:00:00Z",
+      "newest": "2026-11-10T19:52:00Z",
       "ok": true
     },
     "mw_bulletins": {
@@ -349,16 +349,16 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-11-10T18:53:49Z",
+      "newest": "2026-11-10T19:32:41Z",
       "ok": true
     },
     "yahoo_dji": {
       "contributed": 10,
       "error": null,
       "fetched": 17,
-      "fresh": 15,
+      "fresh": 16,
       "label": "Yahoo Finance",
-      "newest": "2026-11-10T19:02:31Z",
+      "newest": "2026-11-10T19:51:50Z",
       "ok": true
     }
   }
