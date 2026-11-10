@@ -1,6 +1,102 @@
 {
-  "generated_at": "2026-11-10T20:25:54Z",
+  "generated_at": "2026-11-10T21:12:07Z",
   "headlines": [
+    {
+      "category": "tech",
+      "headline": "Schumer accuses Trump of defending Nvidia CEO Jensen Huang at cost of national security",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/10/moolenaar-nvidia-jensen-huang-affair-chinese-spy.html",
+      "published": "2026-11-10T21:11:36Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Inflation Came in Hotter Than Expected and a New Rate Hike is All But Given. Stocks Fell.",
+      "image": null,
+      "link": "https://www.ibtimes.com/stocks-fall-inflation-anthropic-ipo-valuation-3809628?.tsrc=rss",
+      "published": "2026-11-10T21:03:57Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Dow, S&P 500 and Nasdaq end lower; Treasury yields rise after hot inflation data",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=af1cadbe-2d2f-4bce-a027-e6ea2d86372f&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-10T21:02:39Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "energy",
+      "headline": "Sector Update: Energy Stocks Rise Late Afternoon",
+      "image": null,
+      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-rise-afternoon-205551393.html?.tsrc=rss",
+      "published": "2026-11-10T20:55:51Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Update: US Equity Indexes Decline as Fed Policy Tightening Bets Jump After Inflation Beats Forecast",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-decline-fed-205304759.html?.tsrc=rss",
+      "published": "2026-11-10T20:53:04Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "tech",
+      "headline": "Ignore the wild swings in chip stocks until they reach these \u2018lines in the sand\u2019",
+      "image": "news-images/2ec4be7ad207bc3f37c67834.jpg",
+      "link": "https://www.marketwatch.com/story/ignore-the-wild-swings-in-chip-stocks-until-they-reach-these-lines-in-the-sand-feb6e00f?mod=mw_rss_topstories",
+      "published": "2026-11-10T20:53:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Congress may soon make it harder for Nvidia to sell to China after Huang scandal",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=1b54312e-81b4-457c-9ba6-db98205263bc&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-10T20:46:22Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Nvidia could soon face tougher export rules, making it harder to sell chips to China after scandal",
+      "image": "news-images/62e7e0009389541f9c02d635.jpg",
+      "link": "https://www.marketwatch.com/story/nvidia-could-soon-face-tougher-export-rules-making-it-harder-to-sell-chips-to-china-69c88cc8?mod=mw_rss_topstories",
+      "published": "2026-11-10T20:37:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "GE Vernova sellers have it all wrong \u2014 plus, why Fed rate hike odds are soaring",
+      "image": null,
+      "link": "https://www.cnbc.com/investingclub/2026/11/10/ge-vernova-sellers-have-it-all-wrong-plus-why-fed-rate-hike-odds-are-soaring.html",
+      "published": "2026-11-10T20:33:58Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "tech",
+      "headline": "Ex-Google recruiter: You're answering 'Tell me about yourself?' all wrong, and other job interview mistakes\u2014do this instead",
+      "image": null,
+      "link": "https://www.cnbc.com/make-it/2026/11/10/ex-google-recruiter-how-to-avoid-3-common-job-interview-mistakes.html",
+      "published": "2026-11-10T20:31:20Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "White House vows to press ahead with tariffs despite midterm backlash over rising prices",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/10/trump-tariffs-midterms-gary-cohn-inflation.html",
+      "published": "2026-11-10T20:28:02Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Aggressive Fed rate hikes are quickly becoming the biggest risk to stocks in 2027, says economist",
+      "image": "news-images/ce1fbcfbfe28e01a9d09a0f1.jpg",
+      "link": "https://www.marketwatch.com/story/an-overzealous-fed-is-quickly-becoming-the-biggest-risk-to-stocks-in-2027-ba28e51d?mod=mw_rss_topstories",
+      "published": "2026-11-10T20:27:00Z",
+      "sentiment": "neutral"
+    },
     {
       "category": "other",
       "headline": "Jim Jordan elected House GOP leader",
@@ -10,20 +106,12 @@
       "sentiment": "neutral"
     },
     {
-      "category": "tech",
-      "headline": "Schumer accuses Trump of defending Nvidia CEO Jensen Huang at cost of national security",
+      "category": "other",
+      "headline": "An overzealous Fed is quickly becoming the biggest risk to stocks in 2027",
       "image": null,
-      "link": "https://www.cnbc.com/2026/11/10/moolenaar-nvidia-jensen-huang-affair-chinese-spy.html",
-      "published": "2026-11-10T20:19:35Z",
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=261120c3-7ff6-4d71-923a-3023fed3584a&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-10T20:15:58Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "GE Vernova sellers have it all wrong \u2014 plus, why Fed rate hike odds are soaring",
-      "image": null,
-      "link": "https://www.cnbc.com/investingclub/2026/11/10/ge-vernova-sellers-have-it-all-wrong-plus-why-fed-rate-hike-odds-are-soaring.html",
-      "published": "2026-11-10T20:02:53Z",
-      "sentiment": "bullish"
     },
     {
       "category": "tech",
@@ -31,14 +119,6 @@
       "image": null,
       "link": "https://www.cnbc.com/2026/11/10/nvidia-wachtell-lipton-huang-affair.html",
       "published": "2026-11-10T20:01:18Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "An overzealous Fed is quickly becoming the biggest risk to stocks in 2027",
-      "image": "news-images/ce1fbcfbfe28e01a9d09a0f1.jpg",
-      "link": "https://www.marketwatch.com/story/an-overzealous-fed-is-quickly-becoming-the-biggest-risk-to-stocks-in-2027-ba28e51d?mod=mw_rss_topstories",
-      "published": "2026-11-10T19:52:00Z",
       "sentiment": "neutral"
     },
     {
@@ -55,14 +135,6 @@
       "image": null,
       "link": "https://www.cnbc.com/2026/11/10/traders-bet-on-a-pop-for-anthropics-historic-ipo.html",
       "published": "2026-11-10T19:51:18Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "10-year Treasury yield races back to 5% as inflation data, Waller comments drive rate hike expectations",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/10/us-bonds-treasurys-yields.html",
-      "published": "2026-11-10T19:51:08Z",
       "sentiment": "neutral"
     },
     {
@@ -179,26 +251,10 @@
     },
     {
       "category": "other",
-      "headline": "Alphatec Holdings (ATEC) Is Garnering Insider Attention at the Back of a Recent Sell-Off",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/alphatec-holdings-atec-garnering-insider-190231841.html?.tsrc=rss",
-      "published": "2026-11-10T19:02:31Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "other",
       "headline": "\u2018It feels like he\u2019s quietly building a separate life\u2019: My husband inherited $500,000, but he refuses to spend it on our home",
       "image": "news-images/1ce16511e13f790e782241f8.jpg",
       "link": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
       "published": "2026-11-10T19:00:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Update: Equities Fall Intraday, Yields Surge Following Inflation Report",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/equities-fall-intraday-yields-surge-185510206.html?.tsrc=rss",
-      "published": "2026-11-10T18:55:10Z",
       "sentiment": "neutral"
     },
     {
@@ -224,46 +280,6 @@
       "link": "https://www.marketwatch.com/story/retirement-is-now-part-of-the-affordability-crisis-politicians-should-pay-attention-2923b2d7?mod=mw_rss_topstories",
       "published": "2026-11-10T18:41:00Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Update: US Equity Indexes Drop as October's Inflation Print Boosts Fed Policy Tightening Odds",
-      "image": null,
-      "link": "https://finance.yahoo.com/economy/policy/articles/us-equity-indexes-drop-october-183806175.html?.tsrc=rss",
-      "published": "2026-11-10T18:38:06Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "energy",
-      "headline": "Sector Update: Energy Stocks Mixed Tuesday Afternoon",
-      "image": null,
-      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-mixed-tuesday-182754599.html?.tsrc=rss",
-      "published": "2026-11-10T18:27:54Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "healthcare",
-      "headline": "The FDA now says Ozempic, Zepbound and other GLP-1 drugs have a possible risk of vision loss",
-      "image": "news-images/7e0a3e7c71bc6b9e1e2ae388.jpg",
-      "link": "https://www.marketwatch.com/story/ozempic-zepbound-and-other-glp-1-drugs-have-a-possible-risk-of-vision-loss-b3738f36?mod=mw_rss_topstories",
-      "published": "2026-11-10T18:21:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Even Wall Street\u2019s lone Nvidia bear says forcing out CEO Jensen Huang \u2018would be a mistake for everyone\u2019",
-      "image": "news-images/de0f4620e9fe1ca968889e6c.jpg",
-      "link": "https://www.marketwatch.com/story/wall-streets-only-nvidia-bear-says-forcing-out-ceo-jensen-huang-would-be-a-mistake-for-everyone-78043738?mod=mw_rss_topstories",
-      "published": "2026-11-10T18:16:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Alphabet shares appear to have bottomed. How to play it for a quick rebound",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/10/alphabet-shares-appear-to-have-bottomed-how-to-play-it-for-a-quick-rebound.html",
-      "published": "2026-11-10T18:15:24Z",
-      "sentiment": "bullish"
     },
     {
       "category": "tech",
@@ -304,26 +320,10 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=0eafb7a5-fb84-4034-9d42-7cc05e5705b9&amp;mod=mw_rss_bulletins",
       "published": "2026-11-10T12:33:40Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Fed governor says a half-point hike may be needed if Oct. CPI is hot",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=6946b21e-6923-4e1a-b20a-53d3d433289f&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-10T09:29:22Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Short seller claims Nvidia's China scandal runs deeper than Megaspeed",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=6e04b5eb-b807-4968-90fc-2a422a290a4f&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-10T00:57:07Z",
-      "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-11-10T20:24:45Z",
-  "source_item_count": 67,
+  "newest_item_published": "2026-11-10T21:11:36Z",
+  "source_item_count": 68,
   "sources": {
     "cnbc": {
       "contributed": 10,
@@ -331,7 +331,7 @@
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-11-10T20:24:45Z",
+      "newest": "2026-11-10T21:11:36Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,25 +340,25 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-11-10T19:52:00Z",
+      "newest": "2026-11-10T20:53:00Z",
       "ok": true
     },
     "mw_bulletins": {
-      "contributed": 9,
+      "contributed": 10,
       "error": null,
       "fetched": 10,
       "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-11-10T20:15:58Z",
+      "newest": "2026-11-10T21:02:39Z",
       "ok": true
     },
     "yahoo_dji": {
-      "contributed": 11,
+      "contributed": 10,
       "error": null,
-      "fetched": 17,
-      "fresh": 16,
+      "fetched": 18,
+      "fresh": 17,
       "label": "Yahoo Finance",
-      "newest": "2026-11-10T19:51:50Z",
+      "newest": "2026-11-10T21:03:57Z",
       "ok": true
     }
   }
