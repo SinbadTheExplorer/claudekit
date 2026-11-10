@@ -1,28 +1,84 @@
 {
-  "generated_at": "2026-11-10T16:12:11Z",
+  "generated_at": "2026-11-10T17:12:07Z",
   "headlines": [
+    {
+      "category": "tech",
+      "headline": "Our Nvidia downgrade \u2014 plus, Cramer is looking to add to this position",
+      "image": null,
+      "link": "https://www.cnbc.com/investingclub/2026/11/10/our-nvidia-downgrade-plus-cramer-is-looking-to-add-to-this-position.html",
+      "published": "2026-11-10T16:44:13Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "federal",
+      "headline": "10-year Treasury yield races back to 5% as inflation data, Waller comments drive rate hike expectations",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/10/us-bonds-treasurys-yields.html",
+      "published": "2026-11-10T16:44:11Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Here's the inflation breakdown for October 2026 \u2014 in one chart",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/10/october-2026-cpi-inflation-breakdown.html",
+      "published": "2026-11-10T16:36:40Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Anthropic's trillion-dollar IPO is coming, but retail investors could have owned AI stock much earlier",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/10/anthropic-ipo-shares-invest.html",
+      "published": "2026-11-10T16:30:23Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Ex-Google recruiter: You're answering 'Tell me about yourself?' all wrong, and other job interview mistakes\u2014do this instead",
+      "image": null,
+      "link": "https://www.cnbc.com/make-it/2026/11/10/ex-google-recruiter-how-to-avoid-3-common-job-interview-mistakes.html",
+      "published": "2026-11-10T16:30:01Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "energy",
+      "headline": "U.S. gas prices fall below $4 for the first time since July",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/10/us-gas-prices-below-four-dollars.html",
+      "published": "2026-11-10T16:29:09Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "federal",
+      "headline": "Why stocks are falling and the 10-year Treasury yield is back near 5% after Tuesday\u2019s inflation report",
+      "image": "news-images/4f890d03c6d376365887bbac.jpg",
+      "link": "https://www.marketwatch.com/story/why-stocks-are-falling-and-10-year-yields-are-climbing-back-near-5-after-tuesdays-inflation-report-389b8392?mod=mw_rss_topstories",
+      "published": "2026-11-10T16:28:00Z",
+      "sentiment": "bearish"
+    },
     {
       "category": "other",
       "headline": "House Oversight calls on DOJ to interview key Epstein witnesses, says govt. \u2018failed\u2019 survivors",
       "image": null,
       "link": "https://www.cnbc.com/2026/11/10/jeffrey-epstein-house-oversight-doj.html",
-      "published": "2026-11-10T16:11:06Z",
+      "published": "2026-11-10T16:17:20Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "\u2018We had the worst fight\u2019: I want my husband to retire at 65, but I don\u2019t want to lose his $280,000 salary. Is that unreasonable?",
+      "image": "news-images/003009a389dabacce5f79fde.jpg",
+      "link": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
+      "published": "2026-11-10T16:15:00Z",
       "sentiment": "neutral"
     },
     {
       "category": "realestate",
-      "headline": "Inside Alts: Bridgepoint sees opportunity in 're-rated' real estate",
+      "headline": "Bridgepoint sees opportunity in 're-rated' real estate",
       "image": null,
       "link": "https://www.cnbc.com/2026/11/10/bridgepoint-sees-opportunity-in-re-rated-real-estate.html",
-      "published": "2026-11-10T16:04:59Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html",
-      "published": "2026-11-10T16:04:49Z",
+      "published": "2026-11-10T16:13:27Z",
       "sentiment": "neutral"
     },
     {
@@ -40,14 +96,6 @@
       "link": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
       "published": "2026-11-10T16:01:00Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Why stocks are falling and 10-year yields are climbing back near 5% after Tuesday\u2019s inflation report",
-      "image": "news-images/4f890d03c6d376365887bbac.jpg",
-      "link": "https://www.marketwatch.com/story/why-stocks-are-falling-and-10-year-yields-are-climbing-back-near-5-after-tuesdays-inflation-report-389b8392?mod=mw_rss_topstories",
-      "published": "2026-11-10T15:47:00Z",
-      "sentiment": "bearish"
     },
     {
       "category": "other",
@@ -98,51 +146,11 @@
       "sentiment": "neutral"
     },
     {
-      "category": "tech",
-      "headline": "Jensen Huang's affair with alleged Chinese spy further complicates Nvidia\u2019s China problem",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/10/jensen-huang-nvidia-china-ties.html",
-      "published": "2026-11-10T15:04:23Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "CoreWeave earnings put debt-fueled AI build-out under scrutiny",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/10/coreweave-earnings-preview-debt-capex.html",
-      "published": "2026-11-10T15:01:21Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "other",
       "headline": "Forget happy hour. \u2018Money parties\u2019 are having a moment.",
       "image": "news-images/cfe1416da506b9d46f5fb962.jpg",
       "link": "https://www.marketwatch.com/story/forget-happy-hour-money-parties-are-having-a-moment-6bc6f02a?mod=mw_rss_topstories",
       "published": "2026-11-10T14:58:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "international",
-      "headline": "Pete Hegseth decries impeachment push, defends Iran war handling",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html",
-      "published": "2026-11-10T14:48:34Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "healthcare",
-      "headline": "FDA warns of vision loss risk linked to popular GLP-1 drugs like Wegovy, Zepbound",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/10/fda-warning-vision-loss-glp1-wegovy-zepbound.html",
-      "published": "2026-11-10T14:43:30Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
-      "image": null,
-      "link": "https://www.cnbc.com/investingclub/2026/11/10/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
-      "published": "2026-11-10T14:43:06Z",
       "sentiment": "neutral"
     },
     {
@@ -207,14 +215,6 @@
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=0759efab-11b1-49b1-a4a6-6462a4a4392c&amp;mod=mw_rss_bulletins",
       "published": "2026-11-10T13:39:10Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Here\u2019s what Nvidia investors should be focusing on now. Hint: It\u2019s not Jensen Huang\u2019s affair.",
-      "image": "news-images/ec728ed871ff20b89186d60a.jpg",
-      "link": "https://www.marketwatch.com/story/heres-what-nvidia-investors-should-be-focusing-on-now-hint-its-not-jensen-huangs-affair-f443b822?mod=mw_rss_topstories",
-      "published": "2026-11-10T13:30:00Z",
       "sentiment": "neutral"
     },
     {
@@ -322,7 +322,7 @@
       "sentiment": "bullish"
     }
   ],
-  "newest_item_published": "2026-11-10T16:11:06Z",
+  "newest_item_published": "2026-11-10T16:44:13Z",
   "source_item_count": 67,
   "sources": {
     "cnbc": {
@@ -331,7 +331,7 @@
       "fetched": 30,
       "fresh": 29,
       "label": "CNBC",
-      "newest": "2026-11-10T16:11:06Z",
+      "newest": "2026-11-10T16:44:13Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,7 +340,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-11-10T16:01:00Z",
+      "newest": "2026-11-10T16:28:00Z",
       "ok": true
     },
     "mw_bulletins": {
