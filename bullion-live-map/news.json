@@ -1,12 +1,132 @@
 {
-  "generated_at": "2026-11-10T18:12:05Z",
+  "generated_at": "2026-11-10T19:12:05Z",
   "headlines": [
+    {
+      "category": "other",
+      "headline": "Alphatec Holdings (ATEC) Is Garnering Insider Attention at the Back of a Recent Sell-Off",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/alphatec-holdings-atec-garnering-insider-190231841.html?.tsrc=rss",
+      "published": "2026-11-10T19:02:31Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "\u2018It feels like he\u2019s quietly building a separate life\u2019: My husband inherited $500,000, but he refuses to spend it on our home",
+      "image": "news-images/1ce16511e13f790e782241f8.jpg",
+      "link": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
+      "published": "2026-11-10T19:00:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Update: Equities Fall Intraday, Yields Surge Following Inflation Report",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/equities-fall-intraday-yields-surge-185510206.html?.tsrc=rss",
+      "published": "2026-11-10T18:55:10Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "10-year Treasury yield back at 5% as inflation data point to more Fed rate hikes",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=9ade5d03-5ac3-4cf0-9d6d-5ef05b44c794&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-10T18:53:49Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "10-year Treasury yield races back to 5% as inflation data, Waller comments drive rate hike expectations",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/10/us-bonds-treasurys-yields.html",
+      "published": "2026-11-10T18:48:55Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "\u2018The thought of living to 100 terrifies me\u2019: Is Social Security a giant Ponzi scheme?",
+      "image": "news-images/d614f939562eaaf70c13752f.jpg",
+      "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+      "published": "2026-11-10T18:45:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Americans are more concerned about retirement than ever. Politicians should pay attention.",
+      "image": "news-images/33c1cf81be91cf7dd11f13c1.jpg",
+      "link": "https://www.marketwatch.com/story/retirement-is-now-part-of-the-affordability-crisis-politicians-should-pay-attention-2923b2d7?mod=mw_rss_topstories",
+      "published": "2026-11-10T18:41:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Update: US Equity Indexes Drop as October's Inflation Print Boosts Fed Policy Tightening Odds",
+      "image": null,
+      "link": "https://finance.yahoo.com/economy/policy/articles/us-equity-indexes-drop-october-183806175.html?.tsrc=rss",
+      "published": "2026-11-10T18:38:06Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "energy",
+      "headline": "Sector Update: Energy Stocks Mixed Tuesday Afternoon",
+      "image": null,
+      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-mixed-tuesday-182754599.html?.tsrc=rss",
+      "published": "2026-11-10T18:27:54Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "consumer",
+      "headline": "Amazon's Ring unveils flying drone and robot to patrol homes and businesses",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/10/amazons-ring-unveils-flying-drone-robot-to-patrol-homes-businesses.html",
+      "published": "2026-11-10T18:23:36Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "China panel chair Moolenaar demands answers on Nvidia CEO's alleged affair with a Chinese spy",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/10/moolenaar-nvidia-jensen-huang-affair-chinese-spy.html",
+      "published": "2026-11-10T18:22:44Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "healthcare",
+      "headline": "The FDA now says Ozempic, Zepbound and other GLP-1 drugs have a possible risk of vision loss",
+      "image": "news-images/7e0a3e7c71bc6b9e1e2ae388.jpg",
+      "link": "https://www.marketwatch.com/story/ozempic-zepbound-and-other-glp-1-drugs-have-a-possible-risk-of-vision-loss-b3738f36?mod=mw_rss_topstories",
+      "published": "2026-11-10T18:21:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Even Wall Street\u2019s lone Nvidia bear says forcing out CEO Jensen Huang \u2018would be a mistake for everyone\u2019",
+      "image": "news-images/de0f4620e9fe1ca968889e6c.jpg",
+      "link": "https://www.marketwatch.com/story/wall-streets-only-nvidia-bear-says-forcing-out-ceo-jensen-huang-would-be-a-mistake-for-everyone-78043738?mod=mw_rss_topstories",
+      "published": "2026-11-10T18:16:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Alphabet shares appear to have bottomed. How to play it for a quick rebound",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/10/alphabet-shares-appear-to-have-bottomed-how-to-play-it-for-a-quick-rebound.html",
+      "published": "2026-11-10T18:15:24Z",
+      "sentiment": "bullish"
+    },
     {
       "category": "tech",
       "headline": "Wall Street\u2019s only Nvidia bear says forcing out CEO Huang \u2018would be a mistake\u2019",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=981c1c64-e735-4049-bc05-60fa26241216&amp;mod=mw_rss_bulletins",
       "published": "2026-11-10T18:10:02Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "AI Data Center Suppliers Report Growth as October Inflation Data Reaches Wall Street",
+      "image": null,
+      "link": "https://finance.yahoo.com/technology/ai/articles/ai-data-center-suppliers-report-181000410.html?.tsrc=rss",
+      "published": "2026-11-10T18:10:00Z",
       "sentiment": "neutral"
     },
     {
@@ -19,10 +139,10 @@
     },
     {
       "category": "federal",
-      "headline": "10-year Treasury yield races back to 5% as inflation data, Waller comments drive rate hike expectations",
+      "headline": "Stock Market Today: Dow Dips On Hot Inflation Data, Rate Hike Calls; Rubio Says This On Iran (Live Coverage)",
       "image": null,
-      "link": "https://www.cnbc.com/2026/11/10/us-bonds-treasurys-yields.html",
-      "published": "2026-11-10T17:49:39Z",
+      "link": "https://finance.yahoo.com/m/c7fbd2af-5702-3c77-9aa6-7c6578bb8abb/stock-market-today%3A-dow-dips.html?.tsrc=rss",
+      "published": "2026-11-10T18:04:25Z",
       "sentiment": "neutral"
     },
     {
@@ -74,30 +194,6 @@
       "sentiment": "bearish"
     },
     {
-      "category": "tech",
-      "headline": "Wall Street\u2019s only Nvidia bear says forcing out CEO Jensen Huang \u2018would be a mistake for everyone\u2019",
-      "image": "news-images/de0f4620e9fe1ca968889e6c.jpg",
-      "link": "https://www.marketwatch.com/story/wall-streets-only-nvidia-bear-says-forcing-out-ceo-jensen-huang-would-be-a-mistake-for-everyone-78043738?mod=mw_rss_topstories",
-      "published": "2026-11-10T17:19:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Stock Market Today: Dow Dips On Hot Inflation Data, Fed Rate Hike Calls; Nvidia Falls Again (Live Coverage)",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/c7fbd2af-5702-3c77-9aa6-7c6578bb8abb/stock-market-today%3A-dow-dips.html?.tsrc=rss",
-      "published": "2026-11-10T17:03:01Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "tech",
-      "headline": "Our Nvidia downgrade \u2014 plus, Cramer is looking to add to this position",
-      "image": null,
-      "link": "https://www.cnbc.com/investingclub/2026/11/10/our-nvidia-downgrade-plus-cramer-is-looking-to-add-to-this-position.html",
-      "published": "2026-11-10T16:44:13Z",
-      "sentiment": "bearish"
-    },
-    {
       "category": "federal",
       "headline": "Here's the inflation breakdown for October 2026 \u2014 in one chart",
       "image": null,
@@ -131,22 +227,6 @@
     },
     {
       "category": "other",
-      "headline": "House Oversight calls on DOJ to interview key Epstein witnesses, says govt. \u2018failed\u2019 survivors",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/10/jeffrey-epstein-house-oversight-doj.html",
-      "published": "2026-11-10T16:17:20Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "realestate",
-      "headline": "Bridgepoint sees opportunity in 're-rated' real estate",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/10/bridgepoint-sees-opportunity-in-re-rated-real-estate.html",
-      "published": "2026-11-10T16:13:27Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
       "headline": "\u2018Boneless couches\u2019 are the new futons",
       "image": "news-images/b9bcf70b508acebef902c25e.jpg",
       "link": "https://www.marketwatch.com/story/why-renters-are-obsessed-with-these-300-boneless-couches-65a2e4fe?mod=mw_rss_topstories",
@@ -159,38 +239,6 @@
       "image": "news-images/faefa2f6534aaf2d674a937d.jpg",
       "link": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
       "published": "2026-11-10T16:01:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "\u2018I\u2019m sick of flying\u2019: I paid for priority boarding, but the overhead bins were full. Was I duped?",
-      "image": "news-images/e608328c397cf7e68154d9c6.jpg",
-      "link": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
-      "published": "2026-11-10T15:45:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "\u2018The thought of living to 100 terrifies me\u2019: Is Social Security a giant Ponzi scheme?",
-      "image": "news-images/d614f939562eaaf70c13752f.jpg",
-      "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-      "published": "2026-11-10T15:30:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "financials",
-      "headline": "Elon Musk was half right in his comment last week about SoftBank backpedaling on a gas-turbine order",
-      "image": "news-images/ae2ddb9a8009d6e70623ecb0.jpg",
-      "link": "https://www.marketwatch.com/story/elon-musk-was-half-right-in-his-comment-last-week-about-softbank-back-pedaling-on-a-gas-turbine-order-c293d335?mod=mw_rss_topstories",
-      "published": "2026-11-10T15:30:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Forget happy hour. \u2018Money parties\u2019 are having a moment.",
-      "image": "news-images/cfe1416da506b9d46f5fb962.jpg",
-      "link": "https://www.marketwatch.com/story/forget-happy-hour-money-parties-are-having-a-moment-6bc6f02a?mod=mw_rss_topstories",
-      "published": "2026-11-10T14:58:00Z",
       "sentiment": "neutral"
     },
     {
@@ -211,22 +259,6 @@
     },
     {
       "category": "federal",
-      "headline": "Wall Street Futures Decline as Higher-Than-Expected October Inflation Raises Fed Rate Concerns: Dow Jones, S&P, Nasdaq",
-      "image": null,
-      "link": "https://investorshub.advfn.com/market-news/article/39652/wall-street-futures-decline-as-higher-than-expected-october-inflation-raises-fed-rate-concerns-dow-jones-sp-nasdaq?.tsrc=rss",
-      "published": "2026-11-10T14:08:30Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Update: US Equity Futures Lower Pre-Bell as Fed Governor Christopher Waller Leans Towards Rate Hike in December",
-      "image": null,
-      "link": "https://finance.yahoo.com/economy/policy/articles/us-equity-futures-lower-pre-135604672.html?.tsrc=rss",
-      "published": "2026-11-10T13:56:04Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
       "headline": "Stocks set for lower open as bond yields jump after inflation data \u2014 follow live",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=c05bed66-3713-4d30-8393-fa348b112099&amp;mod=mw_rss_bulletins",
@@ -242,35 +274,11 @@
       "sentiment": "neutral"
     },
     {
-      "category": "federal",
-      "headline": "Stock Futures Mostly Up Ahead of Key Consumer Inflation Report",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stock-futures-mostly-ahead-key-132823861.html?.tsrc=rss",
-      "published": "2026-11-10T13:28:23Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "other",
       "headline": "Anthropic backs away from $2 trillion ambition in new IPO filing",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=1319f7e6-f310-40ba-89d8-d9ed63936a61&amp;mod=mw_rss_bulletins",
       "published": "2026-11-10T13:14:02Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Stock Market Today: Major Indexes Fall, Treasury Yields Surge as Hot Inflation Report Boosts Fed Rate-Hike Expectations",
-      "image": null,
-      "link": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-11102026-12246538?.tsrc=rss",
-      "published": "2026-11-10T13:10:01Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "US Equity Futures Mixed Pre-Bell as Fed Governor Christopher Waller Leans Towards Rate Hike in December",
-      "image": null,
-      "link": "https://finance.yahoo.com/economy/policy/articles/us-equity-futures-mixed-pre-125006982.html?.tsrc=rss",
-      "published": "2026-11-10T12:50:06Z",
       "sentiment": "neutral"
     },
     {
@@ -312,17 +320,9 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=ae6f3a14-ea52-4804-beca-022eac7e3d9a&amp;mod=mw_rss_bulletins",
       "published": "2026-11-09T22:11:16Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "As Nvidia shares fall on CEO spy scandal, these chip stocks may be bargains",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=701b1c43-8b4b-460e-a858-b76f25a5d0c8&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-09T21:28:41Z",
-      "sentiment": "bullish"
     }
   ],
-  "newest_item_published": "2026-11-10T18:10:02Z",
+  "newest_item_published": "2026-11-10T19:02:31Z",
   "source_item_count": 67,
   "sources": {
     "cnbc": {
@@ -331,7 +331,7 @@
       "fetched": 30,
       "fresh": 29,
       "label": "CNBC",
-      "newest": "2026-11-10T18:08:40Z",
+      "newest": "2026-11-10T18:48:55Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,7 +340,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-11-10T17:45:00Z",
+      "newest": "2026-11-10T19:00:00Z",
       "ok": true
     },
     "mw_bulletins": {
@@ -349,16 +349,16 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-11-10T18:10:02Z",
+      "newest": "2026-11-10T18:53:49Z",
       "ok": true
     },
     "yahoo_dji": {
       "contributed": 10,
       "error": null,
       "fetched": 17,
-      "fresh": 16,
+      "fresh": 15,
       "label": "Yahoo Finance",
-      "newest": "2026-11-10T17:40:20Z",
+      "newest": "2026-11-10T19:02:31Z",
       "ok": true
     }
   }
