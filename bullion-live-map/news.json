@@ -1,20 +1,44 @@
 {
-  "generated_at": "2026-11-10T14:12:05Z",
+  "generated_at": "2026-11-10T15:12:07Z",
   "headlines": [
     {
       "category": "other",
-      "headline": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
+      "headline": "Rivian CEO says new R2 SUV, autonomy make 2027 an \u2018inflection year\u2019 as EV maker marks five years since IPO",
       "image": null,
-      "link": "https://www.cnbc.com/investingclub/2026/11/10/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
-      "published": "2026-11-10T14:08:08Z",
+      "link": "https://www.cnbc.com/2026/11/10/rivian-r2-autonomy-2027-rj-scaringe.html",
+      "published": "2026-11-10T15:11:48Z",
       "sentiment": "neutral"
     },
     {
-      "category": "international",
-      "headline": "Pete Hegseth decries impeachment push, defends Iran war handling",
+      "category": "tech",
+      "headline": "Jensen Huang's affair with alleged Chinese spy further complicates Nvidia\u2019s China problem",
       "image": null,
-      "link": "https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html",
-      "published": "2026-11-10T14:06:37Z",
+      "link": "https://www.cnbc.com/2026/11/10/jensen-huang-nvidia-china-ties.html",
+      "published": "2026-11-10T15:04:23Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "CoreWeave earnings put debt-fueled AI build-out under scrutiny",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/10/coreweave-earnings-preview-debt-capex.html",
+      "published": "2026-11-10T15:01:21Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Forget happy hour. \u2018Money parties\u2019 are having a moment.",
+      "image": "news-images/cfe1416da506b9d46f5fb962.jpg",
+      "link": "https://www.marketwatch.com/story/forget-happy-hour-money-parties-are-having-a-moment-6bc6f02a?mod=mw_rss_topstories",
+      "published": "2026-11-10T14:58:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Anthropic sets IPO price range of $70 to $78, looks to start trading  Nov. 19, sources say",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html",
+      "published": "2026-11-10T14:50:18Z",
       "sentiment": "neutral"
     },
     {
@@ -22,7 +46,87 @@
       "headline": "Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight",
       "image": null,
       "link": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html",
-      "published": "2026-11-10T13:56:04Z",
+      "published": "2026-11-10T14:50:03Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "international",
+      "headline": "Pete Hegseth decries impeachment push, defends Iran war handling",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html",
+      "published": "2026-11-10T14:48:34Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Stock Market Today: Dow Falls On Surprise Inflation Data; AI Giant Anthropic Sets IPO Range (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/c7fbd2af-5702-3c77-9aa6-7c6578bb8abb/stock-market-today%3A-dow-falls.html?.tsrc=rss",
+      "published": "2026-11-10T14:44:33Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "healthcare",
+      "headline": "FDA warns of vision loss risk linked to popular GLP-1 drugs like Wegovy, Zepbound",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/10/fda-warning-vision-loss-glp1-wegovy-zepbound.html",
+      "published": "2026-11-10T14:43:30Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
+      "image": null,
+      "link": "https://www.cnbc.com/investingclub/2026/11/10/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
+      "published": "2026-11-10T14:43:06Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Nasdaq Falls 1% After Inflation Halts Rebounding Momentum",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/ab0aa9ff-7592-33b7-a3c9-46072fe6df17/nasdaq-falls-1%25-after.html?.tsrc=rss",
+      "published": "2026-11-10T14:34:04Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "Does anyone feel safe from layoffs right now?",
+      "image": null,
+      "link": "https://www.cnbc.com/make-it/2026/11/10/layoff-announcements-are-slowing-this-year-workers-are-still-worried.html",
+      "published": "2026-11-10T14:30:56Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Exchange-Traded Funds, Equity Futures Mixed Pre-Bell Tuesday Amid October Consumer Inflation Report",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-141241479.html?.tsrc=rss",
+      "published": "2026-11-10T14:12:41Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "How much you can make in 2027 and still pay 0% capital gains tax",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/10/2027-zero-percent-capital-gains-tax.html",
+      "published": "2026-11-10T14:12:02Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "federal",
+      "headline": "Here\u2019s how Bernie Sanders wants to keep Social Security solvent \u2018for generations\u2019",
+      "image": "news-images/0fec364d7022e9962c5bbbfe.jpg",
+      "link": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories",
+      "published": "2026-11-10T14:10:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Wall Street Futures Decline as Higher-Than-Expected October Inflation Raises Fed Rate Concerns: Dow Jones, S&P, Nasdaq",
+      "image": null,
+      "link": "https://investorshub.advfn.com/market-news/article/39652/wall-street-futures-decline-as-higher-than-expected-october-inflation-raises-fed-rate-concerns-dow-jones-sp-nasdaq?.tsrc=rss",
+      "published": "2026-11-10T14:08:30Z",
       "sentiment": "neutral"
     },
     {
@@ -40,30 +144,6 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=c05bed66-3713-4d30-8393-fa348b112099&amp;mod=mw_rss_bulletins",
       "published": "2026-11-10T13:46:53Z",
       "sentiment": "bullish"
-    },
-    {
-      "category": "federal",
-      "headline": "Stock Market Today: Dow Erases Gains After Surprise Inflation Data; Anthropic Sets IPO Range (Live Coverage)",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/c7fbd2af-5702-3c77-9aa6-7c6578bb8abb/stock-market-today%3A-dow.html?.tsrc=rss",
-      "published": "2026-11-10T13:46:33Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "international",
-      "headline": "France blames Iran for supermarket refrigerator cyberattacks, weighs sanctions",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/10/iran-fridge-cyberattacks-france.html",
-      "published": "2026-11-10T13:43:38Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "tech",
-      "headline": "China panel chair Moolenaar demands answers on Nvidia CEO's alleged affair with a Chinese spy",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/10/moolenaar-nvidia-jensen-huang-affair-chinese-spy.html",
-      "published": "2026-11-10T13:41:57Z",
-      "sentiment": "neutral"
     },
     {
       "category": "federal",
@@ -90,22 +170,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "consumer",
-      "headline": "Amazon's Ring unveils flying drone and robot to patrol homes and businesses",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/10/amazons-ring-unveils-flying-drone-robot-to-patrol-homes-businesses.html",
-      "published": "2026-11-10T13:30:01Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "realestate",
-      "headline": "Bridgepoint sees opportunity in 're-rated' real estate",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/10/bridgepoint-sees-opportunity-in-re-rated-real-estate.html",
-      "published": "2026-11-10T13:30:01Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "tech",
       "headline": "Here\u2019s what Nvidia investors should be focusing on now. Hint: It\u2019s not Jensen Huang\u2019s affair.",
       "image": "news-images/ec728ed871ff20b89186d60a.jpg",
@@ -122,22 +186,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "tech",
-      "headline": "Jensen Huang's affair with alleged Chinese spy further complicates Nvidia\u2019s China problem",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/10/jensen-huang-nvidia-china-ties.html",
-      "published": "2026-11-10T13:24:05Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "'Markets bottom on bad news' maxim rings true as chip stocks rally amid Nvidia scandal",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/10/chip-stocks-rally-nvidia-scandal.html",
-      "published": "2026-11-10T13:19:13Z",
-      "sentiment": "bullish"
-    },
-    {
       "category": "other",
       "headline": "Anthropic backs away from $2 trillion ambition in new IPO filing",
       "image": null,
@@ -146,12 +194,12 @@
       "sentiment": "neutral"
     },
     {
-      "category": "other",
-      "headline": "How GM is trying to talk used car shoppers into buying new vehicles",
+      "category": "federal",
+      "headline": "Stock Market Today: Futures Mixed After Yesterday\u2019s Massive Gains as Investors Await Key Inflation Report",
       "image": null,
-      "link": "https://www.cnbc.com/2026/11/10/gm-carbravo-used-car-shoppers.html",
-      "published": "2026-11-10T13:00:01Z",
-      "sentiment": "neutral"
+      "link": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-11102026-12246538?.tsrc=rss",
+      "published": "2026-11-10T13:10:01Z",
+      "sentiment": "bullish"
     },
     {
       "category": "federal",
@@ -227,58 +275,10 @@
     },
     {
       "category": "federal",
-      "headline": "\u2018The thought of living to 100 terrifies me\u2019: Is Social Security a giant Ponzi scheme?",
-      "image": "news-images/d614f939562eaaf70c13752f.jpg",
-      "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-      "published": "2026-11-10T10:15:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "US Stock Futures Mixed Ahead of Inflation Data as Oil Falls and Nvidia Faces Scrutiny Over CEO Investigation: Dow Jones, S&P, Nasdaq, Wall Street",
-      "image": null,
-      "link": "https://investorshub.advfn.com/market-news/article/39594/us-stock-futures-mixed-ahead-of-inflation-data-as-oil-falls-and-nvidia-faces-scrutiny-over-ceo-investigation-dow-jones-sp-nasdaq-wall-street?.tsrc=rss",
-      "published": "2026-11-10T10:08:56Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "other",
-      "headline": "N.Y. Knicks star Josh Hart relists Florida home for $5.7 million",
-      "image": "news-images/09fd6e27abff6a66b2933123.jpg",
-      "link": "https://www.marketwatch.com/story/n-y-knicks-star-josh-hart-relists-florida-home-for-5-7-million-5fd3f18c?mod=mw_rss_topstories",
-      "published": "2026-11-10T10:01:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Stock Market News for Nov 10, 2026",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-nov-10-094800346.html?.tsrc=rss",
-      "published": "2026-11-10T09:48:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
       "headline": "Fed governor says a half-point hike may be needed if Oct. CPI is hot",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=6946b21e-6923-4e1a-b20a-53d3d433289f&amp;mod=mw_rss_bulletins",
       "published": "2026-11-10T09:29:22Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "The Odds of an AI Bubble-Bursting Event Appear to Be Sharply Rising",
-      "image": null,
-      "link": "https://www.fool.com/investing/2026/11/10/the-odds-of-an-ai-bubble-bursting-event-appear-to-be-sharply-rising/?.tsrc=rss",
-      "published": "2026-11-10T09:26:02Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Stock market today: S&P 500 and Nasdaq futures sink, Dow wavers after CPI data, new Anthropic IPO filing",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-10-dow-sp-500-nasdaq-inflation-data-cpi-090627830.html?.tsrc=rss",
-      "published": "2026-11-10T09:06:27Z",
       "sentiment": "neutral"
     },
     {
@@ -322,8 +322,8 @@
       "sentiment": "bullish"
     }
   ],
-  "newest_item_published": "2026-11-10T14:08:08Z",
-  "source_item_count": 68,
+  "newest_item_published": "2026-11-10T15:11:48Z",
+  "source_item_count": 69,
   "sources": {
     "cnbc": {
       "contributed": 10,
@@ -331,7 +331,7 @@
       "fetched": 30,
       "fresh": 29,
       "label": "CNBC",
-      "newest": "2026-11-10T14:08:08Z",
+      "newest": "2026-11-10T15:11:48Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,7 +340,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-11-10T13:41:00Z",
+      "newest": "2026-11-10T14:58:00Z",
       "ok": true
     },
     "mw_bulletins": {
@@ -355,10 +355,10 @@
     "yahoo_dji": {
       "contributed": 10,
       "error": null,
-      "fetched": 18,
+      "fetched": 19,
       "fresh": 18,
       "label": "Yahoo Finance",
-      "newest": "2026-11-10T13:56:04Z",
+      "newest": "2026-11-10T14:44:33Z",
       "ok": true
     }
   }
