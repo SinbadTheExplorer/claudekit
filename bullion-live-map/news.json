@@ -1,20 +1,292 @@
 {
-  "generated_at": "2026-11-10T21:12:07Z",
+  "generated_at": "2026-11-11T01:12:24Z",
   "headlines": [
     {
-      "category": "tech",
-      "headline": "Schumer accuses Trump of defending Nvidia CEO Jensen Huang at cost of national security",
+      "category": "federal",
+      "headline": "Dow Jones Futures Rise, CoreWave Jumps After Stocks Fall On Nvidia, Surging Treasury Yields",
       "image": null,
-      "link": "https://www.cnbc.com/2026/11/10/moolenaar-nvidia-jensen-huang-affair-chinese-spy.html",
-      "published": "2026-11-10T21:11:36Z",
+      "link": "https://finance.yahoo.com/m/656fca57-9896-3dfb-96e8-e0af2bc227df/dow-jones-futures-rise%2C.html?.tsrc=rss",
+      "published": "2026-11-11T01:03:01Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "federal",
+      "headline": "Review & Preview: Hot Inflation",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/8065cdd2-0a3a-34ae-a497-8419a7ed9c28/review-%26-preview%3A-hot.html?.tsrc=rss",
+      "published": "2026-11-11T00:55:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "\u2018We had the worst fight\u2019: I want my husband to retire at 65, but I don\u2019t want to lose his $280,000 salary. Is that unreasonable?",
+      "image": "news-images/003009a389dabacce5f79fde.jpg",
+      "link": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
+      "published": "2026-11-11T00:30:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Forget happy hour. \u2018Money parties\u2019 are having a moment.",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=6625d3b8-8ade-4a30-81e4-200bc71278c8&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-11T00:18:48Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Should a widow leave her late partner\u2019s home to her stepkids \u2014 or cut off contact with them?",
+      "image": "news-images/faefa2f6534aaf2d674a937d.jpg",
+      "link": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
+      "published": "2026-11-11T00:00:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Hegseth impeachment effort torpedoed in House",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html",
+      "published": "2026-11-10T23:46:41Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Jim Cramer says Anthropic's explosive growth could justify a record-breaking IPO",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/10/anthropic-ipo-revenue-growth-cramer.html",
+      "published": "2026-11-10T23:46:35Z",
       "sentiment": "neutral"
     },
     {
       "category": "federal",
-      "headline": "Inflation Came in Hotter Than Expected and a New Rate Hike is All But Given. Stocks Fell.",
+      "headline": "\u2018The thought of living to 100 terrifies me\u2019: Is Social Security a giant Ponzi scheme?",
+      "image": "news-images/d614f939562eaaf70c13752f.jpg",
+      "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+      "published": "2026-11-10T23:30:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "\u2018I\u2019m sick of flying\u2019: I paid for priority boarding, but the overhead bins were full. Was I duped?",
+      "image": "news-images/e608328c397cf7e68154d9c6.jpg",
+      "link": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
+      "published": "2026-11-10T23:25:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "CoreWeave beats on revenue and lifts guidance, easing AI slowdown concerns",
       "image": null,
-      "link": "https://www.ibtimes.com/stocks-fall-inflation-anthropic-ipo-valuation-3809628?.tsrc=rss",
-      "published": "2026-11-10T21:03:57Z",
+      "link": "https://www.cnbc.com/2026/11/10/coreweave-crwv-q3-earnings-report-2026.html",
+      "published": "2026-11-10T23:16:15Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "tech",
+      "headline": "Nvidia's Huang tries to project 'business as usual' in return to office after affair revelation",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/10/nvidia-jensen-huang-affair-office.html",
+      "published": "2026-11-10T23:11:34Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "healthcare",
+      "headline": "FDA warns of vision loss risk linked to popular GLP-1 drugs like Wegovy, Zepbound",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/10/fda-warning-vision-loss-glp1-wegovy-zepbound.html",
+      "published": "2026-11-10T23:03:11Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "financials",
+      "headline": "One reason Children\u2019s Place is filing for bankruptcy? Not enough children.",
+      "image": "news-images/66d0332eb6f607e74d7e11e8.jpg",
+      "link": "https://www.marketwatch.com/story/one-reason-the-childrens-place-is-going-bankrupt-not-enough-children-b275eab0?mod=mw_rss_topstories",
+      "published": "2026-11-10T22:56:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Stock Market Today, Nov. 10: Wall Street's Rally Hits a Roadblock as Hot Inflation Raises the Stakes for the Fed",
+      "image": null,
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/11/10/stock-market-today-nov-10-wall-street-s-rally-hits-a-roadblock-as-hot-inflation-raises-the-stakes-for-the-fed/?.tsrc=rss",
+      "published": "2026-11-10T22:50:07Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "Fossil CEO says turnaround is ahead of plan as sales return to growth",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/10/fossil-fosl-q3-2026-earnings.html",
+      "published": "2026-11-10T22:39:30Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "AMD\u2019s stock fades as investors weigh whether Nvidia\u2019s turmoil will mean lasting wins",
+      "image": "news-images/85350c92b2d7f3bad6dd8418.jpg",
+      "link": "https://www.marketwatch.com/story/amds-stock-fades-as-investors-weigh-whether-nvidias-turmoil-will-mean-lasting-wins-1ecfbc5e?mod=mw_rss_topstories",
+      "published": "2026-11-10T22:37:00Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "tech",
+      "headline": "Looking to buy the dip in chip stocks? Here\u2019s how to avoid buying too soon.",
+      "image": "news-images/2ec4be7ad207bc3f37c67834.jpg",
+      "link": "https://www.marketwatch.com/story/ignore-the-wild-swings-in-chip-stocks-until-they-reach-these-lines-in-the-sand-feb6e00f?mod=mw_rss_topstories",
+      "published": "2026-11-10T22:30:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Citi\u2019s Marc Van\u2019t Sant Upgraded Rollins (ROL). Here\u2019s the Problem Bulls Say Can Be Fixed",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/citi-marc-van-t-sant-222245757.html?.tsrc=rss",
+      "published": "2026-11-10T22:22:45Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "Redburn Says Its Cautious Airbnb (ABNB) Stance Was \u201cWrong Over The Past Year.\u201d Here\u2019s What Changed",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/redburn-says-cautious-airbnb-abnb-222237944.html?.tsrc=rss",
+      "published": "2026-11-10T22:22:37Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Sanofi (SNY) Is Planning for a Patent Loss, Here\u2019s Where Bulls Still See Opportunity",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sanofi-sny-planning-patent-loss-222228191.html?.tsrc=rss",
+      "published": "2026-11-10T22:22:28Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Here\u2019s What TD Cowen Sees in South Bow (SOBO) After Its Sharp Pullback",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/td-cowen-sees-south-bow-222210315.html?.tsrc=rss",
+      "published": "2026-11-10T22:22:10Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Why JPMorgan Says SAP (SAP) Is \u201cNo Longer Priced For AI Disruption\u201d",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-jpmorgan-says-sap-sap-222205895.html?.tsrc=rss",
+      "published": "2026-11-10T22:22:05Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "financials",
+      "headline": "Why this top Wall Street strategist isn't bullish on the S&P 500 for 2027",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/article/why-this-top-wall-street-strategist-isnt-bullish-on-the-sp-500-for-2027-221528517.html?.tsrc=rss",
+      "published": "2026-11-10T22:15:28Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Meet the former prosecutor Nvidia hired to investigate Jensen Huang spy scandal",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=18607409-9e4a-47ef-b5fa-bcceb028dd0b&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-10T22:13:13Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Nvidia sells off for second day in fallout from Jensen Huang\u2019s affair with alleged spy",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/10/nvidia-nvda-jensen-huang-affair-chinese-spy.html",
+      "published": "2026-11-10T22:08:25Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "tech",
+      "headline": "Meet the former prosecutor Nvidia hired to investigate the Jensen Huang spy scandal",
+      "image": "news-images/a18d44b0c27ea7a541ae74b0.jpg",
+      "link": "https://www.marketwatch.com/story/meet-the-former-prosecutor-nvidia-hired-to-investigate-the-jensen-huang-spy-scandal-e8078f67?mod=mw_rss_topstories",
+      "published": "2026-11-10T22:05:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Mississippi Senate: Scott Colom extends tight lead over Hyde-Smith as ballot deadlines hit",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/10/mississippi-senate-scott-colom-hyde-smith.html",
+      "published": "2026-11-10T22:01:52Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "federal",
+      "headline": "Rep. Jim Jordan, Sen. John Thune elected GOP leaders in Congress",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/10/jim-jordan-congress-republicans-midterm.html",
+      "published": "2026-11-10T22:00:40Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Update: US Equity Indexes Fall as Fed's Policy Tightening Odds Rise After Inflation Beats Forecast",
+      "image": null,
+      "link": "https://finance.yahoo.com/economy/policy/articles/us-equity-indexes-fall-fed-215350147.html?.tsrc=rss",
+      "published": "2026-11-10T21:53:50Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "CoreWeave earnings: Neocloud lifts its revenue forecast \u2014 and its capex guidance",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=033c3e8e-9278-4681-9ba2-8e7a6ecb367c&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-10T21:52:15Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "American Eagle Outfitters (AEO) Suffers a Larger Drop Than the General Market: Key Insights",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/american-eagle-outfitters-aeo-suffers-215001222.html?.tsrc=rss",
+      "published": "2026-11-10T21:50:01Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "federal",
+      "headline": "White House vows to press ahead with tariffs despite midterm backlash over rising prices",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/10/trump-tariffs-midterms-gary-cohn-inflation.html",
+      "published": "2026-11-10T21:45:46Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Stocks fall as the 10-year Treasury yield nears 5% mark",
+      "image": "news-images/4f890d03c6d376365887bbac.jpg",
+      "link": "https://www.marketwatch.com/story/why-stocks-are-falling-and-10-year-yields-are-climbing-back-near-5-after-tuesdays-inflation-report-389b8392?mod=mw_rss_topstories",
+      "published": "2026-11-10T21:42:00Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "How the stock market has performed after Veterans Day over the past decade",
+      "image": "news-images/f64662996ab4700f410a2fea.jpg",
+      "link": "https://www.marketwatch.com/story/how-the-stock-market-has-performed-after-veterans-day-over-the-past-decade-7b47233e?mod=mw_rss_topstories",
+      "published": "2026-11-10T21:29:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Coreweave's stock pops as earnings show revenue beat, swelling backlog \u2014 live",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=184ba108-da64-4e16-b193-a01a190321d3&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-10T21:18:08Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "CoreWeave's stock pops after earnings. Here's what investors need to know.",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=3d0585d5-5fec-4d93-a7a8-f8ba9c70806e&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-10T21:10:33Z",
       "sentiment": "neutral"
     },
     {
@@ -26,83 +298,11 @@
       "sentiment": "neutral"
     },
     {
-      "category": "energy",
-      "headline": "Sector Update: Energy Stocks Rise Late Afternoon",
-      "image": null,
-      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-rise-afternoon-205551393.html?.tsrc=rss",
-      "published": "2026-11-10T20:55:51Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Update: US Equity Indexes Decline as Fed Policy Tightening Bets Jump After Inflation Beats Forecast",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-decline-fed-205304759.html?.tsrc=rss",
-      "published": "2026-11-10T20:53:04Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "tech",
-      "headline": "Ignore the wild swings in chip stocks until they reach these \u2018lines in the sand\u2019",
-      "image": "news-images/2ec4be7ad207bc3f37c67834.jpg",
-      "link": "https://www.marketwatch.com/story/ignore-the-wild-swings-in-chip-stocks-until-they-reach-these-lines-in-the-sand-feb6e00f?mod=mw_rss_topstories",
-      "published": "2026-11-10T20:53:00Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "federal",
       "headline": "Congress may soon make it harder for Nvidia to sell to China after Huang scandal",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=1b54312e-81b4-457c-9ba6-db98205263bc&amp;mod=mw_rss_bulletins",
       "published": "2026-11-10T20:46:22Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Nvidia could soon face tougher export rules, making it harder to sell chips to China after scandal",
-      "image": "news-images/62e7e0009389541f9c02d635.jpg",
-      "link": "https://www.marketwatch.com/story/nvidia-could-soon-face-tougher-export-rules-making-it-harder-to-sell-chips-to-china-69c88cc8?mod=mw_rss_topstories",
-      "published": "2026-11-10T20:37:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "GE Vernova sellers have it all wrong \u2014 plus, why Fed rate hike odds are soaring",
-      "image": null,
-      "link": "https://www.cnbc.com/investingclub/2026/11/10/ge-vernova-sellers-have-it-all-wrong-plus-why-fed-rate-hike-odds-are-soaring.html",
-      "published": "2026-11-10T20:33:58Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "tech",
-      "headline": "Ex-Google recruiter: You're answering 'Tell me about yourself?' all wrong, and other job interview mistakes\u2014do this instead",
-      "image": null,
-      "link": "https://www.cnbc.com/make-it/2026/11/10/ex-google-recruiter-how-to-avoid-3-common-job-interview-mistakes.html",
-      "published": "2026-11-10T20:31:20Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "White House vows to press ahead with tariffs despite midterm backlash over rising prices",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/10/trump-tariffs-midterms-gary-cohn-inflation.html",
-      "published": "2026-11-10T20:28:02Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Aggressive Fed rate hikes are quickly becoming the biggest risk to stocks in 2027, says economist",
-      "image": "news-images/ce1fbcfbfe28e01a9d09a0f1.jpg",
-      "link": "https://www.marketwatch.com/story/an-overzealous-fed-is-quickly-becoming-the-biggest-risk-to-stocks-in-2027-ba28e51d?mod=mw_rss_topstories",
-      "published": "2026-11-10T20:27:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Jim Jordan elected House GOP leader",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/10/jim-jordan-congress-republicans-midterm.html",
-      "published": "2026-11-10T20:24:45Z",
       "sentiment": "neutral"
     },
     {
@@ -114,216 +314,16 @@
       "sentiment": "neutral"
     },
     {
-      "category": "tech",
-      "headline": "Nvidia hires law firm Wachtell Lipton to lead Jensen Huang affair probe",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/10/nvidia-wachtell-lipton-huang-affair.html",
-      "published": "2026-11-10T20:01:18Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Stock Market Today: Dow Dips As Nvidia Dives; Microsoft Skids On Anthropic Tools Move (Live Coverage)",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/c7fbd2af-5702-3c77-9aa6-7c6578bb8abb/stock-market-today%3A-dow-dips.html?.tsrc=rss",
-      "published": "2026-11-10T19:51:50Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Traders bet on a pop for Anthropic's historic IPO",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/10/traders-bet-on-a-pop-for-anthropics-historic-ipo.html",
-      "published": "2026-11-10T19:51:18Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Anthropic officially sets the stage for an IPO valuing the company north of $1 trillion",
-      "image": "news-images/3ddc34a1bc02b5e7fe848713.jpg",
-      "link": "https://www.marketwatch.com/story/anthropic-reportedly-retracts-ipo-terms-sent-to-banks-by-mistake-exposing-jitters-over-ai-investments-6116578d?mod=mw_rss_topstories",
-      "published": "2026-11-10T19:47:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "consumer",
-      "headline": "Amazon's Ring unveils flying drone and robot to patrol homes and businesses",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/10/amazons-ring-unveils-flying-drone-robot-to-patrol-homes-businesses.html",
-      "published": "2026-11-10T19:43:59Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Op-ed: In Nvidia CEO Jensen Huang's alleged China spy scandal, there's plenty of blame to go around",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/10/nvidia-ceo-jensen-huang-china-spy-scandal.html",
-      "published": "2026-11-10T19:40:41Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "financials",
       "headline": "Fed could hike rates at each of its next three meetings, Deutsche Bank says",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=7e8d66eb-3764-46ca-90ca-80cd5e6e616c&amp;mod=mw_rss_bulletins",
       "published": "2026-11-10T19:32:41Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Homeowners tap equity as HELOC balances post biggest jump since 2005: New York Fed report",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/10/heloc-balances-new-york-fed.html",
-      "published": "2026-11-10T19:30:12Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "other",
-      "headline": "Should a widow leave her late partner\u2019s home to her stepkids \u2014 or cut off contact with them?",
-      "image": "news-images/faefa2f6534aaf2d674a937d.jpg",
-      "link": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
-      "published": "2026-11-10T19:30:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Corporate America is making a trillion-dollar mistake about retirement",
-      "image": "news-images/714f1ba08fafe525633a6a38.jpg",
-      "link": "https://www.marketwatch.com/story/corporate-america-is-making-a-trillion-dollar-mistake-about-retirement-234c8996?mod=mw_rss_topstories",
-      "published": "2026-11-10T19:29:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Buy the Dip: 5 Stocks Insiders Are Loading Up On After the Recent Market Sell-Off",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/buy-dip-5-stocks-insiders-191927761.html?.tsrc=rss",
-      "published": "2026-11-10T19:19:27Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "tech",
-      "headline": "AMD\u2019s stock fades as investors weigh whether Nvidia\u2019s turmoil will mean lasting wins",
-      "image": "news-images/85350c92b2d7f3bad6dd8418.jpg",
-      "link": "https://www.marketwatch.com/story/amds-stock-fades-as-investors-weigh-whether-nvidias-turmoil-will-mean-lasting-wins-1ecfbc5e?mod=mw_rss_topstories",
-      "published": "2026-11-10T19:17:00Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "other",
-      "headline": "Insiders Are Eyeing HF Sinclair (DINO) After The Stock\u2019s Recent Sell-Off",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/insiders-eyeing-hf-sinclair-dino-191659419.html?.tsrc=rss",
-      "published": "2026-11-10T19:16:59Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "other",
-      "headline": "TTM Technologies (TTMI) Sees Almost 28% Jump in Insider Position Following Recent Dip",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ttm-technologies-ttmi-sees-almost-191654888.html?.tsrc=rss",
-      "published": "2026-11-10T19:15:38Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "consumer",
-      "headline": "Dow Leader Amazon Approaches Latest Buy Point As Ferrari Races Higher On Formula 1 Strength",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/140069ae-8a59-3b10-9880-bd0bd13cff6d/dow-leader-amazon-approaches.html?.tsrc=rss",
-      "published": "2026-11-10T19:10:36Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Caterpillar (CAT) Is Amongst The Notable Names Insiders Are Loading Up On After the Recent Crash",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/caterpillar-cat-amongst-notable-names-191027709.html?.tsrc=rss",
-      "published": "2026-11-10T19:10:27Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "other",
-      "headline": "Independent Board Member Increases Stake in SPX Technologies (SPXC) Following Stock\u2019s Bearish Run",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/independent-board-member-increases-stake-190818364.html?.tsrc=rss",
-      "published": "2026-11-10T19:08:18Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "\u2018It feels like he\u2019s quietly building a separate life\u2019: My husband inherited $500,000, but he refuses to spend it on our home",
-      "image": "news-images/1ce16511e13f790e782241f8.jpg",
-      "link": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
-      "published": "2026-11-10T19:00:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "10-year Treasury yield back at 5% as inflation data point to more Fed rate hikes",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=9ade5d03-5ac3-4cf0-9d6d-5ef05b44c794&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-10T18:53:49Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "\u2018The thought of living to 100 terrifies me\u2019: Is Social Security a giant Ponzi scheme?",
-      "image": "news-images/d614f939562eaaf70c13752f.jpg",
-      "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-      "published": "2026-11-10T18:45:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Americans are more concerned about retirement than ever. Politicians should pay attention.",
-      "image": "news-images/33c1cf81be91cf7dd11f13c1.jpg",
-      "link": "https://www.marketwatch.com/story/retirement-is-now-part-of-the-affordability-crisis-politicians-should-pay-attention-2923b2d7?mod=mw_rss_topstories",
-      "published": "2026-11-10T18:41:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Wall Street\u2019s only Nvidia bear says forcing out CEO Huang \u2018would be a mistake\u2019",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=981c1c64-e735-4049-bc05-60fa26241216&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-10T18:10:02Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Stocks set for lower open as bond yields jump after inflation data \u2014 follow live",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=c05bed66-3713-4d30-8393-fa348b112099&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-10T13:46:53Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "other",
-      "headline": "Sharp rise in consumer prices may cement Fed hike next month \u2014 live updates",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=0759efab-11b1-49b1-a4a6-6462a4a4392c&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-10T13:39:10Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Anthropic backs away from $2 trillion ambition in new IPO filing",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=1319f7e6-f310-40ba-89d8-d9ed63936a61&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-10T13:14:02Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Economic calendar: Inflation data; later, it's several Fed speakers",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=0eafb7a5-fb84-4034-9d42-7cc05e5705b9&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-10T12:33:40Z",
-      "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-11-10T21:11:36Z",
-  "source_item_count": 68,
+  "newest_item_published": "2026-11-11T01:03:01Z",
+  "source_item_count": 62,
   "sources": {
     "cnbc": {
       "contributed": 10,
@@ -331,7 +331,7 @@
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-11-10T21:11:36Z",
+      "newest": "2026-11-10T23:46:41Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,25 +340,25 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-11-10T20:53:00Z",
+      "newest": "2026-11-11T00:30:00Z",
       "ok": true
     },
     "mw_bulletins": {
-      "contributed": 10,
+      "contributed": 9,
       "error": null,
       "fetched": 10,
       "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-11-10T21:02:39Z",
+      "newest": "2026-11-11T00:18:48Z",
       "ok": true
     },
     "yahoo_dji": {
-      "contributed": 10,
+      "contributed": 11,
       "error": null,
-      "fetched": 18,
-      "fresh": 17,
+      "fetched": 12,
+      "fresh": 11,
       "label": "Yahoo Finance",
-      "newest": "2026-11-10T21:03:57Z",
+      "newest": "2026-11-11T01:03:01Z",
       "ok": true
     }
   }
