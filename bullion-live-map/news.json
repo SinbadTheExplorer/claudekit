@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T20:09:24Z",
+  "generated_at": "2026-11-11T20:12:06Z",
   "headlines": [
     {
       "category": "federal",
@@ -79,14 +79,6 @@
       "image": null,
       "link": "https://www.cnbc.com/2026/11/11/trump-company-equity-takes.html",
       "published": "2026-11-11T18:55:39Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Apple's record run ignites options flurry \u2014 Watch Options Action live",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/11/apples-record-run-ignites-options-flurry-watch-options-action-live.html",
-      "published": "2026-11-11T18:53:03Z",
       "sentiment": "neutral"
     },
     {
@@ -175,6 +167,14 @@
       "image": null,
       "link": "https://www.cnbc.com/2026/11/11/nvidia-stock-jensen-huang-affair-china.html",
       "published": "2026-11-11T17:39:26Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "tech",
+      "headline": "CoreWeave soars 26% as CEO reaffirms AI compute demand after strong Q3 report",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/11/coreweave-crwv-outlook-earnings-ai.html",
+      "published": "2026-11-11T17:38:34Z",
       "sentiment": "bullish"
     },
     {
