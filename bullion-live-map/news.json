@@ -1,6 +1,126 @@
 {
-  "generated_at": "2026-11-11T14:12:10Z",
+  "generated_at": "2026-11-11T15:12:05Z",
   "headlines": [
+    {
+      "category": "other",
+      "headline": "From living in his car to a 756 credit score: How one veteran rebuilt his finances",
+      "image": "news-images/bce202b3659f683cd02cb58f.jpg",
+      "link": "https://www.marketwatch.com/story/from-living-in-his-car-to-a-756-credit-score-how-one-veteran-rebuilt-his-finances-026c3336?mod=mw_rss_topstories",
+      "published": "2026-11-11T15:08:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "JetBlue's CEO has pushed back on creditor fears and is betting on premium to return to profitability",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/11/jetblue-ceo-premium.html",
+      "published": "2026-11-11T15:00:02Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "CoreWeave CEO says 'new political reality' after midterms won't slow buildout",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/11/coreweave-ceo-election-data-center-buildout.html",
+      "published": "2026-11-11T14:52:03Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "CFTC investigates if Kalshi improperly self-certified event contracts",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/11/cftc-investigates-if-kalshi-improperly-self-certified-event-contracts.html",
+      "published": "2026-11-11T14:49:16Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Stock Market Today: Nasdaq Jumps As CoreWeave Surges On Earnings; Nvidia Rallies (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/2199baae-3d36-344b-b4d8-76ff24b7f5e9/stock-market-today%3A-nasdaq.html?.tsrc=rss",
+      "published": "2026-11-11T14:44:56Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "tech",
+      "headline": "CoreWeave stock pops 12% after outlook raise eases AI slowdown concerns",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/11/coreweave-crwv-outlook-earnings-ai.html",
+      "published": "2026-11-11T14:40:44Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Nvidia shares rebound as Jensen Huang faces scrutiny ahead of earnings",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/11/nvidia-stock-jensen-huang-affair-china.html",
+      "published": "2026-11-11T14:35:23Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "tech",
+      "headline": "CoreWeave Earnings Reignite AI Trade, Sending Stocks Higher",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/eed8d29b-5b89-3599-a17f-0eecffc63360/coreweave-earnings-reignite.html?.tsrc=rss",
+      "published": "2026-11-11T14:31:57Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Nasdaq opens sharply higher; S&P 500, Dow rise amid tech rebound",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=cc04292d-1986-43f1-8fbf-49b180848151&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-11T14:30:38Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "federal",
+      "headline": "Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html",
+      "published": "2026-11-11T14:24:28Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "My friend hates her job but shuts down when I give her advice. How can I help her?",
+      "image": "news-images/2d477ca558f50a92d6045ec7.jpg",
+      "link": "https://www.marketwatch.com/story/my-friend-feels-trapped-at-her-job-but-wont-do-anything-about-it-am-i-supposed-to-step-in-7e55604e?mod=mw_rss_topstories",
+      "published": "2026-11-11T14:24:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "international",
+      "headline": "Zelenskyy warns Ukraine is 'not real estate' as experts say a Russia peace deal remains elusive",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/11/ukraine-russia-peace-talks-zelenskyy-putin.html",
+      "published": "2026-11-11T14:13:40Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Jim Cramer's top 10 things to watch in the stock market Wednesday",
+      "image": null,
+      "link": "https://www.cnbc.com/investingclub/2026/11/11/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday.html",
+      "published": "2026-11-11T14:13:25Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Forget happy hour. \u2018Money parties\u2019 are having a moment.",
+      "image": "news-images/cfe1416da506b9d46f5fb962.jpg",
+      "link": "https://www.marketwatch.com/story/forget-happy-hour-money-parties-are-having-a-moment-6bc6f02a?mod=mw_rss_topstories",
+      "published": "2026-11-11T14:12:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Wednesday as Nvidia Stock Recovers",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-141131269.html?.tsrc=rss",
+      "published": "2026-11-11T14:11:31Z",
+      "sentiment": "neutral"
+    },
     {
       "category": "other",
       "headline": "Measles is surging in the U.S. \u2014 and outbreaks can cost millions",
@@ -34,36 +154,12 @@
       "sentiment": "bullish"
     },
     {
-      "category": "federal",
-      "headline": "Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html",
-      "published": "2026-11-11T13:50:31Z",
-      "sentiment": "bearish"
-    },
-    {
       "category": "tech",
       "headline": "Nvidia's Huang tries to project 'business as usual' in return to office after affair revelation",
       "image": null,
       "link": "https://www.cnbc.com/2026/11/10/nvidia-jensen-huang-affair-office.html",
       "published": "2026-11-11T13:46:59Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Stock Market Today: Tech Futures Jump As CoreWeave Surges On Results; Nvidia Rebounds (Live Coverage)",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/2199baae-3d36-344b-b4d8-76ff24b7f5e9/stock-market-today%3A-tech.html?.tsrc=rss",
-      "published": "2026-11-11T13:46:04Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "tech",
-      "headline": "Nvidia shares rebound 4% as Huang faces scrutiny ahead of earnings",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/11/nvidia-stock-jensen-huang-affair-china.html",
-      "published": "2026-11-11T13:45:17Z",
-      "sentiment": "bullish"
     },
     {
       "category": "other",
@@ -88,14 +184,6 @@
       "link": "https://www.marketwatch.com/story/micron-and-other-ai-stocks-surge-as-coreweave-calms-wall-streets-worst-fears-0a18152a?mod=mw_rss_topstories",
       "published": "2026-11-11T13:37:00Z",
       "sentiment": "bullish"
-    },
-    {
-      "category": "tech",
-      "headline": "CoreWeave stock pops 15% after outlook raise eases AI slowdown concerns",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/11/coreweave-crwv-outlook-earnings-ai.html",
-      "published": "2026-11-11T13:36:50Z",
-      "sentiment": "neutral"
     },
     {
       "category": "international",
@@ -127,6 +215,14 @@
       "image": null,
       "link": "https://www.wsj.com/finance/commodities-futures/nasdaq-futures-rally-as-ai-optimism-returns-af100e62?.tsrc=rss",
       "published": "2026-11-11T13:14:00Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "tech",
+      "headline": "Stock Market Today: Nasdaq Futures Jump as Nvidia Shares Rebound, CoreWeave Soars After Earnings; Dow, S&P 500 Also Point Higher",
+      "image": null,
+      "link": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-11112026-12248789?.tsrc=rss",
+      "published": "2026-11-11T13:12:47Z",
       "sentiment": "bullish"
     },
     {
@@ -162,28 +258,12 @@
       "sentiment": "neutral"
     },
     {
-      "category": "federal",
-      "headline": "Rep. Jim Jordan, Sen. John Thune elected GOP leaders in Congress",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/10/jim-jordan-congress-republicans-midterm.html",
-      "published": "2026-11-11T12:42:09Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "General strikes to paralyze Spain as protestors clash with police ahead of election campaign",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/11/spain-protests-general-strikes-election.html",
-      "published": "2026-11-11T12:39:20Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "tech",
-      "headline": "Stock market today: Dow, S&P 500, Nasdaq futures rise as Nvidia stock recovers, 10-year yield nears 5%",
+      "headline": "Stock market today: S&P 500, Nasdaq rise as Nvidia stock recovers, chip stocks rally after CoreWeave earnings",
       "image": null,
       "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-11-dow-sp-500-nasdaq-nvidia-treasurys-veterans-day-140638547.html?.tsrc=rss",
       "published": "2026-11-11T12:34:45Z",
-      "sentiment": "neutral"
+      "sentiment": "bullish"
     },
     {
       "category": "tech",
@@ -202,70 +282,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "tech",
-      "headline": "Nvidia\u2019s valuation tumbles to a 15-year low. A bargain or a falling knife?",
-      "image": "news-images/962a1a0b660136fd8c3bd5cb.jpg",
-      "link": "https://www.marketwatch.com/story/nvidias-valuation-tumbles-to-a-15-year-low-a-bargain-or-a-falling-knife-2ebf6085?mod=mw_rss_topstories",
-      "published": "2026-11-11T12:16:00Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "other",
-      "headline": "Should a widow leave her late partner\u2019s home to her stepkids \u2014 or cut off contact with them?",
-      "image": "news-images/faefa2f6534aaf2d674a937d.jpg",
-      "link": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
-      "published": "2026-11-11T12:15:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "international",
-      "headline": "Zelenskyy warns Ukraine is 'not real estate' as experts say a Russia peace deal remains elusive",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/11/ukraine-russia-peace-talks-zelenskyy-putin.html",
-      "published": "2026-11-11T12:12:48Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Markets Swept Up in AI Optimism but Inflation Fears Aren\u2019t Going Away",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/7b4af701-266a-32fc-83fc-635b0972b73e/markets-swept-up-in-ai.html?.tsrc=rss",
-      "published": "2026-11-11T12:03:43Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Market angst is driving investors into low-volatility stocks as AI trade stumbles",
-      "image": "news-images/0ab2c42e943e37c8a19d794f.jpg",
-      "link": "https://www.marketwatch.com/story/market-angst-is-driving-investors-into-low-volatility-stocks-as-ai-trade-stumbles-23d905e9?mod=mw_rss_topstories",
-      "published": "2026-11-11T12:00:00Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "tech",
-      "headline": "CoreWeave Earnings Trigger AI Revival on Wall Street; Asia, Europe Up",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/coreweave-earnings-trigger-ai-revival-110527409.html?.tsrc=rss",
-      "published": "2026-11-11T11:05:27Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "The Stock Market Is Repeating a Pattern Not Seen in Decades, but History Says Investors Who Make This 1 Move Will Win Out",
-      "image": null,
-      "link": "https://www.fool.com/investing/2026/11/11/the-stock-market-is-repeating-a-pattern-not-seen-in-decades-but-history-says-investors-who-make-this-1-move-will-win-out/?.tsrc=rss",
-      "published": "2026-11-11T10:50:57Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Is the Stock Market Going to Crash? Warren Buffett's Warning Is Hard to Ignore.",
-      "image": null,
-      "link": "https://www.fool.com/investing/2026/11/11/is-the-stock-market-going-to-crash-warren-buffett-s-warning-is-hard-to-ignore/?.tsrc=rss",
-      "published": "2026-11-11T10:45:02Z",
-      "sentiment": "bearish"
-    },
-    {
       "category": "federal",
       "headline": "What Goldman Sachs now sees from the Fed after hot CPI data",
       "image": null,
@@ -279,14 +295,6 @@
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=57e75fb0-7b47-4f4c-9ffe-0f3f0fb0b301&amp;mod=mw_rss_bulletins",
       "published": "2026-11-11T01:16:50Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Forget happy hour. \u2018Money parties\u2019 are having a moment.",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=6625d3b8-8ade-4a30-81e4-200bc71278c8&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-11T00:18:48Z",
       "sentiment": "neutral"
     },
     {
@@ -312,26 +320,18 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=033c3e8e-9278-4681-9ba2-8e7a6ecb367c&amp;mod=mw_rss_bulletins",
       "published": "2026-11-10T21:52:15Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Coreweave's stock pops as earnings show revenue beat, swelling backlog \u2014 live",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=184ba108-da64-4e16-b193-a01a190321d3&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-10T21:18:08Z",
-      "sentiment": "bullish"
     }
   ],
-  "newest_item_published": "2026-11-11T14:10:19Z",
-  "source_item_count": 69,
+  "newest_item_published": "2026-11-11T15:08:00Z",
+  "source_item_count": 68,
   "sources": {
     "cnbc": {
-      "contributed": 12,
+      "contributed": 14,
       "error": null,
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-11-11T14:10:19Z",
+      "newest": "2026-11-11T15:00:02Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,25 +340,25 @@
       "fetched": 10,
       "fresh": 9,
       "label": "MarketWatch",
-      "newest": "2026-11-11T13:55:00Z",
+      "newest": "2026-11-11T15:08:00Z",
       "ok": true
     },
     "mw_bulletins": {
-      "contributed": 8,
+      "contributed": 7,
       "error": null,
       "fetched": 10,
       "fresh": 9,
       "label": "MW Bulletins",
-      "newest": "2026-11-11T13:38:49Z",
+      "newest": "2026-11-11T14:30:38Z",
       "ok": true
     },
     "yahoo_dji": {
-      "contributed": 11,
+      "contributed": 10,
       "error": null,
-      "fetched": 19,
-      "fresh": 19,
+      "fetched": 18,
+      "fresh": 17,
       "label": "Yahoo Finance",
-      "newest": "2026-11-11T13:51:49Z",
+      "newest": "2026-11-11T14:44:56Z",
       "ok": true
     }
   }
