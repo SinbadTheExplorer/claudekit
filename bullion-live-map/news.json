@@ -1,6 +1,110 @@
 {
-  "generated_at": "2026-11-11T15:12:05Z",
+  "generated_at": "2026-11-11T16:12:08Z",
   "headlines": [
+    {
+      "category": "industrials",
+      "headline": "Democrats could snarl Trump administration stakes in companies; Watch U.S. Steel CEO speak",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/11/trump-company-equity-takes.html",
+      "published": "2026-11-11T16:11:23Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "CoreWeave soars 23% as CEO reaffirms AI compute demand after strong Q3 report",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/11/coreweave-crwv-outlook-earnings-ai.html",
+      "published": "2026-11-11T16:04:48Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "Anthropic\u2019s IPO roadshow kicks off \u2014 and the big money is already lining up",
+      "image": "news-images/08af73df1310f09735a4446f.jpg",
+      "link": "https://www.marketwatch.com/story/anthropics-ipo-roadshow-kicks-off-and-the-big-money-is-already-lining-up-7cdd4f8b?mod=mw_rss_topstories",
+      "published": "2026-11-11T16:03:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "JetBlue's CEO has pushed back on creditor fears and is betting on premium to return to profitability",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/11/jetblue-ceo-premium.html",
+      "published": "2026-11-11T15:57:44Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "CoreWeave CEO Intrator tells CNBC he has canceled his planned share sale program",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/11/coreweave-ceo-election-data-center-buildout.html",
+      "published": "2026-11-11T15:53:36Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Mississippi Senate: Scott Colom leads Hyde-Smith by more than 3,000 votes",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/10/mississippi-senate-scott-colom-hyde-smith.html",
+      "published": "2026-11-11T15:46:05Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "\u2018I\u2019m sick of flying\u2019: I paid for priority boarding, but the overhead bins were full. Was I duped?",
+      "image": "news-images/e608328c397cf7e68154d9c6.jpg",
+      "link": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
+      "published": "2026-11-11T15:30:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "CoreWeave just gave a shot in the arm to Micron, Lumentum and the rest of the AI trade",
+      "image": "news-images/77a0c547ae5f69524af5673e.jpg",
+      "link": "https://www.marketwatch.com/story/micron-and-other-ai-stocks-surge-as-coreweave-calms-wall-streets-worst-fears-0a18152a?mod=mw_rss_topstories",
+      "published": "2026-11-11T15:26:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "I\u2019m 63 and want to spend $95,000 on a roof deck for my $500,000 home. Is that a good investment?",
+      "image": "news-images/e8e74c6388966b2a5c424dc8.jpg",
+      "link": "https://www.marketwatch.com/story/im-63-and-want-to-spend-95-000-on-a-roof-deck-for-my-500-000-home-is-that-a-good-investment-f1a59c27?mod=mw_rss_topstories",
+      "published": "2026-11-11T15:25:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Stock Market Today: Nasdaq Jumps As CoreWeave Surges On Earnings; Nvidia, AMD Shares Bounce (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/2199baae-3d36-344b-b4d8-76ff24b7f5e9/stock-market-today%3A-nasdaq.html?.tsrc=rss",
+      "published": "2026-11-11T15:21:25Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "WNBA Finals MVP Gabby Williams: 'Our existence is political'",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/11/gabby-williams-embraces-role-in-wnbas-political-and-cultural-debates-.html",
+      "published": "2026-11-11T15:20:59Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Market angst is driving investors into low-volatility stocks as AI trade stumbles",
+      "image": "news-images/2ff7a782cf1b653b4518241a.jpg",
+      "link": "https://www.marketwatch.com/story/market-angst-is-driving-investors-into-low-volatility-stocks-as-ai-trade-stumbles-23d905e9?mod=mw_rss_topstories",
+      "published": "2026-11-11T15:15:00Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "Measles is surging in the U.S. \u2014 and outbreaks can cost millions",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/11/measles-outbreak-us-economic-cost.html",
+      "published": "2026-11-11T15:14:53Z",
+      "sentiment": "neutral"
+    },
     {
       "category": "other",
       "headline": "From living in his car to a 756 credit score: How one veteran rebuilt his finances",
@@ -11,18 +115,10 @@
     },
     {
       "category": "other",
-      "headline": "JetBlue's CEO has pushed back on creditor fears and is betting on premium to return to profitability",
+      "headline": "The Nasdaq Just Entered Correction Territory. 2 ETFs to Buy on the Dip.",
       "image": null,
-      "link": "https://www.cnbc.com/2026/11/11/jetblue-ceo-premium.html",
-      "published": "2026-11-11T15:00:02Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "CoreWeave CEO says 'new political reality' after midterms won't slow buildout",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/11/coreweave-ceo-election-data-center-buildout.html",
-      "published": "2026-11-11T14:52:03Z",
+      "link": "https://www.fool.com/investing/2026/11/11/nasdaq-just-entered-correction-territory-2-etfs/?.tsrc=rss",
+      "published": "2026-11-11T15:05:00Z",
       "sentiment": "neutral"
     },
     {
@@ -31,22 +127,6 @@
       "image": null,
       "link": "https://www.cnbc.com/2026/11/11/cftc-investigates-if-kalshi-improperly-self-certified-event-contracts.html",
       "published": "2026-11-11T14:49:16Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Stock Market Today: Nasdaq Jumps As CoreWeave Surges On Earnings; Nvidia Rallies (Live Coverage)",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/2199baae-3d36-344b-b4d8-76ff24b7f5e9/stock-market-today%3A-nasdaq.html?.tsrc=rss",
-      "published": "2026-11-11T14:44:56Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "tech",
-      "headline": "CoreWeave stock pops 12% after outlook raise eases AI slowdown concerns",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/11/coreweave-crwv-outlook-earnings-ai.html",
-      "published": "2026-11-11T14:40:44Z",
       "sentiment": "neutral"
     },
     {
@@ -122,14 +202,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "other",
-      "headline": "Measles is surging in the U.S. \u2014 and outbreaks can cost millions",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/11/measles-outbreak-us-economic-cost.html",
-      "published": "2026-11-11T14:10:19Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "federal",
       "headline": "Here\u2019s how Bernie Sanders wants to keep Social Security solvent \u2018for generations\u2019",
       "image": "news-images/0fec364d7022e9962c5bbbfe.jpg",
@@ -155,59 +227,11 @@
     },
     {
       "category": "tech",
-      "headline": "Nvidia's Huang tries to project 'business as usual' in return to office after affair revelation",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/10/nvidia-jensen-huang-affair-office.html",
-      "published": "2026-11-11T13:46:59Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "How Democrats could snarl Trump administration stakes in private sector companies",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/11/trump-company-equity-takes.html",
-      "published": "2026-11-11T13:40:04Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "international",
-      "headline": "Bessent reportedly moved to military base over Iranian threats on his life",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/11/us-iran-war-trump-hormuz-bessent-threats.html",
-      "published": "2026-11-11T13:37:55Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
       "headline": "Micron and other AI stocks surge as CoreWeave calms Wall Street\u2019s worst fears",
-      "image": "news-images/77a0c547ae5f69524af5673e.jpg",
-      "link": "https://www.marketwatch.com/story/micron-and-other-ai-stocks-surge-as-coreweave-calms-wall-streets-worst-fears-0a18152a?mod=mw_rss_topstories",
-      "published": "2026-11-11T13:37:00Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "international",
-      "headline": "Nissan cuts sales forecast again on China woes as CEO outlines plan to fight back",
       "image": null,
-      "link": "https://www.cnbc.com/2026/11/11/nissan-sales-forecast-earnings-china.html",
-      "published": "2026-11-11T13:18:48Z",
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=05233586-30f6-46df-bff5-d242dcd53473&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-11T13:38:49Z",
       "sentiment": "bullish"
-    },
-    {
-      "category": "other",
-      "headline": "\u2018We had the worst fight\u2019: I want my husband to retire at 65, but I don\u2019t want to lose his $280,000 salary. Is that unreasonable?",
-      "image": "news-images/003009a389dabacce5f79fde.jpg",
-      "link": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
-      "published": "2026-11-11T13:15:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "financials",
-      "headline": "One reason Children\u2019s Place is filing for bankruptcy? Not enough children.",
-      "image": "news-images/66d0332eb6f607e74d7e11e8.jpg",
-      "link": "https://www.marketwatch.com/story/one-reason-the-childrens-place-is-going-bankrupt-not-enough-children-b275eab0?mod=mw_rss_topstories",
-      "published": "2026-11-11T13:15:00Z",
-      "sentiment": "neutral"
     },
     {
       "category": "tech",
@@ -219,7 +243,7 @@
     },
     {
       "category": "tech",
-      "headline": "Stock Market Today: Nasdaq Futures Jump as Nvidia Shares Rebound, CoreWeave Soars After Earnings; Dow, S&P 500 Also Point Higher",
+      "headline": "Stock Market Today: Nasdaq, S&P 500 Jump as Chip Stocks Rally, CoreWeave Soars After Earnings; Nvidia Rebounds After Steep Losses",
       "image": null,
       "link": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-11112026-12248789?.tsrc=rss",
       "published": "2026-11-11T13:12:47Z",
@@ -247,30 +271,6 @@
       "image": null,
       "link": "https://finance.yahoo.com/markets/stocks/articles/stock-futures-rise-amid-coreweave-130117941.html?.tsrc=rss",
       "published": "2026-11-11T13:01:17Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Hundreds of schools in Italy, UK evacuated over 'hoax' bomb threats",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/11/hoax-bomb-threats-schools-italy-uk.html",
-      "published": "2026-11-11T12:57:07Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Stock market today: S&P 500, Nasdaq rise as Nvidia stock recovers, chip stocks rally after CoreWeave earnings",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-11-dow-sp-500-nasdaq-nvidia-treasurys-veterans-day-140638547.html?.tsrc=rss",
-      "published": "2026-11-11T12:34:45Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "tech",
-      "headline": "Keep Jensen Huang at Nvidia \u2014 but end the one-man show",
-      "image": "news-images/b4bd7efe684fc0f0a01a137c.jpg",
-      "link": "https://www.marketwatch.com/story/keep-jensen-huang-at-nvidia-but-end-the-one-man-show-305c19a2?mod=mw_rss_topstories",
-      "published": "2026-11-11T12:30:00Z",
       "sentiment": "neutral"
     },
     {
@@ -322,29 +322,29 @@
       "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-11-11T15:08:00Z",
-  "source_item_count": 68,
+  "newest_item_published": "2026-11-11T16:11:23Z",
+  "source_item_count": 69,
   "sources": {
     "cnbc": {
-      "contributed": 14,
+      "contributed": 12,
       "error": null,
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-11-11T15:00:02Z",
+      "newest": "2026-11-11T16:11:23Z",
       "ok": true
     },
     "marketwatch": {
-      "contributed": 9,
+      "contributed": 10,
       "error": null,
       "fetched": 10,
-      "fresh": 9,
+      "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-11-11T15:08:00Z",
+      "newest": "2026-11-11T16:03:00Z",
       "ok": true
     },
     "mw_bulletins": {
-      "contributed": 7,
+      "contributed": 8,
       "error": null,
       "fetched": 10,
       "fresh": 9,
@@ -355,10 +355,10 @@
     "yahoo_dji": {
       "contributed": 10,
       "error": null,
-      "fetched": 18,
-      "fresh": 17,
+      "fetched": 19,
+      "fresh": 18,
       "label": "Yahoo Finance",
-      "newest": "2026-11-11T14:44:56Z",
+      "newest": "2026-11-11T15:21:25Z",
       "ok": true
     }
   }
