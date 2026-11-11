@@ -1,6 +1,62 @@
 {
-  "generated_at": "2026-11-11T19:12:06Z",
+  "generated_at": "2026-11-11T20:09:24Z",
   "headlines": [
+    {
+      "category": "federal",
+      "headline": "Canada\u2019s ambassador warns Trump tariffs are driving up costs, threatening U.S. investment",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/11/canada-ambassador-trump-tariffs-investments.html",
+      "published": "2026-11-11T20:02:12Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Should a widow leave her late partner\u2019s home to her stepkids \u2014 or cut off contact with them?",
+      "image": "news-images/faefa2f6534aaf2d674a937d.jpg",
+      "link": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
+      "published": "2026-11-11T20:00:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Mississippi Senate: Scott Colom lead over Hyde-Smith pops to more than 4,400 votes",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/10/mississippi-senate-scott-colom-hyde-smith.html",
+      "published": "2026-11-11T19:55:39Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "federal",
+      "headline": "Social Security could pay full benefits until 2059 if taxable payroll kept pace with GDP: AARP report",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/11/social-security-benefits-taxable-payroll-gdp.html",
+      "published": "2026-11-11T19:54:27Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "I\u2019m 63 and spending $95,000 on a roof deck for my $500,000 home. Am I being extravagant?",
+      "image": "news-images/e8e74c6388966b2a5c424dc8.jpg",
+      "link": "https://www.marketwatch.com/story/im-63-and-want-to-spend-95-000-on-a-roof-deck-for-my-500-000-home-is-that-a-good-investment-f1a59c27?mod=mw_rss_topstories",
+      "published": "2026-11-11T19:41:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Analysis: Is Nvidia too big to fail?\u00a0Its AI financing web raises the stakes",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
+      "published": "2026-11-11T19:17:19Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "healthcare",
+      "headline": "Prediction markets tied to clinical trials and drug approvals draw lawmakers' ire",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/11/kalsi-polymarket-prediction-market-senators-hhs-drug-approval.html",
+      "published": "2026-11-11T19:16:23Z",
+      "sentiment": "neutral"
+    },
     {
       "category": "tech",
       "headline": "Meta head of infrastructure will leave and be succeeded by former AWS cloud exec",
@@ -27,18 +83,18 @@
     },
     {
       "category": "tech",
-      "headline": "Nvidia is spending more than ever on Washington lobbying. It may not stop Congress from limiting China chip sales now.",
-      "image": "news-images/35d73d28ff72021dc79f2f5c.jpg",
-      "link": "https://www.marketwatch.com/story/nvidia-is-spending-more-than-ever-on-washington-lobbying-it-still-may-not-be-able-to-stop-congress-from-limiting-its-china-chip-sales-now-d4c34c66?mod=mw_rss_topstories",
-      "published": "2026-11-11T18:48:00Z",
+      "headline": "Apple's record run ignites options flurry \u2014 Watch Options Action live",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/11/apples-record-run-ignites-options-flurry-watch-options-action-live.html",
+      "published": "2026-11-11T18:53:03Z",
       "sentiment": "neutral"
     },
     {
       "category": "tech",
-      "headline": "Analysis: Is Nvidia too big to fail?\u00a0Its AI financing web raises the stakes",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
-      "published": "2026-11-11T18:45:27Z",
+      "headline": "Nvidia is spending more than ever on Washington lobbying. It may not stop Congress from limiting China chip sales now.",
+      "image": "news-images/35d73d28ff72021dc79f2f5c.jpg",
+      "link": "https://www.marketwatch.com/story/nvidia-is-spending-more-than-ever-on-washington-lobbying-it-still-may-not-be-able-to-stop-congress-from-limiting-its-china-chip-sales-now-d4c34c66?mod=mw_rss_topstories",
+      "published": "2026-11-11T18:48:00Z",
       "sentiment": "neutral"
     },
     {
@@ -66,20 +122,20 @@
       "sentiment": "bullish"
     },
     {
+      "category": "other",
+      "headline": "Nasdaq Rides One of Its Wildest Stretches in More Than a Year",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/c16b50f8-7975-3104-961e-19b7036cf485/nasdaq-rides-one-of-its.html?.tsrc=rss",
+      "published": "2026-11-11T18:30:11Z",
+      "sentiment": "neutral"
+    },
+    {
       "category": "tech",
       "headline": "Nasdaq Jumps Over 4% This Week as Chip Names Drive a Sharp Midweek Rally",
       "image": null,
       "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-jumps-over-4-week-183000764.html?.tsrc=rss",
       "published": "2026-11-11T18:30:00Z",
       "sentiment": "bullish"
-    },
-    {
-      "category": "healthcare",
-      "headline": "Prediction markets tied to clinical trials and drug approvals draw lawmakers' ire",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/11/kalsi-polymarket-prediction-market-senators-hhs-drug-approval.html",
-      "published": "2026-11-11T18:28:59Z",
-      "sentiment": "neutral"
     },
     {
       "category": "tech",
@@ -122,35 +178,11 @@
       "sentiment": "bullish"
     },
     {
-      "category": "consumer",
-      "headline": "American Airlines brings fresh food back to NY-Chicago first class for first time since 2019",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/11/american-airlines-first-class-chicago-new-york.html",
-      "published": "2026-11-11T17:34:18Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "tech",
       "headline": "Update: US Equity Indexes Advance as CoreWeave's Quarterly Results Fire Up AI Trade",
       "image": null,
       "link": "https://finance.yahoo.com/technology/ai/articles/us-equity-indexes-advance-coreweave-173029168.html?.tsrc=rss",
       "published": "2026-11-11T17:30:29Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "CFTC investigates if Kalshi improperly self-certified event contracts",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/11/cftc-investigates-if-kalshi-improperly-self-certified-event-contracts.html",
-      "published": "2026-11-11T17:22:34Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "JetBlue unveils new first class seats to bring back profits",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/11/jetblue-ceo-premium.html",
-      "published": "2026-11-11T17:20:41Z",
       "sentiment": "neutral"
     },
     {
@@ -167,14 +199,6 @@
       "image": "news-images/bcec52bca0c7458ffd37886b.jpg",
       "link": "https://www.marketwatch.com/story/need-money-for-a-down-payment-more-employers-are-offering-to-help-59c57da3?mod=mw_rss_topstories",
       "published": "2026-11-11T17:06:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "international",
-      "headline": "Bessent moved to military base amid 'growing threats' from Iran",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/11/us-iran-war-trump-hormuz-bessent-threats.html",
-      "published": "2026-11-11T16:59:18Z",
       "sentiment": "neutral"
     },
     {
@@ -242,36 +266,12 @@
       "sentiment": "neutral"
     },
     {
-      "category": "other",
-      "headline": "I\u2019m 63 and want to spend $95,000 on a roof deck for my $500,000 home. Is that a good investment?",
-      "image": "news-images/e8e74c6388966b2a5c424dc8.jpg",
-      "link": "https://www.marketwatch.com/story/im-63-and-want-to-spend-95-000-on-a-roof-deck-for-my-500-000-home-is-that-a-good-investment-f1a59c27?mod=mw_rss_topstories",
-      "published": "2026-11-11T15:25:00Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "tech",
       "headline": "Market angst is driving investors into low-volatility stocks as AI trade stumbles",
       "image": "news-images/2ff7a782cf1b653b4518241a.jpg",
       "link": "https://www.marketwatch.com/story/market-angst-is-driving-investors-into-low-volatility-stocks-as-ai-trade-stumbles-23d905e9?mod=mw_rss_topstories",
       "published": "2026-11-11T15:15:00Z",
       "sentiment": "bearish"
-    },
-    {
-      "category": "other",
-      "headline": "From living in his car to a 756 credit score: How one veteran rebuilt his finances",
-      "image": "news-images/bce202b3659f683cd02cb58f.jpg",
-      "link": "https://www.marketwatch.com/story/from-living-in-his-car-to-a-756-credit-score-how-one-veteran-rebuilt-his-finances-026c3336?mod=mw_rss_topstories",
-      "published": "2026-11-11T15:08:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "The Nasdaq Just Entered Correction Territory. 2 ETFs to Buy on the Dip.",
-      "image": null,
-      "link": "https://www.fool.com/investing/2026/11/11/nasdaq-just-entered-correction-territory-2-etfs/?.tsrc=rss",
-      "published": "2026-11-11T15:05:00Z",
-      "sentiment": "neutral"
     },
     {
       "category": "tech",
@@ -322,7 +322,7 @@
       "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-11-11T18:57:38Z",
+  "newest_item_published": "2026-11-11T20:02:12Z",
   "source_item_count": 68,
   "sources": {
     "cnbc": {
@@ -331,7 +331,7 @@
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-11-11T18:57:38Z",
+      "newest": "2026-11-11T20:02:12Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,7 +340,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-11-11T18:48:00Z",
+      "newest": "2026-11-11T20:00:00Z",
       "ok": true
     },
     "mw_bulletins": {
