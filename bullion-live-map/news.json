@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-11-12T20:45:56Z",
+  "generated_at": "2026-11-12T21:12:05Z",
   "headlines": [
+    {
+      "category": "tech",
+      "headline": "The S&P 500 is shrugging off Nvidia\u2019s selloff this week. Here\u2019s what\u2019s keeping the rest of the market afloat.",
+      "image": "news-images/d0b902707660fca680a27672.jpg",
+      "link": "https://www.marketwatch.com/story/the-s-p-500-is-shrugging-off-nvidias-selloff-heres-whats-keeping-the-rest-of-the-market-afloat-7cdf2f05?mod=mw_rss_topstories",
+      "published": "2026-11-12T21:08:00Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "tech",
+      "headline": "Nvidia stock closes down over 4% after CEO Jensen Huang announces resignation",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html",
+      "published": "2026-11-12T21:05:32Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "energy",
+      "headline": "Update: US Equity Indexes Fall as Nvidia CEO Jensen Huang Resigns, Crude Oil Jumps",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-fall-nvidia-210433353.html?.tsrc=rss",
+      "published": "2026-11-12T21:04:33Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "tech",
+      "headline": "Stocks end lower, bond yields jump as Wall Street weighs Nvidia CEO's shock exit",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=94eb182e-600f-4f8f-8440-3ca082f2159c&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-12T21:04:17Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "tech",
+      "headline": "Microsoft outage hits Outlook. AWS and Google users also report issues",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
+      "published": "2026-11-12T20:57:54Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "The bond market now has an even bigger fear than AI fallout",
+      "image": "news-images/6de67bd2e01897ff1b985526.jpg",
+      "link": "https://www.marketwatch.com/story/the-bond-market-now-has-an-even-bigger-fear-than-the-ai-fallout-b6401b54?mod=mw_rss_topstories",
+      "published": "2026-11-12T20:44:00Z",
+      "sentiment": "bearish"
+    },
     {
       "category": "tech",
       "headline": "Alice Huang tied to Nvidia\u2019s biggest Chinese competitor",
@@ -40,6 +88,14 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=5eaae4fe-4dd0-4ab8-88fd-b3fdaf751417&amp;mod=mw_rss_bulletins",
       "published": "2026-11-12T20:25:33Z",
       "sentiment": "bullish"
+    },
+    {
+      "category": "tech",
+      "headline": "United Airlines won\u2019t let AI agents book your flight. Expert says you shouldn't let a bot do that for you, anyway",
+      "image": null,
+      "link": "https://www.cnbc.com/make-it/2026/11/12/ai-agents-human-in-loop.html",
+      "published": "2026-11-12T20:24:59Z",
+      "sentiment": "neutral"
     },
     {
       "category": "other",
@@ -91,26 +147,10 @@
     },
     {
       "category": "tech",
-      "headline": "The S&P 500 is shrugging off Nvidia\u2019s selloff. Here\u2019s what\u2019s keeping the rest of the market afloat.",
-      "image": "news-images/d0b902707660fca680a27672.jpg",
-      "link": "https://www.marketwatch.com/story/the-s-p-500-is-shrugging-off-nvidias-selloff-heres-whats-keeping-the-rest-of-the-market-afloat-7cdf2f05?mod=mw_rss_topstories",
-      "published": "2026-11-12T19:52:00Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "tech",
       "headline": "Stock Market Today: Nasdaq Skids As Nvidia's Chief Exits; Microsoft Shares Hold A Key Level (Live Coverage)",
       "image": null,
       "link": "https://finance.yahoo.com/m/b961f164-91b1-38c0-a2e1-5ab20b01108e/stock-market-today%3A-nasdaq.html?.tsrc=rss",
       "published": "2026-11-12T19:49:10Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "\u2018A dark day for Nvidia\u2019: Here\u2019s what analysts have been saying about Jensen Huang\u2019s departure",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/12/jensen-huang-nvidia-affair-ceo.html",
-      "published": "2026-11-12T19:47:57Z",
       "sentiment": "neutral"
     },
     {
@@ -128,30 +168,6 @@
       "link": "https://www.marketwatch.com/story/trump-administration-is-hiring-debt-collectors-for-first-time-in-6-years-to-go-after-defaulted-student-loan-borrowers-8bae13ad?mod=mw_rss_topstories",
       "published": "2026-11-12T19:46:00Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Nvidia stock pares morning losses after CEO Jensen Huang announces resignation",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html",
-      "published": "2026-11-12T19:42:56Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Here's what Nvidia interim CEO Colette Kress and board chair Harvey Jones wrote to Nvidia employees",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/12/nvidia-kress-jones-employee-emails.html",
-      "published": "2026-11-12T19:42:41Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "The bond market now has an even bigger fear than AI fallout",
-      "image": "news-images/6de67bd2e01897ff1b985526.jpg",
-      "link": "https://www.marketwatch.com/story/the-bond-market-now-has-an-even-bigger-fear-than-the-ai-fallout-b6401b54?mod=mw_rss_topstories",
-      "published": "2026-11-12T19:29:00Z",
-      "sentiment": "bearish"
     },
     {
       "category": "tech",
@@ -282,14 +298,6 @@
       "sentiment": "bullish"
     },
     {
-      "category": "tech",
-      "headline": "How the Stock Market Avoided the Nvidia Blast Crater",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/1bd323ce-86c7-3acf-8c2b-c42ceb7f5061/how-the-stock-market-avoided.html?.tsrc=rss",
-      "published": "2026-11-12T16:03:47Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "realestate",
       "headline": "U.S. existing-home sales plummet to lowest level since 2010",
       "image": null,
@@ -312,17 +320,9 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=f8a02e06-6709-44bd-b7e8-07aa302c1eba&amp;mod=mw_rss_bulletins",
       "published": "2026-11-12T13:56:39Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Treasury yields and oil prices rise after Trump remarks on Iran",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=814a1c31-9818-4999-a38e-d46ed1868a77&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-12T13:42:59Z",
-      "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-11-12T20:34:54Z",
+  "newest_item_published": "2026-11-12T21:08:00Z",
   "source_item_count": 68,
   "sources": {
     "cnbc": {
@@ -331,7 +331,7 @@
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-11-12T20:34:54Z",
+      "newest": "2026-11-12T21:05:32Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,7 +340,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-11-12T20:17:00Z",
+      "newest": "2026-11-12T21:08:00Z",
       "ok": true
     },
     "mw_bulletins": {
@@ -349,7 +349,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-11-12T20:25:33Z",
+      "newest": "2026-11-12T21:04:17Z",
       "ok": true
     },
     "yahoo_dji": {
@@ -358,7 +358,7 @@
       "fetched": 18,
       "fresh": 16,
       "label": "Yahoo Finance",
-      "newest": "2026-11-12T19:49:10Z",
+      "newest": "2026-11-12T21:04:33Z",
       "ok": true
     }
   }
