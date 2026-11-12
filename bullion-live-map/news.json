@@ -1,12 +1,76 @@
 {
-  "generated_at": "2026-11-12T20:12:05Z",
+  "generated_at": "2026-11-12T20:45:56Z",
   "headlines": [
+    {
+      "category": "tech",
+      "headline": "Alice Huang tied to Nvidia\u2019s biggest Chinese competitor",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html",
+      "published": "2026-11-12T20:34:54Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "international",
+      "headline": "Trump says \u2018we don\u2019t need a deal with Iran\u2019",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/12/trump-iran-deal-hormuz-strait.html",
+      "published": "2026-11-12T20:34:31Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Jensen Huang's exit from Nvidia raises critical questions about the future of AI",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/12/jensen-huangs-exit-from-nvidia-raises-questions-about-future-of-ai.html",
+      "published": "2026-11-12T20:32:21Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Lutnick should ban Chinese memory maker CXMT from U.S., Sen. Cotton says",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/12/lutnick-cxmt-china-cotton.html",
+      "published": "2026-11-12T20:28:41Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Stocks give up gains, trade lower in final hour after Huang quits Nvidia \u2014 live",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=5eaae4fe-4dd0-4ab8-88fd-b3fdaf751417&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-12T20:25:33Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "I\u2019m 17 and will be a first-generation college student. Is law school worth being $200,000 in debt?",
+      "image": "news-images/0b756d48d178b58a8ab1583d.jpg",
+      "link": "https://www.marketwatch.com/story/im-17-and-will-be-a-first-generation-college-student-is-law-school-worth-being-200-000-in-debt-df9b23c3?mod=mw_rss_topstories",
+      "published": "2026-11-12T20:17:00Z",
+      "sentiment": "neutral"
+    },
     {
       "category": "other",
       "headline": "Donald Trump Jr. exits advisory role at Kalshi prediction market",
       "image": null,
       "link": "https://www.cnbc.com/2026/11/12/donald-trump-jr-exits-kalshi-advisory-role.html",
       "published": "2026-11-12T20:03:57Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Jensen Huang is out and Nvidia stock is down\u2014what market pros say about buying dips",
+      "image": null,
+      "link": "https://www.cnbc.com/make-it/2026/11/12/nvidia-what-market-pros-say-about-buying-dips.html",
+      "published": "2026-11-12T20:01:29Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Who will replace Jensen Huang? Here's our early thoughts on the search for Nvidia's next CEO",
+      "image": null,
+      "link": "https://www.cnbc.com/investingclub/2026/11/12/jensen-huang-ceo-replacement-jim-cramer.html",
+      "published": "2026-11-12T20:00:42Z",
       "sentiment": "neutral"
     },
     {
@@ -83,14 +147,6 @@
     },
     {
       "category": "tech",
-      "headline": "Jensen Huang's Nvidia exit casts shadow over Wall Street\u2019s $500 billion AI financing bet",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/12/nvidia-ceo-exit-ai-financing.html",
-      "published": "2026-11-12T19:33:50Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
       "headline": "The bond market now has an even bigger fear than AI fallout",
       "image": "news-images/6de67bd2e01897ff1b985526.jpg",
       "link": "https://www.marketwatch.com/story/the-bond-market-now-has-an-even-bigger-fear-than-the-ai-fallout-b6401b54?mod=mw_rss_topstories",
@@ -114,30 +170,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "federal",
-      "headline": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html",
-      "published": "2026-11-12T19:05:25Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "energy",
-      "headline": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html",
-      "published": "2026-11-12T19:04:21Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Jensen and Lori Huang's Nvidia fortune is jointly controlled. How that makes things complicated now that he's resigned",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/12/inside-jensen-and-lori-huangs-jointly-controlled-nvidia-fortune.html",
-      "published": "2026-11-12T19:00:12Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "energy",
       "headline": "Sector Update: Energy Stocks Gain Thursday Afternoon",
       "image": null,
@@ -152,14 +184,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-nvidia-185020214.html?.tsrc=rss",
       "published": "2026-11-12T18:50:20Z",
       "sentiment": "bullish"
-    },
-    {
-      "category": "other",
-      "headline": "Unions helped Democrats win big in 2026. Now they want action",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/12/democrats-unions-midterms-2026.html",
-      "published": "2026-11-12T18:46:36Z",
-      "sentiment": "neutral"
     },
     {
       "category": "tech",
@@ -234,22 +258,6 @@
       "sentiment": "bullish"
     },
     {
-      "category": "other",
-      "headline": "The trillion-dollar mistake corporate America is making about retirement",
-      "image": "news-images/714f1ba08fafe525633a6a38.jpg",
-      "link": "https://www.marketwatch.com/story/corporate-america-is-making-a-trillion-dollar-mistake-about-retirement-234c8996?mod=mw_rss_topstories",
-      "published": "2026-11-12T17:59:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Nebius falls 16% as company expects increased 2026 capex spend, issues weak outlook",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/12/nebius-q3-earnings-report-2026.html",
-      "published": "2026-11-12T17:53:31Z",
-      "sentiment": "bearish"
-    },
-    {
       "category": "tech",
       "headline": "Update: US Equity Indexes Shrug Off Turmoil at Nvidia as CEO Jensen Huang Resigns",
       "image": null,
@@ -312,17 +320,9 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=814a1c31-9818-4999-a38e-d46ed1868a77&amp;mod=mw_rss_bulletins",
       "published": "2026-11-12T13:42:59Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "If the \u2018Bank of Nvidia\u2019 is now in jeopardy, then the whole AI boom is at risk",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=0499781b-0ed8-45ed-81d2-42b0a928a40f&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-12T13:21:27Z",
-      "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-11-12T20:03:57Z",
+  "newest_item_published": "2026-11-12T20:34:54Z",
   "source_item_count": 68,
   "sources": {
     "cnbc": {
@@ -331,7 +331,7 @@
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-11-12T20:03:57Z",
+      "newest": "2026-11-12T20:34:54Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,7 +340,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-11-12T19:52:00Z",
+      "newest": "2026-11-12T20:17:00Z",
       "ok": true
     },
     "mw_bulletins": {
@@ -349,7 +349,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-11-12T19:55:35Z",
+      "newest": "2026-11-12T20:25:33Z",
       "ok": true
     },
     "yahoo_dji": {
