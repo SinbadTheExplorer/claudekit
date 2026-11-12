@@ -1,12 +1,132 @@
 {
-  "generated_at": "2026-11-12T18:12:06Z",
+  "generated_at": "2026-11-12T19:12:07Z",
   "headlines": [
     {
       "category": "federal",
       "headline": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
       "image": null,
       "link": "https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html",
-      "published": "2026-11-12T18:11:32Z",
+      "published": "2026-11-12T19:05:25Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "energy",
+      "headline": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html",
+      "published": "2026-11-12T19:04:21Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Jensen and Lori Huang's Nvidia fortune is jointly controlled. How that makes things complicated now that he's resigned",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/12/inside-jensen-and-lori-huangs-jointly-controlled-nvidia-fortune.html",
+      "published": "2026-11-12T19:00:12Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "energy",
+      "headline": "Sector Update: Energy Stocks Gain Thursday Afternoon",
+      "image": null,
+      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-gain-thursday-185141928.html?.tsrc=rss",
+      "published": "2026-11-12T18:51:41Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "federal",
+      "headline": "Update: US Equity Indexes Mixed After Nvidia CEO Resigns, Treasury Yields Soar",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-nvidia-185020214.html?.tsrc=rss",
+      "published": "2026-11-12T18:50:20Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "Unions helped Democrats win big in 2026. Now they want action",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/12/democrats-unions-midterms-2026.html",
+      "published": "2026-11-12T18:46:36Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Nvidia stock is on sale after Jensen Huang\u2019s exit. Is the selloff just starting?",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=889aa63f-d126-4844-bd1e-edfa4bfa6a4c&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-12T18:46:12Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "\u2018He calls my plans a fantasy\u2019: My husband says we can\u2019t afford our $200,000-a-year dream retirement. I think he\u2019s cheap.",
+      "image": "news-images/a2085945c7321971f68c51a6.jpg",
+      "link": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
+      "published": "2026-11-12T18:46:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Stock Market Today: Dow Higher As Nvidia's Chief Exits; Texas Instruments Eyes Entry (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/b961f164-91b1-38c0-a2e1-5ab20b01108e/stock-market-today%3A-dow.html?.tsrc=rss",
+      "published": "2026-11-12T18:41:51Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "\u2018A dark day for Nvidia\u2019: Here\u2019s what analysts have been saying about Jensen Huang\u2019s departure",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/12/jensen-huang-nvidia-affair-ceo.html",
+      "published": "2026-11-12T18:41:49Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "U.S. inflation is already bad enough. It might get worse.",
+      "image": "news-images/d8a61fcd22b54176921a6431.jpg",
+      "link": "https://www.marketwatch.com/story/u-s-inflation-is-already-bad-enough-it-might-get-worse-bae54da9?mod=mw_rss_topstories",
+      "published": "2026-11-12T18:39:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Here's what Nvidia interim CEO Colette Kress and board chair Harvey Jones wrote to Nvidia employees",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/12/nvidia-kress-jones-employee-emails.html",
+      "published": "2026-11-12T18:33:22Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Equities Rise Intraday Despite Nvidia Sell-Off Post CEO's Departure",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/equities-rise-intraday-despite-nvidia-182433809.html?.tsrc=rss",
+      "published": "2026-11-12T18:24:33Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "energy",
+      "headline": "Sector Update: Energy",
+      "image": null,
+      "link": "https://finance.yahoo.com/energy/articles/sector-energy-182300366.html?.tsrc=rss",
+      "published": "2026-11-12T18:23:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "The 2027 401(k) limits are here. See how much more you can save next year.",
+      "image": "news-images/f01f18667976a530b793b2fe.jpg",
+      "link": "https://www.marketwatch.com/story/the-2027-401-k-limits-are-here-see-how-much-more-you-can-save-next-year-d525768c?mod=mw_rss_topstories",
+      "published": "2026-11-12T18:19:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
+      "image": "news-images/491ea64c3e6cf8878885c263.jpg",
+      "link": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
+      "published": "2026-11-12T18:15:00Z",
       "sentiment": "neutral"
     },
     {
@@ -26,12 +146,12 @@
       "sentiment": "bearish"
     },
     {
-      "category": "energy",
-      "headline": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
+      "category": "tech",
+      "headline": "Stock Market Midday, Nov. 12: Nvidia CEO Resigns, AMD Surges as Wall Street Edges Higher",
       "image": null,
-      "link": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html",
-      "published": "2026-11-12T17:59:26Z",
-      "sentiment": "neutral"
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/11/12/stock-market-midday-nov-12-nvidia-ceo-resigns-amd-surges-as-wall-street-edges-higher/?.tsrc=rss",
+      "published": "2026-11-12T18:05:02Z",
+      "sentiment": "bullish"
     },
     {
       "category": "other",
@@ -91,35 +211,11 @@
     },
     {
       "category": "tech",
-      "headline": "Analysis: Nvidia\u2019s leadership crisis tests the chipmaker\u2019s role as the \u2018central bank of AI\u2019",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
-      "published": "2026-11-12T17:39:54Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Jensen and Lori Huang's Nvidia fortune is jointly controlled. How that makes things complicated now that he's resigned",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/12/inside-jensen-and-lori-huangs-jointly-controlled-nvidia-fortune.html",
-      "published": "2026-11-12T17:39:28Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
       "headline": "The S&P 500 is shrugging off Nvidia\u2019s selloff. Here\u2019s what\u2019s keeping the rest of the market afloat.",
       "image": "news-images/d0b902707660fca680a27672.jpg",
       "link": "https://www.marketwatch.com/story/the-s-p-500-is-shrugging-off-nvidias-selloff-heres-whats-keeping-the-rest-of-the-market-afloat-7cdf2f05?mod=mw_rss_topstories",
       "published": "2026-11-12T17:38:00Z",
       "sentiment": "bearish"
-    },
-    {
-      "category": "tech",
-      "headline": "Jensen Huang's exit from Nvidia raises critical questions about the future of AI",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/12/jensen-huangs-exit-from-nvidia-raises-questions-about-future-of-ai.html",
-      "published": "2026-11-12T17:37:36Z",
-      "sentiment": "neutral"
     },
     {
       "category": "tech",
@@ -139,35 +235,11 @@
     },
     {
       "category": "tech",
-      "headline": "Stock Market Today: Nasdaq Higher Amid Nvidia CEO Change; Software Name Jumps (Live Coverage)",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/b961f164-91b1-38c0-a2e1-5ab20b01108e/stock-market-today%3A-nasdaq.html?.tsrc=rss",
-      "published": "2026-11-12T17:26:20Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "tech",
       "headline": "The bond market now has an even bigger fear than the AI fallout",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=69f37dc6-7696-4b23-bf1c-69fa93b8bab4&amp;mod=mw_rss_bulletins",
       "published": "2026-11-12T17:25:57Z",
       "sentiment": "bearish"
-    },
-    {
-      "category": "other",
-      "headline": "\u2018We had the worst fight\u2019: I want my husband to retire at 65, but I don\u2019t want to lose his $280,000 salary. Is that unreasonable?",
-      "image": "news-images/003009a389dabacce5f79fde.jpg",
-      "link": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
-      "published": "2026-11-12T17:01:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "realestate",
-      "headline": "My wife and I are in our 70s. Should we pay off our 2.5% mortgage or invest in a stock market driven by AI?",
-      "image": "news-images/cced7b4f7a02b064a3937891.jpg",
-      "link": "https://www.marketwatch.com/story/we-are-in-our-70s-should-we-pay-off-our-2-5-mortgage-or-build-up-our-savings-5a35e9c1?mod=mw_rss_topstories",
-      "published": "2026-11-12T17:00:00Z",
-      "sentiment": "neutral"
     },
     {
       "category": "tech",
@@ -178,27 +250,11 @@
       "sentiment": "bullish"
     },
     {
-      "category": "other",
-      "headline": "\u2018I\u2019m sick of flying\u2019: I paid for priority boarding, but the overhead bins were full. Was I duped?",
-      "image": "news-images/e608328c397cf7e68154d9c6.jpg",
-      "link": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
-      "published": "2026-11-12T16:15:00Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "tech",
       "headline": "How the Stock Market Avoided the Nvidia Blast Crater",
       "image": null,
       "link": "https://finance.yahoo.com/m/1bd323ce-86c7-3acf-8c2b-c42ceb7f5061/how-the-stock-market-avoided.html?.tsrc=rss",
       "published": "2026-11-12T16:03:47Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "healthcare",
-      "headline": "Medicare at age 50? What \u2018Medicare for more\u2019 could mean for American workers.",
-      "image": "news-images/bcd06892a5b6f0d490e2e65b.jpg",
-      "link": "https://www.marketwatch.com/story/its-not-medicare-for-all-but-medicare-for-more-what-this-could-mean-for-workers-over-50-4a5c51a3?mod=mw_rss_topstories",
-      "published": "2026-11-12T16:00:00Z",
       "sentiment": "neutral"
     },
     {
@@ -235,27 +291,11 @@
     },
     {
       "category": "tech",
-      "headline": "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Thursday Amid Nvidia Leadership Uncertainty",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-140846632.html?.tsrc=rss",
-      "published": "2026-11-12T14:08:46Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
       "headline": "Jensen Huang has just resigned as Nvidia CEO \u2014 live updates",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=f8a02e06-6709-44bd-b7e8-07aa302c1eba&amp;mod=mw_rss_bulletins",
       "published": "2026-11-12T13:56:39Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Update: Potential Nvidia CEO Ouster Weighs on US Equity Futures Pre-Bell",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/potential-nvidia-ceo-ouster-weighs-134810074.html?.tsrc=rss",
-      "published": "2026-11-12T13:48:10Z",
-      "sentiment": "bearish"
     },
     {
       "category": "federal",
@@ -267,35 +307,11 @@
     },
     {
       "category": "tech",
-      "headline": "Equity Futures Mostly Down as Nvidia Declines Amid Uncertainty Over CEO's Fate",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/equity-futures-mostly-down-nvidia-132655775.html?.tsrc=rss",
-      "published": "2026-11-12T13:26:55Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
       "headline": "If the \u2018Bank of Nvidia\u2019 is now in jeopardy, then the whole AI boom is at risk",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=0499781b-0ed8-45ed-81d2-42b0a928a40f&amp;mod=mw_rss_bulletins",
       "published": "2026-11-12T13:21:27Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Dow Jones Futures Fall, Techs Tumble As Nvidia Board Mulls Ousting CEO Jensen Huang; CoreWeave Rival Nebius Dives On Results",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/672e6ef4-2ba3-319b-b948-a356a7f1fcbe/dow-jones-futures-fall%2C-techs.html?.tsrc=rss",
-      "published": "2026-11-12T13:19:57Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "tech",
-      "headline": "Stock Market Today: Major Indexes Rise as Investors Take News of Nvidia CEO Huang\u2019s Departure in Stride; AMD, Broadcom Jump",
-      "image": null,
-      "link": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-11122026-12250329?.tsrc=rss",
-      "published": "2026-11-12T13:18:05Z",
-      "sentiment": "bullish"
     },
     {
       "category": "realestate",
@@ -304,34 +320,18 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=aa7cc5e1-7238-406c-b87f-5d1134f7243b&amp;mod=mw_rss_bulletins",
       "published": "2026-11-12T12:57:44Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Markets price a 50-50 chance that a Jensen Huang announcement will come Thursday",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=488cbf98-474a-49ce-8bf5-5cff67963a5b&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-12T09:20:16Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Nasdaq futures slump as Nvidia weighs Jensen Huang fate: live updates",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=23108dc4-f5b9-4deb-83fc-25c46ea9fa51&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-12T08:38:45Z",
-      "sentiment": "bearish"
     }
   ],
-  "newest_item_published": "2026-11-12T18:11:32Z",
+  "newest_item_published": "2026-11-12T19:05:25Z",
   "source_item_count": 67,
   "sources": {
     "cnbc": {
-      "contributed": 10,
+      "contributed": 11,
       "error": null,
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-11-12T18:11:32Z",
+      "newest": "2026-11-12T19:05:25Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,16 +340,16 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-11-12T18:09:00Z",
+      "newest": "2026-11-12T18:46:00Z",
       "ok": true
     },
     "mw_bulletins": {
-      "contributed": 10,
+      "contributed": 9,
       "error": null,
       "fetched": 10,
       "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-11-12T17:25:57Z",
+      "newest": "2026-11-12T18:46:12Z",
       "ok": true
     },
     "yahoo_dji": {
@@ -358,7 +358,7 @@
       "fetched": 17,
       "fresh": 15,
       "label": "Yahoo Finance",
-      "newest": "2026-11-12T17:35:02Z",
+      "newest": "2026-11-12T18:51:41Z",
       "ok": true
     }
   }
