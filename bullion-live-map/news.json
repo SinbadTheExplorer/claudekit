@@ -1,6 +1,158 @@
 {
-  "generated_at": "2026-11-12T13:12:05Z",
+  "generated_at": "2026-11-12T14:12:05Z",
   "headlines": [
+    {
+      "category": "tech",
+      "headline": "Jensen Huang built Nvidia into a behemoth. His resignation puts the entire AI boom in jeopardy.",
+      "image": "news-images/16b0cdb3ff5a264d2c79658f.jpg",
+      "link": "https://www.marketwatch.com/story/jensen-huang-built-nvidia-into-a-behemoth-his-scandal-puts-the-entire-ai-boom-in-jeopardy-c374b079?mod=mw_rss_topstories",
+      "published": "2026-11-12T14:10:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "10-year Treasury yield jumps back above 5% as oil gains, more Fed hikes expected",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/12/us-treasurys-bonds-yields.html",
+      "published": "2026-11-12T14:08:21Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "Jim Cramer's top 10 things to watch in the stock market Thursday",
+      "image": null,
+      "link": "https://www.cnbc.com/investingclub/2026/11/12/jim-cramers-top-10-things-to-watch-in-the-stock-market-thursday.html",
+      "published": "2026-11-12T14:00:19Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Disney's 'Star Wars' is coming to Cosm domes ahead of 50th anniversary as part of multiyear film deal",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/12/star-wars-cosm-dome-screenings.html",
+      "published": "2026-11-12T14:00:01Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Canada\u2019s ambassador warns Trump tariffs are driving up costs, threatening U.S. investment",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/11/canada-ambassador-trump-tariffs-investments.html",
+      "published": "2026-11-12T13:59:30Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Jensen Huang has just resigned as Nvidia CEO \u2014 live updates",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=f8a02e06-6709-44bd-b7e8-07aa302c1eba&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-12T13:56:39Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "international",
+      "headline": "Trump says \u2018we don\u2019t need a deal with Iran\u2019",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/12/trump-iran-deal-hormuz-strait.html",
+      "published": "2026-11-12T13:54:31Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "energy",
+      "headline": "Oil prices jump after Trump says no Iran deal needed: 'We've got their Strait'",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html",
+      "published": "2026-11-12T13:49:46Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "tech",
+      "headline": "Update: Potential Nvidia CEO Ouster Weighs on US Equity Futures Pre-Bell",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/potential-nvidia-ceo-ouster-weighs-134810074.html?.tsrc=rss",
+      "published": "2026-11-12T13:48:10Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "tech",
+      "headline": "Stock Market Today: Futures Fall On Trump Oil Remarks; Nvidia Plunges On New CEO Reports (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/b961f164-91b1-38c0-a2e1-5ab20b01108e/stock-market-today%3A-futures.html?.tsrc=rss",
+      "published": "2026-11-12T13:45:22Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "federal",
+      "headline": "Treasury yields and oil prices rise after Trump remarks on Iran",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=814a1c31-9818-4999-a38e-d46ed1868a77&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-12T13:42:59Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "healthcare",
+      "headline": "It\u2019s not \u2018Medicare for All,\u2019 but \u2018Medicare for More.\u2019 What this could mean for workers over 50.",
+      "image": "news-images/bcd06892a5b6f0d490e2e65b.jpg",
+      "link": "https://www.marketwatch.com/story/its-not-medicare-for-all-but-medicare-for-more-what-this-could-mean-for-workers-over-50-4a5c51a3?mod=mw_rss_topstories",
+      "published": "2026-11-12T13:38:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Equity Futures Mostly Down as Nvidia Declines Amid Uncertainty Over CEO's Fate",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/equity-futures-mostly-down-nvidia-132655775.html?.tsrc=rss",
+      "published": "2026-11-12T13:26:55Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "If the \u2018Bank of Nvidia\u2019 is now in jeopardy, then the whole AI boom is at risk",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=0499781b-0ed8-45ed-81d2-42b0a928a40f&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-12T13:21:27Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Lutnick should ban Chinese memory maker CXMT from U.S., Sen. Cotton says",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/12/lutnick-cxmt-china-cotton.html",
+      "published": "2026-11-12T13:20:12Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Dow Jones Futures Fall, Techs Tumble As Nvidia Board Mulls Ousting CEO Jensen Huang; CoreWeave Rival Nebius Dives On Results",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/672e6ef4-2ba3-319b-b948-a356a7f1fcbe/dow-jones-futures-fall%2C-techs.html?.tsrc=rss",
+      "published": "2026-11-12T13:19:57Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "As credit card balances hit a record high, medical bills can become 'shadow debt,' expert says",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/12/medical-bills-credit-card-debt.html",
+      "published": "2026-11-12T13:15:02Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "Unions helped Democrats win big in 2026. Now they want action",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/12/democrats-unions-midterms-2026.html",
+      "published": "2026-11-12T13:09:33Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "\u2018A dark day for Nvidia\u2019: Here\u2019s what analysts are saying as markets brace for news on Huang's fate",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/12/jensen-huang-nvidia-affair-ceo.html",
+      "published": "2026-11-12T13:08:28Z",
+      "sentiment": "neutral"
+    },
     {
       "category": "other",
       "headline": "Nebius falls 10% as company expects increased 2026 capex spend, issues weak outlook",
@@ -50,30 +202,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "other",
-      "headline": "Scott Colom wins Mississippi Senate election over incumbent Republican Hyde-Smith",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/11/democrat-scott-colom-projected-to-win-mississippi-senate-election-over-incumbent-hyde-smith.html",
-      "published": "2026-11-12T12:56:27Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "tech",
-      "headline": "The \u2018bank of Nvidia\u2019 is in jeopardy, threatening the entire AI boom",
-      "image": "news-images/16b0cdb3ff5a264d2c79658f.jpg",
-      "link": "https://www.marketwatch.com/story/jensen-huang-built-nvidia-into-a-behemoth-his-scandal-puts-the-entire-ai-boom-in-jeopardy-c374b079?mod=mw_rss_topstories",
-      "published": "2026-11-12T12:55:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Dow Jones Futures: Techs Fall As Nvidia Board Mulls Ousting CEO Jensen Huang; CoreWeave Rival Nebius Dives On Results",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/672e6ef4-2ba3-319b-b948-a356a7f1fcbe/dow-jones-futures%3A-techs-fall.html?.tsrc=rss",
-      "published": "2026-11-12T12:54:44Z",
-      "sentiment": "bearish"
-    },
-    {
       "category": "tech",
       "headline": "Nvidia\u2019s Jensen Huang crisis tests how much of the AI industry depends on one man",
       "image": "news-images/8012d81a684cfe8461b6fd14.jpg",
@@ -83,50 +211,10 @@
     },
     {
       "category": "tech",
-      "headline": "Nvidia stock falls 8% as investors await Jensen Huang\u2019s fate",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html",
-      "published": "2026-11-12T12:05:42Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "tech",
-      "headline": "Jensen Huang affair in DC: Resignation calls and moves to tighten Nvidia China exports",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-congress-resign-ai-chips.html",
-      "published": "2026-11-12T12:03:39Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Cramer's stance on Nvidia's stock amid reports that CEO Jensen Huang may be ousted",
-      "image": null,
-      "link": "https://www.cnbc.com/investingclub/2026/11/11/jim-cramer-jensen-huang-nvidia-stock-advice.html",
-      "published": "2026-11-12T11:57:14Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
       "headline": "Tech stocks may soon enjoy a \u2018violent bounce\u2019 \u2014 but one strategist warns investors not to take the bait",
       "image": "news-images/123fdcdc3f3d7c6eb75ed98d.jpg",
       "link": "https://www.marketwatch.com/story/tech-stocks-may-soon-enjoy-a-violent-bounce-but-one-strategist-warns-investors-not-to-take-the-bait-1a41f9c4?mod=mw_rss_topstories",
       "published": "2026-11-12T11:34:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Scout Motors has 212,000 vehicle reservations as $2 billion South Carolina plant nears completion",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/12/scout-motors-reservations-south-carolina-plant.html",
-      "published": "2026-11-12T11:30:01Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "international",
-      "headline": "Ukraine warns of fresh Starshield disruptions as U.S. envoys arrive in Moscow for talks with Putin",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/12/starlink-starshield-ukraine-restrictions-spacex.html",
-      "published": "2026-11-12T11:23:04Z",
       "sentiment": "neutral"
     },
     {
@@ -139,7 +227,7 @@
     },
     {
       "category": "tech",
-      "headline": "Stock market today: S&P 500, Nasdaq futures sink as Nvidia CEO turmoil jolts confidence",
+      "headline": "Stock market today: Dow, S&P 500, Nasdaq futures sink as Nvidia CEO Jensen Huang resigns, stock tanks",
       "image": null,
       "link": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-12-sp-500-nasdaq-dow-nvidia-invest-110027430.html?.tsrc=rss",
       "published": "2026-11-12T11:00:27Z",
@@ -187,22 +275,6 @@
     },
     {
       "category": "other",
-      "headline": "Prince Harry and Meghan Markle move into new home in Cotswolds",
-      "image": "news-images/9f83c2b8a81da58c60505005.jpg",
-      "link": "https://www.marketwatch.com/story/prince-harry-and-meghan-markle-move-into-new-home-in-cotswolds-e9bb0739?mod=mw_rss_topstories",
-      "published": "2026-11-12T10:03:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Lutnick should ban Chinese memory maker CXMT from U.S., Sen. Cotton says",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/12/lutnick-cxmt-china-cotton.html",
-      "published": "2026-11-12T10:00:01Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
       "headline": "We've Witnessed the Stock Market Do This 19 Times in 76 Years, and Equities Have Been Higher One Year Later 100% of the Time",
       "image": null,
       "link": "https://www.fool.com/investing/2026/11/12/weve-witnessed-stock-market-do-this-19-times-in-76-years-higher-one-year-later-100-of-the-time/?.tsrc=rss",
@@ -219,59 +291,11 @@
     },
     {
       "category": "tech",
-      "headline": "Ukrainian defense tech startup hits $6 billion valuation as investors bet on battle-tested drones",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/12/uforce-defense-tech-drones-warfare-ukraine.html",
-      "published": "2026-11-12T09:05:22Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
       "headline": "Nasdaq futures slump as Nvidia weighs Jensen Huang fate: live updates",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=23108dc4-f5b9-4deb-83fc-25c46ea9fa51&amp;mod=mw_rss_bulletins",
       "published": "2026-11-12T08:38:45Z",
       "sentiment": "bearish"
-    },
-    {
-      "category": "federal",
-      "headline": "Treasury yields edge higher as investors await fresh inflation and housing data",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/12/us-treasurys-bonds-yields.html",
-      "published": "2026-11-12T07:38:45Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Stock Market News for Nov 12, 2026",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-nov-12-071100866.html?.tsrc=rss",
-      "published": "2026-11-12T07:11:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Stock Market: Will S&P 500 Open Up or Down Today?",
-      "image": null,
-      "link": "https://www.benzinga.com/markets/prediction-markets/26/11/63172206/stock-market-will-sp-500-open-up-or-down-today-76?utm_source=yahooFinance&amp;utm_campaign=partner_feed&amp;utm_medium=referral&amp;.tsrc=rss",
-      "published": "2026-11-12T06:00:43Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "World shares are mixed as Nvidia's troubles weigh on AI stocks",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/asian-shares-mostly-slip-nvidias-041124515.html?.tsrc=rss",
-      "published": "2026-11-12T04:11:24Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "other",
-      "headline": "The world's super-rich are piling into alternative investments. Here's why",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/12/rich-wealth-alternative-assets-.html",
-      "published": "2026-11-12T03:36:44Z",
-      "sentiment": "neutral"
     },
     {
       "category": "tech",
@@ -296,34 +320,10 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=ec87fcea-3112-47c2-b9d9-9c3e2d0e9c33&amp;mod=mw_rss_bulletins",
       "published": "2026-11-11T21:53:40Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Nasdaq, S&P 500 close sharply higher as AI stocks surge; Dow gains 250 points",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=caec7b76-7232-4e83-890b-5e239b00fb29&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-11T21:06:06Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "tech",
-      "headline": "Nasdaq and S&P 500 surging, Dow up 250 points in final hour as AI stocks rally",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=d51ab228-ee4a-40dd-bf2d-fcebbc0790ff&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-11T20:21:24Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "tech",
-      "headline": "Has Nvidia flown too close to the sun? An analyst warns of major scrutiny ahead.",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=3a73ab56-6eac-4199-8a0a-d4fcb4b5fee9&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-11T18:27:38Z",
-      "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-11-12T13:06:08Z",
-  "source_item_count": 69,
+  "newest_item_published": "2026-11-12T14:10:00Z",
+  "source_item_count": 70,
   "sources": {
     "cnbc": {
       "contributed": 11,
@@ -331,7 +331,7 @@
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-11-12T13:06:08Z",
+      "newest": "2026-11-12T14:08:21Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,7 +340,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-11-12T13:05:00Z",
+      "newest": "2026-11-12T14:10:00Z",
       "ok": true
     },
     "mw_bulletins": {
@@ -349,16 +349,16 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-11-12T12:57:44Z",
+      "newest": "2026-11-12T13:56:39Z",
       "ok": true
     },
     "yahoo_dji": {
       "contributed": 10,
       "error": null,
-      "fetched": 19,
-      "fresh": 19,
+      "fetched": 20,
+      "fresh": 20,
       "label": "Yahoo Finance",
-      "newest": "2026-11-12T13:03:42Z",
+      "newest": "2026-11-12T13:48:10Z",
       "ok": true
     }
   }
