@@ -1,6 +1,70 @@
 {
-  "generated_at": "2026-11-13T17:12:05Z",
+  "generated_at": "2026-11-13T18:12:06Z",
   "headlines": [
+    {
+      "category": "other",
+      "headline": "The common theme driving stocks lower \u2014 plus, 3 trades and another we want to make",
+      "image": null,
+      "link": "https://www.cnbc.com/investingclub/2026/11/13/the-common-theme-driving-stocks-lower-plus-3-trades-and-another-we-want-to-make.html",
+      "published": "2026-11-13T18:11:33Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "I am turning 18 next month and want to start investing. What do I do first?",
+      "image": "news-images/812161166020a7105608859d.jpg",
+      "link": "https://www.marketwatch.com/story/i-am-turning-18-next-month-and-want-to-start-investing-what-do-i-do-first-75370ff3?mod=mw_rss_topstories",
+      "published": "2026-11-13T17:56:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Microsoft apologizes for massive outage that took down Outlook and other 365 services",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
+      "published": "2026-11-13T17:52:30Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "10-year Treasury yield moves to 5.17% as traders weigh producer price report",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/13/treasury-yields-fed-rates.html",
+      "published": "2026-11-13T17:39:48Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "federal",
+      "headline": "Stock Market Midday, Nov. 13: Nasdaq Plunges as Nvidia Turmoil Deepens and Treasury Yields Hit 5%",
+      "image": null,
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/11/13/stock-market-midday-nov-13-nasdaq-plunges-as-nvidia-turmoil-deepens-and-treasury-yields-hit-5/?.tsrc=rss",
+      "published": "2026-11-13T17:35:01Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "tech",
+      "headline": "Stock Market Today: Nasdaq Sinks As Nvidia Drops; Finance Stock Jumps (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/59c1380c-6194-35f8-be3b-4a6a3148bfa4/stock-market-today%3A-nasdaq.html?.tsrc=rss",
+      "published": "2026-11-13T17:29:18Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Update: Sliding Chipmakers Push US Equity Indexes Lower While Producer Prices Growth Below Forecast",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sliding-chipmakers-push-us-equity-172710666.html?.tsrc=rss",
+      "published": "2026-11-13T17:27:10Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Should a widow leave her late partner\u2019s home to her stepkids \u2014 or cut off contact with them?",
+      "image": "news-images/faefa2f6534aaf2d674a937d.jpg",
+      "link": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
+      "published": "2026-11-13T17:16:00Z",
+      "sentiment": "neutral"
+    },
     {
       "category": "tech",
       "headline": "How low does Nvidia\u2019s stock need to go before it\u2019s a screaming bargain?",
@@ -15,6 +79,14 @@
       "image": null,
       "link": "https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html",
       "published": "2026-11-13T17:06:57Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "After Jensen Huang\u2019s exit, what top financial advisors are doing with Nvidia: Exclusive CNBC poll",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/13/nvidia-stock-advisors-jensen-huang-exit-exclusive-poll.html",
+      "published": "2026-11-13T17:01:26Z",
       "sentiment": "neutral"
     },
     {
@@ -39,14 +111,6 @@
       "image": "news-images/3a3b8854b23cd421a7b09a75.jpg",
       "link": "https://www.marketwatch.com/story/spacex-is-about-to-attempt-the-holy-grail-of-rocketry-44e79dcc?mod=mw_rss_topstories",
       "published": "2026-11-13T16:54:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Microsoft says email delivery and service availability 'improving' across more infrastructure",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
-      "published": "2026-11-13T16:49:13Z",
       "sentiment": "neutral"
     },
     {
@@ -98,14 +162,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "other",
-      "headline": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
-      "image": "news-images/491ea64c3e6cf8878885c263.jpg",
-      "link": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
-      "published": "2026-11-13T16:00:00Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "tech",
       "headline": "Nvidia scandal draws in Commerce Secretary Lutnick, who reportedly agrees to testify about China chip sales",
       "image": null,
@@ -123,22 +179,6 @@
     },
     {
       "category": "tech",
-      "headline": "Microsoft Outlook outage stretches into a second day, causing widespread disruption",
-      "image": "news-images/ffe5356d716595176447f2a8.jpg",
-      "link": "https://www.marketwatch.com/story/microsoft-stock-slumps-on-outage-that-includes-the-copilot-tool-it-has-been-heavily-promoting-4007dc4f?mod=mw_rss_topstories",
-      "published": "2026-11-13T15:44:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "10-year Treasury yield moves to 5.15% as traders weigh producer price report",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/13/treasury-yields-fed-rates.html",
-      "published": "2026-11-13T15:40:10Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "tech",
       "headline": "What's ahead for AI financing after Nvidia CEO Jensen Huang departs",
       "image": null,
       "link": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-resignation-ai-financing.html",
@@ -151,30 +191,6 @@
       "image": null,
       "link": "https://www.cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html",
       "published": "2026-11-13T15:31:58Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Stock Market Today: Nasdaq Slides Amid Surprise Economic Data; Microsoft Outage Trips Up Stock (Live Coverage)",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/59c1380c-6194-35f8-be3b-4a6a3148bfa4/stock-market-today%3A-nasdaq.html?.tsrc=rss",
-      "published": "2026-11-13T15:18:05Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "NHL\u2019s next TV deal will test the league\u2019s strength while media companies prepare for NFL rights increase",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/13/nhls-next-media-deal-will-test-the-leagues-strength.html",
-      "published": "2026-11-13T15:04:10Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Apple, Alphabet and Uber survived major founder transitions. Nvidia will be a harder test",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-founder-ceo-transition.html",
-      "published": "2026-11-13T15:03:10Z",
       "sentiment": "neutral"
     },
     {
@@ -227,7 +243,7 @@
     },
     {
       "category": "tech",
-      "headline": "Stock Market Today: S&P 500, Nasdaq Slip in Early Trading as Nvidia Shares Continue Falling; Major Indexes Remain on Track for Big Weekly Gains",
+      "headline": "Stock Market Today: S&P 500, Nasdaq Plunge as Nvidia Extends Declines, Tech Stocks Sink; Major Indexes Remain on Track to Post Weekly Gains",
       "image": null,
       "link": "https://www.investopedia.com/stock-market-today-dow-jones-today-s-and-p-500-nasdaq-11132026-12252143?.tsrc=rss",
       "published": "2026-11-13T13:37:34Z",
@@ -250,27 +266,11 @@
       "sentiment": "bullish"
     },
     {
-      "category": "other",
-      "headline": "Are You Letting Political Dread Dictate Your Portfolio? This Is Why That Could Be a Big Mistake",
-      "image": null,
-      "link": "https://www.kiplinger.com/investing/dont-let-political-dread-dictate-your-portfolio?.tsrc=rss",
-      "published": "2026-11-13T13:00:00Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "federal",
       "headline": "Economic calendar: Wholesale-inflation report is Friday\u2019s main event",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=84e9759d-6026-4ca9-b73d-aec5a99fb02d&amp;mod=mw_rss_bulletins",
       "published": "2026-11-13T12:54:57Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "US Equity Futures Slightly Higher as Traders Assess Nvidia CEO Jensen Huang's Exit",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-slightly-higher-125415734.html?.tsrc=rss",
-      "published": "2026-11-13T12:54:15Z",
       "sentiment": "neutral"
     },
     {
@@ -322,7 +322,7 @@
       "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-11-13T17:07:00Z",
+  "newest_item_published": "2026-11-13T18:11:33Z",
   "source_item_count": 69,
   "sources": {
     "cnbc": {
@@ -331,7 +331,7 @@
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-11-13T17:06:57Z",
+      "newest": "2026-11-13T18:11:33Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,7 +340,7 @@
       "fetched": 10,
       "fresh": 9,
       "label": "MarketWatch",
-      "newest": "2026-11-13T17:07:00Z",
+      "newest": "2026-11-13T17:56:00Z",
       "ok": true
     },
     "mw_bulletins": {
@@ -358,7 +358,7 @@
       "fetched": 19,
       "fresh": 19,
       "label": "Yahoo Finance",
-      "newest": "2026-11-13T15:18:05Z",
+      "newest": "2026-11-13T17:35:01Z",
       "ok": true
     }
   }
