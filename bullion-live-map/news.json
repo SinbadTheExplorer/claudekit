@@ -1,6 +1,78 @@
 {
-  "generated_at": "2026-11-13T16:12:06Z",
+  "generated_at": "2026-11-13T17:12:05Z",
   "headlines": [
+    {
+      "category": "tech",
+      "headline": "How low does Nvidia\u2019s stock need to go before it\u2019s a screaming bargain?",
+      "image": "news-images/c5eb5d111e18a781496f770b.jpg",
+      "link": "https://www.marketwatch.com/story/how-low-does-nvidias-stock-need-to-go-before-its-a-screaming-bargain-c25302ed?mod=mw_rss_topstories",
+      "published": "2026-11-13T17:07:00Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "tech",
+      "headline": "Bessent blames Lutnick\u2019s Commerce as he slams Nvidia chip \u2018leakage\u2019 to China",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html",
+      "published": "2026-11-13T17:06:57Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "If you could change one thing about caregiving, what would it be?",
+      "image": "news-images/08d3a3182f54ca7067db525a.jpg",
+      "link": "https://www.marketwatch.com/story/if-you-could-change-one-thing-about-caregiving-what-would-it-be-8b20be29?mod=mw_rss_topstories",
+      "published": "2026-11-13T17:01:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Why the data center slowdown concern is overblown. Two stocks to buy amid the fear",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/13/data-center-slowdown-utility-stocks.html",
+      "published": "2026-11-13T16:54:40Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "SpaceX is about to attempt the \u2018holy grail\u2019 of rocketry",
+      "image": "news-images/3a3b8854b23cd421a7b09a75.jpg",
+      "link": "https://www.marketwatch.com/story/spacex-is-about-to-attempt-the-holy-grail-of-rocketry-44e79dcc?mod=mw_rss_topstories",
+      "published": "2026-11-13T16:54:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Microsoft says email delivery and service availability 'improving' across more infrastructure",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
+      "published": "2026-11-13T16:49:13Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Nvidia has now shed $657 billion in market capitalization this week",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=302353a3-69b3-4c15-9535-43e6f605ba39&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-13T16:39:07Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "\u2018The thought of living to 100 terrifies me\u2019: Is Social Security a giant Ponzi scheme?",
+      "image": "news-images/d614f939562eaaf70c13752f.jpg",
+      "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+      "published": "2026-11-13T16:30:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Nvidia\u2019s stock is on a losing streak not seen in 14 years. What comes next?",
+      "image": "news-images/548b98d464c04b6c1f6355b3.jpg",
+      "link": "https://www.marketwatch.com/story/nvidias-stock-is-on-a-losing-streak-not-seen-in-14-years-what-comes-next-a07e801e?mod=mw_rss_topstories",
+      "published": "2026-11-13T16:26:00Z",
+      "sentiment": "neutral"
+    },
     {
       "category": "other",
       "headline": "From living in his car to a 756 credit score: How one veteran rebuilt his finances",
@@ -10,19 +82,19 @@
       "sentiment": "neutral"
     },
     {
-      "category": "tech",
-      "headline": "Bessent blames Lutnick\u2019s Commerce as he slams Nvidia chip \u2018leakage\u2019 to China",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html",
-      "published": "2026-11-13T16:03:42Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "other",
       "headline": "\u2018I\u2019m sick of flying\u2019: I paid for priority boarding, but the overhead bins were full. Was I duped?",
       "image": "news-images/e608328c397cf7e68154d9c6.jpg",
       "link": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
       "published": "2026-11-13T16:01:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Women are taking pay cuts and 'white-knuckling it' to manage menopause and work: 'I feel like I'm sitting on the sidelines'",
+      "image": null,
+      "link": "https://www.cnbc.com/make-it/2026/11/13/menopause-career-setbacks.html",
+      "published": "2026-11-13T16:00:01Z",
       "sentiment": "neutral"
     },
     {
@@ -66,14 +138,6 @@
       "sentiment": "bearish"
     },
     {
-      "category": "other",
-      "headline": "I\u2019m 17 and will be a first-generation college student. Is law school worth being $200,000 in debt?",
-      "image": "news-images/0b756d48d178b58a8ab1583d.jpg",
-      "link": "https://www.marketwatch.com/story/im-17-and-will-be-a-first-generation-college-student-is-law-school-worth-being-200-000-in-debt-df9b23c3?mod=mw_rss_topstories",
-      "published": "2026-11-13T15:37:00Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "tech",
       "headline": "What's ahead for AI financing after Nvidia CEO Jensen Huang departs",
       "image": null,
@@ -90,52 +154,12 @@
       "sentiment": "neutral"
     },
     {
-      "category": "other",
-      "headline": "\u2018He calls my plans a fantasy\u2019: My husband says we can\u2019t afford a $200,000-a-year retirement. Is he being cheap?",
-      "image": "news-images/a2085945c7321971f68c51a6.jpg",
-      "link": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
-      "published": "2026-11-13T15:30:00Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "tech",
       "headline": "Stock Market Today: Nasdaq Slides Amid Surprise Economic Data; Microsoft Outage Trips Up Stock (Live Coverage)",
       "image": null,
       "link": "https://finance.yahoo.com/m/59c1380c-6194-35f8-be3b-4a6a3148bfa4/stock-market-today%3A-nasdaq.html?.tsrc=rss",
       "published": "2026-11-13T15:18:05Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "\u2018She has a history of financial mismanagement\u2019: My brother cut our sister out of his will. I\u2019ll get everything. Do I tell her?",
-      "image": "news-images/3ebf737366e631acd804d4d2.jpg",
-      "link": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
-      "published": "2026-11-13T15:15:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "healthcare",
-      "headline": "Am I overpaying for health insurance? How to answer the key question this open-enrollment season.",
-      "image": "news-images/aa0998de0110c62bfb5a6cee.jpg",
-      "link": "https://www.marketwatch.com/story/am-i-overpaying-for-health-insurance-how-to-answer-the-key-question-this-open-enrollment-season-2d00ed55?mod=mw_rss_topstories",
-      "published": "2026-11-13T15:11:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Microsoft says email queues 'approaching normal levels' as Outlook issues persist",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
-      "published": "2026-11-13T15:10:20Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "realestate",
-      "headline": "Home sales plummet to lowest level since \u2018Great Recession\u2019 as prices hit all-time high",
-      "image": "news-images/ff33d1d85f57deda00096290.jpg",
-      "link": "https://www.marketwatch.com/story/home-sales-plummet-to-lowest-level-since-the-great-recession-as-buyers-flee-the-market-624e6270?mod=mw_rss_topstories",
-      "published": "2026-11-13T15:08:00Z",
-      "sentiment": "bearish"
     },
     {
       "category": "other",
@@ -155,14 +179,6 @@
     },
     {
       "category": "other",
-      "headline": "We're making 3 trades to adjust our consumer exposure after an analyst downgrade",
-      "image": null,
-      "link": "https://www.cnbc.com/investingclub/2026/11/13/were-making-3-trades-to-adjust-our-consumer-exposure-after-downgrade.html",
-      "published": "2026-11-13T14:59:57Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "other",
       "headline": "December Fed Decision in Focus",
       "image": null,
       "link": "https://finance.yahoo.com/economy/policy/articles/december-fed-decision-focus-143900951.html?.tsrc=rss",
@@ -175,14 +191,6 @@
       "image": null,
       "link": "https://finance.yahoo.com/m/bd4a72dc-b7b4-39f8-baea-d1cafb80883e/the-stock-market-is-trying-to.html?.tsrc=rss",
       "published": "2026-11-13T14:35:33Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "federal",
-      "headline": "Cisco beats on earnings, says AI infrastructure revenue will double this fiscal year",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/12/cisco-csco-q1-2027-earnings.html",
-      "published": "2026-11-13T14:26:04Z",
       "sentiment": "bullish"
     },
     {
@@ -312,18 +320,10 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=2822dc61-2aea-4a0f-8871-a0dc769a953b&amp;mod=mw_rss_bulletins",
       "published": "2026-11-12T21:23:04Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Stocks end lower, bond yields jump as Wall Street weighs Nvidia CEO's shock exit",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=94eb182e-600f-4f8f-8440-3ca082f2159c&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-12T21:04:17Z",
-      "sentiment": "bearish"
     }
   ],
-  "newest_item_published": "2026-11-13T16:10:00Z",
-  "source_item_count": 68,
+  "newest_item_published": "2026-11-13T17:07:00Z",
+  "source_item_count": 69,
   "sources": {
     "cnbc": {
       "contributed": 11,
@@ -331,7 +331,7 @@
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-11-13T16:03:42Z",
+      "newest": "2026-11-13T17:06:57Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,7 +340,7 @@
       "fetched": 10,
       "fresh": 9,
       "label": "MarketWatch",
-      "newest": "2026-11-13T16:10:00Z",
+      "newest": "2026-11-13T17:07:00Z",
       "ok": true
     },
     "mw_bulletins": {
@@ -349,14 +349,14 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-11-13T13:53:21Z",
+      "newest": "2026-11-13T16:39:07Z",
       "ok": true
     },
     "yahoo_dji": {
       "contributed": 10,
       "error": null,
-      "fetched": 18,
-      "fresh": 18,
+      "fetched": 19,
+      "fresh": 19,
       "label": "Yahoo Finance",
       "newest": "2026-11-13T15:18:05Z",
       "ok": true
