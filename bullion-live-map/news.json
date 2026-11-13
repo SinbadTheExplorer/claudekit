@@ -1,12 +1,132 @@
 {
-  "generated_at": "2026-11-13T18:12:06Z",
+  "generated_at": "2026-11-13T19:12:04Z",
   "headlines": [
     {
-      "category": "other",
-      "headline": "The common theme driving stocks lower \u2014 plus, 3 trades and another we want to make",
+      "category": "tech",
+      "headline": "Lutnick faces questions over Nvidia spy scandal. His sons\u2019 firm has deep ties to the chipmaker",
       "image": null,
-      "link": "https://www.cnbc.com/investingclub/2026/11/13/the-common-theme-driving-stocks-lower-plus-3-trades-and-another-we-want-to-make.html",
-      "published": "2026-11-13T18:11:33Z",
+      "link": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
+      "published": "2026-11-13T19:11:13Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "\u2018Strangely calming and unnerving\u2019: How Microsoft\u2019s outage upended the workday",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=f4cdc645-ef47-4e32-ad35-4bdba8903a85&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-13T19:09:30Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "\u2018Strangely calming and unnerving\u2019: How Microsoft\u2019s massive outage upended the corporate workday",
+      "image": "news-images/5d3ec5ddae77593510596840.jpg",
+      "link": "https://www.marketwatch.com/story/strangely-calming-and-unnerving-how-microsofts-massive-outage-upended-the-corporate-workday-9a78d000?mod=mw_rss_topstories",
+      "published": "2026-11-13T19:01:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "healthcare",
+      "headline": "What really happens during Medicare open enrollment? High stakes and lots of uncertainty.",
+      "image": "news-images/76e2679c81a2910438e8d35b.jpg",
+      "link": "https://www.marketwatch.com/story/what-really-happens-during-medicare-counseling-6a4f618e?mod=mw_rss_topstories",
+      "published": "2026-11-13T18:59:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "OpenAI launches ChatGPT Wallet, allowing its 'dots' AI agents to make purchases for users",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html",
+      "published": "2026-11-13T18:56:26Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "The Stock Market's Early Rally Fades as Wholesale Inflation Hits 6.5%",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stock-markets-early-rally-fades-185155071.html?.tsrc=rss",
+      "published": "2026-11-13T18:51:55Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "tech",
+      "headline": "Update: Equities Fall Intraday as Nvidia Declines",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/equities-fall-intraday-nvidia-declines-184904960.html?.tsrc=rss",
+      "published": "2026-11-13T18:49:04Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "financials",
+      "headline": "Goldman Sachs looks to cash in on Anthropic's IPO, twice. Here's how and who else wants to",
+      "image": null,
+      "link": "https://www.cnbc.com/investingclub/2026/11/13/goldman-sachs-looks-to-cash-in-on-anthropics-ipo-twice-heres-how-and-who-else-wants-to.html",
+      "published": "2026-11-13T18:44:05Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "energy",
+      "headline": "Sector Update: Energy Stocks Advance Friday Afternoon",
+      "image": null,
+      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-advance-friday-184216800.html?.tsrc=rss",
+      "published": "2026-11-13T18:42:16Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Microsoft points to \u2018broad recovery and stability\u2019 after widespread Outlook outage",
+      "image": "news-images/ffe5356d716595176447f2a8.jpg",
+      "link": "https://www.marketwatch.com/story/microsoft-stock-slumps-on-outage-that-includes-the-copilot-tool-it-has-been-heavily-promoting-4007dc4f?mod=mw_rss_topstories",
+      "published": "2026-11-13T18:38:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "\u2018She has a history of financial mismanagement\u2019: My brother cut our sister out of his will. I\u2019ll get everything. Do I tell her?",
+      "image": "news-images/3ebf737366e631acd804d4d2.jpg",
+      "link": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
+      "published": "2026-11-13T18:30:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "The epic $29 trillion battle for Social Security has begun",
+      "image": "news-images/8abae1224659323bb1b221eb.jpg",
+      "link": "https://www.marketwatch.com/story/the-epic-29-trillion-battle-for-social-security-has-begun-a5e57f5a?mod=mw_rss_topstories",
+      "published": "2026-11-13T18:25:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Microsoft apologizes for massive outage that took down Outlook and other 365 services",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
+      "published": "2026-11-13T18:18:28Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Nasdaq down sharply, tech leads S&P 500's declines as Nvidia shares fall \u2014 live",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=e62073cb-a9c5-485a-b3e1-f28e649a3e08&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-13T18:14:27Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "tech",
+      "headline": "Stock Market Today: Nasdaq In Red As Nvidia Wipes Out $650 Billion; Applied Materials Sinks (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/59c1380c-6194-35f8-be3b-4a6a3148bfa4/stock-market-today%3A-nasdaq-in.html?.tsrc=rss",
+      "published": "2026-11-13T18:10:19Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Is a bottom in for the Nasdaq-100? Charts to watch",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/13/is-a-bottom-in-for-the-nasdaq-100-charts-to-watch.html",
+      "published": "2026-11-13T18:00:01Z",
       "sentiment": "neutral"
     },
     {
@@ -15,14 +135,6 @@
       "image": "news-images/812161166020a7105608859d.jpg",
       "link": "https://www.marketwatch.com/story/i-am-turning-18-next-month-and-want-to-start-investing-what-do-i-do-first-75370ff3?mod=mw_rss_topstories",
       "published": "2026-11-13T17:56:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Microsoft apologizes for massive outage that took down Outlook and other 365 services",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
-      "published": "2026-11-13T17:52:30Z",
       "sentiment": "neutral"
     },
     {
@@ -40,14 +152,6 @@
       "link": "https://www.fool.com/coverage/stock-market-today/2026/11/13/stock-market-midday-nov-13-nasdaq-plunges-as-nvidia-turmoil-deepens-and-treasury-yields-hit-5/?.tsrc=rss",
       "published": "2026-11-13T17:35:01Z",
       "sentiment": "bearish"
-    },
-    {
-      "category": "tech",
-      "headline": "Stock Market Today: Nasdaq Sinks As Nvidia Drops; Finance Stock Jumps (Live Coverage)",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/59c1380c-6194-35f8-be3b-4a6a3148bfa4/stock-market-today%3A-nasdaq.html?.tsrc=rss",
-      "published": "2026-11-13T17:29:18Z",
-      "sentiment": "neutral"
     },
     {
       "category": "tech",
@@ -72,14 +176,6 @@
       "link": "https://www.marketwatch.com/story/how-low-does-nvidias-stock-need-to-go-before-its-a-screaming-bargain-c25302ed?mod=mw_rss_topstories",
       "published": "2026-11-13T17:07:00Z",
       "sentiment": "bullish"
-    },
-    {
-      "category": "tech",
-      "headline": "Bessent blames Lutnick\u2019s Commerce as he slams Nvidia chip \u2018leakage\u2019 to China",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html",
-      "published": "2026-11-13T17:06:57Z",
-      "sentiment": "neutral"
     },
     {
       "category": "tech",
@@ -122,38 +218,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "federal",
-      "headline": "\u2018The thought of living to 100 terrifies me\u2019: Is Social Security a giant Ponzi scheme?",
-      "image": "news-images/d614f939562eaaf70c13752f.jpg",
-      "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-      "published": "2026-11-13T16:30:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Nvidia\u2019s stock is on a losing streak not seen in 14 years. What comes next?",
-      "image": "news-images/548b98d464c04b6c1f6355b3.jpg",
-      "link": "https://www.marketwatch.com/story/nvidias-stock-is-on-a-losing-streak-not-seen-in-14-years-what-comes-next-a07e801e?mod=mw_rss_topstories",
-      "published": "2026-11-13T16:26:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "From living in his car to a 756 credit score: How one veteran rebuilt his finances",
-      "image": "news-images/bce202b3659f683cd02cb58f.jpg",
-      "link": "https://www.marketwatch.com/story/from-living-in-his-car-to-a-756-credit-score-how-one-veteran-rebuilt-his-finances-026c3336?mod=mw_rss_topstories",
-      "published": "2026-11-13T16:10:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "\u2018I\u2019m sick of flying\u2019: I paid for priority boarding, but the overhead bins were full. Was I duped?",
-      "image": "news-images/e608328c397cf7e68154d9c6.jpg",
-      "link": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
-      "published": "2026-11-13T16:01:00Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "other",
       "headline": "Women are taking pay cuts and 'white-knuckling it' to manage menopause and work: 'I feel like I'm sitting on the sidelines'",
       "image": null,
@@ -167,30 +231,6 @@
       "image": null,
       "link": "https://www.cnbc.com/2026/11/13/nvidia-scandal-lutnick-chip-sales.html",
       "published": "2026-11-13T15:49:11Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Wholesale prices rose 0.3% in October, putting annual rate at 6.5%, the highest in nearly four years",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/13/ppi-inflation-report-october-2026.html",
-      "published": "2026-11-13T15:44:16Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "What's ahead for AI financing after Nvidia CEO Jensen Huang departs",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-resignation-ai-financing.html",
-      "published": "2026-11-13T15:34:48Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "OpenAI launches ChatGPT Wallet, allowing its 'dots' AI agents to make purchases for users",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html",
-      "published": "2026-11-13T15:31:58Z",
       "sentiment": "neutral"
     },
     {
@@ -234,36 +274,12 @@
       "sentiment": "bullish"
     },
     {
-      "category": "tech",
-      "headline": "Update: US Equity Futures Slightly Higher Pre-Bell as Traders Assess Nvidia CEO Jensen Huang's Exit",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-slightly-higher-134910590.html?.tsrc=rss",
-      "published": "2026-11-13T13:49:10Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Stock Market Today: S&P 500, Nasdaq Plunge as Nvidia Extends Declines, Tech Stocks Sink; Major Indexes Remain on Track to Post Weekly Gains",
-      "image": null,
-      "link": "https://www.investopedia.com/stock-market-today-dow-jones-today-s-and-p-500-nasdaq-11132026-12252143?.tsrc=rss",
-      "published": "2026-11-13T13:37:34Z",
-      "sentiment": "bullish"
-    },
-    {
       "category": "federal",
       "headline": "PPI report puts wholesale-inflation rate at four-year high \u2014 live coverage",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=d6266f33-f8a1-4c39-a070-3b54fcf389d1&amp;mod=mw_rss_bulletins",
       "published": "2026-11-13T13:34:34Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Dow Jones Futures Rise, Yields Up Again; Nvidia Steadies After Tumbling On CEO Huang's Exit",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/4a3dff17-3e8e-33ca-823f-8ac12eff6a4a/dow-jones-futures-rise%2C.html?.tsrc=rss",
-      "published": "2026-11-13T13:06:47Z",
-      "sentiment": "bullish"
     },
     {
       "category": "federal",
@@ -304,43 +320,27 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=c4650e4a-cc10-4ecd-a7d9-c570f52778a1&amp;mod=mw_rss_bulletins",
       "published": "2026-11-12T23:02:22Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Bond yields just saw their biggest surge since 2022 amid Fed rate-hike fears",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=04436e19-d448-4154-8553-06e5ef7cdbd6&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-12T22:21:32Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "tech",
-      "headline": "Nvidia\u2019s stock trims early losses, ends 4% lower after CEO Jensen Huang quits",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=2822dc61-2aea-4a0f-8871-a0dc769a953b&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-12T21:23:04Z",
-      "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-11-13T18:11:33Z",
+  "newest_item_published": "2026-11-13T19:11:13Z",
   "source_item_count": 69,
   "sources": {
     "cnbc": {
-      "contributed": 11,
+      "contributed": 10,
       "error": null,
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-11-13T18:11:33Z",
+      "newest": "2026-11-13T19:11:13Z",
       "ok": true
     },
     "marketwatch": {
-      "contributed": 9,
+      "contributed": 10,
       "error": null,
       "fetched": 10,
-      "fresh": 9,
+      "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-11-13T17:56:00Z",
+      "newest": "2026-11-13T19:01:00Z",
       "ok": true
     },
     "mw_bulletins": {
@@ -349,7 +349,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-11-13T16:39:07Z",
+      "newest": "2026-11-13T19:09:30Z",
       "ok": true
     },
     "yahoo_dji": {
@@ -358,7 +358,7 @@
       "fetched": 19,
       "fresh": 19,
       "label": "Yahoo Finance",
-      "newest": "2026-11-13T17:35:01Z",
+      "newest": "2026-11-13T18:51:55Z",
       "ok": true
     }
   }
