@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-11-13T20:12:06Z",
+  "generated_at": "2026-11-13T20:27:29Z",
   "headlines": [
+    {
+      "category": "tech",
+      "headline": "Nvidia hasn\u2019t selected search firm for permanent Huang replacement, board tells CNBC",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/13/nvidia-huang-ceo-replacement-search.html",
+      "published": "2026-11-13T20:21:46Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Nasdaq, S&P 500 down in final hour as tech stocks slide and Nvidia keeps falling",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=d6acf0f0-1941-43fe-a6b9-d2296163b7ba&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-13T20:20:10Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "tech",
+      "headline": "Jensen Huang was a \u2018China salesman\u2019 for Nvidia. His exit is weighing on Chinese tech stocks.",
+      "image": "news-images/f147332711ff1b2c8c101806.jpg",
+      "link": "https://www.marketwatch.com/story/jensen-huang-was-a-china-salesman-for-nvidia-his-exit-is-weighing-on-chinese-tech-stocks-e46351e4?mod=mw_rss_topstories",
+      "published": "2026-11-13T20:19:00Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "federal",
+      "headline": "Hassett denies report he's leaving White House: 'Not true'",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/13/kevin-hassett-white-house-nec.html",
+      "published": "2026-11-13T20:14:28Z",
+      "sentiment": "neutral"
+    },
     {
       "category": "crypto",
       "headline": "CFTC Chair Selig tells CNBC crypto industry is embracing agency rules as legislation hopes fade",
@@ -34,27 +66,11 @@
       "sentiment": "neutral"
     },
     {
-      "category": "federal",
-      "headline": "Hassett denies report he's leaving White House: 'Not true'",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/13/kevin-hassett-white-house-nec.html",
-      "published": "2026-11-13T19:59:17Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "tech",
-      "headline": "Stock Market Today: Indexes Pare Losses; S&P's Worst Performer Sells Chips, And It's Not Nvidia (Live Coverage)",
+      "headline": "Stock Market Today: Nasdaq Sinks As Nvidia Drops; Finance Stock Jumps (Live Coverage)",
       "image": null,
-      "link": "https://finance.yahoo.com/m/59c1380c-6194-35f8-be3b-4a6a3148bfa4/stock-market-today%3A-indexes.html?.tsrc=rss",
+      "link": "https://finance.yahoo.com/m/59c1380c-6194-35f8-be3b-4a6a3148bfa4/stock-market-today%3A-nasdaq.html?.tsrc=rss",
       "published": "2026-11-13T19:55:51Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Nvidia hasn\u2019t selected search firm for permanent Huang replacement, board tells CNBC",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/13/nvidia-huang-ceo-replacement-search.html",
-      "published": "2026-11-13T19:54:06Z",
       "sentiment": "neutral"
     },
     {
@@ -203,14 +219,6 @@
     },
     {
       "category": "tech",
-      "headline": "Microsoft points to \u2018broad recovery and stability\u2019 after widespread Outlook outage",
-      "image": "news-images/ffe5356d716595176447f2a8.jpg",
-      "link": "https://www.marketwatch.com/story/microsoft-stock-slumps-on-outage-that-includes-the-copilot-tool-it-has-been-heavily-promoting-4007dc4f?mod=mw_rss_topstories",
-      "published": "2026-11-13T18:38:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
       "headline": "Nasdaq down sharply, tech leads S&P 500's declines as Nvidia shares fall \u2014 live",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=e62073cb-a9c5-485a-b3e1-f28e649a3e08&amp;mod=mw_rss_bulletins",
@@ -312,17 +320,9 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=dd9bb60f-b504-4f37-a83a-80d0ddad3c82&amp;mod=mw_rss_bulletins",
       "published": "2026-11-13T09:32:51Z",
       "sentiment": "bearish"
-    },
-    {
-      "category": "tech",
-      "headline": "Who can replace Jensen Huang as Nvidia CEO? These four names are buzzing.",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=c4650e4a-cc10-4ecd-a7d9-c570f52778a1&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-12T23:02:22Z",
-      "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-11-13T20:07:30Z",
+  "newest_item_published": "2026-11-13T20:21:46Z",
   "source_item_count": 69,
   "sources": {
     "cnbc": {
@@ -331,7 +331,7 @@
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-11-13T20:07:30Z",
+      "newest": "2026-11-13T20:21:46Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,7 +340,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-11-13T20:02:00Z",
+      "newest": "2026-11-13T20:19:00Z",
       "ok": true
     },
     "mw_bulletins": {
@@ -349,7 +349,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-11-13T19:09:30Z",
+      "newest": "2026-11-13T20:20:10Z",
       "ok": true
     },
     "yahoo_dji": {
