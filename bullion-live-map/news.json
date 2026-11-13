@@ -1,6 +1,126 @@
 {
-  "generated_at": "2026-11-13T19:12:04Z",
+  "generated_at": "2026-11-13T20:12:06Z",
   "headlines": [
+    {
+      "category": "crypto",
+      "headline": "CFTC Chair Selig tells CNBC crypto industry is embracing agency rules as legislation hopes fade",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/13/cftc-chair-selig-crypto-industry-opting-into-agencys-crypto-rules-.html",
+      "published": "2026-11-13T20:07:30Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Retirees should be big beneficiaries of the midterms: \u2018Democrats will hold every gavel that matters for aging and public policy\u2019",
+      "image": "news-images/d20b55097b93e6f8dc93e1bc.jpg",
+      "link": "https://www.marketwatch.com/story/retirees-should-be-big-beneficiaries-of-the-midterms-democrats-will-hold-every-gavel-that-matters-for-aging-and-public-policy-71e966f0?mod=mw_rss_topstories",
+      "published": "2026-11-13T20:02:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Supreme Court agrees to hear Robinhood challenge to IPO information omission lawsuit",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/13/robinhood-supreme-court-ipo-lawsuit.html",
+      "published": "2026-11-13T20:00:06Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "My husband inherited $500,000, but he refuses to spend it on our home. Should I be worried?",
+      "image": "news-images/1ce16511e13f790e782241f8.jpg",
+      "link": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
+      "published": "2026-11-13T20:00:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Hassett denies report he's leaving White House: 'Not true'",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/13/kevin-hassett-white-house-nec.html",
+      "published": "2026-11-13T19:59:17Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Stock Market Today: Indexes Pare Losses; S&P's Worst Performer Sells Chips, And It's Not Nvidia (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/59c1380c-6194-35f8-be3b-4a6a3148bfa4/stock-market-today%3A-indexes.html?.tsrc=rss",
+      "published": "2026-11-13T19:55:51Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Nvidia hasn\u2019t selected search firm for permanent Huang replacement, board tells CNBC",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/13/nvidia-huang-ceo-replacement-search.html",
+      "published": "2026-11-13T19:54:06Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "After Jensen Huang\u2019s exit, what top financial advisors are doing with Nvidia: Exclusive CNBC poll",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/13/nvidia-stock-advisors-jensen-huang-exit-exclusive-poll.html",
+      "published": "2026-11-13T19:53:38Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "financials",
+      "headline": "Goldman Sachs looks to cash in on Anthropic's IPO, twice. Here's how and who else wants to",
+      "image": null,
+      "link": "https://www.cnbc.com/investingclub/2026/11/13/goldman-sachs-looks-to-cash-in-on-anthropics-ipo-twice-heres-how-and-who-else-wants-to.html",
+      "published": "2026-11-13T19:45:35Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "consumer",
+      "headline": "Budget airlines are going upscale with first-class seats and faster wifi",
+      "image": "news-images/09dc9e22fe58801ec692bec2.jpg",
+      "link": "https://www.marketwatch.com/story/budget-airlines-are-going-upscale-with-first-class-seats-and-faster-wifi-999868ab?mod=mw_rss_topstories",
+      "published": "2026-11-13T19:40:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "A trading strategy to ride out the Nvidia uncertainty and generate income in the process",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/13/a-trading-strategy-to-ride-out-the-nvidia-uncertainty-and-generate-income-in-the-process.html",
+      "published": "2026-11-13T19:30:36Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "healthcare",
+      "headline": "Medicare at age 50? What \u2018Medicare for more\u2019 could mean for American workers.",
+      "image": "news-images/bcd06892a5b6f0d490e2e65b.jpg",
+      "link": "https://www.marketwatch.com/story/its-not-medicare-for-all-but-medicare-for-more-what-this-could-mean-for-workers-over-50-4a5c51a3?mod=mw_rss_topstories",
+      "published": "2026-11-13T19:26:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "The scandal at Nvidia is exactly what\u2019s wrong with the S&P 500",
+      "image": "news-images/fb066666f58dc8b0748fe2b4.jpg",
+      "link": "https://www.marketwatch.com/story/the-scandal-at-nvidia-is-exactly-whats-wrong-with-the-s-p-500-7307457e?mod=mw_rss_topstories",
+      "published": "2026-11-13T19:19:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Washington\u2019s efforts to block Beijing\u2019s access to Nvidia chips could spark a \u2018short-lived U.S.-China trade war\u2019 that rattles markets",
+      "image": "news-images/39bb8fba3a3a4c3aa291754d.jpg",
+      "link": "https://www.marketwatch.com/story/washingtons-efforts-to-block-beijings-access-to-nvidia-chips-could-spark-a-short-lived-u-s-china-trade-war-that-rattles-markets-83078d84?mod=mw_rss_topstories",
+      "published": "2026-11-13T19:19:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
+      "image": "news-images/491ea64c3e6cf8878885c263.jpg",
+      "link": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
+      "published": "2026-11-13T19:16:00Z",
+      "sentiment": "neutral"
+    },
     {
       "category": "tech",
       "headline": "Lutnick faces questions over Nvidia spy scandal. His sons\u2019 firm has deep ties to the chipmaker",
@@ -11,10 +131,26 @@
     },
     {
       "category": "tech",
+      "headline": "Update: US Equity Indexes Fall as Nvidia Debacle Hits Chipmakers, Long Treasury Yields Jump on 'Elevated' Producer Prices",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-fall-nvidia-190946104.html?.tsrc=rss",
+      "published": "2026-11-13T19:09:46Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
       "headline": "\u2018Strangely calming and unnerving\u2019: How Microsoft\u2019s outage upended the workday",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=f4cdc645-ef47-4e32-ad35-4bdba8903a85&amp;mod=mw_rss_bulletins",
       "published": "2026-11-13T19:09:30Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Retirees sometimes tap savings for one-off expenses. Here\u2019s what advisors say to consider first",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/13/retirement-401k-ira-withdrawal-taxes.html",
+      "published": "2026-11-13T19:01:12Z",
       "sentiment": "neutral"
     },
     {
@@ -58,14 +194,6 @@
       "sentiment": "bearish"
     },
     {
-      "category": "financials",
-      "headline": "Goldman Sachs looks to cash in on Anthropic's IPO, twice. Here's how and who else wants to",
-      "image": null,
-      "link": "https://www.cnbc.com/investingclub/2026/11/13/goldman-sachs-looks-to-cash-in-on-anthropics-ipo-twice-heres-how-and-who-else-wants-to.html",
-      "published": "2026-11-13T18:44:05Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "energy",
       "headline": "Sector Update: Energy Stocks Advance Friday Afternoon",
       "image": null,
@@ -82,67 +210,11 @@
       "sentiment": "neutral"
     },
     {
-      "category": "other",
-      "headline": "\u2018She has a history of financial mismanagement\u2019: My brother cut our sister out of his will. I\u2019ll get everything. Do I tell her?",
-      "image": "news-images/3ebf737366e631acd804d4d2.jpg",
-      "link": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
-      "published": "2026-11-13T18:30:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "The epic $29 trillion battle for Social Security has begun",
-      "image": "news-images/8abae1224659323bb1b221eb.jpg",
-      "link": "https://www.marketwatch.com/story/the-epic-29-trillion-battle-for-social-security-has-begun-a5e57f5a?mod=mw_rss_topstories",
-      "published": "2026-11-13T18:25:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Microsoft apologizes for massive outage that took down Outlook and other 365 services",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
-      "published": "2026-11-13T18:18:28Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "tech",
       "headline": "Nasdaq down sharply, tech leads S&P 500's declines as Nvidia shares fall \u2014 live",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=e62073cb-a9c5-485a-b3e1-f28e649a3e08&amp;mod=mw_rss_bulletins",
       "published": "2026-11-13T18:14:27Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "tech",
-      "headline": "Stock Market Today: Nasdaq In Red As Nvidia Wipes Out $650 Billion; Applied Materials Sinks (Live Coverage)",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/59c1380c-6194-35f8-be3b-4a6a3148bfa4/stock-market-today%3A-nasdaq-in.html?.tsrc=rss",
-      "published": "2026-11-13T18:10:19Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Is a bottom in for the Nasdaq-100? Charts to watch",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/13/is-a-bottom-in-for-the-nasdaq-100-charts-to-watch.html",
-      "published": "2026-11-13T18:00:01Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "I am turning 18 next month and want to start investing. What do I do first?",
-      "image": "news-images/812161166020a7105608859d.jpg",
-      "link": "https://www.marketwatch.com/story/i-am-turning-18-next-month-and-want-to-start-investing-what-do-i-do-first-75370ff3?mod=mw_rss_topstories",
-      "published": "2026-11-13T17:56:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "10-year Treasury yield moves to 5.17% as traders weigh producer price report",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/13/treasury-yields-fed-rates.html",
-      "published": "2026-11-13T17:39:48Z",
       "sentiment": "bearish"
     },
     {
@@ -162,75 +234,11 @@
       "sentiment": "neutral"
     },
     {
-      "category": "other",
-      "headline": "Should a widow leave her late partner\u2019s home to her stepkids \u2014 or cut off contact with them?",
-      "image": "news-images/faefa2f6534aaf2d674a937d.jpg",
-      "link": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
-      "published": "2026-11-13T17:16:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "How low does Nvidia\u2019s stock need to go before it\u2019s a screaming bargain?",
-      "image": "news-images/c5eb5d111e18a781496f770b.jpg",
-      "link": "https://www.marketwatch.com/story/how-low-does-nvidias-stock-need-to-go-before-its-a-screaming-bargain-c25302ed?mod=mw_rss_topstories",
-      "published": "2026-11-13T17:07:00Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "tech",
-      "headline": "After Jensen Huang\u2019s exit, what top financial advisors are doing with Nvidia: Exclusive CNBC poll",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/13/nvidia-stock-advisors-jensen-huang-exit-exclusive-poll.html",
-      "published": "2026-11-13T17:01:26Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "If you could change one thing about caregiving, what would it be?",
-      "image": "news-images/08d3a3182f54ca7067db525a.jpg",
-      "link": "https://www.marketwatch.com/story/if-you-could-change-one-thing-about-caregiving-what-would-it-be-8b20be29?mod=mw_rss_topstories",
-      "published": "2026-11-13T17:01:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Why the data center slowdown concern is overblown. Two stocks to buy amid the fear",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/13/data-center-slowdown-utility-stocks.html",
-      "published": "2026-11-13T16:54:40Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "SpaceX is about to attempt the \u2018holy grail\u2019 of rocketry",
-      "image": "news-images/3a3b8854b23cd421a7b09a75.jpg",
-      "link": "https://www.marketwatch.com/story/spacex-is-about-to-attempt-the-holy-grail-of-rocketry-44e79dcc?mod=mw_rss_topstories",
-      "published": "2026-11-13T16:54:00Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "tech",
       "headline": "Nvidia has now shed $657 billion in market capitalization this week",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=302353a3-69b3-4c15-9535-43e6f605ba39&amp;mod=mw_rss_bulletins",
       "published": "2026-11-13T16:39:07Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Women are taking pay cuts and 'white-knuckling it' to manage menopause and work: 'I feel like I'm sitting on the sidelines'",
-      "image": null,
-      "link": "https://www.cnbc.com/make-it/2026/11/13/menopause-career-setbacks.html",
-      "published": "2026-11-13T16:00:01Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Nvidia scandal draws in Commerce Secretary Lutnick, who reportedly agrees to testify about China chip sales",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/13/nvidia-scandal-lutnick-chip-sales.html",
-      "published": "2026-11-13T15:49:11Z",
       "sentiment": "neutral"
     },
     {
@@ -255,14 +263,6 @@
       "image": null,
       "link": "https://finance.yahoo.com/economy/articles/ppi-6-5-yoy-highest-142200557.html?.tsrc=rss",
       "published": "2026-11-13T14:22:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Friday as Producer Inflation Trails Forecasts",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-141316665.html?.tsrc=rss",
-      "published": "2026-11-13T14:13:16Z",
       "sentiment": "neutral"
     },
     {
@@ -322,7 +322,7 @@
       "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-11-13T19:11:13Z",
+  "newest_item_published": "2026-11-13T20:07:30Z",
   "source_item_count": 69,
   "sources": {
     "cnbc": {
@@ -331,7 +331,7 @@
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-11-13T19:11:13Z",
+      "newest": "2026-11-13T20:07:30Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,7 +340,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-11-13T19:01:00Z",
+      "newest": "2026-11-13T20:02:00Z",
       "ok": true
     },
     "mw_bulletins": {
@@ -358,7 +358,7 @@
       "fetched": 19,
       "fresh": 19,
       "label": "Yahoo Finance",
-      "newest": "2026-11-13T18:51:55Z",
+      "newest": "2026-11-13T19:55:51Z",
       "ok": true
     }
   }
