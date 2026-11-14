@@ -1,20 +1,276 @@
 {
-  "generated_at": "2026-11-13T21:12:12Z",
+  "generated_at": "2026-11-14T01:24:45Z",
   "headlines": [
+    {
+      "category": "other",
+      "headline": "FAA lifts ground stop after four hours, but flight cancellations will stretch into the weekend",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html",
+      "published": "2026-11-14T01:21:50Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "SpaceX launches Starship in key test flight of massive rocket",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/13/spacex-launches-starship-in-key-test-flight-of-massive-rocket.html",
+      "published": "2026-11-14T01:18:51Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Trump doesn\u2019t plan to raise Nvidia, spy issue during China trip: U.S. officials",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html",
+      "published": "2026-11-14T01:04:32Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Dow Jones Futures: Market Rally Shaky As Nvidia Earnings, Anthropic IPO Loom; SpaceX Starship Flight 15 Booster Diverts.",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/53e50dc8-f137-3f6c-bfd6-912334fef9f1/dow-jones-futures%3A-market.html?.tsrc=rss",
+      "published": "2026-11-14T00:41:41Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "FAA declares rare nationwide ground stop on flights, with more than 10,000 delayed so far",
+      "image": "news-images/58eddd783e6eb42c37d6ea49.jpg",
+      "link": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories",
+      "published": "2026-11-14T00:40:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "My wife has dementia. How do we prepare for long-term memory care?",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=17874329-43c7-43ae-987c-d7d8eac13045&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-14T00:05:58Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Nvidia is done with Jensen Huang. The fallout in Washington is just beginning",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-washington-congress.html",
+      "published": "2026-11-13T23:54:36Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "tech",
+      "headline": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has deep ties to the chipmaker",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
+      "published": "2026-11-13T23:42:18Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "S&P 500, Dow, Nasdaq End Lower Amid Nvidia Turmoil, But Record Best Week Since August \u2014  SPCX, NVDA, ARM, AZN In Focus",
+      "image": null,
+      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-nasdaq-end-lower-amid-nvidia-turmoil-but-record-best-week-since-august-spcx-nvda-arm-azn-in-focus/cNbRj3uR9Q2?.tsrc=rss",
+      "published": "2026-11-13T23:37:29Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "\u2018The thought of living to 100 terrifies me\u2019: Is Social Security a giant Ponzi scheme?",
+      "image": "news-images/d614f939562eaaf70c13752f.jpg",
+      "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+      "published": "2026-11-13T23:12:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Nearly 10,000 flights delayed after FAA orders nationwide airport ground stop",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=296b1b9b-8b6a-4744-8d1e-4c8fb35c65ad&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-13T22:49:59Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Nvidia\u2019s stock is on a losing streak not seen in 14 years. What comes next?",
+      "image": "news-images/548b98d464c04b6c1f6355b3.jpg",
+      "link": "https://www.marketwatch.com/story/nvidias-stock-is-on-a-losing-streak-not-seen-in-14-years-what-comes-next-a07e801e?mod=mw_rss_topstories",
+      "published": "2026-11-13T22:21:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Nvidia stock suffers longest weekly losing streak since 2012 as market value sinks by $1.7 trillion",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/13/nvidia-stock-jensen-affair-ai.html",
+      "published": "2026-11-13T22:18:43Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Hackers stole $6.3 billion from Binance\u20142 habits that take 'a few seconds' can help you avoid similar traps",
+      "image": null,
+      "link": "https://www.cnbc.com/make-it/2026/11/13/binance-hack-2-online-habits-that-can-help-you-avoid-scams-.html",
+      "published": "2026-11-13T22:06:55Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "FAA declares rare, nationwide ground stop on flights",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=ec7dabbe-33f8-48ee-842d-812973ca3947&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-13T22:06:31Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "energy",
+      "headline": "Global oil supplies are suddenly flowing. Why a crude glut won\u2019t mean cheaper diesel.",
+      "image": "news-images/375b1bbbcace8fbcf4c9bf48.jpg",
+      "link": "https://www.marketwatch.com/story/global-oil-supplies-are-suddenly-flowing-why-a-crude-glut-wont-mean-cheaper-diesel-a5fa80c8?mod=mw_rss_topstories",
+      "published": "2026-11-13T22:04:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Why Analog Devices (ADI) Dipped More Than Broader Market Today",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-analog-devices-adi-dipped-220001409.html?.tsrc=rss",
+      "published": "2026-11-13T22:00:01Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "\u2018He calls my plans a fantasy\u2019: My husband says we can\u2019t afford a $200,000-a-year retirement. Is he being cheap?",
+      "image": "news-images/a2085945c7321971f68c51a6.jpg",
+      "link": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
+      "published": "2026-11-13T22:00:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "AMD, other chip stocks slide as Wall Street weighs AI trade without Jensen Huang",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=19e3d444-2e17-4f91-bbc6-07eaa7b150f7&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-13T21:55:22Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "tech",
+      "headline": "Update: US Equity Indexes Mixed as Nvidia Turmoil Hits Chipmakers, Producer Prices 'Elevated",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-nvidia-215300435.html?.tsrc=rss",
+      "published": "2026-11-13T21:53:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Stock Market Today: Indexes Trim Losses, Manage To Score Weekly Gains Despite Strong Volatility",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/59c1380c-6194-35f8-be3b-4a6a3148bfa4/stock-market-today%3A-indexes.html?.tsrc=rss",
+      "published": "2026-11-13T21:49:53Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "tech",
+      "headline": "Update: Wall Street Notches Weekly Gains Despite Nvidia Sell-Off",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-notches-weekly-gains-214935845.html?.tsrc=rss",
+      "published": "2026-11-13T21:49:35Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "consumer",
+      "headline": "Walmart (WMT) Gains As Market Dips: What You Should Know",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-wmt-gains-market-dips-214502776.html?.tsrc=rss",
+      "published": "2026-11-13T21:45:02Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "Here's Why Synopsys (SNPS) Fell More Than Broader Market",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/heres-why-synopsys-snps-fell-214502259.html?.tsrc=rss",
+      "published": "2026-11-13T21:45:02Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Broadcom Inc. (AVGO) Suffers a Larger Drop Than the General Market: Key Insights",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-inc-avgo-suffers-larger-214501014.html?.tsrc=rss",
+      "published": "2026-11-13T21:45:01Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "financials",
+      "headline": "Goldman Sachs looks to cash in on big IPOs twice. Anthropic\u2019s historic deal is its next chance",
+      "image": null,
+      "link": "https://www.cnbc.com/investingclub/2026/11/13/goldman-sachs-looks-to-cash-in-on-anthropics-ipo-twice-heres-how-and-who-else-wants-to.html",
+      "published": "2026-11-13T21:44:07Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "FAA issues ground stop for flights at all U.S. airports \u2014 live",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=84bb450b-e4ff-4ebf-a5b4-388e2cc1483b&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-13T21:43:41Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Nvidia, AMD, Microsoft, Cerebras, Cisco, Modine, and More Stocks That Explain Today\u2019s Market",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/fa0293c5-bebc-3c34-924d-04a0b56c1b18/nvidia%2C-amd%2C-microsoft%2C.html?.tsrc=rss",
+      "published": "2026-11-13T21:40:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Never bought Nvidia stock? Its slide could still hit your 401(k).",
+      "image": null,
+      "link": "https://www.cbsnews.com/news/nvidia-stock-slide-401k-index-funds/?.tsrc=rss",
+      "published": "2026-11-13T21:32:01Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "\u2018She has a history of financial mismanagement\u2019: My brother cut our sister out of his will. I\u2019ll get everything. Do I tell her?",
+      "image": "news-images/3ebf737366e631acd804d4d2.jpg",
+      "link": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
+      "published": "2026-11-13T21:32:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "crypto",
+      "headline": "Bitcoin is now below $69,000 and could fall even further if investors cash out to buy into the Anthropic IPO",
+      "image": "news-images/20dabc83b9d2116be2fb5df1.jpg",
+      "link": "https://www.marketwatch.com/story/bitcoin-could-fall-even-further-if-investors-cash-out-to-buy-into-the-anthropic-ipo-5a14f46a?mod=mw_rss_topstories",
+      "published": "2026-11-13T21:26:00Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "tech",
+      "headline": "What's ahead for AI financing after Nvidia CEO Jensen Huang departs",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-resignation-ai-financing.html",
+      "published": "2026-11-13T21:19:04Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "AI risks are the biggest threat to the financial system, Fed survey finds",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/13/ai-risks-financial-system-federal-reserve.html",
+      "published": "2026-11-13T21:18:30Z",
+      "sentiment": "neutral"
+    },
     {
       "category": "tech",
       "headline": "AMD and other chip stocks slide as Wall Street rethinks the AI trade without Jensen Huang",
       "image": "news-images/c1d4304bb55997f9a53966c5.jpg",
       "link": "https://www.marketwatch.com/story/amd-and-other-chip-stocks-slide-as-wall-street-rethinks-the-ai-trade-without-jensen-huang-2fb74547?mod=mw_rss_topstories",
       "published": "2026-11-13T21:10:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "FAA issues nationwide ground stop",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html",
-      "published": "2026-11-13T21:09:09Z",
       "sentiment": "neutral"
     },
     {
@@ -26,83 +282,11 @@
       "sentiment": "neutral"
     },
     {
-      "category": "federal",
-      "headline": "10-year Treasury yield moves to 5.17% as traders weigh producer price report",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/13/treasury-yields-fed-rates.html",
-      "published": "2026-11-13T21:08:20Z",
-      "sentiment": "bearish"
-    },
-    {
       "category": "tech",
       "headline": "Nasdaq and S&P 500 end lower as Nvidia, chip stocks fall; Dow books slight gain",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=c1bc948a-e8fd-45a8-a6a9-3f201c11cb68&amp;mod=mw_rss_bulletins",
       "published": "2026-11-13T21:05:29Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Update: US Equity Indexes Mixed as Nvidia Debacle Hits Chipmakers",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-nvidia-210216791.html?.tsrc=rss",
-      "published": "2026-11-13T21:02:16Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Stock Market Today: Nasdaq Down Nearly 1% But Dow Jones Average Reverses Higher (Live Coverage)",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/59c1380c-6194-35f8-be3b-4a6a3148bfa4/stock-market-today%3A-nasdaq.html?.tsrc=rss",
-      "published": "2026-11-13T20:57:37Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Supreme Court agrees to hear Robinhood challenge to IPO information omission lawsuit",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/13/robinhood-supreme-court-ipo-lawsuit.html",
-      "published": "2026-11-13T20:48:13Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "tech",
-      "headline": "Weekly Gains Hold Up Despite a Friday Slide as Chips Lead and Yields Climb",
-      "image": null,
-      "link": "https://finance.yahoo.com/news/weekly-gains-hold-despite-friday-204700003.html?.tsrc=rss",
-      "published": "2026-11-13T20:47:00Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "energy",
-      "headline": "Sector Update: Energy Stocks Advance Late Afternoon",
-      "image": null,
-      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-advance-afternoon-204606826.html?.tsrc=rss",
-      "published": "2026-11-13T20:46:06Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "healthcare",
-      "headline": "How to figure out a key question this open-enrollment season: Are you overpaying for health insurance?",
-      "image": "news-images/aa0998de0110c62bfb5a6cee.jpg",
-      "link": "https://www.marketwatch.com/story/am-i-overpaying-for-health-insurance-how-to-answer-the-key-question-this-open-enrollment-season-2d00ed55?mod=mw_rss_topstories",
-      "published": "2026-11-13T20:45:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Hassett denies report he's leaving White House: 'Not true'",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/13/kevin-hassett-white-house-nec.html",
-      "published": "2026-11-13T20:27:47Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Nvidia hasn\u2019t selected search firm for permanent Huang replacement, board tells CNBC",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/13/nvidia-huang-ceo-replacement-search.html",
-      "published": "2026-11-13T20:21:46Z",
       "sentiment": "neutral"
     },
     {
@@ -115,138 +299,10 @@
     },
     {
       "category": "tech",
-      "headline": "Jensen Huang was a \u2018China salesman\u2019 for Nvidia. His exit is weighing on Chinese tech stocks.",
-      "image": "news-images/f147332711ff1b2c8c101806.jpg",
-      "link": "https://www.marketwatch.com/story/jensen-huang-was-a-china-salesman-for-nvidia-his-exit-is-weighing-on-chinese-tech-stocks-e46351e4?mod=mw_rss_topstories",
-      "published": "2026-11-13T20:19:00Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "crypto",
-      "headline": "CFTC Chair Selig tells CNBC crypto industry is embracing agency rules as legislation hopes fade",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/13/cftc-chair-selig-crypto-industry-opting-into-agencys-crypto-rules-.html",
-      "published": "2026-11-13T20:07:30Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Retirees should be big beneficiaries of the midterms: \u2018Democrats will hold every gavel that matters for aging and public policy\u2019",
-      "image": "news-images/d20b55097b93e6f8dc93e1bc.jpg",
-      "link": "https://www.marketwatch.com/story/retirees-should-be-big-beneficiaries-of-the-midterms-democrats-will-hold-every-gavel-that-matters-for-aging-and-public-policy-71e966f0?mod=mw_rss_topstories",
-      "published": "2026-11-13T20:02:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "My husband inherited $500,000, but he refuses to spend it on our home. Should I be worried?",
-      "image": "news-images/1ce16511e13f790e782241f8.jpg",
-      "link": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
-      "published": "2026-11-13T20:00:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "After Jensen Huang\u2019s exit, what top financial advisors are doing with Nvidia: Exclusive CNBC poll",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/13/nvidia-stock-advisors-jensen-huang-exit-exclusive-poll.html",
-      "published": "2026-11-13T19:53:38Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "financials",
-      "headline": "Goldman Sachs looks to cash in on Anthropic's IPO, twice. Here's how and who else wants to",
-      "image": null,
-      "link": "https://www.cnbc.com/investingclub/2026/11/13/goldman-sachs-looks-to-cash-in-on-anthropics-ipo-twice-heres-how-and-who-else-wants-to.html",
-      "published": "2026-11-13T19:45:35Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "consumer",
-      "headline": "Budget airlines are going upscale with first-class seats and faster wifi",
-      "image": "news-images/09dc9e22fe58801ec692bec2.jpg",
-      "link": "https://www.marketwatch.com/story/budget-airlines-are-going-upscale-with-first-class-seats-and-faster-wifi-999868ab?mod=mw_rss_topstories",
-      "published": "2026-11-13T19:40:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "A trading strategy to ride out the Nvidia uncertainty and generate income in the process",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/13/a-trading-strategy-to-ride-out-the-nvidia-uncertainty-and-generate-income-in-the-process.html",
-      "published": "2026-11-13T19:30:36Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "healthcare",
-      "headline": "Medicare at age 50? What \u2018Medicare for more\u2019 could mean for American workers.",
-      "image": "news-images/bcd06892a5b6f0d490e2e65b.jpg",
-      "link": "https://www.marketwatch.com/story/its-not-medicare-for-all-but-medicare-for-more-what-this-could-mean-for-workers-over-50-4a5c51a3?mod=mw_rss_topstories",
-      "published": "2026-11-13T19:26:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "The scandal at Nvidia is exactly what\u2019s wrong with the S&P 500",
-      "image": "news-images/fb066666f58dc8b0748fe2b4.jpg",
-      "link": "https://www.marketwatch.com/story/the-scandal-at-nvidia-is-exactly-whats-wrong-with-the-s-p-500-7307457e?mod=mw_rss_topstories",
-      "published": "2026-11-13T19:19:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Washington\u2019s efforts to block Beijing\u2019s access to Nvidia chips could spark a \u2018short-lived U.S.-China trade war\u2019 that rattles markets",
-      "image": "news-images/39bb8fba3a3a4c3aa291754d.jpg",
-      "link": "https://www.marketwatch.com/story/washingtons-efforts-to-block-beijings-access-to-nvidia-chips-could-spark-a-short-lived-u-s-china-trade-war-that-rattles-markets-83078d84?mod=mw_rss_topstories",
-      "published": "2026-11-13T19:19:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Lutnick faces questions over Nvidia spy scandal. His sons\u2019 firm has deep ties to the chipmaker",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
-      "published": "2026-11-13T19:11:13Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Update: US Equity Indexes Fall as Nvidia Debacle Hits Chipmakers, Long Treasury Yields Jump on 'Elevated' Producer Prices",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-fall-nvidia-190946104.html?.tsrc=rss",
-      "published": "2026-11-13T19:09:46Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
       "headline": "\u2018Strangely calming and unnerving\u2019: How Microsoft\u2019s outage upended the workday",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=f4cdc645-ef47-4e32-ad35-4bdba8903a85&amp;mod=mw_rss_bulletins",
       "published": "2026-11-13T19:09:30Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "The Stock Market's Early Rally Fades as Wholesale Inflation Hits 6.5%",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stock-markets-early-rally-fades-185155071.html?.tsrc=rss",
-      "published": "2026-11-13T18:51:55Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "tech",
-      "headline": "Update: Equities Fall Intraday as Nvidia Declines",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/equities-fall-intraday-nvidia-declines-184904960.html?.tsrc=rss",
-      "published": "2026-11-13T18:49:04Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "energy",
-      "headline": "Sector Update: Energy Stocks Advance Friday Afternoon",
-      "image": null,
-      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-advance-friday-184216800.html?.tsrc=rss",
-      "published": "2026-11-13T18:42:16Z",
       "sentiment": "neutral"
     },
     {
@@ -258,72 +314,16 @@
       "sentiment": "bearish"
     },
     {
-      "category": "federal",
-      "headline": "Stock Market Midday, Nov. 13: Nasdaq Plunges as Nvidia Turmoil Deepens and Treasury Yields Hit 5%",
-      "image": null,
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/11/13/stock-market-midday-nov-13-nasdaq-plunges-as-nvidia-turmoil-deepens-and-treasury-yields-hit-5/?.tsrc=rss",
-      "published": "2026-11-13T17:35:01Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "tech",
-      "headline": "Update: Sliding Chipmakers Push US Equity Indexes Lower While Producer Prices Growth Below Forecast",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sliding-chipmakers-push-us-equity-172710666.html?.tsrc=rss",
-      "published": "2026-11-13T17:27:10Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "tech",
       "headline": "Nvidia has now shed $657 billion in market capitalization this week",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=302353a3-69b3-4c15-9535-43e6f605ba39&amp;mod=mw_rss_bulletins",
       "published": "2026-11-13T16:39:07Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Stocks jump after inflation data, with Nvidia rebound spotlighted \u2014 follow live",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=e34131eb-0d87-470b-90d2-07059f128dfa&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-13T13:53:21Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "federal",
-      "headline": "PPI report puts wholesale-inflation rate at four-year high \u2014 live coverage",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=d6266f33-f8a1-4c39-a070-3b54fcf389d1&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-13T13:34:34Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Economic calendar: Wholesale-inflation report is Friday\u2019s main event",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=84e9759d-6026-4ca9-b73d-aec5a99fb02d&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-13T12:54:57Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Nvidia shares\u2019 recovery to $170 helps turn around Nasdaq futures: live updates",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=7d899d77-90a2-4cae-818b-4cd8e2fcae62&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-13T11:30:02Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "financials",
-      "headline": "Goldman Sachs sets 8,700 target on S&P 500 for end of 2027",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=099017ab-c359-4d1e-859b-ef7cba7ad3a7&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-13T11:04:53Z",
-      "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-11-13T21:10:00Z",
-  "source_item_count": 69,
+  "newest_item_published": "2026-11-14T01:21:50Z",
+  "source_item_count": 68,
   "sources": {
     "cnbc": {
       "contributed": 10,
@@ -331,16 +331,16 @@
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-11-13T21:09:09Z",
+      "newest": "2026-11-14T01:21:50Z",
       "ok": true
     },
     "marketwatch": {
-      "contributed": 10,
+      "contributed": 9,
       "error": null,
       "fetched": 10,
-      "fresh": 10,
+      "fresh": 9,
       "label": "MarketWatch",
-      "newest": "2026-11-13T21:10:00Z",
+      "newest": "2026-11-14T00:40:00Z",
       "ok": true
     },
     "mw_bulletins": {
@@ -349,16 +349,16 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-11-13T21:05:29Z",
+      "newest": "2026-11-14T00:05:58Z",
       "ok": true
     },
     "yahoo_dji": {
-      "contributed": 10,
+      "contributed": 11,
       "error": null,
-      "fetched": 19,
-      "fresh": 19,
+      "fetched": 18,
+      "fresh": 17,
       "label": "Yahoo Finance",
-      "newest": "2026-11-13T21:02:16Z",
+      "newest": "2026-11-14T00:41:41Z",
       "ok": true
     }
   }
