@@ -1,6 +1,102 @@
 {
-  "generated_at": "2026-11-16T18:12:06Z",
+  "generated_at": "2026-11-16T19:12:06Z",
   "headlines": [
+    {
+      "category": "other",
+      "headline": "Altimeter's Brad Gerstner aims to invest $5 billion in Anthropic IPO",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/16/altimeters-brad-gerstner-investing-5-billion-in-anthropic-ipo.html",
+      "published": "2026-11-16T19:11:41Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "California sues OpenAI over Hugging Face, other AI model loss of control",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/16/openai-california-bonta-ai-lawsuit.html",
+      "published": "2026-11-16T19:07:26Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "industrials",
+      "headline": "Prediction market odds for Tesla-SpaceX merger by April 2027 top 60%",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/16/prediction-market-odds-for-tesla-spacex-merger-by-april-2027-top-60percent.html",
+      "published": "2026-11-16T19:06:41Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "This Anthropic proxy play is getting traders' attention \u2013 here's where they see it going",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/16/anthropic-proxy-destiny-tech100-fund.html",
+      "published": "2026-11-16T19:06:11Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "\u2018It leaves me with a sour taste\u2019: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
+      "image": "news-images/15ceafc445bbbd6a4c7fff04.jpg",
+      "link": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
+      "published": "2026-11-16T19:00:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Market's Nvidia obsession obscuring an opportunity in this name",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/16/disney-options-trade-before-earnings.html",
+      "published": "2026-11-16T18:56:49Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Micron, AMD and other AI stocks fall as the chip sector\u2019s selloff intensifies",
+      "image": "news-images/9679bbadfe96e63b9f5efbd6.jpg",
+      "link": "https://www.marketwatch.com/story/micron-amd-and-other-ai-stocks-fall-as-the-chip-sectors-selloff-intensifies-48e38bdf?mod=mw_rss_topstories",
+      "published": "2026-11-16T18:54:00Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "tech",
+      "headline": "Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could \u2018disappoint\u2019",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/16/fed-ai-task-force-kevin-warsh.html",
+      "published": "2026-11-16T18:46:07Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
+      "image": "news-images/6920fa4d0c4a1dfa23d1f8c3.jpg",
+      "link": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
+      "published": "2026-11-16T18:45:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Stock Market Today: Dow Dives As Trump Says This On Huang; Victoria's Secret Flashes Sell Signal (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/befe3344-5a22-304e-a07d-6ff7ad87bf49/stock-market-today%3A-dow-dives.html?.tsrc=rss",
+      "published": "2026-11-16T18:44:54Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "energy",
+      "headline": "Sector Update: Energy Stocks Decline Monday Afternoon",
+      "image": null,
+      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-decline-monday-184007140.html?.tsrc=rss",
+      "published": "2026-11-16T18:40:07Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Nvidia board is not considering bringing Jensen Huang back as CEO, source tells CNBC",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/16/nvidia-ceo-jensen-huang.html",
+      "published": "2026-11-16T18:22:06Z",
+      "sentiment": "neutral"
+    },
     {
       "category": "other",
       "headline": "OpenAI inks agreements with four independent evaluators to boost company's safety work",
@@ -11,10 +107,18 @@
     },
     {
       "category": "tech",
-      "headline": "Nvidia board is not considering bringing Jensen Huang back as CEO, source tells CNBC",
+      "headline": "Nvidia\u2019s stock extends declines following harsh words from the U.S. government",
+      "image": "news-images/39bb8fba3a3a4c3aa291754d.jpg",
+      "link": "https://www.marketwatch.com/story/nvidias-stock-extends-declines-following-harsh-words-from-the-u-s-government-d721188e?mod=mw_rss_topstories",
+      "published": "2026-11-16T18:11:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Update: Chipmakers Push US Equity Indexes Lower as Commerce Department Plans to Curb Access to Advanced AI Infrastructure",
       "image": null,
-      "link": "https://www.cnbc.com/2026/11/16/nvidia-ceo-jensen-huang.html",
-      "published": "2026-11-16T18:09:50Z",
+      "link": "https://finance.yahoo.com/technology/ai/articles/chipmakers-push-us-equity-indexes-180432243.html?.tsrc=rss",
+      "published": "2026-11-16T18:04:32Z",
       "sentiment": "neutral"
     },
     {
@@ -37,7 +141,7 @@
       "category": "tech",
       "headline": "Wall Street slides as Nvidia casts shadow over tech stocks",
       "image": null,
-      "link": "https://uk.finance.yahoo.com/news/wall-street-slides-nvidia-casts-175434575.html?.tsrc=rss",
+      "link": "https://www.telegraph.co.uk/business/2026/11/16/nvidia-stocks-asia-us-anthropic-tech-trump-ftse-100-markets1/?.tsrc=rss",
       "published": "2026-11-16T17:54:34Z",
       "sentiment": "neutral"
     },
@@ -58,14 +162,6 @@
       "sentiment": "bullish"
     },
     {
-      "category": "other",
-      "headline": "Altimeter's Brad Gerstner investing $5 billion in Anthropic IPO",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/16/altimeters-brad-gerstner-investing-5-billion-in-anthropic-ipo.html",
-      "published": "2026-11-16T17:50:45Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "tech",
       "headline": "Stock Market Midday, Nov. 16: Nasdaq Tumbles as Wall Street Braces for Nvidia Earnings and Bitcoin Slides",
       "image": null,
@@ -82,43 +178,11 @@
       "sentiment": "neutral"
     },
     {
-      "category": "tech",
-      "headline": "Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could \u2018disappoint\u2019",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/16/fed-ai-task-force-kevin-warsh.html",
-      "published": "2026-11-16T17:29:04Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "How Rockstar's 'GTA VI' release could reshape gaming, streaming and even paid time off",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/14/gta-6-grand-theft-auto-launch.html",
-      "published": "2026-11-16T17:27:23Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "other",
       "headline": "Robert Pattinson cast as next James Bond",
       "image": null,
       "link": "https://www.cnbc.com/2026/11/16/robert-pattinson-james-bond.html",
       "published": "2026-11-16T17:25:51Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Nvidia fallout: Commerce targets loophole for China's data center use",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/16/nvidia-commerce-china-lutnick.html",
-      "published": "2026-11-16T17:22:11Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "other",
-      "headline": "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
-      "published": "2026-11-16T17:14:13Z",
       "sentiment": "neutral"
     },
     {
@@ -128,22 +192,6 @@
       "link": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
       "published": "2026-11-16T17:00:00Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Cramer: Take some profits in these 2 stocks if you have big gains and do this with the cash",
-      "image": null,
-      "link": "https://www.cnbc.com/investingclub/2026/11/16/cramer-take-some-profits-in-these-2-stocks-and-do-this-with-the-cash.html",
-      "published": "2026-11-16T16:59:01Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "tech",
-      "headline": "Stock Market Today: Dow, Nasdaq Dive As Chips Tumble; Trump Says This On Huang, Lutnick (Live Coverage)",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/befe3344-5a22-304e-a07d-6ff7ad87bf49/stock-market-today%3A-dow%2C.html?.tsrc=rss",
-      "published": "2026-11-16T16:50:56Z",
-      "sentiment": "bearish"
     },
     {
       "category": "tech",
@@ -178,43 +226,11 @@
       "sentiment": "bearish"
     },
     {
-      "category": "other",
-      "headline": "These 13 S&P 500 stocks can rise up to 70% over the next year, according to analysts",
-      "image": "news-images/7ffde10dfe58d2df7ae06ead.jpg",
-      "link": "https://www.marketwatch.com/story/these-13-s-p-500-stocks-can-rise-up-to-70-over-the-next-year-according-to-analysts-21119af9?mod=mw_rss_topstories",
-      "published": "2026-11-16T15:47:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Nvidia\u2019s stock extends declines following harsh words from the U.S. government",
-      "image": "news-images/39bb8fba3a3a4c3aa291754d.jpg",
-      "link": "https://www.marketwatch.com/story/nvidias-stock-extends-declines-following-harsh-words-from-the-u-s-government-d721188e?mod=mw_rss_topstories",
-      "published": "2026-11-16T15:22:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
-      "image": "news-images/6920fa4d0c4a1dfa23d1f8c3.jpg",
-      "link": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
-      "published": "2026-11-16T15:15:00Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "realestate",
       "headline": "Parents say 'there's no handbook' with kids and sports-gambling addiction",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=97e8972b-a910-457c-94cb-e351dc03280d&amp;mod=mw_rss_bulletins",
       "published": "2026-11-16T15:10:08Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "healthcare",
-      "headline": "The FDA declined to approve one of biotech\u2019s most closely watched cancer drugs",
-      "image": "news-images/2fbb069c96daa82a42852c0b.jpg",
-      "link": "https://www.marketwatch.com/story/the-fda-declined-to-approve-one-of-biotechs-most-closely-watched-cancer-drugs-d7c6a0a3?mod=mw_rss_topstories",
-      "published": "2026-11-16T15:06:00Z",
       "sentiment": "neutral"
     },
     {
@@ -266,22 +282,6 @@
       "sentiment": "bullish"
     },
     {
-      "category": "other",
-      "headline": "Stock Market News for Nov 16, 2026",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-nov-16-132700717.html?.tsrc=rss",
-      "published": "2026-11-16T13:27:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Stock Market Today: Major Indexes Tumble as Tech Stocks Slide; Nvidia Continues Dropping Ahead of Earnings Report",
-      "image": null,
-      "link": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-11162026-12257790?.tsrc=rss",
-      "published": "2026-11-16T13:21:29Z",
-      "sentiment": "bearish"
-    },
-    {
       "category": "consumer",
       "headline": "Economic calendar: Housing, factory and retail data coming this week",
       "image": null,
@@ -322,8 +322,8 @@
       "sentiment": "bearish"
     }
   ],
-  "newest_item_published": "2026-11-16T18:11:00Z",
-  "source_item_count": 70,
+  "newest_item_published": "2026-11-16T19:11:41Z",
+  "source_item_count": 69,
   "sources": {
     "cnbc": {
       "contributed": 11,
@@ -331,7 +331,7 @@
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-11-16T18:11:00Z",
+      "newest": "2026-11-16T19:11:41Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,7 +340,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-11-16T17:55:00Z",
+      "newest": "2026-11-16T19:00:00Z",
       "ok": true
     },
     "mw_bulletins": {
@@ -355,10 +355,10 @@
     "yahoo_dji": {
       "contributed": 10,
       "error": null,
-      "fetched": 20,
-      "fresh": 18,
+      "fetched": 19,
+      "fresh": 17,
       "label": "Yahoo Finance",
-      "newest": "2026-11-16T17:54:34Z",
+      "newest": "2026-11-16T18:44:54Z",
       "ok": true
     }
   }
