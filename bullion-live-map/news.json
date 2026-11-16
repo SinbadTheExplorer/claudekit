@@ -1,20 +1,116 @@
 {
-  "generated_at": "2026-11-16T19:12:06Z",
+  "generated_at": "2026-11-16T20:12:07Z",
   "headlines": [
     {
-      "category": "other",
-      "headline": "Altimeter's Brad Gerstner aims to invest $5 billion in Anthropic IPO",
+      "category": "tech",
+      "headline": "Eli Lilly makes a deal outside obesity. Plus, another word of caution on Nvidia",
       "image": null,
-      "link": "https://www.cnbc.com/2026/11/16/altimeters-brad-gerstner-investing-5-billion-in-anthropic-ipo.html",
-      "published": "2026-11-16T19:11:41Z",
+      "link": "https://www.cnbc.com/investingclub/2026/11/16/eli-lilly-makes-a-deal-outside-obesity-plus-another-word-of-caution-on-nvidia.html",
+      "published": "2026-11-16T20:07:46Z",
       "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Rare-earth stocks sinks deeper into the red. Here\u2019s the latest catalyst.",
+      "image": "news-images/9612ebaab05d039bb121fd1c.jpg",
+      "link": "https://www.marketwatch.com/story/rare-earth-stocks-sinks-deeper-into-the-red-heres-the-latest-catalyst-3033c8d0?mod=mw_rss_topstories",
+      "published": "2026-11-16T20:07:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Stock Market Today: Dow Dives As Nvidia Makes Huang Decision; These AI Plays Plunge (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/befe3344-5a22-304e-a07d-6ff7ad87bf49/stock-market-today%3A-dow-dives.html?.tsrc=rss",
+      "published": "2026-11-16T20:06:29Z",
+      "sentiment": "bearish"
     },
     {
       "category": "tech",
       "headline": "California sues OpenAI over Hugging Face, other AI model loss of control",
       "image": null,
       "link": "https://www.cnbc.com/2026/11/16/openai-california-bonta-ai-lawsuit.html",
-      "published": "2026-11-16T19:07:26Z",
+      "published": "2026-11-16T20:02:43Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Dow down 700 points, S&P 500 and Nasdaq sharply lower in final hour of trading",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=c5be318b-40b3-4e77-b22c-2757de6524fe&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-16T20:01:14Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Nvidia board is not considering bringing Jensen Huang back as CEO, source tells CNBC",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/16/nvidia-ceo-jensen-huang.html",
+      "published": "2026-11-16T19:46:26Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Bond-market volatility is exploding higher. It could be the new normal.",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=b4747394-bb3f-4084-9cbd-9af8038e675d&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-16T19:42:55Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Bond-market volatility is exploding higher. It could be the new normal for investors.",
+      "image": "news-images/5fe227d57b655c7977d10702.jpg",
+      "link": "https://www.marketwatch.com/story/bond-market-volatility-is-exploding-higher-it-could-be-the-new-normal-for-investors-7c24a763?mod=mw_rss_topstories",
+      "published": "2026-11-16T19:34:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "I\u2019m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
+      "image": "news-images/1669f5b3f293a4134d601b4e.jpg",
+      "link": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
+      "published": "2026-11-16T19:31:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Update: US Equity Indexes Sink as Big Tech Dives After Commerce Department Plans Curbs to Advanced AI Infrastructure Access",
+      "image": null,
+      "link": "https://finance.yahoo.com/technology/ai/articles/us-equity-indexes-sink-big-192245914.html?.tsrc=rss",
+      "published": "2026-11-16T19:22:45Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "There's a growing 'property tax revolt' as homeowners face rising costs. How it could impact your bill",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/16/property-tax-relief-homeowners-bills.html",
+      "published": "2026-11-16T19:15:18Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Update: Equities Tumble Intraday as Nvidia Slides, Fed's Warsh Discusses AI Impact",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/equities-tumble-intraday-nvidia-slides-191503897.html?.tsrc=rss",
+      "published": "2026-11-16T19:15:03Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "energy",
+      "headline": "U.S. crude oil declines to $85 a barrel on recovering Middle East exports",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/16/us-crude-oil-declines-to-87-a-barrel-on-recovering-middle-east-exports.html",
+      "published": "2026-11-16T19:13:25Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Altimeter's Brad Gerstner aims to invest $5 billion in Anthropic IPO",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/16/altimeters-brad-gerstner-investing-5-billion-in-anthropic-ipo.html",
+      "published": "2026-11-16T19:11:41Z",
       "sentiment": "neutral"
     },
     {
@@ -74,14 +170,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "other",
-      "headline": "Stock Market Today: Dow Dives As Trump Says This On Huang; Victoria's Secret Flashes Sell Signal (Live Coverage)",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/befe3344-5a22-304e-a07d-6ff7ad87bf49/stock-market-today%3A-dow-dives.html?.tsrc=rss",
-      "published": "2026-11-16T18:44:54Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "energy",
       "headline": "Sector Update: Energy Stocks Decline Monday Afternoon",
       "image": null,
@@ -91,10 +179,10 @@
     },
     {
       "category": "tech",
-      "headline": "Nvidia board is not considering bringing Jensen Huang back as CEO, source tells CNBC",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/16/nvidia-ceo-jensen-huang.html",
-      "published": "2026-11-16T18:22:06Z",
+      "headline": "Nvidia\u2019s stock extends declines following harsh words from the U.S. government",
+      "image": "news-images/39bb8fba3a3a4c3aa291754d.jpg",
+      "link": "https://www.marketwatch.com/story/nvidias-stock-extends-declines-following-harsh-words-from-the-u-s-government-d721188e?mod=mw_rss_topstories",
+      "published": "2026-11-16T18:11:00Z",
       "sentiment": "neutral"
     },
     {
@@ -102,14 +190,6 @@
       "headline": "OpenAI inks agreements with four independent evaluators to boost company's safety work",
       "image": null,
       "link": "https://www.cnbc.com/2026/11/16/openai-independent-ai-safety-evaluators.html",
-      "published": "2026-11-16T18:11:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Nvidia\u2019s stock extends declines following harsh words from the U.S. government",
-      "image": "news-images/39bb8fba3a3a4c3aa291754d.jpg",
-      "link": "https://www.marketwatch.com/story/nvidias-stock-extends-declines-following-harsh-words-from-the-u-s-government-d721188e?mod=mw_rss_topstories",
       "published": "2026-11-16T18:11:00Z",
       "sentiment": "neutral"
     },
@@ -154,36 +234,12 @@
       "sentiment": "neutral"
     },
     {
-      "category": "crypto",
-      "headline": "Bitcoin slides to $62,000 following liquidation cascade, then rebounds slightly",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/16/bitcoin-slides-to-62000-following-liquidation-cascade-then-rebounds-slightly.html",
-      "published": "2026-11-16T17:52:38Z",
-      "sentiment": "bullish"
-    },
-    {
       "category": "tech",
       "headline": "Stock Market Midday, Nov. 16: Nasdaq Tumbles as Wall Street Braces for Nvidia Earnings and Bitcoin Slides",
       "image": null,
       "link": "https://www.fool.com/coverage/stock-market-today/2026/11/16/stock-market-midday-nov-16-stocks-slide-as-tech-selling-intensifies-across-the-market/?.tsrc=rss",
       "published": "2026-11-16T17:45:02Z",
       "sentiment": "bearish"
-    },
-    {
-      "category": "other",
-      "headline": "Warren Buffett donates $5.5 billion, says kindness 'compounds' in Thanksgiving letter",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/16/warren-buffett-donates-5point5-billion-thanksgiving.html",
-      "published": "2026-11-16T17:39:32Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Robert Pattinson cast as next James Bond",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/16/robert-pattinson-james-bond.html",
-      "published": "2026-11-16T17:25:51Z",
-      "sentiment": "neutral"
     },
     {
       "category": "other",
@@ -195,34 +251,10 @@
     },
     {
       "category": "tech",
-      "headline": "Nvidia is gearing up for one of Wall Street\u2019s most anticipated earnings calls in years",
-      "image": "news-images/507fd3660948c18862aa3465.jpg",
-      "link": "https://www.marketwatch.com/story/nvidia-is-gearing-up-for-one-of-wall-streets-most-anticipated-earnings-calls-in-years-91855b1e?mod=mw_rss_topstories",
-      "published": "2026-11-16T16:37:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
       "headline": "SpaceX widens its lead in the space race, even amid a tech selloff",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=47f286cf-802f-44a1-be5a-5e86e5efea06&amp;mod=mw_rss_bulletins",
       "published": "2026-11-16T16:22:32Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "other",
-      "headline": "I am turning 18 next month and want to start investing. What do I do first?",
-      "image": "news-images/812161166020a7105608859d.jpg",
-      "link": "https://www.marketwatch.com/story/i-am-turning-18-next-month-and-want-to-start-investing-what-do-i-do-first-75370ff3?mod=mw_rss_topstories",
-      "published": "2026-11-16T16:20:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "SpaceX widens its lead in the space race, even as a tech selloff weighs on its stock",
-      "image": "news-images/9ca149aadc44092460129a0b.jpg",
-      "link": "https://www.marketwatch.com/story/spacex-widens-its-lead-in-the-space-race-even-as-a-tech-selloff-weighs-on-its-stock-975f5c1f?mod=mw_rss_topstories",
-      "published": "2026-11-16T15:59:00Z",
       "sentiment": "bearish"
     },
     {
@@ -266,22 +298,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "tech",
-      "headline": "Update: US Equity Futures Lower Pre-Bell as Traders Await Nvidia Results, Anthropic IPO",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-lower-pre-135602836.html?.tsrc=rss",
-      "published": "2026-11-16T13:56:02Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "financials",
-      "headline": "Beat the Market the Zacks Way: Vera Bradley, Herc, Visa in Focus",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/beat-market-zacks-way-vera-133800008.html?.tsrc=rss",
-      "published": "2026-11-16T13:38:00Z",
-      "sentiment": "bullish"
-    },
-    {
       "category": "consumer",
       "headline": "Economic calendar: Housing, factory and retail data coming this week",
       "image": null,
@@ -304,26 +320,10 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=70f8da3a-cf10-45a3-9b1a-10cda20ef41e&amp;mod=mw_rss_bulletins",
       "published": "2026-11-16T11:26:06Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Ex-White House economist calculates how far stocks will fall if AI bubble burst",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=4ad182ae-afc3-4e55-ae3c-95f1358c596e&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-16T11:11:32Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "financials",
-      "headline": "Morgan Stanley tells investors to go 'max overweight' stocks",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=3be16f48-f51e-4bcb-b84b-0d4f82d22415&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-16T10:34:57Z",
-      "sentiment": "bearish"
     }
   ],
-  "newest_item_published": "2026-11-16T19:11:41Z",
-  "source_item_count": 69,
+  "newest_item_published": "2026-11-16T20:07:46Z",
+  "source_item_count": 68,
   "sources": {
     "cnbc": {
       "contributed": 11,
@@ -331,7 +331,7 @@
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-11-16T19:11:41Z",
+      "newest": "2026-11-16T20:07:46Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,7 +340,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-11-16T19:00:00Z",
+      "newest": "2026-11-16T20:07:00Z",
       "ok": true
     },
     "mw_bulletins": {
@@ -349,16 +349,16 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-11-16T17:58:21Z",
+      "newest": "2026-11-16T20:01:14Z",
       "ok": true
     },
     "yahoo_dji": {
       "contributed": 10,
       "error": null,
-      "fetched": 19,
+      "fetched": 18,
       "fresh": 17,
       "label": "Yahoo Finance",
-      "newest": "2026-11-16T18:44:54Z",
+      "newest": "2026-11-16T20:06:29Z",
       "ok": true
     }
   }
