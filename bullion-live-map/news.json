@@ -1,12 +1,76 @@
 {
-  "generated_at": "2026-11-16T16:12:06Z",
+  "generated_at": "2026-11-16T17:12:10Z",
   "headlines": [
     {
-      "category": "financials",
-      "headline": "Anthropic\u2019s Wall Street whisperer: Meet CFO Krishna Rao",
+      "category": "other",
+      "headline": "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home",
       "image": null,
-      "link": "https://www.cnbc.com/2026/11/16/anthropic-cfo-krishna-rao-ipo.html",
-      "published": "2026-11-16T16:08:16Z",
+      "link": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
+      "published": "2026-11-16T17:11:31Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "\u2018He calls my plans a fantasy\u2019: My husband says we can\u2019t afford a $200,000-a-year retirement. Is he being cheap?",
+      "image": "news-images/a2085945c7321971f68c51a6.jpg",
+      "link": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
+      "published": "2026-11-16T17:00:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Trump says he's OK with Jensen Huang returning as Nvidia CEO, sees no national security risk",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/16/trump-lutnick-nvidia-national-security-jensen-huant.html",
+      "published": "2026-11-16T16:52:28Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Nvidia fallout: Commerce targets loophole for China's data center use",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/16/nvidia-commerce-china-lutnick.html",
+      "published": "2026-11-16T16:51:07Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "tech",
+      "headline": "Stock Market Today: Dow, Nasdaq Dive As Chips Tumble; Trump Says This On Huang, Lutnick (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/befe3344-5a22-304e-a07d-6ff7ad87bf49/stock-market-today%3A-dow%2C.html?.tsrc=rss",
+      "published": "2026-11-16T16:50:56Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "tech",
+      "headline": "Nvidia is gearing up for one of Wall Street\u2019s most anticipated earnings calls in years",
+      "image": "news-images/507fd3660948c18862aa3465.jpg",
+      "link": "https://www.marketwatch.com/story/nvidia-is-gearing-up-for-one-of-wall-streets-most-anticipated-earnings-calls-in-years-91855b1e?mod=mw_rss_topstories",
+      "published": "2026-11-16T16:37:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "SpaceX widens its lead in the space race, even amid a tech selloff",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=47f286cf-802f-44a1-be5a-5e86e5efea06&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-16T16:22:32Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "International student enrollment drops sharply, putting more U.S. colleges in financial jeopardy",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/16/international-student-enrollment-decline-us-colleges.html",
+      "published": "2026-11-16T16:20:51Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "I am turning 18 next month and want to start investing. What do I do first?",
+      "image": "news-images/812161166020a7105608859d.jpg",
+      "link": "https://www.marketwatch.com/story/i-am-turning-18-next-month-and-want-to-start-investing-what-do-i-do-first-75370ff3?mod=mw_rss_topstories",
+      "published": "2026-11-16T16:20:00Z",
       "sentiment": "neutral"
     },
     {
@@ -14,7 +78,15 @@
       "headline": "U.S. crude oil declines to $87 a barrel on recovering Middle East exports",
       "image": null,
       "link": "https://www.cnbc.com/2026/11/16/us-crude-oil-declines-to-87-a-barrel-on-recovering-middle-east-exports.html",
-      "published": "2026-11-16T16:06:27Z",
+      "published": "2026-11-16T16:17:39Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "financials",
+      "headline": "Anthropic\u2019s Wall Street whisperer: Meet CFO Krishna Rao",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/16/anthropic-cfo-krishna-rao-ipo.html",
+      "published": "2026-11-16T16:08:16Z",
       "sentiment": "neutral"
     },
     {
@@ -59,43 +131,11 @@
     },
     {
       "category": "tech",
-      "headline": "Trump says Nvidia scandal did not put U.S. national security \u2018at risk,\u2019 defends Lutnick",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/16/trump-lutnick-nvidia-national-security-jensen-huant.html",
-      "published": "2026-11-16T15:40:28Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Nvidia fallout: Commerce targets loophole for China's data center use",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/16/nvidia-commerce-china-lutnick.html",
-      "published": "2026-11-16T15:34:48Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "tech",
-      "headline": "Stock Market Today: Dow, Nvidia Skid Amid Huang News; Chip Stocks, Oil Plays Fall (Live Coverage)",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/befe3344-5a22-304e-a07d-6ff7ad87bf49/stock-market-today%3A-dow%2C.html?.tsrc=rss",
-      "published": "2026-11-16T15:24:11Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "tech",
       "headline": "Nvidia\u2019s stock extends declines following harsh words from the U.S. government",
       "image": "news-images/39bb8fba3a3a4c3aa291754d.jpg",
       "link": "https://www.marketwatch.com/story/nvidias-stock-extends-declines-following-harsh-words-from-the-u-s-government-d721188e?mod=mw_rss_topstories",
       "published": "2026-11-16T15:22:00Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "International student enrollment drops sharply, putting more U.S. colleges in financial jeopardy",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/16/international-student-enrollment-decline-us-colleges.html",
-      "published": "2026-11-16T15:16:07Z",
-      "sentiment": "bearish"
     },
     {
       "category": "other",
@@ -146,14 +186,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "other",
-      "headline": "\u2018It leaves me with a sour taste\u2019: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
-      "image": "news-images/15ceafc445bbbd6a4c7fff04.jpg",
-      "link": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
-      "published": "2026-11-16T15:00:00Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "tech",
       "headline": "Stock Market Today: Nasdaq-100 Sinks 1% as Nvidia Faces Its First Earnings Without Jensen Huang",
       "image": null,
@@ -167,14 +199,6 @@
       "image": null,
       "link": "https://www.cnbc.com/2026/11/16/warren-buffett-donates-5point5-billion-thanksgiving.html",
       "published": "2026-11-16T14:56:21Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "consumer",
-      "headline": "Budget airlines are going upscale with first-class seats and faster wifi",
-      "image": "news-images/09dc9e22fe58801ec692bec2.jpg",
-      "link": "https://www.marketwatch.com/story/budget-airlines-are-going-upscale-with-first-class-seats-and-faster-wifi-999868ab?mod=mw_rss_topstories",
-      "published": "2026-11-16T14:34:00Z",
       "sentiment": "neutral"
     },
     {
@@ -192,22 +216,6 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=76dfbcb6-c7cb-482e-adf6-7d4a57a72211&amp;mod=mw_rss_bulletins",
       "published": "2026-11-16T14:30:38Z",
       "sentiment": "bearish"
-    },
-    {
-      "category": "crypto",
-      "headline": "Bitcoin slides to $62,000 following liquidation cascade, then rebounds slightly",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/16/bitcoin-slides-to-62000-following-liquidation-cascade-then-rebounds-slightly.html",
-      "published": "2026-11-16T14:29:19Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "other",
-      "headline": "I\u2019m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
-      "image": "news-images/1669f5b3f293a4134d601b4e.jpg",
-      "link": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
-      "published": "2026-11-16T14:15:00Z",
-      "sentiment": "neutral"
     },
     {
       "category": "other",
@@ -312,26 +320,18 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=70b71c1c-407f-4287-860c-baf42b6c049f&amp;mod=mw_rss_bulletins",
       "published": "2026-11-15T15:33:37Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Economic calendar: Markets await Monday speech by Fed chair Kevin Warsh",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=c5b4b9d1-73c3-4db0-9141-c50d42e548b5&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-15T15:15:58Z",
-      "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-11-16T16:08:16Z",
+  "newest_item_published": "2026-11-16T17:11:31Z",
   "source_item_count": 70,
   "sources": {
     "cnbc": {
       "contributed": 11,
       "error": null,
       "fetched": 30,
-      "fresh": 27,
+      "fresh": 28,
       "label": "CNBC",
-      "newest": "2026-11-16T16:08:16Z",
+      "newest": "2026-11-16T17:11:31Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,7 +340,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-11-16T15:59:00Z",
+      "newest": "2026-11-16T17:00:00Z",
       "ok": true
     },
     "mw_bulletins": {
@@ -349,16 +349,16 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-11-16T15:32:23Z",
+      "newest": "2026-11-16T16:22:32Z",
       "ok": true
     },
     "yahoo_dji": {
       "contributed": 10,
       "error": null,
       "fetched": 20,
-      "fresh": 19,
+      "fresh": 18,
       "label": "Yahoo Finance",
-      "newest": "2026-11-16T15:24:11Z",
+      "newest": "2026-11-16T16:50:56Z",
       "ok": true
     }
   }
