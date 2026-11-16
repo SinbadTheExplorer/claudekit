@@ -1,13 +1,109 @@
 {
-  "generated_at": "2026-11-16T13:12:19Z",
+  "generated_at": "2026-11-16T14:12:04Z",
   "headlines": [
+    {
+      "category": "tech",
+      "headline": "Nvidia is gearing up for one of Wall Street\u2019s most anticipated earnings calls in years",
+      "image": "news-images/507fd3660948c18862aa3465.jpg",
+      "link": "https://www.marketwatch.com/story/nvidia-is-gearing-up-for-one-of-wall-streets-most-anticipated-earnings-calls-in-years-91855b1e?mod=mw_rss_topstories",
+      "published": "2026-11-16T14:07:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Nvidia fallout: Commerce cracks down on third-country loophole that allowed China to use computing power",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/16/nvidia-commerce-china-lutnick.html",
+      "published": "2026-11-16T14:05:54Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "crypto",
+      "headline": "A major NFT marketplace is shutting down\u20145 years after the boom, there's a lesson for investors",
+      "image": null,
+      "link": "https://www.cnbc.com/make-it/2026/11/16/5-years-after-the-nft-boom-theres-a-lesson-for-investors-.html",
+      "published": "2026-11-16T14:00:01Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "We're booking huge profits on a tech winner and making a chip stock swap",
+      "image": null,
+      "link": "https://www.cnbc.com/investingclub/2026/11/16/were-booking-huge-profits-on-a-tech-winner-and-making-a-chip-stock-swap.html",
+      "published": "2026-11-16T13:58:53Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Update: US Equity Futures Lower Pre-Bell as Traders Await Nvidia Results, Anthropic IPO",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-lower-pre-135602836.html?.tsrc=rss",
+      "published": "2026-11-16T13:56:02Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "consumer",
+      "headline": "'We slept here': Flight delays linger as airlines recover from ground stop, but schedule improves Monday",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/15/flight-delays-ground-faa-stop.html",
+      "published": "2026-11-16T13:52:53Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "International student enrollment drops sharply, putting more U.S. colleges in financial jeopardy",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/16/international-student-enrollment-decline-us-colleges.html",
+      "published": "2026-11-16T13:46:35Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "tech",
+      "headline": "Stock Market Today: Tech Futures Sell Off; Nvidia Dives Amid Jensen Huang News (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/befe3344-5a22-304e-a07d-6ff7ad87bf49/stock-market-today%3A-tech.html?.tsrc=rss",
+      "published": "2026-11-16T13:45:19Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "energy",
+      "headline": "Why this 40-year market veteran is making a lonely bet on a 40% stock-market crash \u2014 and $500 oil",
+      "image": "news-images/cf3bd0691932ac364dcce422.jpg",
+      "link": "https://www.marketwatch.com/story/why-this-40-year-market-veteran-is-making-a-lonely-bet-on-a-40-stock-market-crash-and-500-oil-c62aefdb?mod=mw_rss_topstories",
+      "published": "2026-11-16T13:36:00Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "How Rockstar's 'GTA VI' release could reshape gaming, streaming and even paid time off",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/14/gta-6-grand-theft-auto-launch.html",
+      "published": "2026-11-16T13:24:20Z",
+      "sentiment": "neutral"
+    },
     {
       "category": "tech",
       "headline": "Nvidia stock falls as investors price in fallout from Jensen Huang's resignation",
       "image": null,
       "link": "https://www.cnbc.com/2026/11/16/nvidia-stock-price-jensen-huang.html",
-      "published": "2026-11-16T13:07:13Z",
+      "published": "2026-11-16T13:15:24Z",
       "sentiment": "bearish"
+    },
+    {
+      "category": "tech",
+      "headline": "US Equity Futures Lower Pre-Bell as Traders Await Nvidia Results, Anthropic IPO",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-lower-pre-130956284.html?.tsrc=rss",
+      "published": "2026-11-16T13:09:56Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Equity Futures Down Pre-Bell as Markets Await Nvidia Earnings, Anthropic IPO",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/equity-futures-down-pre-bell-130826897.html?.tsrc=rss",
+      "published": "2026-11-16T13:08:26Z",
+      "sentiment": "neutral"
     },
     {
       "category": "tech",
@@ -23,14 +119,6 @@
       "image": "news-images/2fbb069c96daa82a42852c0b.jpg",
       "link": "https://www.marketwatch.com/story/the-fda-declined-to-approve-one-of-biotechs-most-closely-watched-cancer-drugs-d7c6a0a3?mod=mw_rss_topstories",
       "published": "2026-11-16T13:01:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "consumer",
-      "headline": "'We slept here': Flight delays linger as airlines recover from ground stop, but schedule improves Monday",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/15/flight-delays-ground-faa-stop.html",
-      "published": "2026-11-16T12:57:46Z",
       "sentiment": "neutral"
     },
     {
@@ -56,14 +144,6 @@
       "link": "https://www.marketwatch.com/story/anthropics-ipo-is-forcing-investors-to-assess-uninsurable-risks-theyve-never-encountered-before-dea85fbf?mod=mw_rss_topstories",
       "published": "2026-11-16T12:33:00Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "energy",
-      "headline": "Why this 40-year market veteran is making a lonely bet on a 40% stock-market crash \u2014 and $500 oil",
-      "image": "news-images/cf3bd0691932ac364dcce422.jpg",
-      "link": "https://www.marketwatch.com/story/why-this-40-year-market-veteran-is-making-a-lonely-bet-on-a-40-stock-market-crash-and-500-oil-c62aefdb?mod=mw_rss_topstories",
-      "published": "2026-11-16T12:32:00Z",
-      "sentiment": "bearish"
     },
     {
       "category": "tech",
@@ -103,22 +183,6 @@
       "image": null,
       "link": "https://www.cnbc.com/2026/11/16/cantwell-lutnick-ai-chip-china.html",
       "published": "2026-11-16T12:13:47Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html",
-      "published": "2026-11-16T12:13:23Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "industrials",
-      "headline": "Big-ticket holiday items may be harder to find as shipping costs rise",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/16/holiday-big-ticket-inventory-shipping-costs.html",
-      "published": "2026-11-16T12:00:01Z",
       "sentiment": "neutral"
     },
     {
@@ -170,28 +234,12 @@
       "sentiment": "neutral"
     },
     {
-      "category": "international",
-      "headline": "NATO member Estonia to close Russia border after attempted 'sabotage' of drone maker",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/16/nato-estonia-russia-border-ukraine-war.html",
-      "published": "2026-11-16T10:44:02Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "financials",
       "headline": "Morgan Stanley tells investors to go 'max overweight' stocks",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=3be16f48-f51e-4bcb-b84b-0d4f82d22415&amp;mod=mw_rss_bulletins",
       "published": "2026-11-16T10:34:57Z",
       "sentiment": "bearish"
-    },
-    {
-      "category": "other",
-      "headline": "Could Budapest be the next digital nomad hotspot?",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/15/budapest-europes-next-digital-nomad-hotspot.html",
-      "published": "2026-11-16T10:33:31Z",
-      "sentiment": "neutral"
     },
     {
       "category": "federal",
@@ -202,27 +250,11 @@
       "sentiment": "neutral"
     },
     {
-      "category": "financials",
-      "headline": "Why Morgan Stanley says it\u2019s time to go \u2018max\u2019 overweight on stocks",
-      "image": "news-images/4461ec280d9d3491084ee217.jpg",
-      "link": "https://www.marketwatch.com/story/why-morgan-stanley-says-its-time-to-go-max-overweight-on-stocks-bd33b103?mod=mw_rss_topstories",
-      "published": "2026-11-16T10:20:00Z",
-      "sentiment": "bearish"
-    },
-    {
       "category": "federal",
       "headline": "US Stock Futures Decline Ahead of Nvidia Earnings as Investors Await Federal Reserve Signals: Dow Jones, S&P, Nasdaq, Wall Street",
       "image": null,
       "link": "https://investorshub.advfn.com/market-news/article/40064/us-stock-futures-decline-ahead-of-nvidia-earnings-as-investors-await-federal-reserve-signals-dow-jones-sp-nasdaq-wall-street?.tsrc=rss",
       "published": "2026-11-16T09:56:42Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "financials",
-      "headline": "AI is reshaping banking jobs \u2013 but its ability to drive profits remains unclear",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/16/how-ai-is-changing-banking-jobs-hiring-and-revenue.html",
-      "published": "2026-11-16T09:35:14Z",
       "sentiment": "neutral"
     },
     {
@@ -247,22 +279,6 @@
       "image": null,
       "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-decline-asia-investor-concerns-045636045.html?.tsrc=rss",
       "published": "2026-11-16T04:56:36Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Dow Jones Futures: Techs Fall As Jensen Huang Mulls Nvidia Return; Anthropic IPO Looms",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/53e50dc8-f137-3f6c-bfd6-912334fef9f1/dow-jones-futures%3A-techs-fall.html?.tsrc=rss",
-      "published": "2026-11-16T04:08:09Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "tech",
-      "headline": "Nvidia CEO Jensen Huang Resigns as Stock Tanks. Here Are the Next Steps for Investors.",
-      "image": null,
-      "link": "https://www.fool.com/investing/2026/11/15/nvidia-ceo-jensen-huang-resigns-as-stock-tanks-here-are-the-next-steps-for-investors/?.tsrc=rss",
-      "published": "2026-11-15T21:20:02Z",
       "sentiment": "neutral"
     },
     {
@@ -291,22 +307,6 @@
     },
     {
       "category": "other",
-      "headline": "The Stock Market Is Doing Something for Only the 6th Time in 156 Years, and History Says It's Clear What Comes Next for Stocks",
-      "image": null,
-      "link": "https://www.fool.com/investing/2026/11/15/stock-market-doing-something-only-6th-time-in-156-years-history-says-clear-what-next-for-stocks/?.tsrc=rss",
-      "published": "2026-11-15T11:56:02Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Want to Invest in Top Growth Stocks Like Amazon, Apple, and Microsoft but Avoid Nvidia? Consider This Low-Cost Vanguard ETF That\u2019s Up 24.8% This Year.",
-      "image": null,
-      "link": "https://www.fool.com/investing/2026/11/15/want-to-invest-in-top-growth-stocks-like-amazon-apple-and-microsoft-but-avoid-nvidia-consider-this-low-cost-vanguard-etf-that-s-up-24-8-this-year/?.tsrc=rss",
-      "published": "2026-11-15T11:50:02Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
       "headline": "SpaceX successfully catches Starship rocket, in milestone for the space industry",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=d207a64b-a8d1-43ca-8ed3-030683015ffa&amp;mod=mw_rss_bulletins",
@@ -322,8 +322,8 @@
       "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-11-16T13:07:13Z",
-  "source_item_count": 66,
+  "newest_item_published": "2026-11-16T14:07:00Z",
+  "source_item_count": 69,
   "sources": {
     "cnbc": {
       "contributed": 10,
@@ -331,7 +331,7 @@
       "fetched": 30,
       "fresh": 28,
       "label": "CNBC",
-      "newest": "2026-11-16T13:07:13Z",
+      "newest": "2026-11-16T14:05:54Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,7 +340,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-11-16T13:01:00Z",
+      "newest": "2026-11-16T14:07:00Z",
       "ok": true
     },
     "mw_bulletins": {
@@ -355,10 +355,10 @@
     "yahoo_dji": {
       "contributed": 10,
       "error": null,
-      "fetched": 16,
-      "fresh": 13,
+      "fetched": 19,
+      "fresh": 17,
       "label": "Yahoo Finance",
-      "newest": "2026-11-16T13:02:01Z",
+      "newest": "2026-11-16T13:56:02Z",
       "ok": true
     }
   }
