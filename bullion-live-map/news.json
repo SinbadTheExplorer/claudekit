@@ -1,12 +1,116 @@
 {
-  "generated_at": "2026-11-17T17:12:05Z",
+  "generated_at": "2026-11-17T18:12:06Z",
   "headlines": [
     {
       "category": "other",
       "headline": "U.S. officially loses measles elimination status amid ongoing outbreaks",
       "image": null,
       "link": "https://www.cnbc.com/2026/11/17/us-measles-elimination-status.html",
-      "published": "2026-11-17T17:09:09Z",
+      "published": "2026-11-17T18:10:16Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "financials",
+      "headline": "Chase Home Lending CEO says he plans to 'go on offense' against non-bank lenders",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/17/chase-home-lending-ceo-says-hes-going-on-offense.html",
+      "published": "2026-11-17T18:06:18Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "tech",
+      "headline": "Dow Plunges 700 Points as S&P 500 and Nasdaq Fall Ahead of Nvidia Earnings",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dow-plunges-700-points-p-180432792.html?.tsrc=rss",
+      "published": "2026-11-17T18:04:32Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "tech",
+      "headline": "Update: US Equity Indexes Drop as Technology Leads Sector Declines Ahead of Nvidia's Results",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-drop-technology-180036281.html?.tsrc=rss",
+      "published": "2026-11-17T18:00:36Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "international",
+      "headline": "Trump on Iran's reported DC dirty bomb plan: 'We take it very seriously'",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/17/trump-iran-dirty-bomb-washington.html",
+      "published": "2026-11-17T17:49:45Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Jensen Huang now wants to return as Nvidia\u2019s CEO. Why that could be difficult.",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=b1b2fb6e-82fe-4f63-af3d-80c440154ef0&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-17T17:46:07Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Kalshi takes down controversial Trump 'mention' markets at CFTC's request",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/17/kalshi-takes-down-trump-mention-markets.html",
+      "published": "2026-11-17T17:41:22Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "As stocks struggle, bonds are finally helping investors play defense again. There\u2019s just one problem.",
+      "image": "news-images/e2f6040ba2719ed6aec96d3f.jpg",
+      "link": "https://www.marketwatch.com/story/as-stocks-struggle-bonds-are-finally-helping-investors-play-defense-again-theres-just-one-problem-94c8a1d8?mod=mw_rss_topstories",
+      "published": "2026-11-17T17:40:00Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "tech",
+      "headline": "Why Salesforce\u2019s stock is leading S&P 500 decliners amid tech jitters",
+      "image": "news-images/8f365aa28784c5537b8be5c0.jpg",
+      "link": "https://www.marketwatch.com/story/why-salesforces-stock-is-leading-s-p-500-decliners-amid-tech-jitters-17510caf?mod=mw_rss_topstories",
+      "published": "2026-11-17T17:36:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Salesforce leads Wall Street software sell-off as investors brace for Anthropic IPO",
+      "image": null,
+      "link": "https://www.proactiveinvestors.com/companies/news/1101949/salesforce-leads-wall-street-software-sell-off-as-investors-brace-for-anthropic-ipo-1101949.html?.tsrc=rss",
+      "published": "2026-11-17T17:35:00Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "tech",
+      "headline": "The latest tech failure? The U.S.'s classified national-security comms network.",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=0f5a8e56-44f2-4e97-b155-8ffb98e66cf4&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-17T17:30:26Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "FAA pauses installation of new routers after ground stop",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/17/faa-ground-stop-routers.html",
+      "published": "2026-11-17T17:27:57Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Former Nvidia CEO Jensen Huang says he\u2019s open to returning in first statement since resignation",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/17/nvidia-jensen-huang-statement.html",
+      "published": "2026-11-17T17:13:02Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "The latest tech failure: U.S. classified national security communications network",
+      "image": "news-images/e909519f5af7149305fe1b45.jpg",
+      "link": "https://www.marketwatch.com/story/the-latest-tech-failure-u-s-classified-national-security-communications-network-ad271899?mod=mw_rss_topstories",
+      "published": "2026-11-17T17:12:00Z",
       "sentiment": "neutral"
     },
     {
@@ -58,14 +162,6 @@
       "sentiment": "bearish"
     },
     {
-      "category": "international",
-      "headline": "Trump on Iran's reported DC dirty bomb plan: 'We take it very seriously'",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/17/trump-iran-dirty-bomb-washington.html",
-      "published": "2026-11-17T16:47:52Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "other",
       "headline": "Measles cases in the U.S. are at a 35-year high. Here\u2019s the staggering cost of falling vaccination rates for Americans.",
       "image": "news-images/2c22e7d752ff81998d3a7402.jpg",
@@ -90,22 +186,6 @@
       "sentiment": "bullish"
     },
     {
-      "category": "financials",
-      "headline": "Trump has arrived in Asia. Here\u2019s what he said about Iran and Deutsche Bank",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/17/trump-iran-asia-trip-china.html",
-      "published": "2026-11-17T16:39:43Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "financials",
-      "headline": "Property Play: Chase Home Lending CEO says he plans to 'go on offense' against non-bank lenders",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/17/chase-home-lending-ceo-says-hes-going-on-offense.html",
-      "published": "2026-11-17T16:38:56Z",
-      "sentiment": "bullish"
-    },
-    {
       "category": "tech",
       "headline": "Jensen Huang now wants to return as Nvidia\u2019s CEO. This is why that could be difficult.",
       "image": "news-images/81f2554dc858c3d16ad3ef55.jpg",
@@ -114,27 +194,11 @@
       "sentiment": "neutral"
     },
     {
-      "category": "tech",
-      "headline": "Former Nvidia CEO Jensen Huang says he\u2019s open to returning in first statement since resignation",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/17/nvidia-jensen-huang-statement.html",
-      "published": "2026-11-17T16:30:19Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "other",
       "headline": "Stock Market Double Top Spooks Technicians",
       "image": null,
       "link": "https://finance.yahoo.com/m/3ee426e2-8110-323b-b3e2-ffee310e4099/stock-market-double-top.html?.tsrc=rss",
       "published": "2026-11-17T16:14:17Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Lisa Cook lawyer signals Fed governor won't attend Trump committee's hearing",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/17/lisa-cook-trump-fed-committee-hearing.html",
-      "published": "2026-11-17T16:03:38Z",
       "sentiment": "neutral"
     },
     {
@@ -170,35 +234,11 @@
       "sentiment": "neutral"
     },
     {
-      "category": "tech",
-      "headline": "\u2018Nvidia\u2019s turmoil has me spooked\u2019: Should I sell my stocks and invest in real estate?",
-      "image": "news-images/4f32ee83d990522cb1a9a2a7.jpg",
-      "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
-      "published": "2026-11-17T15:15:00Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "other",
       "headline": "These everyday investors are skeptical about Anthropic's IPO",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=486bb645-1ca6-4da1-8d13-fc3b41180493&amp;mod=mw_rss_bulletins",
       "published": "2026-11-17T15:01:15Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Anthropic wants everyday investors to be part of its IPO. Some are not buying it.",
-      "image": "news-images/a6805b6ff4484e28ee390aaf.jpg",
-      "link": "https://www.marketwatch.com/story/anthropic-wants-everyday-investors-to-be-part-of-its-ipo-some-are-not-buying-it-43576d2d?mod=mw_rss_topstories",
-      "published": "2026-11-17T15:01:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "realestate",
-      "headline": "Nearly half of home builders are cutting prices and offering lower mortgage rates as they struggle to find buyers",
-      "image": "news-images/8627fcc46bc858d5a1f591e7.jpg",
-      "link": "https://www.marketwatch.com/story/nearly-half-of-home-builders-are-cutting-prices-and-offering-lower-mortgage-rates-as-they-struggle-to-find-buyers-033351e1?mod=mw_rss_topstories",
-      "published": "2026-11-17T15:01:00Z",
       "sentiment": "neutral"
     },
     {
@@ -231,30 +271,6 @@
       "image": null,
       "link": "https://247wallst.com/investing/etf/2026/11/17/forget-schd-4-dividend-stocks-retirees-should-own-instead-2/?.tsrc=rss",
       "published": "2026-11-17T14:30:53Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Retail Sales & Disney Numbers This Morning, NVIDIA This Afternoon",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/retail-sales-disney-numbers-morning-142500457.html?.tsrc=rss",
-      "published": "2026-11-17T14:25:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Tech Stocks Are Rising as Markets Await Nvidia Results",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/2741e382-6856-3fed-a7aa-a353a7ec1a6d/tech-stocks-are-rising-as.html?.tsrc=rss",
-      "published": "2026-11-17T14:24:13Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Exchange-Traded Funds, Equity Futures Mixed Pre-Bell Tuesday as Investors Await Nvidia Earnings",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-141622060.html?.tsrc=rss",
-      "published": "2026-11-17T14:16:22Z",
       "sentiment": "neutral"
     },
     {
@@ -304,25 +320,9 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=151f8103-9352-4fa9-84ba-8af315fd63b6&amp;mod=mw_rss_bulletins",
       "published": "2026-11-17T01:25:56Z",
       "sentiment": "bullish"
-    },
-    {
-      "category": "consumer",
-      "headline": "Do Amazon\u2019s Black Friday deals really save you money? A new report casts doubt.",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=8237af19-479d-4d7a-9559-23dedc0759f6&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-17T00:10:08Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "consumer",
-      "headline": "United Airlines resolves system outage that delayed flights Monday",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=43245934-51fe-4f9f-baae-791f59bd3249&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-16T23:44:22Z",
-      "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-11-17T17:09:09Z",
+  "newest_item_published": "2026-11-17T18:10:16Z",
   "source_item_count": 67,
   "sources": {
     "cnbc": {
@@ -331,7 +331,7 @@
       "fetched": 30,
       "fresh": 29,
       "label": "CNBC",
-      "newest": "2026-11-17T17:09:09Z",
+      "newest": "2026-11-17T18:10:16Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,7 +340,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-11-17T17:07:00Z",
+      "newest": "2026-11-17T17:40:00Z",
       "ok": true
     },
     "mw_bulletins": {
@@ -349,7 +349,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-11-17T15:01:15Z",
+      "newest": "2026-11-17T17:46:07Z",
       "ok": true
     },
     "yahoo_dji": {
@@ -358,7 +358,7 @@
       "fetched": 17,
       "fresh": 16,
       "label": "Yahoo Finance",
-      "newest": "2026-11-17T17:00:48Z",
+      "newest": "2026-11-17T18:04:32Z",
       "ok": true
     }
   }
