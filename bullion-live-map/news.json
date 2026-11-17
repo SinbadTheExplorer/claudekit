@@ -1,12 +1,172 @@
 {
-  "generated_at": "2026-11-17T14:12:20Z",
+  "generated_at": "2026-11-17T15:12:11Z",
   "headlines": [
+    {
+      "category": "other",
+      "headline": "Lisa Cook lawyer signals Fed gov won't attend Trump committee's hearing",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/17/lisa-cook-trump-fed-committee-hearing.html",
+      "published": "2026-11-17T15:03:32Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "These everyday investors are skeptical about Anthropic's IPO",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=486bb645-1ca6-4da1-8d13-fc3b41180493&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-17T15:01:15Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Anthropic wants everyday investors to be part of its IPO. Some are not buying it.",
+      "image": "news-images/a6805b6ff4484e28ee390aaf.jpg",
+      "link": "https://www.marketwatch.com/story/anthropic-wants-everyday-investors-to-be-part-of-its-ipo-some-are-not-buying-it-43576d2d?mod=mw_rss_topstories",
+      "published": "2026-11-17T15:01:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "realestate",
+      "headline": "Nearly half of home builders are cutting prices and offering lower mortgage rates as they struggle to find buyers",
+      "image": "news-images/8627fcc46bc858d5a1f591e7.jpg",
+      "link": "https://www.marketwatch.com/story/nearly-half-of-home-builders-are-cutting-prices-and-offering-lower-mortgage-rates-as-they-struggle-to-find-buyers-033351e1?mod=mw_rss_topstories",
+      "published": "2026-11-17T15:01:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "realestate",
+      "headline": "Homebuilder sentiment plunges to 14-year low, leading more builders to drop prices",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/17/homebuilder-sentiment-plunges-to-14-year-low-leading-more-builders-to-drop-prices.html",
+      "published": "2026-11-17T15:00:01Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "tech",
+      "headline": "Investor Steve Eisman says the AI neocloud stocks are in 'big trouble' from Nvidia fallout",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/17/big-short-investor-steve-eisman-to-discuss-nvidia-anthropic-and-ai-bull-on-cnbc.html",
+      "published": "2026-11-17T14:50:50Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "tech",
+      "headline": "SpaceX got a vote of confidence from Nvidia ahead of Jensen Huang\u2019s exit",
+      "image": "news-images/2a06eff88cedb7eaa1fdd54a.jpg",
+      "link": "https://www.marketwatch.com/story/spacex-got-a-vote-of-confidence-from-nvidia-ahead-of-jensen-huangs-exit-6fe52365?mod=mw_rss_topstories",
+      "published": "2026-11-17T14:46:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Stock Market Today: Dow Slides After Surprise Retail Sales; Nvidia Rises With Earnings On Tap (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/0c9330f2-68c3-38ef-9244-7dbdfd0853b7/stock-market-today%3A-dow.html?.tsrc=rss",
+      "published": "2026-11-17T14:43:22Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "I tried TikTok\u2019s viral \u2018corporate slop lunch hacks\u2019 \u2014 and finally escaped the $20 desk salad",
+      "image": "news-images/8591ebe87fd0cc4c731ff7c2.jpg",
+      "link": "https://www.marketwatch.com/story/i-tried-tiktoks-viral-corporate-slop-lunch-hacks-and-finally-escaped-the-20-desk-salad-60daf133?mod=mw_rss_topstories",
+      "published": "2026-11-17T14:41:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "The Stock Market Reaches the Lull in the Horror Film",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/624943c2-a9b5-3834-8bb4-529e9f16a786/the-stock-market-reaches-the.html?.tsrc=rss",
+      "published": "2026-11-17T14:39:17Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "realestate",
+      "headline": "Anthropic likely to price IPO above the current range of $70 to $78, sources tell CNBC",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/17/anthropic-ipo-price.html",
+      "published": "2026-11-17T14:34:48Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "consumer",
+      "headline": "U.S. retail sales slow just ahead of the holiday shopping season. A hint of trouble? Nope.",
+      "image": "news-images/eb0cfc4b617115795e29a8d6.jpg",
+      "link": "https://www.marketwatch.com/story/u-s-retail-sales-slow-just-ahead-of-the-holiday-shopping-season-a-hint-of-trouble-a89c9f98?mod=mw_rss_topstories",
+      "published": "2026-11-17T14:32:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Dow opens 400 points lower ahead of Nvidia earnings",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=248bc0b3-3637-46b3-81a3-88de3b13a109&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-17T14:31:44Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Forget SCHD: 4 Dividend Stocks Retirees Should Own Instead",
+      "image": null,
+      "link": "https://247wallst.com/investing/etf/2026/11/17/forget-schd-4-dividend-stocks-retirees-should-own-instead-2/?.tsrc=rss",
+      "published": "2026-11-17T14:30:53Z",
+      "sentiment": "neutral"
+    },
     {
       "category": "other",
       "headline": "Nike lays out financial goals ahead of first investor day in 9 years",
       "image": null,
       "link": "https://www.cnbc.com/2026/11/17/nike-investor-day-elliott-hill.html",
-      "published": "2026-11-17T14:10:05Z",
+      "published": "2026-11-17T14:26:39Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Tech Stocks Are Rising as Markets Await Nvidia Results",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/2741e382-6856-3fed-a7aa-a353a7ec1a6d/tech-stocks-are-rising-as.html?.tsrc=rss",
+      "published": "2026-11-17T14:24:13Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "financials",
+      "headline": "Deutsche Bank shares sink as whistleblowers reveal Epstein payments, Trump tax leak, Russia bets",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/17/deutsche-bank-leak-epstein-trump.html",
+      "published": "2026-11-17T14:24:10Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Nvidia investors will be clamoring for these answers during today\u2019s historic earnings call",
+      "image": "news-images/9dbbf2f9d81b6f9954f15196.jpg",
+      "link": "https://www.marketwatch.com/story/nvidia-investors-will-be-clamoring-for-answers-to-these-questions-during-the-companys-hotly-anticipated-earnings-call-a49ec19d?mod=mw_rss_topstories",
+      "published": "2026-11-17T14:24:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Exchange-Traded Funds, Equity Futures Mixed Pre-Bell Tuesday as Investors Await Nvidia Earnings",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-141622060.html?.tsrc=rss",
+      "published": "2026-11-17T14:16:22Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "consumer",
+      "headline": "Disney beats fourth-quarter estimates, targets $3 billion in savings through cost-cutting efforts",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/17/disney-dis-earnings-q-2026.html",
+      "published": "2026-11-17T14:15:14Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "financials",
+      "headline": "US Stock Futures Mixed as Nasdaq Looks to Recover While Dow Faces Pressure From Home Depot: Dow Jones, S&P, Wall Street",
+      "image": null,
+      "link": "https://investorshub.advfn.com/market-news/article/40216/us-stock-futures-mixed-as-nasdaq-looks-to-recover-while-dow-faces-pressure-from-home-depot-dow-jones-sp-wall-street?.tsrc=rss",
+      "published": "2026-11-17T14:14:03Z",
       "sentiment": "neutral"
     },
     {
@@ -35,35 +195,27 @@
     },
     {
       "category": "other",
-      "headline": "Lisa Cook lawyer signals Fed gov won't attend Trump committee's hearing",
+      "headline": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
       "image": null,
-      "link": "https://www.cnbc.com/2026/11/17/lisa-cook-trump-fed-committee-hearing.html",
-      "published": "2026-11-17T13:54:56Z",
+      "link": "https://www.cnbc.com/investingclub/2026/11/17/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
+      "published": "2026-11-17T14:00:44Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Republicans outspent Democrats for first time in over a decade in record 2026 midterm election political ad blitz",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/17/2026-election-political-ad-spending.html",
+      "published": "2026-11-17T14:00:02Z",
       "sentiment": "neutral"
     },
     {
       "category": "tech",
-      "headline": "Stock Market Today: Dow Slides After Surprise Retail Sales; Nvidia Rises With Earnings On Tap (Live Coverage)",
+      "headline": "Demis Hassabis\u2019 AI company raises $5 billion, months after he left as Google DeepMind CEO",
       "image": null,
-      "link": "https://finance.yahoo.com/m/0c9330f2-68c3-38ef-9244-7dbdfd0853b7/stock-market-today%3A-dow.html?.tsrc=rss",
-      "published": "2026-11-17T13:53:05Z",
+      "link": "https://www.cnbc.com/2026/11/17/isomorphic-labs-series-c-ai-drug-discovery-.html",
+      "published": "2026-11-17T13:58:07Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Investor Steve Eisman says the AI neocloud stocks are in 'big trouble' from Nvidia fallout",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/17/big-short-investor-steve-eisman-to-discuss-nvidia-anthropic-and-ai-bull-on-cnbc.html",
-      "published": "2026-11-17T13:53:04Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "consumer",
-      "headline": "Disney beats fourth-quarter estimates, targets $3 billion in savings through cost-cutting efforts",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/17/disney-dis-earnings-q-2026.html",
-      "published": "2026-11-17T13:51:01Z",
-      "sentiment": "bullish"
     },
     {
       "category": "financials",
@@ -82,52 +234,12 @@
       "sentiment": "neutral"
     },
     {
-      "category": "consumer",
-      "headline": "U.S. retail sales slow just ahead of the holiday shopping season. A hint of trouble?",
-      "image": "news-images/eb0cfc4b617115795e29a8d6.jpg",
-      "link": "https://www.marketwatch.com/story/u-s-retail-sales-slow-just-ahead-of-the-holiday-shopping-season-a-hint-of-trouble-a89c9f98?mod=mw_rss_topstories",
-      "published": "2026-11-17T13:41:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "St. Louis Fed's Musalem says four more rate hikes may be needed in coming months",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/17/alberto-musalem-fed-interest-rates.html",
-      "published": "2026-11-17T13:40:54Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "tech",
-      "headline": "Anthropic IPO: For hundreds of billions of dollars flowing into AI startups, a big debut is a must",
+      "headline": "Stock Market Today: Major Index Futures Are Mixed After Monday\u2019s AI Sell-Off as Investors Brace for Nvidia Earnings",
       "image": null,
-      "link": "https://www.cnbc.com/2026/11/17/anthropic-ipo-ai-venture-capital.html",
-      "published": "2026-11-17T13:35:18Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Data center policy dominated the midterms. The 'Virginia of Europe' is the latest battleground",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/17/spain-data-center-decree-election.html",
-      "published": "2026-11-17T13:28:32Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Nvidia has lost $2 trillion in value. Here's what options traders expect from earnings",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/17/nvidia-has-lost-2-trillion-in-value-heres-what-options-traders-expect-from-earnings.html",
-      "published": "2026-11-17T13:16:43Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Roth 401(k) matches are 'surging,' report finds. What workers should know",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/17/roth-401k-employer-match.html",
-      "published": "2026-11-17T13:15:01Z",
-      "sentiment": "neutral"
+      "link": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-11172026-12259343?.tsrc=rss",
+      "published": "2026-11-17T13:24:29Z",
+      "sentiment": "bearish"
     },
     {
       "category": "other",
@@ -136,14 +248,6 @@
       "link": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
       "published": "2026-11-17T13:15:00Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Investors look to Nvidia's earnings and Anthropic's IPO to refresh the tech rally",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/17/nvidia-earnings-anthropic-ipo-tech-rally.html",
-      "published": "2026-11-17T13:11:40Z",
-      "sentiment": "bullish"
     },
     {
       "category": "tech",
@@ -162,35 +266,11 @@
       "sentiment": "neutral"
     },
     {
-      "category": "tech",
-      "headline": "Equity Futures Mixed Pre-Bell Ahead of Nvidia Earnings",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/equity-futures-mixed-pre-bell-125715825.html?.tsrc=rss",
-      "published": "2026-11-17T12:57:15Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "other",
       "headline": "Now\u2019s the perfect time for networking. Here\u2019s how to send a cringe-free email.",
       "image": "news-images/881dd25d398793dddff4cce8.jpg",
       "link": "https://www.marketwatch.com/story/nows-the-perfect-time-for-networking-heres-how-to-send-a-cringe-free-email-73ad34ea?mod=mw_rss_topstories",
       "published": "2026-11-17T12:46:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Fund managers just slashed their tech bets at the fastest pace in two decades \u2014 and this is the tail risk keeping them up at night",
-      "image": "news-images/e5ce25cc46f7dd235735aa81.jpg",
-      "link": "https://www.marketwatch.com/story/fund-managers-just-slashed-their-tech-bets-at-the-fastest-pace-in-two-decades-and-this-is-the-tail-risk-keeping-them-up-at-night-60fcc160?mod=mw_rss_topstories",
-      "published": "2026-11-17T12:28:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Can Nvidia sell investors on a future without Jensen Huang?",
-      "image": "news-images/4789a47e68e71e68152b5cd7.jpg",
-      "link": "https://www.marketwatch.com/story/can-nvidia-sell-investors-on-a-future-without-jensen-huang-3fe4bb49?mod=mw_rss_topstories",
-      "published": "2026-11-17T12:27:00Z",
       "sentiment": "neutral"
     },
     {
@@ -203,74 +283,10 @@
     },
     {
       "category": "tech",
-      "headline": "Stock Futures Rise as Markets Await Nvidia Results",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/2741e382-6856-3fed-a7aa-a353a7ec1a6d/stock-futures-rise-as-markets.html?.tsrc=rss",
-      "published": "2026-11-17T12:16:48Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
-      "image": "news-images/6920fa4d0c4a1dfa23d1f8c3.jpg",
-      "link": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
-      "published": "2026-11-17T12:15:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "The Stock Market Is Doing Something for Just the 3rd Time in Nearly 30 Years, and History Is Clear Where the S&P 500 Is Headed",
-      "image": null,
-      "link": "https://www.fool.com/investing/2026/11/17/the-stock-market-is-doing-something-for-just-the-3rd-time-in-nearly-30-years-and-history-is-clear-where-the-s-and-p-500-is-headed/?.tsrc=rss",
-      "published": "2026-11-17T11:35:02Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "\u2018It is heartbreaking, exhausting and downright dirty\u2019: My brother took over our ailing mother\u2019s life and finances. What can I do?",
-      "image": "news-images/aed955c11c2bf4c27a9b0903.jpg",
-      "link": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
-      "published": "2026-11-17T11:15:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Nvidia, AI Angst Dim Wall Street Pre-Bell; Asia, Europe Off",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-ai-angst-dim-wall-111348366.html?.tsrc=rss",
-      "published": "2026-11-17T11:13:48Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Pick the two sectors where earnings growth will accelerate \u2014 as long as the 10-year stays below this key level, say strategists",
-      "image": "news-images/3f07e23269d8a41877c281bd.jpg",
-      "link": "https://www.marketwatch.com/story/pick-the-two-sectors-where-earnings-growth-will-accelerate-as-long-as-the-10-year-stays-below-this-key-level-say-strategists-e7c13914?mod=mw_rss_topstories",
-      "published": "2026-11-17T10:47:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "US Stock Futures Edge Lower After Tech Sell-Off \u2014 NVDA Earnings, AMD, SPCX, DIS In Focus",
-      "image": null,
-      "link": "https://stocktwits.com/news-articles/markets/equity/us-stock-futures-edge-lower-after-tech-sell-off-nvda-earnings-amd-spcx-dis-in-focus/cNbaAmCR9Wf?.tsrc=rss",
-      "published": "2026-11-17T10:24:14Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "tech",
       "headline": "Nvidia board establishes committee to oversee export controls",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=60eb154b-9905-4400-a4a8-4afc2bbfd660&amp;mod=mw_rss_bulletins",
       "published": "2026-11-17T10:17:04Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Nvidia Earnings in Focus as US Stock Futures Decline Amid Leadership Changes and Export Restrictions: Dow Jones, S&P, Nasdaq, Wall Street",
-      "image": null,
-      "link": "https://investorshub.advfn.com/market-news/article/40172/nvidia-earnings-in-focus-as-us-stock-futures-decline-amid-leadership-changes-and-export-restrictions-dow-jones-sp-nasdaq-wall-street?.tsrc=rss",
-      "published": "2026-11-17T10:13:04Z",
       "sentiment": "neutral"
     },
     {
@@ -304,26 +320,10 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=43245934-51fe-4f9f-baae-791f59bd3249&amp;mod=mw_rss_bulletins",
       "published": "2026-11-16T23:44:22Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Families across America are laughing \u2014 and crying \u2014 over SNL's \u2018Sister\u2019 sketch",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=a3833188-5902-41f0-8473-fe161a71d2c4&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-16T22:50:55Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Nvidia investors will be clamoring for these answers on a historic earnings call",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=4c1dc6ec-24e0-41a4-be43-15c1200bb695&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-16T21:49:21Z",
-      "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-11-17T14:10:05Z",
-  "source_item_count": 69,
+  "newest_item_published": "2026-11-17T15:03:32Z",
+  "source_item_count": 67,
   "sources": {
     "cnbc": {
       "contributed": 11,
@@ -331,7 +331,7 @@
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-11-17T14:10:05Z",
+      "newest": "2026-11-17T15:03:32Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,7 +340,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-11-17T14:10:00Z",
+      "newest": "2026-11-17T15:01:00Z",
       "ok": true
     },
     "mw_bulletins": {
@@ -349,16 +349,16 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-11-17T13:42:52Z",
+      "newest": "2026-11-17T15:01:15Z",
       "ok": true
     },
     "yahoo_dji": {
       "contributed": 10,
       "error": null,
-      "fetched": 19,
-      "fresh": 19,
+      "fetched": 17,
+      "fresh": 16,
       "label": "Yahoo Finance",
-      "newest": "2026-11-17T14:02:35Z",
+      "newest": "2026-11-17T14:43:22Z",
       "ok": true
     }
   }
