@@ -1,12 +1,100 @@
 {
-  "generated_at": "2026-11-17T15:12:11Z",
+  "generated_at": "2026-11-17T16:12:06Z",
   "headlines": [
     {
       "category": "other",
-      "headline": "Lisa Cook lawyer signals Fed gov won't attend Trump committee's hearing",
+      "headline": "Lisa Cook lawyer signals Fed governor won't attend Trump committee's hearing",
       "image": null,
       "link": "https://www.cnbc.com/2026/11/17/lisa-cook-trump-fed-committee-hearing.html",
-      "published": "2026-11-17T15:03:32Z",
+      "published": "2026-11-17T16:03:38Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Jensen Huang slated to appear before House panels Dec. 1; Nvidia lawyer due to testify Dec. 2",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/17/nvidia-jensen-huang-house-committee.html",
+      "published": "2026-11-17T15:48:03Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Wall Street dips ahead of Nvidia's first earnings since scandal",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-dips-ahead-nvidias-153926954.html?.tsrc=rss",
+      "published": "2026-11-17T15:39:26Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "realestate",
+      "headline": "Coherent and Lumentum stocks climb as potential U.S. import ban threatens Chinese rivals",
+      "image": "news-images/68c7da3daae850a4c480e19a.jpg",
+      "link": "https://www.marketwatch.com/story/coherent-and-lumentum-stocks-climb-as-potential-u-s-import-ban-threatens-chinese-rivals-e20dfb79?mod=mw_rss_topstories",
+      "published": "2026-11-17T15:39:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "realestate",
+      "headline": "Homebuilder sentiment plunges to 14-year low, leading more builders to drop prices",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/17/homebuilder-sentiment-plunges-to-14-year-low-leading-more-builders-to-drop-prices.html",
+      "published": "2026-11-17T15:36:43Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "tech",
+      "headline": "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html",
+      "published": "2026-11-17T15:35:13Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "\u2018It is heartbreaking\u2019: My brother took over our ailing mother\u2019s life and finances. What can I do?",
+      "image": "news-images/aed955c11c2bf4c27a9b0903.jpg",
+      "link": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
+      "published": "2026-11-17T15:30:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Home Depot names Richard McPhail as new CEO, beats earnings expectations",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/17/home-depot-hd-q3-earnings-2026.html",
+      "published": "2026-11-17T15:27:51Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "tech",
+      "headline": "Stock Market Today: Dow Dips As Retail Sales Do This; Oil Plays Rise But Software Lags (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/0c9330f2-68c3-38ef-9244-7dbdfd0853b7/stock-market-today%3A-dow-dips.html?.tsrc=rss",
+      "published": "2026-11-17T15:24:03Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Investor Steve Eisman says the AI neocloud stocks are in 'big trouble' from Nvidia fallout",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/17/big-short-investor-steve-eisman-to-discuss-nvidia-anthropic-and-ai-bull-on-cnbc.html",
+      "published": "2026-11-17T15:22:45Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "tech",
+      "headline": "Nvidia shares try to rebound ahead of earnings as company reels from Huang resignation",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/17/nvidia-stock-earnings-jensen-huang-resignation.html",
+      "published": "2026-11-17T15:17:16Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "tech",
+      "headline": "\u2018Nvidia\u2019s turmoil has me spooked\u2019: Should I sell my stocks and invest in real estate?",
+      "image": "news-images/4f32ee83d990522cb1a9a2a7.jpg",
+      "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+      "published": "2026-11-17T15:15:00Z",
       "sentiment": "neutral"
     },
     {
@@ -34,20 +122,12 @@
       "sentiment": "neutral"
     },
     {
-      "category": "realestate",
-      "headline": "Homebuilder sentiment plunges to 14-year low, leading more builders to drop prices",
+      "category": "consumer",
+      "headline": "Retail Sales Increased in Line with Expectations",
       "image": null,
-      "link": "https://www.cnbc.com/2026/11/17/homebuilder-sentiment-plunges-to-14-year-low-leading-more-builders-to-drop-prices.html",
-      "published": "2026-11-17T15:00:01Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "tech",
-      "headline": "Investor Steve Eisman says the AI neocloud stocks are in 'big trouble' from Nvidia fallout",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/17/big-short-investor-steve-eisman-to-discuss-nvidia-anthropic-and-ai-bull-on-cnbc.html",
-      "published": "2026-11-17T14:50:50Z",
-      "sentiment": "bearish"
+      "link": "https://finance.yahoo.com/economy/articles/retail-sales-increased-line-expectations-150000073.html?.tsrc=rss",
+      "published": "2026-11-17T15:00:00Z",
+      "sentiment": "neutral"
     },
     {
       "category": "tech",
@@ -55,14 +135,6 @@
       "image": "news-images/2a06eff88cedb7eaa1fdd54a.jpg",
       "link": "https://www.marketwatch.com/story/spacex-got-a-vote-of-confidence-from-nvidia-ahead-of-jensen-huangs-exit-6fe52365?mod=mw_rss_topstories",
       "published": "2026-11-17T14:46:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Stock Market Today: Dow Slides After Surprise Retail Sales; Nvidia Rises With Earnings On Tap (Live Coverage)",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/0c9330f2-68c3-38ef-9244-7dbdfd0853b7/stock-market-today%3A-dow.html?.tsrc=rss",
-      "published": "2026-11-17T14:43:22Z",
       "sentiment": "neutral"
     },
     {
@@ -123,6 +195,14 @@
     },
     {
       "category": "tech",
+      "headline": "Retail Sales & Disney Numbers This Morning, NVIDIA This Afternoon",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/retail-sales-disney-numbers-morning-142500457.html?.tsrc=rss",
+      "published": "2026-11-17T14:25:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
       "headline": "Tech Stocks Are Rising as Markets Await Nvidia Results",
       "image": null,
       "link": "https://finance.yahoo.com/m/2741e382-6856-3fed-a7aa-a353a7ec1a6d/tech-stocks-are-rising-as.html?.tsrc=rss",
@@ -154,14 +234,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "consumer",
-      "headline": "Disney beats fourth-quarter estimates, targets $3 billion in savings through cost-cutting efforts",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/17/disney-dis-earnings-q-2026.html",
-      "published": "2026-11-17T14:15:14Z",
-      "sentiment": "bullish"
-    },
-    {
       "category": "financials",
       "headline": "US Stock Futures Mixed as Nasdaq Looks to Recover While Dow Faces Pressure From Home Depot: Dow Jones, S&P, Wall Street",
       "image": null,
@@ -178,14 +250,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "consumer",
-      "headline": "Do Amazon\u2019s Black Friday deals really save you money? A new report casts doubt.",
-      "image": "news-images/3cc4ba770628bc6c033e2e05.jpg",
-      "link": "https://www.marketwatch.com/story/do-amazons-black-friday-deals-really-save-you-money-03859cf3?mod=mw_rss_topstories",
-      "published": "2026-11-17T14:05:00Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "tech",
       "headline": "Nvidia board forms new export control committee",
       "image": null,
@@ -194,83 +258,11 @@
       "sentiment": "neutral"
     },
     {
-      "category": "other",
-      "headline": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
-      "image": null,
-      "link": "https://www.cnbc.com/investingclub/2026/11/17/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
-      "published": "2026-11-17T14:00:44Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Republicans outspent Democrats for first time in over a decade in record 2026 midterm election political ad blitz",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/17/2026-election-political-ad-spending.html",
-      "published": "2026-11-17T14:00:02Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Demis Hassabis\u2019 AI company raises $5 billion, months after he left as Google DeepMind CEO",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/17/isomorphic-labs-series-c-ai-drug-discovery-.html",
-      "published": "2026-11-17T13:58:07Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "financials",
-      "headline": "Trump has arrived in Asia. Here\u2019s what he said about Iran and Deutsche Bank",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/17/trump-iran-asia-trip-china.html",
-      "published": "2026-11-17T13:44:02Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "consumer",
       "headline": "U.S. retail sales slow just ahead of the holiday shopping season",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=0dc06a8e-06fc-4b90-bc4d-cb185fa78cf7&amp;mod=mw_rss_bulletins",
       "published": "2026-11-17T13:42:52Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Stock Market Today: Major Index Futures Are Mixed After Monday\u2019s AI Sell-Off as Investors Brace for Nvidia Earnings",
-      "image": null,
-      "link": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-11172026-12259343?.tsrc=rss",
-      "published": "2026-11-17T13:24:29Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "other",
-      "headline": "I\u2019m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
-      "image": "news-images/1669f5b3f293a4134d601b4e.jpg",
-      "link": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
-      "published": "2026-11-17T13:15:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "US Equity Futures Mixed Pre-Bell as Traders Prepare for Nvidia's Financial Results",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-mixed-pre-130133288.html?.tsrc=rss",
-      "published": "2026-11-17T13:01:33Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Schwab U.S. Dividend Equity ETF (SCHD) Becomes Largest U.S. Dividend ETF",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/schwab-u-dividend-equity-etf-130000080.html?.tsrc=rss",
-      "published": "2026-11-17T13:00:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Now\u2019s the perfect time for networking. Here\u2019s how to send a cringe-free email.",
-      "image": "news-images/881dd25d398793dddff4cce8.jpg",
-      "link": "https://www.marketwatch.com/story/nows-the-perfect-time-for-networking-heres-how-to-send-a-cringe-free-email-73ad34ea?mod=mw_rss_topstories",
-      "published": "2026-11-17T12:46:00Z",
       "sentiment": "neutral"
     },
     {
@@ -315,6 +307,14 @@
     },
     {
       "category": "consumer",
+      "headline": "Do Amazon\u2019s Black Friday deals really save you money? A new report casts doubt.",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=8237af19-479d-4d7a-9559-23dedc0759f6&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-17T00:10:08Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "consumer",
       "headline": "United Airlines resolves system outage that delayed flights Monday",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=43245934-51fe-4f9f-baae-791f59bd3249&amp;mod=mw_rss_bulletins",
@@ -322,16 +322,16 @@
       "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-11-17T15:03:32Z",
+  "newest_item_published": "2026-11-17T16:03:38Z",
   "source_item_count": 67,
   "sources": {
     "cnbc": {
-      "contributed": 11,
+      "contributed": 10,
       "error": null,
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-11-17T15:03:32Z",
+      "newest": "2026-11-17T16:03:38Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,11 +340,11 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-11-17T15:01:00Z",
+      "newest": "2026-11-17T15:39:00Z",
       "ok": true
     },
     "mw_bulletins": {
-      "contributed": 9,
+      "contributed": 10,
       "error": null,
       "fetched": 10,
       "fresh": 10,
@@ -358,7 +358,7 @@
       "fetched": 17,
       "fresh": 16,
       "label": "Yahoo Finance",
-      "newest": "2026-11-17T14:43:22Z",
+      "newest": "2026-11-17T15:39:26Z",
       "ok": true
     }
   }
