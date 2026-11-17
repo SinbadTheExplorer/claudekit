@@ -1,6 +1,78 @@
 {
-  "generated_at": "2026-11-17T21:12:07Z",
+  "generated_at": "2026-11-17T21:43:03Z",
   "headlines": [
+    {
+      "category": "other",
+      "headline": "PSEG Declares Regular Quarterly Dividend for the Fourth Quarter of 2026",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/pseg-declares-regular-quarterly-dividend-213000849.html?.tsrc=rss",
+      "published": "2026-11-17T21:30:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "My older brother, who has no children, cut our only sister out of his will. I\u2019ll get everything instead. Do I tell her?",
+      "image": "news-images/3ebf737366e631acd804d4d2.jpg",
+      "link": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
+      "published": "2026-11-17T21:30:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Dow Drops Nearly 860 Points as Stock Market Selloff Deepens Ahead of Nvidia Earnings",
+      "image": null,
+      "link": "https://www.ibtimes.com/us-stocks-fall-ahead-nvidia-earnings-higher-rates-3809883?.tsrc=rss",
+      "published": "2026-11-17T21:26:41Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "tech",
+      "headline": "Widespread outages hit banks, air travel, the NSA and Apple, disrupting seemingly everything",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/17/apple-microsoft-faa-jpmorgan-outages.html",
+      "published": "2026-11-17T21:24:20Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Nvidia's earnings are out. Here\u2019s everything investors need to know.",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=230b19b5-d290-414b-a2d9-4e7402b922b5&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-17T21:22:29Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "SEC investigating whether Nvidia's disclosures misled investors: WSJ",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=de3ea130-7883-4e57-b24c-13293e008378&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-17T21:17:17Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Update: S&P 500 Pullback Extends to Fourth Day Ahead of Nvidia's Earnings",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-pullback-extends-fourth-211350265.html?.tsrc=rss",
+      "published": "2026-11-17T21:13:50Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Why Salesforce\u2019s stock led the S&P 500\u2019s decliners amid tech jitters",
+      "image": "news-images/8f365aa28784c5537b8be5c0.jpg",
+      "link": "https://www.marketwatch.com/story/why-salesforces-stock-is-leading-s-p-500-decliners-amid-tech-jitters-17510caf?mod=mw_rss_topstories",
+      "published": "2026-11-17T21:12:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "\u2018Can I pick your brain?\u2019 and other terrible things to say in a networking email",
+      "image": "news-images/b055eb20711e5faa090d8a8d.jpg",
+      "link": "https://www.marketwatch.com/story/nows-the-perfect-time-for-networking-heres-how-to-send-a-cringe-free-email-73ad34ea?mod=mw_rss_topstories",
+      "published": "2026-11-17T21:11:00Z",
+      "sentiment": "neutral"
+    },
     {
       "category": "tech",
       "headline": "Dow closes 850 points down, tech stocks keep falling ahead of Nvidia\u2019s results",
@@ -39,14 +111,6 @@
       "image": null,
       "link": "https://www.cnbc.com/2026/11/17/faa-ground-stop-routers.html",
       "published": "2026-11-17T20:53:24Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Widespread outages hit banks, air travel, the NSA and Apple, disrupting seemingly everything",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/17/apple-microsoft-faa-jpmorgan-outages.html",
-      "published": "2026-11-17T20:52:58Z",
       "sentiment": "neutral"
     },
     {
@@ -99,6 +163,14 @@
     },
     {
       "category": "other",
+      "headline": "It\u2019s a Stock Market Bloodbath! Why the Dow Dropped 1,000 Points.",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/35da0c50-d0a9-3b8d-8934-49aed196f21f/it%E2%80%99s-a-stock-market.html?.tsrc=rss",
+      "published": "2026-11-17T20:24:52Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
       "headline": "Gold is in a bear market \u2014 and hackproof in an increasingly digital world. Is now a good time to buy?",
       "image": "news-images/22af28b84f40afe9b5f78135.jpg",
       "link": "https://www.marketwatch.com/story/gold-is-in-a-bear-market-and-hackproof-in-an-increasingly-digital-world-is-this-a-good-time-to-buy-fabfd528?mod=mw_rss_topstories",
@@ -130,14 +202,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "other",
-      "headline": "The S&P 500 is testing a key technical floor. Is it time to buy, or brace for a bear market?",
-      "image": "news-images/0810ae36e3c4b6f6120840f8.jpg",
-      "link": "https://www.marketwatch.com/story/the-s-p-500-is-testing-a-key-technical-floor-is-it-time-to-buy-or-brace-for-a-bear-market-c432b192?mod=mw_rss_topstories",
-      "published": "2026-11-17T20:13:00Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "tech",
       "headline": "Dow down 1,000 points in final hour as stocks slide ahead of Nvidia earnings",
       "image": null,
@@ -162,27 +226,11 @@
       "sentiment": "bearish"
     },
     {
-      "category": "tech",
-      "headline": "Apple users report service interruptions \u2014 the latest in a series of tech outages",
-      "image": "news-images/23d3959ff093c661c66618dc.jpg",
-      "link": "https://www.marketwatch.com/story/apple-users-report-service-interruptions-the-latest-in-a-series-of-tech-outages-d1a5ff9f?mod=mw_rss_topstories",
-      "published": "2026-11-17T19:46:00Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "other",
       "headline": "Add a Broken 200-day Moving Average to the Stock Market\u2019s Long List of Worries",
       "image": null,
       "link": "https://finance.yahoo.com/m/a53cc5d2-4d8a-31bb-813a-e8730f94cfd6/add-a-broken-200-day-moving.html?.tsrc=rss",
       "published": "2026-11-17T19:35:26Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "crypto",
-      "headline": "Want to know what bitcoin is really worth? Check this chart.",
-      "image": "news-images/f68d2bc782a35bdf9504a724.jpg",
-      "link": "https://www.marketwatch.com/story/want-to-know-what-bitcoin-is-really-worth-check-this-chart-daa3fce7?mod=mw_rss_topstories",
-      "published": "2026-11-17T19:34:00Z",
       "sentiment": "neutral"
     },
     {
@@ -211,30 +259,6 @@
     },
     {
       "category": "tech",
-      "headline": "Update: US Equity Indexes Fall as Technology Leads Sector Declines Ahead of Nvidia's Results",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-fall-technology-191117746.html?.tsrc=rss",
-      "published": "2026-11-17T19:11:17Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "energy",
-      "headline": "Sector Update: Energy Stocks Lower in Afternoon Trading",
-      "image": null,
-      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-lower-afternoon-190033166.html?.tsrc=rss",
-      "published": "2026-11-17T19:00:33Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Update: Equity Markets Drop Intraday as Traders Await Nvidia Earnings",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/equity-markets-drop-intraday-traders-185847586.html?.tsrc=rss",
-      "published": "2026-11-17T18:58:47Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "tech",
       "headline": "Salesforce and other software stocks hit by rising concerns over cybersecurity",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=3c74b83d-6e33-43af-ba89-22615c59a274&amp;mod=mw_rss_bulletins",
@@ -256,14 +280,6 @@
       "link": "https://www.cnbc.com/2026/11/17/chase-home-lending-ceo-says-hes-going-on-offense.html",
       "published": "2026-11-17T18:06:18Z",
       "sentiment": "bullish"
-    },
-    {
-      "category": "tech",
-      "headline": "Dow Plunges 700 Points as S&P 500 and Nasdaq Fall Ahead of Nvidia Earnings",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dow-plunges-700-points-p-180432792.html?.tsrc=rss",
-      "published": "2026-11-17T18:04:32Z",
-      "sentiment": "bearish"
     },
     {
       "category": "tech",
@@ -304,26 +320,10 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=0dc06a8e-06fc-4b90-bc4d-cb185fa78cf7&amp;mod=mw_rss_bulletins",
       "published": "2026-11-17T13:42:52Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "consumer",
-      "headline": "Economic calendar: Retail and import-price reports followed by housing data",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=a74c9993-8204-4e03-a24f-57db896066b4&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-17T12:22:17Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Nvidia board establishes committee to oversee export controls",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=60eb154b-9905-4400-a4a8-4afc2bbfd660&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-17T10:17:04Z",
-      "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-11-17T21:09:09Z",
-  "source_item_count": 68,
+  "newest_item_published": "2026-11-17T21:30:00Z",
+  "source_item_count": 67,
   "sources": {
     "cnbc": {
       "contributed": 10,
@@ -331,7 +331,7 @@
       "fetched": 30,
       "fresh": 29,
       "label": "CNBC",
-      "newest": "2026-11-17T21:05:24Z",
+      "newest": "2026-11-17T21:24:20Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,7 +340,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-11-17T21:00:00Z",
+      "newest": "2026-11-17T21:30:00Z",
       "ok": true
     },
     "mw_bulletins": {
@@ -349,16 +349,16 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-11-17T21:09:09Z",
+      "newest": "2026-11-17T21:22:29Z",
       "ok": true
     },
     "yahoo_dji": {
       "contributed": 10,
       "error": null,
-      "fetched": 18,
-      "fresh": 18,
+      "fetched": 17,
+      "fresh": 17,
       "label": "Yahoo Finance",
-      "newest": "2026-11-17T20:51:01Z",
+      "newest": "2026-11-17T21:30:00Z",
       "ok": true
     }
   }
