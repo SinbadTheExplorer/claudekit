@@ -1,6 +1,110 @@
 {
-  "generated_at": "2026-11-17T18:12:06Z",
+  "generated_at": "2026-11-17T19:12:05Z",
   "headlines": [
+    {
+      "category": "energy",
+      "headline": "Sector Update: Energy Stocks Lower in Afternoon Trading",
+      "image": null,
+      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-lower-afternoon-190033166.html?.tsrc=rss",
+      "published": "2026-11-17T19:00:33Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "\u2018Nvidia\u2019s turmoil has me spooked\u2019: Should I sell my stocks and invest in real estate?",
+      "image": "news-images/4f32ee83d990522cb1a9a2a7.jpg",
+      "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+      "published": "2026-11-17T19:00:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Update: Equity Markets Drop Intraday as Traders Await Nvidia Earnings",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/equity-markets-drop-intraday-traders-185847586.html?.tsrc=rss",
+      "published": "2026-11-17T18:58:47Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "FAA pauses installation of new routers after ground stop",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/17/faa-ground-stop-routers.html",
+      "published": "2026-11-17T18:48:33Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "\u2018It is heartbreaking\u2019: My brother took over our ailing mother\u2019s life and finances. What can I do?",
+      "image": "news-images/aed955c11c2bf4c27a9b0903.jpg",
+      "link": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
+      "published": "2026-11-17T18:46:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "I\u2019m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
+      "image": "news-images/1669f5b3f293a4134d601b4e.jpg",
+      "link": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
+      "published": "2026-11-17T18:35:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Anthropic IPO: For hundreds of billions of dollars flowing into AI startups, a big debut is a must",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/17/anthropic-ipo-ai-venture-capital.html",
+      "published": "2026-11-17T18:34:06Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Why Home Depot shares are falling despite an earnings beat \u2014 and how to proceed",
+      "image": null,
+      "link": "https://www.cnbc.com/investingclub/2026/11/17/why-home-depot-shares-are-falling-despite-an-earnings-beat-and-how-to-proceed.html",
+      "published": "2026-11-17T18:32:59Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Stock Market Today: Dow Drops As Salesforce Dives; Nvidia Falls As Jensen Huang Says This (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/0c9330f2-68c3-38ef-9244-7dbdfd0853b7/stock-market-today%3A-dow-drops.html?.tsrc=rss",
+      "published": "2026-11-17T18:30:30Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "How much more money could you earn if you had a financial adviser? Here\u2019s what research shows",
+      "image": "news-images/42da88c49f1b94890ec59b4d.jpg",
+      "link": "https://www.marketwatch.com/story/how-much-more-money-could-you-earn-if-you-had-a-financial-adviser-heres-what-research-shows-d0c0119d?mod=mw_rss_topstories",
+      "published": "2026-11-17T18:30:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Kalshi takes down controversial Trump 'mention' markets at CFTC's request",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/17/kalshi-takes-down-trump-mention-markets.html",
+      "published": "2026-11-17T18:27:03Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Salesforce and other software stocks hit by rising concerns over cybersecurity",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=3c74b83d-6e33-43af-ba89-22615c59a274&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-17T18:25:47Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Former Nvidia CEO Jensen Huang says he\u2019s open to returning in first statement since resignation",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/17/nvidia-jensen-huang-statement.html",
+      "published": "2026-11-17T18:21:03Z",
+      "sentiment": "neutral"
+    },
     {
       "category": "other",
       "headline": "U.S. officially loses measles elimination status amid ongoing outbreaks",
@@ -51,14 +155,6 @@
     },
     {
       "category": "other",
-      "headline": "Kalshi takes down controversial Trump 'mention' markets at CFTC's request",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/17/kalshi-takes-down-trump-mention-markets.html",
-      "published": "2026-11-17T17:41:22Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
       "headline": "As stocks struggle, bonds are finally helping investors play defense again. There\u2019s just one problem.",
       "image": "news-images/e2f6040ba2719ed6aec96d3f.jpg",
       "link": "https://www.marketwatch.com/story/as-stocks-struggle-bonds-are-finally-helping-investors-play-defense-again-theres-just-one-problem-94c8a1d8?mod=mw_rss_topstories",
@@ -87,22 +183,6 @@
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=0f5a8e56-44f2-4e97-b155-8ffb98e66cf4&amp;mod=mw_rss_bulletins",
       "published": "2026-11-17T17:30:26Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "FAA pauses installation of new routers after ground stop",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/17/faa-ground-stop-routers.html",
-      "published": "2026-11-17T17:27:57Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Former Nvidia CEO Jensen Huang says he\u2019s open to returning in first statement since resignation",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/17/nvidia-jensen-huang-statement.html",
-      "published": "2026-11-17T17:13:02Z",
       "sentiment": "neutral"
     },
     {
@@ -147,50 +227,10 @@
     },
     {
       "category": "tech",
-      "headline": "Stock Market Today: Dow Dives As Software Sags; Nvidia Falls As This Jensen Huang Date Is Set (Live Coverage)",
+      "headline": "Jensen Huang's Nvidia exit exposes succession and governance risks for companies and boards",
       "image": null,
-      "link": "https://finance.yahoo.com/m/0c9330f2-68c3-38ef-9244-7dbdfd0853b7/stock-market-today%3A-dow-dives.html?.tsrc=rss",
-      "published": "2026-11-17T17:00:48Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "tech",
-      "headline": "Nvidia stock falls ahead of earnings as company reels from Huang resignation",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/17/nvidia-stock-earnings-jensen-huang-resignation.html",
-      "published": "2026-11-17T16:49:12Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "other",
-      "headline": "Measles cases in the U.S. are at a 35-year high. Here\u2019s the staggering cost of falling vaccination rates for Americans.",
-      "image": "news-images/2c22e7d752ff81998d3a7402.jpg",
-      "link": "https://www.marketwatch.com/story/measles-cases-in-the-u-s-are-at-a-35-year-high-heres-the-staggering-cost-of-falling-vaccination-rates-for-americans-e80a7ac6?mod=mw_rss_topstories",
-      "published": "2026-11-17T16:47:00Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "tech",
-      "headline": "Jensen Huang breaks his silence ahead of Nvidia earnings \u2014 plus, 1 stock to buy on weakness",
-      "image": null,
-      "link": "https://www.cnbc.com/investingclub/2026/11/17/jensen-huang-breaks-his-silence-ahead-of-nvidia-earnings-plus-1-stock-to-buy.html",
-      "published": "2026-11-17T16:42:21Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "consumer",
-      "headline": "Disney beats fourth-quarter estimates, targets $3 billion in savings through cost-cutting efforts",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/17/disney-dis-earnings-q-2026.html",
-      "published": "2026-11-17T16:40:25Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "tech",
-      "headline": "Jensen Huang now wants to return as Nvidia\u2019s CEO. This is why that could be difficult.",
-      "image": "news-images/81f2554dc858c3d16ad3ef55.jpg",
-      "link": "https://www.marketwatch.com/story/jensen-huangs-fans-want-him-back-as-nvidia-ceo-this-is-why-thats-unlikely-2be28ac2?mod=mw_rss_topstories",
-      "published": "2026-11-17T16:38:00Z",
+      "link": "https://www.cnbc.com/2026/11/17/nvidia-jensen-huang-succession-board-lessons.html",
+      "published": "2026-11-17T17:00:01Z",
       "sentiment": "neutral"
     },
     {
@@ -218,22 +258,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "realestate",
-      "headline": "Coherent and Lumentum stocks climb as potential U.S. import ban threatens Chinese rivals",
-      "image": "news-images/68c7da3daae850a4c480e19a.jpg",
-      "link": "https://www.marketwatch.com/story/coherent-and-lumentum-stocks-climb-as-potential-u-s-import-ban-threatens-chinese-rivals-e20dfb79?mod=mw_rss_topstories",
-      "published": "2026-11-17T15:39:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "\u2018It is heartbreaking\u2019: My brother took over our ailing mother\u2019s life and finances. What can I do?",
-      "image": "news-images/aed955c11c2bf4c27a9b0903.jpg",
-      "link": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
-      "published": "2026-11-17T15:30:00Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "other",
       "headline": "These everyday investors are skeptical about Anthropic's IPO",
       "image": null,
@@ -250,27 +274,11 @@
       "sentiment": "neutral"
     },
     {
-      "category": "other",
-      "headline": "The Stock Market Reaches the Lull in the Horror Film",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/624943c2-a9b5-3834-8bb4-529e9f16a786/the-stock-market-reaches-the.html?.tsrc=rss",
-      "published": "2026-11-17T14:39:17Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "tech",
       "headline": "Dow opens 400 points lower ahead of Nvidia earnings",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=248bc0b3-3637-46b3-81a3-88de3b13a109&amp;mod=mw_rss_bulletins",
       "published": "2026-11-17T14:31:44Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Forget SCHD: 4 Dividend Stocks Retirees Should Own Instead",
-      "image": null,
-      "link": "https://247wallst.com/investing/etf/2026/11/17/forget-schd-4-dividend-stocks-retirees-should-own-instead-2/?.tsrc=rss",
-      "published": "2026-11-17T14:30:53Z",
       "sentiment": "neutral"
     },
     {
@@ -312,18 +320,10 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=8ee41715-b2af-4fb4-863a-25e1ed380469&amp;mod=mw_rss_bulletins",
       "published": "2026-11-17T09:09:57Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "The U.S. dollar\u2019s AI-driven breakout could become a stock-market wrecking ball",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=151f8103-9352-4fa9-84ba-8af315fd63b6&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-17T01:25:56Z",
-      "sentiment": "bullish"
     }
   ],
-  "newest_item_published": "2026-11-17T18:10:16Z",
-  "source_item_count": 67,
+  "newest_item_published": "2026-11-17T19:00:33Z",
+  "source_item_count": 68,
   "sources": {
     "cnbc": {
       "contributed": 10,
@@ -331,7 +331,7 @@
       "fetched": 30,
       "fresh": 29,
       "label": "CNBC",
-      "newest": "2026-11-17T18:10:16Z",
+      "newest": "2026-11-17T18:48:33Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,7 +340,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-11-17T17:40:00Z",
+      "newest": "2026-11-17T19:00:00Z",
       "ok": true
     },
     "mw_bulletins": {
@@ -349,16 +349,16 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-11-17T17:46:07Z",
+      "newest": "2026-11-17T18:25:47Z",
       "ok": true
     },
     "yahoo_dji": {
       "contributed": 10,
       "error": null,
-      "fetched": 17,
-      "fresh": 16,
+      "fetched": 18,
+      "fresh": 18,
       "label": "Yahoo Finance",
-      "newest": "2026-11-17T18:04:32Z",
+      "newest": "2026-11-17T19:00:33Z",
       "ok": true
     }
   }
