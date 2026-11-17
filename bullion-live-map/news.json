@@ -1,6 +1,126 @@
 {
-  "generated_at": "2026-11-17T19:12:05Z",
+  "generated_at": "2026-11-17T20:12:05Z",
   "headlines": [
+    {
+      "category": "tech",
+      "headline": "Dow down 1,000 points in final hour as stocks slide ahead of Nvidia earnings",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=ab148237-ecfe-4e2a-bc33-3a6397e46a93&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-17T20:04:22Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Home Depot names Richard McPhail as new CEO, beats earnings expectations",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/17/home-depot-hd-q3-earnings-2026.html",
+      "published": "2026-11-17T20:01:12Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "tech",
+      "headline": "Stock Market Today: Dow Dives, Nvidia Falls As Jensen Huang Says This; SpaceX Takes Off (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/0c9330f2-68c3-38ef-9244-7dbdfd0853b7/stock-market-today%3A-dow.html?.tsrc=rss",
+      "published": "2026-11-17T19:57:31Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "tech",
+      "headline": "Apple users report service interruptions \u2014 the latest in a series of tech outages",
+      "image": "news-images/23d3959ff093c661c66618dc.jpg",
+      "link": "https://www.marketwatch.com/story/apple-users-report-service-interruptions-the-latest-in-a-series-of-tech-outages-d1a5ff9f?mod=mw_rss_topstories",
+      "published": "2026-11-17T19:46:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "FAA pauses installation of new routers after ground stop",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/17/faa-ground-stop-routers.html",
+      "published": "2026-11-17T19:44:59Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "The latest tech failure: U.S. classified national security communications network",
+      "image": "news-images/e909519f5af7149305fe1b45.jpg",
+      "link": "https://www.marketwatch.com/story/the-latest-tech-failure-u-s-classified-national-security-communications-network-ad271899?mod=mw_rss_topstories",
+      "published": "2026-11-17T19:43:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Add a Broken 200-day Moving Average to the Stock Market\u2019s Long List of Worries",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/a53cc5d2-4d8a-31bb-813a-e8730f94cfd6/add-a-broken-200-day-moving.html?.tsrc=rss",
+      "published": "2026-11-17T19:35:26Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "crypto",
+      "headline": "Want to know what bitcoin is really worth? Check this chart.",
+      "image": "news-images/f68d2bc782a35bdf9504a724.jpg",
+      "link": "https://www.marketwatch.com/story/want-to-know-what-bitcoin-is-really-worth-check-this-chart-daa3fce7?mod=mw_rss_topstories",
+      "published": "2026-11-17T19:34:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
+      "image": "news-images/6920fa4d0c4a1dfa23d1f8c3.jpg",
+      "link": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
+      "published": "2026-11-17T19:30:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Kalshi takes down controversial Trump 'mention' markets at CFTC's request",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/17/kalshi-takes-down-trump-mention-markets.html",
+      "published": "2026-11-17T19:29:27Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "consumer",
+      "headline": "Dow Jones Discount Retail Giant Walmart Poised To Hit Buy Point With Earnings Due",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/59ad709c-e0ee-3110-9a36-4c0c9d4e24d2/dow-jones-discount-retail.html?.tsrc=rss",
+      "published": "2026-11-17T19:26:17Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "These charts show investor fears run even deeper than the stock market\u2019s decline suggests",
+      "image": "news-images/1d0b48e2b3a7e207e415c4ac.jpg",
+      "link": "https://www.marketwatch.com/story/these-charts-show-investor-fears-run-even-deeper-than-the-stock-markets-decline-suggests-924e2647?mod=mw_rss_topstories",
+      "published": "2026-11-17T19:22:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "financials",
+      "headline": "Trump has arrived in Asia. Here\u2019s what he said about Iran and Deutsche Bank",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/17/trump-iran-asia-trip-china.html",
+      "published": "2026-11-17T19:16:20Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "We\u2019re watching Cramer\u2019s favorite market indicator for a signal to buy stocks",
+      "image": null,
+      "link": "https://www.cnbc.com/investingclub/2026/11/17/were-watching-cramers-favorite-indicator-for-a-signal-to-buy-stocks.html",
+      "published": "2026-11-17T19:15:27Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Update: US Equity Indexes Fall as Technology Leads Sector Declines Ahead of Nvidia's Results",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-fall-technology-191117746.html?.tsrc=rss",
+      "published": "2026-11-17T19:11:17Z",
+      "sentiment": "bearish"
+    },
     {
       "category": "energy",
       "headline": "Sector Update: Energy Stocks Lower in Afternoon Trading",
@@ -11,7 +131,7 @@
     },
     {
       "category": "tech",
-      "headline": "\u2018Nvidia\u2019s turmoil has me spooked\u2019: Should I sell my stocks and invest in real estate?",
+      "headline": "\u2018Nvidia\u2019s turmoil has me spooked\u2019: Has the time come to sell my stocks?",
       "image": "news-images/4f32ee83d990522cb1a9a2a7.jpg",
       "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
       "published": "2026-11-17T19:00:00Z",
@@ -24,14 +144,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/equity-markets-drop-intraday-traders-185847586.html?.tsrc=rss",
       "published": "2026-11-17T18:58:47Z",
       "sentiment": "bearish"
-    },
-    {
-      "category": "other",
-      "headline": "FAA pauses installation of new routers after ground stop",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/17/faa-ground-stop-routers.html",
-      "published": "2026-11-17T18:48:33Z",
-      "sentiment": "neutral"
     },
     {
       "category": "other",
@@ -59,34 +171,10 @@
     },
     {
       "category": "other",
-      "headline": "Why Home Depot shares are falling despite an earnings beat \u2014 and how to proceed",
-      "image": null,
-      "link": "https://www.cnbc.com/investingclub/2026/11/17/why-home-depot-shares-are-falling-despite-an-earnings-beat-and-how-to-proceed.html",
-      "published": "2026-11-17T18:32:59Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Stock Market Today: Dow Drops As Salesforce Dives; Nvidia Falls As Jensen Huang Says This (Live Coverage)",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/0c9330f2-68c3-38ef-9244-7dbdfd0853b7/stock-market-today%3A-dow-drops.html?.tsrc=rss",
-      "published": "2026-11-17T18:30:30Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "other",
       "headline": "How much more money could you earn if you had a financial adviser? Here\u2019s what research shows",
       "image": "news-images/42da88c49f1b94890ec59b4d.jpg",
       "link": "https://www.marketwatch.com/story/how-much-more-money-could-you-earn-if-you-had-a-financial-adviser-heres-what-research-shows-d0c0119d?mod=mw_rss_topstories",
       "published": "2026-11-17T18:30:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Kalshi takes down controversial Trump 'mention' markets at CFTC's request",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/17/kalshi-takes-down-trump-mention-markets.html",
-      "published": "2026-11-17T18:27:03Z",
       "sentiment": "neutral"
     },
     {
@@ -163,14 +251,6 @@
     },
     {
       "category": "tech",
-      "headline": "Why Salesforce\u2019s stock is leading S&P 500 decliners amid tech jitters",
-      "image": "news-images/8f365aa28784c5537b8be5c0.jpg",
-      "link": "https://www.marketwatch.com/story/why-salesforces-stock-is-leading-s-p-500-decliners-amid-tech-jitters-17510caf?mod=mw_rss_topstories",
-      "published": "2026-11-17T17:36:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
       "headline": "Salesforce leads Wall Street software sell-off as investors brace for Anthropic IPO",
       "image": null,
       "link": "https://www.proactiveinvestors.com/companies/news/1101949/salesforce-leads-wall-street-software-sell-off-as-investors-brace-for-anthropic-ipo-1101949.html?.tsrc=rss",
@@ -186,54 +266,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "tech",
-      "headline": "The latest tech failure: U.S. classified national security communications network",
-      "image": "news-images/e909519f5af7149305fe1b45.jpg",
-      "link": "https://www.marketwatch.com/story/the-latest-tech-failure-u-s-classified-national-security-communications-network-ad271899?mod=mw_rss_topstories",
-      "published": "2026-11-17T17:12:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "realestate",
-      "headline": "Parents told us what it\u2019s like to help their kids battle sports-gambling addiction: \u2018There\u2019s no handbook\u2019",
-      "image": "news-images/c84abe39b0a5616aac6087f4.jpg",
-      "link": "https://www.marketwatch.com/story/parents-told-us-what-its-like-to-help-their-kids-battle-sports-gambling-addiction-theres-no-handbook-6e2d5bb2?mod=mw_rss_topstories",
-      "published": "2026-11-17T17:07:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "\u2018I felt so seen\u2019: Why families across America are laughing \u2014 and crying \u2014 over SNL\u2019s \u2018Sister\u2019 sketch",
-      "image": "news-images/e711ef357192825c96b1795a.jpg",
-      "link": "https://www.marketwatch.com/story/so-sad-and-so-true-has-your-family-talked-about-snls-sister-sketch-yet-19bf9d67?mod=mw_rss_topstories",
-      "published": "2026-11-17T17:03:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Nike lays out financial goals ahead of first investor day in 9 years",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/17/nike-investor-day-elliott-hill.html",
-      "published": "2026-11-17T17:02:34Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "If you own a Nasdaq-100 fund, you\u2019ll own Anthropic shares after 15 trading days \u2014 whether you want to or not",
-      "image": "news-images/09f57fb5d593d94f569727a3.jpg",
-      "link": "https://www.marketwatch.com/story/if-you-own-a-nasdaq-100-fund-youll-own-anthropic-shares-after-15-trading-days-whether-you-want-to-or-not-19b08485?mod=mw_rss_topstories",
-      "published": "2026-11-17T17:02:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Jensen Huang's Nvidia exit exposes succession and governance risks for companies and boards",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/17/nvidia-jensen-huang-succession-board-lessons.html",
-      "published": "2026-11-17T17:00:01Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "other",
       "headline": "Stock Market Double Top Spooks Technicians",
       "image": null,
@@ -243,34 +275,10 @@
     },
     {
       "category": "other",
-      "headline": "Boom Goes the Stock Market",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/a874bb50-570d-3775-bc4f-8ae36f44bacd/boom-goes-the-stock-market.html?.tsrc=rss",
-      "published": "2026-11-17T15:59:29Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Wall Street dips ahead of Nvidia's first earnings since scandal",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-dips-ahead-nvidias-153926954.html?.tsrc=rss",
-      "published": "2026-11-17T15:39:26Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
       "headline": "These everyday investors are skeptical about Anthropic's IPO",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=486bb645-1ca6-4da1-8d13-fc3b41180493&amp;mod=mw_rss_bulletins",
       "published": "2026-11-17T15:01:15Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "consumer",
-      "headline": "Retail Sales Increased in Line with Expectations",
-      "image": null,
-      "link": "https://finance.yahoo.com/economy/articles/retail-sales-increased-line-expectations-150000073.html?.tsrc=rss",
-      "published": "2026-11-17T15:00:00Z",
       "sentiment": "neutral"
     },
     {
@@ -312,18 +320,10 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=88a44c5c-dc73-47cc-a2eb-b7afeaa95e6d&amp;mod=mw_rss_bulletins",
       "published": "2026-11-17T09:45:25Z",
       "sentiment": "bearish"
-    },
-    {
-      "category": "tech",
-      "headline": "Nasdaq futures turn lower on nervousness ahead of Nvidia results: live updates",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=8ee41715-b2af-4fb4-863a-25e1ed380469&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-17T09:09:57Z",
-      "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-11-17T19:00:33Z",
-  "source_item_count": 68,
+  "newest_item_published": "2026-11-17T20:04:22Z",
+  "source_item_count": 69,
   "sources": {
     "cnbc": {
       "contributed": 10,
@@ -331,7 +331,7 @@
       "fetched": 30,
       "fresh": 29,
       "label": "CNBC",
-      "newest": "2026-11-17T18:48:33Z",
+      "newest": "2026-11-17T20:01:12Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,7 +340,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-11-17T19:00:00Z",
+      "newest": "2026-11-17T19:46:00Z",
       "ok": true
     },
     "mw_bulletins": {
@@ -349,16 +349,16 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-11-17T18:25:47Z",
+      "newest": "2026-11-17T20:04:22Z",
       "ok": true
     },
     "yahoo_dji": {
       "contributed": 10,
       "error": null,
-      "fetched": 18,
-      "fresh": 18,
+      "fetched": 19,
+      "fresh": 19,
       "label": "Yahoo Finance",
-      "newest": "2026-11-17T19:00:33Z",
+      "newest": "2026-11-17T19:57:31Z",
       "ok": true
     }
   }
