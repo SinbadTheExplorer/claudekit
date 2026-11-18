@@ -1,12 +1,132 @@
 {
-  "generated_at": "2026-11-18T14:12:05Z",
+  "generated_at": "2026-11-18T15:12:06Z",
   "headlines": [
+    {
+      "category": "federal",
+      "headline": "Fed\u2019s Waller says central bank may need to \u2018shock people\u2019 with half-point rate hike",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html",
+      "published": "2026-11-18T15:07:26Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Nvidia\u2019s Kress faces a divided workforce as some employees push for Huang\u2019s return",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/18/nvidia-kress-jensen-huang-return.html",
+      "published": "2026-11-18T15:05:29Z",
+      "sentiment": "neutral"
+    },
     {
       "category": "financials",
       "headline": "Jensen Huang has agreed to appear before Senate banking committee, Chairman Scott says",
       "image": null,
       "link": "https://www.cnbc.com/2026/11/18/jensen-huang-nvidia-tim-scott-congress.html",
-      "published": "2026-11-18T14:10:53Z",
+      "published": "2026-11-18T15:03:48Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Trump admin insists recent closely timed tech outages aren't connected",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/18/trump-tech-outages-nsa-faa-microsoft.html",
+      "published": "2026-11-18T15:00:34Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Fed\u2019s Waller says interest-rate hikes may be needed to \u2018shock\u2019 inflation out of the system",
+      "image": "news-images/9d9676523e0b2572e4e3ad79.jpg",
+      "link": "https://www.marketwatch.com/story/how-high-must-interest-rates-go-to-cool-inflation-possibly-100-basis-points-or-more-feds-waller-says-e7b41cf6?mod=mw_rss_topstories",
+      "published": "2026-11-18T15:00:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Tech outages are causing people to panic buy. Costco is benefitting",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/18/tech-outage-costco-panic-buying.html",
+      "published": "2026-11-18T14:57:53Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Coreweave, Iren, Nebius shares sink following Nvidia earnings",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/18/nvidia-stock-earnings.html",
+      "published": "2026-11-18T14:49:10Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Fed\u2019s waller suggests interest-rate spike to \u2018shock\u2019 inflation",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=d2c16347-0cea-4fdd-b6fe-b09f990e40c9&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-18T14:48:21Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Stock Market Today: Dow Falls As Fed Official Calls For Larger Hike; Nvidia Shares Rally On Earnings (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/3b6d51d3-7bfb-3b08-a92e-3b70e9f0655b/stock-market-today%3A-dow-falls.html?.tsrc=rss",
+      "published": "2026-11-18T14:46:24Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "tech",
+      "headline": "Stocks Trade Sideways Despite Nvidia Stock's Earnings Rebound",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/78fd9a8a-8b1c-374b-91d1-6d150f51dd2d/stocks-trade-sideways-despite.html?.tsrc=rss",
+      "published": "2026-11-18T14:35:30Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "Only two \u2018Magnificent Seven\u2019 stocks have managed to beat the S&P 500 since the start of 2025",
+      "image": "news-images/55a1c19329fcbc7211feaea6.jpg",
+      "link": "https://www.marketwatch.com/story/only-two-magnificent-seven-stocks-have-managed-to-beat-the-s-p-500-since-the-start-of-2025-a3daa0f8?mod=mw_rss_topstories",
+      "published": "2026-11-18T14:33:00Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "tech",
+      "headline": "Nasdaq opens higher as Nvidia results, Anthropic IPO inspire tech investors",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=ccd4a8a4-f1f8-4d78-899e-44d24b2c5c29&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-18T14:30:20Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "consumer",
+      "headline": "Retail investor enthusiasm for Anthropic IPO to rival SpaceX debut",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/18/anthropic-ipo-retail-investors.html",
+      "published": "2026-11-18T14:20:58Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "realestate",
+      "headline": "Lowe's posts strong online sales, raises outlook despite slow housing market",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/18/lowes-low-q3-2026-earnings.html",
+      "published": "2026-11-18T14:19:28Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Mortgage demand turns lower, as interest rates shoot back up to the highest level in three weeks",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/18/mortgage-demand-turns-lower-as-interest-rates-shoot-back-up-to-the-highest-level-in-three-weeks.html",
+      "published": "2026-11-18T14:17:18Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "How to get Anthropic stock \u2014 without buying the IPO",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/18/anthropic-ipo-stock-ai.html",
+      "published": "2026-11-18T14:16:32Z",
       "sentiment": "neutral"
     },
     {
@@ -18,11 +138,11 @@
       "sentiment": "neutral"
     },
     {
-      "category": "other",
-      "headline": "Jim Cramer's top 10 things to watch in the stock market Wednesday",
+      "category": "tech",
+      "headline": "Exchange-Traded Funds Higher, Equity Futures Mixed Pre-Bell Wednesday Amid Nvidia Earnings, Upcoming Fed Meeting Minutes",
       "image": null,
-      "link": "https://www.cnbc.com/investingclub/2026/11/18/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday.html",
-      "published": "2026-11-18T14:06:08Z",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-higher-equity-140832688.html?.tsrc=rss",
+      "published": "2026-11-18T14:08:32Z",
       "sentiment": "neutral"
     },
     {
@@ -42,14 +162,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "international",
-      "headline": "U.S. soldier taken into military custody over suspected spying for Russia",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/18/us-soldier-military-custody-spy-russia.html",
-      "published": "2026-11-18T13:58:53Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "tech",
       "headline": "Update: US Equity Futures Mostly Higher Pre-Bell as Nvidia Posts Higher-Than-Expected Financial Results",
       "image": null,
@@ -58,43 +170,11 @@
       "sentiment": "neutral"
     },
     {
-      "category": "tech",
-      "headline": "Nvidia\u2019s Kress faces a divided workforce as some employees push for Huang\u2019s return",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/18/nvidia-kress-jensen-huang-return.html",
-      "published": "2026-11-18T13:48:38Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Stock Market Today: Dow Falls As Fed Official Calls For Larger Hike; Nvidia Shares Jump On Earnings (Live Coverage)",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/3b6d51d3-7bfb-3b08-a92e-3b70e9f0655b/stock-market-today%3A-dow-falls.html?.tsrc=rss",
-      "published": "2026-11-18T13:46:09Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "realestate",
-      "headline": "Lowe's posts strong online sales, raises outlook despite slow housing market",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/18/lowes-low-q3-2026-earnings.html",
-      "published": "2026-11-18T13:43:48Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "healthcare",
       "headline": "Medicare Part B premiums rise due to higher healthcare spending",
       "image": "news-images/d274c8b1e2ac4f0fe9b00500.jpg",
       "link": "https://www.marketwatch.com/story/medicare-part-b-premiums-rise-due-higher-healthcare-spending-f2daba13?mod=mw_rss_topstories",
       "published": "2026-11-18T13:42:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Fed\u2019s Waller says central bank may need to \u2018shock people\u2019 with half-point rate hike",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html",
-      "published": "2026-11-18T13:32:33Z",
       "sentiment": "neutral"
     },
     {
@@ -114,14 +194,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "consumer",
-      "headline": "Target posts best sales growth in five years, raises guidance",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/18/target-tgt-q3-2026-earnings.html",
-      "published": "2026-11-18T13:29:33Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "federal",
       "headline": "Want to earn 5% on shorter-term Treasurys again? Watch for this shift.",
       "image": "news-images/922c4530fe597bb772a83163.jpg",
@@ -135,14 +207,6 @@
       "image": null,
       "link": "https://www.wsj.com/finance/commodities-futures/stock-futures-rally-as-nvidia-earnings-calm-ai-trade-fears-96f51546?.tsrc=rss",
       "published": "2026-11-18T13:22:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Worried about the AI bubble popping? How investing pros say to adjust your strategy",
-      "image": null,
-      "link": "https://www.cnbc.com/make-it/2026/11/18/how-to-diversify-your-portfolio-amid-ai-bubble-fears.html",
-      "published": "2026-11-18T13:19:31Z",
       "sentiment": "neutral"
     },
     {
@@ -171,14 +235,6 @@
     },
     {
       "category": "tech",
-      "headline": "Paris Hilton, Alexandria Ocasio-Cortez press House to pass Defiance Act to fight AI deepfake pornography",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/18/paris-hilton-aoc-defiance-act-ai-porn-deep-fake-congress.html",
-      "published": "2026-11-18T13:01:16Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
       "headline": "Microsoft Stock Loses Key Level Amid Global Outage; Is Microsoft A Buy Now?",
       "image": null,
       "link": "https://finance.yahoo.com/m/efe593c1-a803-3c2b-91d2-d5b38ca68a4c/microsoft-stock-loses-key.html?.tsrc=rss",
@@ -195,43 +251,11 @@
     },
     {
       "category": "tech",
-      "headline": "\u2018Nvidia\u2019s turmoil has me spooked\u2019: Has the time come to sell my stocks?",
-      "image": "news-images/4f32ee83d990522cb1a9a2a7.jpg",
-      "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
-      "published": "2026-11-18T13:00:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
       "headline": "Equities Set to Rebound as Investors Parse Nvidia Results, Await Fed Minutes",
       "image": null,
       "link": "https://finance.yahoo.com/markets/stocks/articles/equities-set-rebound-investors-parse-125931611.html?.tsrc=rss",
       "published": "2026-11-18T12:59:31Z",
       "sentiment": "bullish"
-    },
-    {
-      "category": "tech",
-      "headline": "Stock Market Today: Nasdaq, S&P 500 Futures Rise as Nvidia Shares Jump After Strong Earnings Report; Anthropic IPO on Deck",
-      "image": null,
-      "link": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-11182026-12261593?.tsrc=rss",
-      "published": "2026-11-18T12:58:12Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "tech",
-      "headline": "Booking Holdings creates new enterprise division as AI reshapes travel planning",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/18/booking-holdings-enterprise.html",
-      "published": "2026-11-18T12:55:01Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Nvidia\u2019s leadership saga unfolds as demand is surging for Anthropic\u2019s IPO",
-      "image": "news-images/32fcf39b9262679c1cd422d9.jpg",
-      "link": "https://www.marketwatch.com/story/nvidias-leadership-saga-unfolds-as-demand-is-surging-for-anthropics-ipo-a7a12d40?mod=mw_rss_topstories",
-      "published": "2026-11-18T12:22:00Z",
-      "sentiment": "neutral"
     },
     {
       "category": "consumer",
@@ -255,14 +279,6 @@
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=3441f1b5-2d74-49cd-898e-156cc7eefe1f&amp;mod=mw_rss_bulletins",
       "published": "2026-11-18T10:46:10Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "US Stock Futures Rise as Nvidia Raises Revenue Forecast and Anthropic IPO Draws Investor Attention: Dow Jones, S&P, Nasdaq, Wall Street",
-      "image": null,
-      "link": "https://investorshub.advfn.com/market-news/article/40250/us-stock-futures-rise-as-nvidia-raises-revenue-forecast-and-anthropic-ipo-draws-investor-attention-dow-jones-sp-nasdaq-wall-street?.tsrc=rss",
-      "published": "2026-11-18T10:20:27Z",
       "sentiment": "neutral"
     },
     {
@@ -304,26 +320,10 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=fdf20e6f-4b7d-4a4c-9aa1-52d8ed5b3044&amp;mod=mw_rss_bulletins",
       "published": "2026-11-17T23:45:19Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Gold is in a bear market \u2014 and hackproof in a digital world. Is it time to buy?",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=c6d22aa1-6f90-4add-8fc4-ddccae29d5b0&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-17T23:35:55Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Nvidia's interim CEO wraps call with three words for investors: 'We've got this'",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=9d064b28-fd42-4f19-aaaf-745258508bd5&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-17T23:21:32Z",
-      "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-11-18T14:10:53Z",
-  "source_item_count": 69,
+  "newest_item_published": "2026-11-18T15:07:26Z",
+  "source_item_count": 68,
   "sources": {
     "cnbc": {
       "contributed": 10,
@@ -331,7 +331,7 @@
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-11-18T14:10:53Z",
+      "newest": "2026-11-18T15:07:26Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,7 +340,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-11-18T14:09:00Z",
+      "newest": "2026-11-18T15:00:00Z",
       "ok": true
     },
     "mw_bulletins": {
@@ -349,16 +349,16 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-11-18T13:31:57Z",
+      "newest": "2026-11-18T14:48:21Z",
       "ok": true
     },
     "yahoo_dji": {
       "contributed": 10,
       "error": null,
-      "fetched": 19,
-      "fresh": 19,
+      "fetched": 18,
+      "fresh": 17,
       "label": "Yahoo Finance",
-      "newest": "2026-11-18T13:54:05Z",
+      "newest": "2026-11-18T14:46:24Z",
       "ok": true
     }
   }
