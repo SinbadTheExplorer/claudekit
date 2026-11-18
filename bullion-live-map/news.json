@@ -1,6 +1,94 @@
 {
-  "generated_at": "2026-11-18T20:12:16Z",
+  "generated_at": "2026-11-18T21:12:05Z",
   "headlines": [
+    {
+      "category": "other",
+      "headline": "Dow closes over 550 points down, but Nasdaq gains ahead of Anthropic IPO pricing",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=660a3755-3f8c-4248-8268-114c334889f4&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-18T21:07:31Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "tech",
+      "headline": "Nvidia sinks after earnings, dragging down neoclouds CoreWeave, Iren",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/18/nvidia-stock-earnings.html",
+      "published": "2026-11-18T21:06:49Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Google turns to a volcano and rock-melting technology in a wild new bid to power AI",
+      "image": "news-images/699e9dab23edd1badf7e8a53.jpg",
+      "link": "https://www.marketwatch.com/story/google-turns-to-a-volcano-and-rock-melting-technology-in-a-wild-new-bid-to-power-ai-fbbe57ef?mod=mw_rss_topstories",
+      "published": "2026-11-18T21:01:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "\u2018Nvidia\u2019s turmoil has me spooked\u2019: Should I sell my stocks and buy real estate \u2014 or ride out the storm?",
+      "image": "news-images/d614f939562eaaf70c13752f.jpg",
+      "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+      "published": "2026-11-18T21:00:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "energy",
+      "headline": "Sector Update: Energy Stocks Lower in Late Afternoon Trading",
+      "image": null,
+      "link": "https://finance.yahoo.com/news/sector-energy-stocks-lower-afternoon-205720085.html?.tsrc=rss",
+      "published": "2026-11-18T20:57:20Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Update: US Equity Indexes Mixed as Nvidia Undermines Risk Sentiment, Fed Minutes Favor Policy Tightening",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-nvidia-205207511.html?.tsrc=rss",
+      "published": "2026-11-18T20:52:07Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Fed minutes show growing unease about the outlook for inflation",
+      "image": "news-images/6b70c8725e5c9acc20fb80ba.jpg",
+      "link": "https://www.marketwatch.com/story/fed-minutes-show-growing-unease-about-the-outlook-for-inflation-59e3c13d?mod=mw_rss_topstories",
+      "published": "2026-11-18T20:51:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Forget Market Crashes: These Dow Jones Giants Have Recession-Proof Dividends",
+      "image": null,
+      "link": "https://247wallst.com/investing/2026/11/18/forget-market-crashes-these-dow-jones-giants-have-recession-proof-dividends/?.tsrc=rss",
+      "published": "2026-11-18T20:32:36Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "Grand Theft Callout: \u2018GTA 6\u2019 fans are missing work to play \u2014 and some companies are making the game\u2019s release a holiday",
+      "image": "news-images/21b6600084d93ef4e4298123.jpg",
+      "link": "https://www.marketwatch.com/story/grand-theft-callout-gta-6-fans-are-missing-work-on-the-games-release-day-because-they-dont-want-to-wait-anymore-5f2fa2e3?mod=mw_rss_topstories",
+      "published": "2026-11-18T20:29:00Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "tech",
+      "headline": "Anthropic IPO: AI lab considers increasing the offering as investor demand surges, sources say",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
+      "published": "2026-11-18T20:20:35Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "Stock Market Today: Dow Drops On Heightened Fed Rate-Hike Fears; Palo Alto Jumps (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/3b6d51d3-7bfb-3b08-a92e-3b70e9f0655b/stock-market-today%3A-dow-drops.html?.tsrc=rss",
+      "published": "2026-11-18T20:15:32Z",
+      "sentiment": "neutral"
+    },
     {
       "category": "tech",
       "headline": "Nvidia reverses, metals crash ahead of Anthropic IPO",
@@ -50,14 +138,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "federal",
-      "headline": "Fed minutes show growing unease about the outlook for inflation",
-      "image": "news-images/6b70c8725e5c9acc20fb80ba.jpg",
-      "link": "https://www.marketwatch.com/story/fed-minutes-show-growing-unease-about-the-outlook-for-inflation-59e3c13d?mod=mw_rss_topstories",
-      "published": "2026-11-18T19:38:00Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "other",
       "headline": "I\u2019m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
       "image": "news-images/1669f5b3f293a4134d601b4e.jpg",
@@ -96,14 +176,6 @@
       "link": "https://finance.yahoo.com/m/59ad709c-e0ee-3110-9a36-4c0c9d4e24d2/dow-jones-discount-retail.html?.tsrc=rss",
       "published": "2026-11-18T19:14:17Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Stock Market Today: Dow Drops As Nvidia Probe Deepens; Fed Minutes Loom (Live Coverage)",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/3b6d51d3-7bfb-3b08-a92e-3b70e9f0655b/stock-market-today%3A-dow-drops.html?.tsrc=rss",
-      "published": "2026-11-18T19:01:59Z",
-      "sentiment": "bearish"
     },
     {
       "category": "tech",
@@ -179,22 +251,6 @@
     },
     {
       "category": "other",
-      "headline": "Investigators make progress in hunt for cause of FAA ground stop",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/18/faa-ground-stop-router-investigation.html",
-      "published": "2026-11-18T18:13:25Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Nvidia\u2019s Kress faces a divided workforce as some employees push for Huang\u2019s return",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/18/nvidia-kress-jensen-huang-return.html",
-      "published": "2026-11-18T18:11:41Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
       "headline": "\u2018It\u2019s downright dirty\u2019: My brother took over our ailing mother\u2019s life and finances. What can I do?",
       "image": "news-images/aed955c11c2bf4c27a9b0903.jpg",
       "link": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
@@ -215,54 +271,6 @@
       "image": "news-images/8925660ac3039f86e50535e5.jpg",
       "link": "https://www.marketwatch.com/story/social-security-should-be-shut-down-this-republican-senator-says-8f7fef81?mod=mw_rss_topstories",
       "published": "2026-11-18T17:46:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "healthcare",
-      "headline": "UnitedHealth and other insurance stocks drag down the Dow after CMS proposes new anti-fraud rule",
-      "image": null,
-      "link": "https://finance.yahoo.com/healthcare/article/unitedhealth-and-other-insurance-stocks-drag-down-the-dow-after-cms-proposes-new-anti-fraud-rule-173851810.html?.tsrc=rss",
-      "published": "2026-11-18T17:38:51Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Stock Market Midday, Nov. 18: Nvidia Doubles Revenue, but Wall Street's Sell-Off Continues",
-      "image": null,
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/11/18/stock-market-midday-nov-18-nvidia-doubles-revenue-but-wall-street-s-sell-off-continues/?.tsrc=rss",
-      "published": "2026-11-18T17:30:02Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "healthcare",
-      "headline": "Rising healthcare costs push Medicare Part B premiums higher",
-      "image": "news-images/d274c8b1e2ac4f0fe9b00500.jpg",
-      "link": "https://www.marketwatch.com/story/medicare-part-b-premiums-rise-due-higher-healthcare-spending-f2daba13?mod=mw_rss_topstories",
-      "published": "2026-11-18T17:28:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "energy",
-      "headline": "It\u2019s not too late to add U.S. energy companies to your 401(k). They\u2019ve been making out like bandits.",
-      "image": "news-images/2b07af0e729c224a7b026f99.jpg",
-      "link": "https://www.marketwatch.com/story/its-not-too-late-to-add-u-s-energy-companies-to-your-401-k-theyve-been-making-out-like-bandits-e77a8d6a?mod=mw_rss_topstories",
-      "published": "2026-11-18T17:23:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "I tried TikTok\u2019s viral \u2018corporate slop lunch hacks\u2019 \u2014 and finally escaped the $20 desk salad",
-      "image": "news-images/8591ebe87fd0cc4c731ff7c2.jpg",
-      "link": "https://www.marketwatch.com/story/i-tried-tiktoks-viral-corporate-slop-lunch-hacks-and-finally-escaped-the-20-desk-salad-60daf133?mod=mw_rss_topstories",
-      "published": "2026-11-18T17:16:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Cybersecurity Stocks Shine as Outage Theories Swirl",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/6f2054e4-5dec-37d3-a17c-30249b5cd59d/cybersecurity-stocks-shine-as.html?.tsrc=rss",
-      "published": "2026-11-18T17:05:13Z",
       "sentiment": "neutral"
     },
     {
@@ -312,17 +320,9 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=ba857bd3-ccbb-403d-a6ac-807d52c3d662&amp;mod=mw_rss_bulletins",
       "published": "2026-11-18T02:01:50Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Nvidia\u2019s stock rises as blowout numbers help ease CEO transition fears",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=8b8a35cb-78e8-47a2-8492-f13ff7513a99&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-18T01:30:37Z",
-      "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-11-18T20:10:07Z",
+  "newest_item_published": "2026-11-18T21:07:31Z",
   "source_item_count": 69,
   "sources": {
     "cnbc": {
@@ -331,7 +331,7 @@
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-11-18T20:10:07Z",
+      "newest": "2026-11-18T21:06:49Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,7 +340,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-11-18T19:39:00Z",
+      "newest": "2026-11-18T21:01:00Z",
       "ok": true
     },
     "mw_bulletins": {
@@ -349,7 +349,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-11-18T20:06:54Z",
+      "newest": "2026-11-18T21:07:31Z",
       "ok": true
     },
     "yahoo_dji": {
@@ -358,7 +358,7 @@
       "fetched": 19,
       "fresh": 19,
       "label": "Yahoo Finance",
-      "newest": "2026-11-18T19:29:30Z",
+      "newest": "2026-11-18T20:57:20Z",
       "ok": true
     }
   }
