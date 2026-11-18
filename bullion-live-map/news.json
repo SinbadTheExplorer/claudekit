@@ -1,12 +1,36 @@
 {
-  "generated_at": "2026-11-18T19:12:05Z",
+  "generated_at": "2026-11-18T20:12:16Z",
   "headlines": [
     {
       "category": "tech",
-      "headline": "Nvidia interim CEO Kress tells employees \u2018let\u2019s move forward\u2019 at first all-hands meeting since Jensen Huang exit",
+      "headline": "Nvidia reverses, metals crash ahead of Anthropic IPO",
       "image": null,
-      "link": "https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-kress-addresses-staff-after-jensen-huang-exit-.html",
-      "published": "2026-11-18T19:09:48Z",
+      "link": "https://www.cnbc.com/2026/11/18/nvidia-reverses-metals-crash-ahead-of-anthropic-ipo-options-action-live.html",
+      "published": "2026-11-18T20:10:07Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "Dow off 500 points in final hour, but Nasdaq up ahead of Anthropic IPO pricing",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=735dc84f-cfd5-4063-a7b7-0376d67018ad&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-18T20:06:54Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "international",
+      "headline": "I watched Trump, Xi and Putin gather in China. Here are my top takeaways",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/18/trump-xi-putin-apec-shenzhen-china.html",
+      "published": "2026-11-18T19:47:05Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Why Anthropic's hot IPO is bringing out sellers \u2014 plus, a silver lining of the down market",
+      "image": null,
+      "link": "https://www.cnbc.com/investingclub/2026/11/18/why-anthropics-hot-ipo-is-bringing-out-sellers-plus-a-down-market-silver-lining.html",
+      "published": "2026-11-18T19:46:12Z",
       "sentiment": "neutral"
     },
     {
@@ -14,15 +38,47 @@
       "headline": "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
       "image": null,
       "link": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html",
-      "published": "2026-11-18T19:08:44Z",
+      "published": "2026-11-18T19:41:59Z",
       "sentiment": "neutral"
     },
     {
       "category": "tech",
-      "headline": "Nvidia's earnings report had something for the bulls, bears and everyone in between",
+      "headline": "Washington is scrambling to get to the bottom of the growing number of tech outages across America",
+      "image": "news-images/56b3382d57839ecf0c00cad6.jpg",
+      "link": "https://www.marketwatch.com/story/washington-is-scrambling-to-get-to-the-bottom-of-the-growing-number-of-tech-outages-across-america-66fbf299?mod=mw_rss_topstories",
+      "published": "2026-11-18T19:39:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Fed minutes show growing unease about the outlook for inflation",
+      "image": "news-images/6b70c8725e5c9acc20fb80ba.jpg",
+      "link": "https://www.marketwatch.com/story/fed-minutes-show-growing-unease-about-the-outlook-for-inflation-59e3c13d?mod=mw_rss_topstories",
+      "published": "2026-11-18T19:38:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "I\u2019m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
+      "image": "news-images/1669f5b3f293a4134d601b4e.jpg",
+      "link": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
+      "published": "2026-11-18T19:30:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "healthcare",
+      "headline": "UnitedHealth Is Behind Nearly Half the Dow's Drop",
       "image": null,
-      "link": "https://www.cnbc.com/investingclub/2026/11/18/nvidias-earnings-report-had-something-for-the-bulls-bears-and-everyone-in-between.html",
-      "published": "2026-11-18T19:07:39Z",
+      "link": "https://finance.yahoo.com/m/0412d147-6529-3e42-9c9e-529eac8c80cf/unitedhealth-is-behind-nearly.html?.tsrc=rss",
+      "published": "2026-11-18T19:29:30Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "tech",
+      "headline": "Nvidia interim CEO Kress tells employees \u2018let\u2019s move forward\u2019 at first all-hands meeting since Jensen Huang exit",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-kress-addresses-staff-after-jensen-huang-exit-.html",
+      "published": "2026-11-18T19:21:59Z",
       "sentiment": "neutral"
     },
     {
@@ -30,15 +86,23 @@
       "headline": "Vance scraps schedule to address tech outages as Trump admin insists incidents aren't linked",
       "image": null,
       "link": "https://www.cnbc.com/2026/11/18/trump-tech-outages-nsa-faa-microsoft.html",
-      "published": "2026-11-18T19:07:35Z",
+      "published": "2026-11-18T19:17:27Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "consumer",
+      "headline": "Dow Jones Discount Retail Giant Walmart Poised To Hit Buy Point With Earnings Due",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/59ad709c-e0ee-3110-9a36-4c0c9d4e24d2/dow-jones-discount-retail.html?.tsrc=rss",
+      "published": "2026-11-18T19:14:17Z",
       "sentiment": "neutral"
     },
     {
       "category": "tech",
-      "headline": "Nvidia reverses, metals crash ahead of Anthropic IPO: Options Action Live",
+      "headline": "Stock Market Today: Dow Drops As Nvidia Probe Deepens; Fed Minutes Loom (Live Coverage)",
       "image": null,
-      "link": "https://www.cnbc.com/2026/11/18/nvidia-reverses-metals-crash-ahead-of-anthropic-ipo-options-action-live.html",
-      "published": "2026-11-18T19:01:42Z",
+      "link": "https://finance.yahoo.com/m/3b6d51d3-7bfb-3b08-a92e-3b70e9f0655b/stock-market-today%3A-dow-drops.html?.tsrc=rss",
+      "published": "2026-11-18T19:01:59Z",
       "sentiment": "bearish"
     },
     {
@@ -83,7 +147,7 @@
     },
     {
       "category": "other",
-      "headline": "\u2018GTA 6\u2019 is the biggest game ever. Take-Two\u2019s stock, delivery apps and podcasts are along for the ride.",
+      "headline": "\u2018GTA 6\u2019 is the biggest game of all time. What it means for Take-Two\u2019s stock.",
       "image": "news-images/518872849d579c6bcda82b5c.jpg",
       "link": "https://www.marketwatch.com/story/gta-6-is-the-biggest-game-ever-take-twos-stock-delivery-apps-and-podcasts-are-along-for-the-ride-71014bf2?mod=mw_rss_topstories",
       "published": "2026-11-18T18:28:00Z",
@@ -128,14 +192,6 @@
       "link": "https://www.cnbc.com/2026/11/18/nvidia-kress-jensen-huang-return.html",
       "published": "2026-11-18T18:11:41Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Stock Market Today: Dow Sinks As Fed Minutes Loom; Lowe's Outlook Misses (Live Coverage)",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/3b6d51d3-7bfb-3b08-a92e-3b70e9f0655b/stock-market-today%3A-dow-sinks.html?.tsrc=rss",
-      "published": "2026-11-18T18:02:38Z",
-      "sentiment": "bearish"
     },
     {
       "category": "other",
@@ -203,50 +259,10 @@
     },
     {
       "category": "tech",
-      "headline": "\u2018Nvidia\u2019s turmoil has me spooked\u2019: Has the time come to sell my stocks and buy real estate?",
-      "image": "news-images/4f32ee83d990522cb1a9a2a7.jpg",
-      "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
-      "published": "2026-11-18T17:15:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "realestate",
-      "headline": "Nearly half of home builders are cutting prices and offering lower mortgage rates as they struggle to find buyers",
-      "image": "news-images/8627fcc46bc858d5a1f591e7.jpg",
-      "link": "https://www.marketwatch.com/story/nearly-half-of-home-builders-are-cutting-prices-and-offering-lower-mortgage-rates-as-they-struggle-to-find-buyers-033351e1?mod=mw_rss_topstories",
-      "published": "2026-11-18T17:14:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
       "headline": "Cybersecurity Stocks Shine as Outage Theories Swirl",
       "image": null,
       "link": "https://finance.yahoo.com/m/6f2054e4-5dec-37d3-a17c-30249b5cd59d/cybersecurity-stocks-shine-as.html?.tsrc=rss",
       "published": "2026-11-18T17:05:13Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "\u2018I\u2019ve been a stay-at-home mom\u2019: I\u2019m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
-      "image": "news-images/63a75f5f6759f4004fd8b6fc.jpg",
-      "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
-      "published": "2026-11-18T17:00:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "consumer",
-      "headline": "Dow Jones Discount Retail Giant Walmart Poised To Hit Buy Point With Earnings Due",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/59ad709c-e0ee-3110-9a36-4c0c9d4e24d2/dow-jones-discount-retail.html?.tsrc=rss",
-      "published": "2026-11-18T16:14:30Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Tractor Supply (TSCO) Sales Rose. What Worries Evercore ISI?",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tractor-supply-tsco-sales-rose-161231683.html?.tsrc=rss",
-      "published": "2026-11-18T16:12:31Z",
       "sentiment": "neutral"
     },
     {
@@ -304,34 +320,18 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=8b8a35cb-78e8-47a2-8492-f13ff7513a99&amp;mod=mw_rss_bulletins",
       "published": "2026-11-18T01:30:37Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Only two \u2018Magnificent 7\u2019 stocks have beaten the S&P 500 since the start of 2025",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=fb4cc44d-be14-40ae-a38c-3f28b9db3da8&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-18T00:44:24Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "other",
-      "headline": "Costco is benefiting from \u2018apocalyptic concerns\u2019 as shoppers stock up on goods",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=7e62333d-fe63-4f52-885e-2f645fbc293c&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-18T00:12:12Z",
-      "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-11-18T19:09:48Z",
+  "newest_item_published": "2026-11-18T20:10:07Z",
   "source_item_count": 69,
   "sources": {
     "cnbc": {
-      "contributed": 11,
+      "contributed": 12,
       "error": null,
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-11-18T19:09:48Z",
+      "newest": "2026-11-18T20:10:07Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,16 +340,16 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-11-18T18:30:00Z",
+      "newest": "2026-11-18T19:39:00Z",
       "ok": true
     },
     "mw_bulletins": {
-      "contributed": 9,
+      "contributed": 8,
       "error": null,
       "fetched": 10,
       "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-11-18T18:28:05Z",
+      "newest": "2026-11-18T20:06:54Z",
       "ok": true
     },
     "yahoo_dji": {
@@ -358,7 +358,7 @@
       "fetched": 19,
       "fresh": 19,
       "label": "Yahoo Finance",
-      "newest": "2026-11-18T18:59:33Z",
+      "newest": "2026-11-18T19:29:30Z",
       "ok": true
     }
   }
