@@ -1,6 +1,14 @@
 {
-  "generated_at": "2026-11-18T21:12:05Z",
+  "generated_at": "2026-11-18T21:21:33Z",
   "headlines": [
+    {
+      "category": "tech",
+      "headline": "What\u2019s next for the AI trade after Nvidia\u2019s blowout results are met with a shrug",
+      "image": "news-images/fcb34d94a2d74e8c1ccda11c.jpg",
+      "link": "https://www.marketwatch.com/story/whats-next-for-the-ai-trade-after-nvidias-blowout-results-are-met-with-a-shrug-853c7abe?mod=mw_rss_topstories",
+      "published": "2026-11-18T21:19:00Z",
+      "sentiment": "neutral"
+    },
     {
       "category": "other",
       "headline": "Dow closes over 550 points down, but Nasdaq gains ahead of Anthropic IPO pricing",
@@ -218,6 +226,14 @@
       "sentiment": "neutral"
     },
     {
+      "category": "federal",
+      "headline": "Social Security should be shut down, this Republican senator says",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=f1e5b6bf-093a-4698-bfd7-834ff9aa93e9&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-18T18:28:05Z",
+      "sentiment": "neutral"
+    },
+    {
       "category": "other",
       "headline": "\u2018GTA 6\u2019 is the biggest game of all time. What it means for Take-Two\u2019s stock.",
       "image": "news-images/518872849d579c6bcda82b5c.jpg",
@@ -242,14 +258,6 @@
       "sentiment": "bearish"
     },
     {
-      "category": "tech",
-      "headline": "Read Jim Cramer\u2019s full interview with Nvidia\u2019s Colette Kress: Demand, buybacks and China",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-colette-kress-talks-earnings-china-transcript.html",
-      "published": "2026-11-18T18:14:42Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "other",
       "headline": "\u2018It\u2019s downright dirty\u2019: My brother took over our ailing mother\u2019s life and finances. What can I do?",
       "image": "news-images/aed955c11c2bf4c27a9b0903.jpg",
@@ -263,14 +271,6 @@
       "image": null,
       "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-sliding-175953068.html?.tsrc=rss",
       "published": "2026-11-18T17:59:53Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Social Security should be shut down, this Republican senator says",
-      "image": "news-images/8925660ac3039f86e50535e5.jpg",
-      "link": "https://www.marketwatch.com/story/social-security-should-be-shut-down-this-republican-senator-says-8f7fef81?mod=mw_rss_topstories",
-      "published": "2026-11-18T17:46:00Z",
       "sentiment": "neutral"
     },
     {
@@ -322,11 +322,11 @@
       "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-11-18T21:07:31Z",
+  "newest_item_published": "2026-11-18T21:19:00Z",
   "source_item_count": 69,
   "sources": {
     "cnbc": {
-      "contributed": 12,
+      "contributed": 11,
       "error": null,
       "fetched": 30,
       "fresh": 30,
@@ -340,11 +340,11 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-11-18T21:01:00Z",
+      "newest": "2026-11-18T21:19:00Z",
       "ok": true
     },
     "mw_bulletins": {
-      "contributed": 8,
+      "contributed": 9,
       "error": null,
       "fetched": 10,
       "fresh": 10,
