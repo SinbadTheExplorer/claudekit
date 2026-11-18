@@ -1,6 +1,158 @@
 {
-  "generated_at": "2026-11-18T16:12:07Z",
+  "generated_at": "2026-11-18T17:12:06Z",
   "headlines": [
+    {
+      "category": "tech",
+      "headline": "Vance scraps schedule to address tech outages as Trump admin insists incidents aren't linked",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/18/trump-tech-outages-nsa-faa-microsoft.html",
+      "published": "2026-11-18T17:11:11Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Ford starts U.S. battery cell production using Chinese tech amid geopolitical tensions",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/18/ford-us-battery-cells-catl-tech.html",
+      "published": "2026-11-18T17:02:53Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Jeffries wins Democratic House speaker race, on track to make history in January",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/18/jeffries-house-speaker-congress.html",
+      "published": "2026-11-18T17:00:26Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "\u2018I\u2019ve been a stay-at-home mom\u2019: I\u2019m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
+      "image": "news-images/63a75f5f6759f4004fd8b6fc.jpg",
+      "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
+      "published": "2026-11-18T17:00:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Stock Market Today: Dow Drops Amid Rate-Hike 'Shock' Fears; CoreWeave Tumbles (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/3b6d51d3-7bfb-3b08-a92e-3b70e9f0655b/stock-market-today%3A-dow-drops.html?.tsrc=rss",
+      "published": "2026-11-18T16:56:37Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "Jim Cramer looks at what turned the market lower and where stocks could go next",
+      "image": null,
+      "link": "https://www.cnbc.com/investingclub/2026/11/18/cramer-looks-at-what-turned-the-market-lower-where-stocks-could-go-next.html",
+      "published": "2026-11-18T16:54:42Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Anthropic IPO: AI lab considers increasing the offering as investor demand surges, sources say",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
+      "published": "2026-11-18T16:49:57Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "tech",
+      "headline": "Paris Hilton, Alexandria Ocasio-Cortez press House to pass Defiance Act to fight AI deepfake pornography",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/18/paris-hilton-aoc-defiance-act-ai-porn-deep-fake-congress.html",
+      "published": "2026-11-18T16:36:21Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "consumer",
+      "headline": "Target shares rise 5% as retailer posts best sales growth in five years, hikes guidance",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/18/target-tgt-q3-2026-earnings.html",
+      "published": "2026-11-18T16:34:33Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Tech outages are causing people to panic-buy. Costco is benefiting, Mizuho says",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/18/tech-outage-costco-panic-buying.html",
+      "published": "2026-11-18T16:33:14Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "CoreWeave\u2019s stock drops as Nvidia talks up a \u2018disciplined\u2019 approach to financing",
+      "image": "news-images/dc2813e6fcb475718ed7dcc7.jpg",
+      "link": "https://www.marketwatch.com/story/coreweaves-stock-pops-even-as-nvidia-talks-up-a-disciplined-approach-to-financing-e7f00876?mod=mw_rss_topstories",
+      "published": "2026-11-18T16:30:00Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "consumer",
+      "headline": "Dow Jones Discount Retail Giant Walmart Poised To Hit Buy Point With Earnings Due",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/59ad709c-e0ee-3110-9a36-4c0c9d4e24d2/dow-jones-discount-retail.html?.tsrc=rss",
+      "published": "2026-11-18T16:14:30Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "international",
+      "headline": "I watched Trump, Xi and Putin gather in China. Here are my top takeaways",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/18/trump-xi-putin-apec-shenzhen-china.html",
+      "published": "2026-11-18T16:14:10Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Tractor Supply (TSCO) Sales Rose. What Worries Evercore ISI?",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tractor-supply-tsco-sales-rose-161231683.html?.tsrc=rss",
+      "published": "2026-11-18T16:12:31Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Evercore ISI Respects Floor & Decor (FND). So Why the Downgrade?",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/evercore-isi-respects-floor-decor-161229965.html?.tsrc=rss",
+      "published": "2026-11-18T16:12:29Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "financials",
+      "headline": "What Changed for Deutsche Bank on Cognizant (CTSH)?",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/changed-deutsche-bank-cognizant-ctsh-161201078.html?.tsrc=rss",
+      "published": "2026-11-18T16:12:01Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Lowe\u2019s (LOW) Is Up Since October 7. Here\u2019s Why Stifel Downgraded",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lowe-low-since-october-7-161149091.html?.tsrc=rss",
+      "published": "2026-11-18T16:11:49Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "Why BofA Is Wary of Alexandria (ARE) Through 2027",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-bofa-wary-alexandria-2027-161138805.html?.tsrc=rss",
+      "published": "2026-11-18T16:11:38Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Sell Alert: 5 Stocks Analysts Downgraded on Friday",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sell-alert-5-stocks-analysts-161135403.html?.tsrc=rss",
+      "published": "2026-11-18T16:11:35Z",
+      "sentiment": "bearish"
+    },
     {
       "category": "financials",
       "headline": "Jensen Huang has agreed to appear before Senate banking committee, Chairman Scott says",
@@ -10,43 +162,27 @@
       "sentiment": "neutral"
     },
     {
+      "category": "tech",
+      "headline": "Nvidia Earnings Beat Fails to Rescue Wall Street as Dow Tumbles",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-earnings-beat-fails-rescue-160612628.html?.tsrc=rss",
+      "published": "2026-11-18T16:06:12Z",
+      "sentiment": "bearish"
+    },
+    {
       "category": "other",
-      "headline": "Worried investors are paying up for these stocks \u2014 some with up to 49% upside, analysts say",
+      "headline": "Worried investors are paying a premium for these stocks \u2014 some with as much as 49% upside, analysts say",
       "image": "news-images/815dda362868239b1b05f8e9.jpg",
       "link": "https://www.marketwatch.com/story/worried-investors-are-paying-up-for-these-stocks-some-with-up-to-49-upside-analysts-say-ea8f2c6f?mod=mw_rss_topstories",
       "published": "2026-11-18T16:04:00Z",
       "sentiment": "neutral"
     },
     {
-      "category": "international",
-      "headline": "I watched Trump, Xi and Putin gather in China. Here are my top takeaways",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/18/trump-xi-putin-apec-shenzhen-china.html",
-      "published": "2026-11-18T16:01:19Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "other",
-      "headline": "Oracle\u2019s stock is ridiculously cheap even under the most gloomy scenarios, analyst says",
+      "headline": "Oracle\u2019s stock is ridiculously cheap even in the most gloomy scenarios, analyst says",
       "image": "news-images/3074b5363ff457b8d8704cb4.jpg",
       "link": "https://www.marketwatch.com/story/oracles-stock-is-ridiculously-cheap-even-under-the-most-gloomy-scenarios-analyst-says-630d30ec?mod=mw_rss_topstories",
       "published": "2026-11-18T15:57:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Nvidia sinks after earnings, dragging down neoclouds",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/18/nvidia-stock-earnings.html",
-      "published": "2026-11-18T15:48:12Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "consumer",
-      "headline": "Target shares rise 5% as retailer posts best sales growth in five years, hikes guidance",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/18/target-tgt-q3-2026-earnings.html",
-      "published": "2026-11-18T15:47:44Z",
       "sentiment": "neutral"
     },
     {
@@ -55,22 +191,6 @@
       "image": "news-images/e9db38d952b59df90a28ff62.jpg",
       "link": "https://www.marketwatch.com/story/what-wall-street-analysts-are-now-saying-after-nvidias-beat-and-raise-quarter-9311c85d?mod=mw_rss_topstories",
       "published": "2026-11-18T15:42:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "realestate",
-      "headline": "Lowe's posts strong online sales, raises outlook despite slow housing market",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/18/lowes-low-q3-2026-earnings.html",
-      "published": "2026-11-18T15:39:06Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Vance scraps schedule to address tech outages as Trump admin insists incidents aren't linked",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/18/trump-tech-outages-nsa-faa-microsoft.html",
-      "published": "2026-11-18T15:35:37Z",
       "sentiment": "neutral"
     },
     {
@@ -83,51 +203,11 @@
     },
     {
       "category": "tech",
-      "headline": "Tech outages are causing people to panic buy. Costco is benefitting",
+      "headline": "The AI Rally Needed a Win. Nvidia Earnings Weren\u2019t It.",
       "image": null,
-      "link": "https://www.cnbc.com/2026/11/18/tech-outage-costco-panic-buying.html",
-      "published": "2026-11-18T15:22:24Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Anthropic IPO: AI lab considers increasing the offering as investor demand surges",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
-      "published": "2026-11-18T15:19:53Z",
+      "link": "https://finance.yahoo.com/m/901228b4-7309-3075-a4b7-b842dfd050a0/the-ai-rally-needed-a-win..html?.tsrc=rss",
+      "published": "2026-11-18T15:26:45Z",
       "sentiment": "bullish"
-    },
-    {
-      "category": "tech",
-      "headline": "Stock Market Today: Dow Drops On Hawkish Fed Stance; SEC Probe Hits Nvidia (Live Coverage)",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/3b6d51d3-7bfb-3b08-a92e-3b70e9f0655b/stock-market-today%3A-dow-drops.html?.tsrc=rss",
-      "published": "2026-11-18T15:19:42Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "federal",
-      "headline": "Fed\u2019s Waller says central bank may need to \u2018shock people\u2019 with half-point rate hike",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html",
-      "published": "2026-11-18T15:13:39Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Tech Stocks Fail to Benefit From Nvidia Earnings",
-      "image": null,
-      "link": "https://www.wsj.com/finance/commodities-futures/stock-futures-rally-as-nvidia-earnings-calm-ai-trade-fears-96f51546?.tsrc=rss",
-      "published": "2026-11-18T15:07:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Nvidia\u2019s Kress faces a divided workforce as some employees push for Huang\u2019s return",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/18/nvidia-kress-jensen-huang-return.html",
-      "published": "2026-11-18T15:05:29Z",
-      "sentiment": "neutral"
     },
     {
       "category": "federal",
@@ -143,22 +223,6 @@
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=d2c16347-0cea-4fdd-b6fe-b09f990e40c9&amp;mod=mw_rss_bulletins",
       "published": "2026-11-18T14:48:21Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Stocks Trade Sideways Despite Nvidia Stock's Earnings Rebound",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/78fd9a8a-8b1c-374b-91d1-6d150f51dd2d/stocks-trade-sideways-despite.html?.tsrc=rss",
-      "published": "2026-11-18T14:35:30Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "other",
-      "headline": "Pre-Markets Fight into the Green Ahead of Anthropic IPO",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/pre-markets-fight-green-ahead-143300935.html?.tsrc=rss",
-      "published": "2026-11-18T14:33:00Z",
       "sentiment": "neutral"
     },
     {
@@ -187,42 +251,10 @@
     },
     {
       "category": "tech",
-      "headline": "Exchange-Traded Funds Higher, Equity Futures Mixed Pre-Bell Wednesday Amid Nvidia Earnings, Upcoming Fed Meeting Minutes",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-higher-equity-140832688.html?.tsrc=rss",
-      "published": "2026-11-18T14:08:32Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
       "headline": "The AI power scramble is in full force. Which companies really stand to profit?",
       "image": "news-images/898c5f7a3a88a97aa7b4d94e.jpg",
       "link": "https://www.marketwatch.com/story/the-ai-power-scramble-is-in-full-force-which-companies-really-stand-to-profit-f719619c?mod=mw_rss_topstories",
       "published": "2026-11-18T14:06:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Costco is benefiting from \u2018apocalyptic concerns\u2019 as customers stock up on goods, analysts say",
-      "image": "news-images/0aabbb774c392f871fac57d5.jpg",
-      "link": "https://www.marketwatch.com/story/costco-is-benefiting-from-apocalyptic-concerns-as-customers-stock-up-on-goods-analysts-say-24f611ab?mod=mw_rss_topstories",
-      "published": "2026-11-18T13:59:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Update: US Equity Futures Mostly Higher Pre-Bell as Nvidia Posts Higher-Than-Expected Financial Results",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-mostly-higher-135405758.html?.tsrc=rss",
-      "published": "2026-11-18T13:54:05Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "healthcare",
-      "headline": "Medicare Part B premiums rise due to higher healthcare spending",
-      "image": "news-images/d274c8b1e2ac4f0fe9b00500.jpg",
-      "link": "https://www.marketwatch.com/story/medicare-part-b-premiums-rise-due-higher-healthcare-spending-f2daba13?mod=mw_rss_topstories",
-      "published": "2026-11-18T13:42:00Z",
       "sentiment": "neutral"
     },
     {
@@ -232,38 +264,6 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=7ba6535c-61a0-44b1-9eda-3b31f09b808e&amp;mod=mw_rss_bulletins",
       "published": "2026-11-18T13:31:57Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Dow Jones Futures Fall, Techs Rise After Nvidia Earnings, Waller's 'Shock' Warning; Anthropic IPO Ahead",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/3b22ed8c-00c3-32f8-89f5-91bc21ccb366/dow-jones-futures-fall%2C-techs.html?.tsrc=rss",
-      "published": "2026-11-18T13:15:50Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "tech",
-      "headline": "US Equity Futures Mostly Higher Pre-Bell as Nvidia Posts Higher-Than-Expected Financial Results",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-mostly-higher-131047125.html?.tsrc=rss",
-      "published": "2026-11-18T13:10:47Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Microsoft Stock Loses Key Level Amid Global Outage; Is Microsoft A Buy Now?",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/efe593c1-a803-3c2b-91d2-d5b38ca68a4c/microsoft-stock-loses-key.html?.tsrc=rss",
-      "published": "2026-11-18T13:00:38Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Equities Set to Rebound as Investors Parse Nvidia Results, Await Fed Minutes",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/equities-set-rebound-investors-parse-125931611.html?.tsrc=rss",
-      "published": "2026-11-18T12:59:31Z",
-      "sentiment": "bullish"
     },
     {
       "category": "consumer",
@@ -322,7 +322,7 @@
       "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-11-18T16:08:29Z",
+  "newest_item_published": "2026-11-18T17:11:11Z",
   "source_item_count": 68,
   "sources": {
     "cnbc": {
@@ -331,7 +331,7 @@
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-11-18T16:08:29Z",
+      "newest": "2026-11-18T17:11:11Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,7 +340,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-11-18T16:04:00Z",
+      "newest": "2026-11-18T17:00:00Z",
       "ok": true
     },
     "mw_bulletins": {
@@ -358,7 +358,7 @@
       "fetched": 18,
       "fresh": 17,
       "label": "Yahoo Finance",
-      "newest": "2026-11-18T15:19:42Z",
+      "newest": "2026-11-18T16:56:37Z",
       "ok": true
     }
   }
