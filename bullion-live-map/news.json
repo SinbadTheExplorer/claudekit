@@ -1,12 +1,116 @@
 {
-  "generated_at": "2026-11-19T18:12:21Z",
+  "generated_at": "2026-11-19T19:12:05Z",
   "headlines": [
     {
       "category": "financials",
       "headline": "Amid recent banking outages, should you start carrying cash again? Top advisors weigh in",
       "image": null,
       "link": "https://www.cnbc.com/2026/11/19/banking-outages-emergency-cash.html",
-      "published": "2026-11-19T18:07:30Z",
+      "published": "2026-11-19T19:06:56Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "healthcare",
+      "headline": "As Sanofi's Pompe drug shortage drags on, some patients struggle to access treatments",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/19/as-pompe-drug-shortage-drags-on-patients-struggle-to-get-treatments.html",
+      "published": "2026-11-19T18:55:57Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "healthcare",
+      "headline": "Medicare beneficiaries could skip the nursing home for cheaper care at home under new bill",
+      "image": "news-images/3ceb514bf93819c2c564f0e1.jpg",
+      "link": "https://www.marketwatch.com/story/medicare-beneficiaries-could-skip-the-nursing-home-for-cheaper-care-at-home-under-new-bill-e289c8d0?mod=mw_rss_topstories",
+      "published": "2026-11-19T18:54:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Social Security should be shut down, this Republican senator says",
+      "image": "news-images/8925660ac3039f86e50535e5.jpg",
+      "link": "https://www.marketwatch.com/story/social-security-should-be-shut-down-this-republican-senator-says-8f7fef81?mod=mw_rss_topstories",
+      "published": "2026-11-19T18:53:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Anthropic's historic IPO is a boon to these 12 portfolio stocks. Here's how they benefit",
+      "image": null,
+      "link": "https://www.cnbc.com/investingclub/2026/11/19/anthropics-historic-ipo-is-a-boon-to-these-12-portfolio-stocks-heres-how-they-benefit.html",
+      "published": "2026-11-19T18:48:29Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Jensen Huang's \u2014 and Nvidia's \u2014 legal exposure balloons",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/19/nvidia-jensen-huang-legal.html",
+      "published": "2026-11-19T18:44:34Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "energy",
+      "headline": "Sector Update: Energy Stocks Lower Thursday Afternoon",
+      "image": null,
+      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-lower-thursday-184347774.html?.tsrc=rss",
+      "published": "2026-11-19T18:43:47Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Elon Musk becomes the latest tech billionaire to make a peace offering to Democrats after the midterms",
+      "image": "news-images/53891a3683d012133c31a352.jpg",
+      "link": "https://www.marketwatch.com/story/elon-musk-becomes-the-latest-tech-billionaire-to-make-a-peace-offering-to-democrats-after-the-midterms-05df0c0e?mod=mw_rss_topstories",
+      "published": "2026-11-19T18:43:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Stock Market Today: Major Indexes, AI Players Slide After Anthropic's Debut (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/81d1d9ec-afbb-3e6f-882b-7e094a9a305e/stock-market-today%3A-major.html?.tsrc=rss",
+      "published": "2026-11-19T18:33:53Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "consumer",
+      "headline": "Netflix, Amazon, Fox to bid for 2030 men's World Cup rights; Disney out",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/19/netflix-amazon-fox-bid-for-2030-mens-world-cup-rights-disney-out.html",
+      "published": "2026-11-19T18:30:51Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "international",
+      "headline": "AMD dives on short-seller report of alleged China exposure",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
+      "published": "2026-11-19T18:24:54Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Exchange-Traded Funds Lower as US Equities Fall After Midday",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-lower-us-181733888.html?.tsrc=rss",
+      "published": "2026-11-19T18:17:33Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "tech",
+      "headline": "As Anthropic goes public, AI is becoming a bigger part of your retirement plan",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=4c5f4fd9-7ead-4aae-81f4-22d3410b7598&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-19T18:16:51Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "My wife pays for her family to visit us in New York. How do I tell her we can\u2019t afford it?",
+      "image": "news-images/baf4715fe26233d2db09f77e.jpg",
+      "link": "https://www.marketwatch.com/story/my-wife-pays-thousands-of-dollars-for-her-family-to-visit-from-argentina-how-can-i-convince-her-to-stop-9381351c?mod=mw_rss_topstories",
+      "published": "2026-11-19T18:15:00Z",
       "sentiment": "neutral"
     },
     {
@@ -58,11 +162,11 @@
       "sentiment": "neutral"
     },
     {
-      "category": "tech",
-      "headline": "Jensen Huang's \u2014 and Nvidia's \u2014 legal exposure balloons",
+      "category": "other",
+      "headline": "Anthropic Stock Sinks, Bringing Whole Market With It",
       "image": null,
-      "link": "https://www.cnbc.com/2026/11/19/nvidia-jensen-huang-legal.html",
-      "published": "2026-11-19T17:32:50Z",
+      "link": "https://finance.yahoo.com/m/f1cb9339-0d88-3fee-a0b3-3126b1f1a3a1/anthropic-stock-sinks%2C.html?.tsrc=rss",
+      "published": "2026-11-19T17:37:18Z",
       "sentiment": "neutral"
     },
     {
@@ -72,22 +176,6 @@
       "link": "https://www.marketwatch.com/story/a-coreweave-co-founder-just-made-an-unconventional-30-million-wager-on-its-battered-bonds-5586b0e9?mod=mw_rss_topstories",
       "published": "2026-11-19T17:21:00Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Jim Cramer says to buy stock in this sleeping tech giant 'aggressively, aggressively'",
-      "image": null,
-      "link": "https://www.cnbc.com/investingclub/2026/11/19/jim-cramer-says-to-buy-stock-in-this-sleeping-tech-giant-aggressively.html",
-      "published": "2026-11-19T17:15:33Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Stock Market Today: Indexes Fall As Anthropic Starts Trading; These Players Hit Sell-Rule Alarms (Live Coverage)",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/81d1d9ec-afbb-3e6f-882b-7e094a9a305e/stock-market-today%3A-indexes.html?.tsrc=rss",
-      "published": "2026-11-19T17:04:31Z",
-      "sentiment": "bearish"
     },
     {
       "category": "energy",
@@ -114,35 +202,11 @@
       "sentiment": "neutral"
     },
     {
-      "category": "international",
-      "headline": "AMD falls on short-seller report of alleged China exposure",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
-      "published": "2026-11-19T16:53:47Z",
-      "sentiment": "bearish"
-    },
-    {
       "category": "tech",
       "headline": "Anthropic is coming to your 401(k). Love it or hate it, AI is becoming a bigger part of your financial plan.",
       "image": "news-images/27b461316f7cbf6a5c718d48.jpg",
       "link": "https://www.marketwatch.com/story/anthropic-is-coming-to-your-401-k-love-it-or-hate-it-ai-is-becoming-a-bigger-part-of-your-financial-plan-2e9ae533?mod=mw_rss_topstories",
       "published": "2026-11-19T16:53:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Alibaba\u2019s cloud business is thriving. But those profits are completely offset by losses from its AI labs.",
-      "image": "news-images/bc5244024f03349f116a6640.jpg",
-      "link": "https://www.marketwatch.com/story/alibabas-cloud-business-is-thriving-but-those-profits-are-completely-offset-by-losses-from-its-ai-labs-74bf4b3c?mod=mw_rss_topstories",
-      "published": "2026-11-19T16:52:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Anthropic\u2019s IPO poses this big risk to an already shaky stock market",
-      "image": "news-images/7261dd4d0d564d3fa69cf76c.jpg",
-      "link": "https://www.marketwatch.com/story/anthropics-ipo-poses-this-big-risk-to-an-already-shaky-stock-market-83ce7794?mod=mw_rss_topstories",
-      "published": "2026-11-19T16:49:00Z",
       "sentiment": "neutral"
     },
     {
@@ -155,43 +219,11 @@
     },
     {
       "category": "other",
-      "headline": "Anthropic IPO: Investors who flip the stock may face brokerage penalty",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/19/anthropic-ipo-flipping-rules.html",
-      "published": "2026-11-19T16:31:23Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Gold's bad year is getting worse. Why its price keeps falling",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/19/gold-prices-fall-fed-rates-dollar.html",
-      "published": "2026-11-19T16:29:52Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "other",
-      "headline": "Want to create more competition in grocery delivery? Let DoorDash and Instacart merge.",
-      "image": "news-images/e2b825fbeb750921b863a99c.jpg",
-      "link": "https://www.marketwatch.com/story/want-to-create-more-competition-in-grocery-delivery-let-doordash-and-instacart-merge-10505ad0?mod=mw_rss_topstories",
-      "published": "2026-11-19T16:21:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
       "headline": "The Stock Market Is Flashing a Warning Sign for Only the 6th Time in 156 Years, and History Is Clear What Direction Stocks Could Go Next",
       "image": null,
       "link": "https://www.fool.com/investing/2026/11/19/the-stock-market-is-flashing-a-warning-sign-for-only-the-6th-time-in-156-years-and-history-is-clear-what-direction-stocks-could-go-next/?.tsrc=rss",
       "published": "2026-11-19T16:20:02Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "We\u2019re in our 50s and terrified of a market crash. Should we put $400,000 of our $1 million retirement savings into an annuity?",
-      "image": "news-images/0487cd7d62df71b7795d7964.jpg",
-      "link": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
-      "published": "2026-11-19T16:15:00Z",
-      "sentiment": "bearish"
     },
     {
       "category": "other",
@@ -203,7 +235,7 @@
     },
     {
       "category": "other",
-      "headline": "Anthropic stock pops 30% to $2 trillion market cap, in mega IPO",
+      "headline": "Anthropic stock pops 30% to $2 trillion market cap in mega IPO",
       "image": null,
       "link": "https://finance.yahoo.com/markets/stocks/articles/anthropic-stock-pops-30-2-152857677.html?.tsrc=rss",
       "published": "2026-11-19T15:28:57Z",
@@ -242,35 +274,11 @@
       "sentiment": "neutral"
     },
     {
-      "category": "other",
-      "headline": "Why Stifel Cut Insulet (PODD) After Double-Digit Growth",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-stifel-cut-insulet-podd-151548406.html?.tsrc=rss",
-      "published": "2026-11-19T15:15:48Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "What Citi Is Watching at The New York Times (NYT)",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/citi-watching-york-times-nyt-151435161.html?.tsrc=rss",
-      "published": "2026-11-19T15:14:35Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "tech",
       "headline": "Why Micron, Intel and other AI stocks are getting a lift on Thursday",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=9f2819cc-afda-430c-88de-a42ca3ef39dc&amp;mod=mw_rss_bulletins",
       "published": "2026-11-19T15:03:19Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "consumer",
-      "headline": "Walmart Tops Q3 Forecasts; Why The Stock Is Lower",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/2e509bef-8d2d-3013-933a-2c419f90e09e/walmart-tops-q3-forecasts%3B.html?.tsrc=rss",
-      "published": "2026-11-19T14:53:23Z",
       "sentiment": "neutral"
     },
     {
@@ -312,18 +320,10 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=2db35b31-7900-4305-b9cd-5ed5cd1c3625&amp;mod=mw_rss_bulletins",
       "published": "2026-11-19T00:50:14Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Google turns to volcano and rock-melting technology in wild new bid to power AI",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=f8b4825c-94dd-4455-9f16-ea7248370123&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-19T00:21:25Z",
-      "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-11-19T18:07:30Z",
-  "source_item_count": 65,
+  "newest_item_published": "2026-11-19T19:06:56Z",
+  "source_item_count": 64,
   "sources": {
     "cnbc": {
       "contributed": 10,
@@ -331,7 +331,7 @@
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-11-19T18:07:30Z",
+      "newest": "2026-11-19T19:06:56Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,7 +340,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-11-19T18:07:00Z",
+      "newest": "2026-11-19T18:54:00Z",
       "ok": true
     },
     "mw_bulletins": {
@@ -349,16 +349,16 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-11-19T17:44:20Z",
+      "newest": "2026-11-19T18:16:51Z",
       "ok": true
     },
     "yahoo_dji": {
       "contributed": 10,
       "error": null,
-      "fetched": 15,
+      "fetched": 14,
       "fresh": 14,
       "label": "Yahoo Finance",
-      "newest": "2026-11-19T17:04:31Z",
+      "newest": "2026-11-19T18:43:47Z",
       "ok": true
     }
   }
