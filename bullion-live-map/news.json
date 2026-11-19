@@ -1,6 +1,110 @@
 {
-  "generated_at": "2026-11-19T15:12:06Z",
+  "generated_at": "2026-11-19T16:12:05Z",
   "headlines": [
+    {
+      "category": "other",
+      "headline": "Stock Market Today: Dow Slammed 500 Points Despite Strong Anthropic IPO Pricing (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/81d1d9ec-afbb-3e6f-882b-7e094a9a305e/stock-market-today%3A-dow.html?.tsrc=rss",
+      "published": "2026-11-19T16:06:24Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Anthropic IPO: Investors who flip the stock may face brokerage penalty",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/19/anthropic-ipo-flipping-rules.html",
+      "published": "2026-11-19T16:00:34Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Tech outages are rattling Americans so much that they\u2019re stockpiling cash and supplies",
+      "image": "news-images/ad8bdb5b97bb46d10d9c8d21.jpg",
+      "link": "https://www.marketwatch.com/story/why-are-these-tech-outages-rattling-americans-so-much-that-theyre-stockpiling-cash-and-supplies-07516bdd?mod=mw_rss_topstories",
+      "published": "2026-11-19T15:57:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Anthropic IPO could create thousands of multimillionaire employees",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/19/anthropic-ipo-could-create-thousands-of-multimillionaire-employees.html",
+      "published": "2026-11-19T15:51:53Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Can Anthropic\u2019s IPO do for the stock market what Nvidia\u2019s earnings couldn\u2019t?",
+      "image": "news-images/53c9c0d6a965573a1c3791b8.jpg",
+      "link": "https://www.marketwatch.com/story/can-anthropics-ipo-do-for-the-stock-market-what-nvidias-earnings-couldnt-be67a434?mod=mw_rss_topstories",
+      "published": "2026-11-19T15:51:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Anthropic\u2019s stock starts trading soon. Here\u2019s what to know.",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=ca6a9a7a-5ddf-4f5f-a23a-7a72d0bcf091&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-19T15:41:30Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "realestate",
+      "headline": "\u2018Buyers are out for blood\u2019 as housing market finally hits rock bottom",
+      "image": "news-images/ec030edb984c24e56f347015.jpg",
+      "link": "https://www.marketwatch.com/story/buyers-are-out-for-blood-as-housing-market-finally-hits-rock-bottom-fa5093a6?mod=mw_rss_topstories",
+      "published": "2026-11-19T15:38:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Analysts Turned Bearish on These 5 Stocks on Wednesday",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/analysts-turned-bearish-5-stocks-152114314.html?.tsrc=rss",
+      "published": "2026-11-19T15:21:14Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Revenue Rose, Yet Erste Group Cut Freeport-McMoRan (FCX). Why?",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/revenue-rose-yet-erste-group-151843034.html?.tsrc=rss",
+      "published": "2026-11-19T15:18:43Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "What Erste Group Doubts About GE Vernova (GEV) Next Year",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/erste-group-doubts-ge-vernova-151756375.html?.tsrc=rss",
+      "published": "2026-11-19T15:17:56Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "The Concern Behind Erste Group\u2019s Call on Eaton (ETN)",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/concern-behind-erste-group-call-151651946.html?.tsrc=rss",
+      "published": "2026-11-19T15:16:51Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Why Stifel Cut Insulet (PODD) After Double-Digit Growth",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-stifel-cut-insulet-podd-151548406.html?.tsrc=rss",
+      "published": "2026-11-19T15:15:48Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "What Citi Is Watching at The New York Times (NYT)",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/citi-watching-york-times-nyt-151435161.html?.tsrc=rss",
+      "published": "2026-11-19T15:14:35Z",
+      "sentiment": "neutral"
+    },
     {
       "category": "other",
       "headline": "Trump says Americans should \u2018relax\u2019 as Washington scrambles to get to the bottom of outages",
@@ -31,14 +135,6 @@
       "image": "news-images/8822f621799d0322548b01df.jpg",
       "link": "https://www.marketwatch.com/story/why-micron-intel-and-other-ai-stocks-are-getting-a-lift-on-thursday-cf6f59f8?mod=mw_rss_topstories",
       "published": "2026-11-19T14:52:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "consumer",
-      "headline": "Stock Market Today: Dow Up While Walmart Slides After Earnings; Anthropic IPO Set To Pop 25% (Live Coverage)",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/81d1d9ec-afbb-3e6f-882b-7e094a9a305e/stock-market-today%3A-dow-up.html?.tsrc=rss",
-      "published": "2026-11-19T14:48:22Z",
       "sentiment": "neutral"
     },
     {
@@ -123,7 +219,7 @@
     },
     {
       "category": "other",
-      "headline": "My wife pays thousands for her family to visit us in New York. How can I ask her to choose between them and me?",
+      "headline": "My wife pays for her family to visit us in New York. I don\u2019t want to make this a choice between them and me.",
       "image": "news-images/baf4715fe26233d2db09f77e.jpg",
       "link": "https://www.marketwatch.com/story/my-wife-pays-thousands-of-dollars-for-her-family-to-visit-from-argentina-how-can-i-convince-her-to-stop-9381351c?mod=mw_rss_topstories",
       "published": "2026-11-19T14:15:00Z",
@@ -138,59 +234,11 @@
       "sentiment": "neutral"
     },
     {
-      "category": "tech",
-      "headline": "Google turns to a volcano and rock-melting technology in a wild new bid to power AI",
-      "image": "news-images/699e9dab23edd1badf7e8a53.jpg",
-      "link": "https://www.marketwatch.com/story/google-turns-to-a-volcano-and-rock-melting-technology-in-a-wild-new-bid-to-power-ai-fbbe57ef?mod=mw_rss_topstories",
-      "published": "2026-11-19T14:11:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Anthropic IPO: Investors who flip the stock may face brokerage penalty",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/19/anthropic-ipo-flipping-rules.html",
-      "published": "2026-11-19T14:09:43Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "international",
       "headline": "Trump says U.S., China, Russia \u2018uniquely positioned\u2019 to discuss reducing nuclear weapons at historic meeting",
       "image": null,
       "link": "https://www.cnbc.com/2026/11/19/trump-xi-putin-trilateral-meeting-china.html",
       "published": "2026-11-19T14:05:23Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Update: US Equity Futures Rise Pre-Bell as Traders Anticipate Anthropic's Stock Market Debut",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-rise-pre-135511181.html?.tsrc=rss",
-      "published": "2026-11-19T13:55:11Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Alibaba\u2019s cloud business is thriving. But those profits are completely offset by losses from its AI labs.",
-      "image": "news-images/bc5244024f03349f116a6640.jpg",
-      "link": "https://www.marketwatch.com/story/alibabas-cloud-business-is-thriving-but-those-profits-are-completely-offset-by-losses-from-its-ai-labs-74bf4b3c?mod=mw_rss_topstories",
-      "published": "2026-11-19T13:55:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Is Social Security a Ponzi scheme? No. Don\u2019t get carried away with 1930s-era prophecies of doom.",
-      "image": "news-images/d614f939562eaaf70c13752f.jpg",
-      "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-      "published": "2026-11-19T13:46:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Anthropic IPO could create thousands of multimillionaire employees",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/19/anthropic-ipo-could-create-thousands-of-multimillionaire-employees.html",
-      "published": "2026-11-19T13:38:12Z",
       "sentiment": "neutral"
     },
     {
@@ -200,46 +248,6 @@
       "link": "https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html",
       "published": "2026-11-19T13:23:50Z",
       "sentiment": "bullish"
-    },
-    {
-      "category": "other",
-      "headline": "Stock Market News for Nov 19, 2026",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-nov-19-132100065.html?.tsrc=rss",
-      "published": "2026-11-19T13:21:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Premarket movers: Palo Alto soars, chip stocks rally ahead of Anthropic debut",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/premarket-movers-palo-alto-soars-130941709.html?.tsrc=rss",
-      "published": "2026-11-19T13:09:41Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "consumer",
-      "headline": "Dow Jones Futures Rise, Nasdaq Jumps: Anthropic To Debut After Record IPO; Palo Alto, Everpure Rally, Walmart Falls",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/107e5a2c-4fba-3df3-b2fd-5d1160e65516/dow-jones-futures-rise%2C.html?.tsrc=rss",
-      "published": "2026-11-19T13:07:44Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "other",
-      "headline": "Equity Futures Rise Ahead of Anthropic's Record-Breaking Market Debut",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/equity-futures-rise-ahead-anthropic-130043592.html?.tsrc=rss",
-      "published": "2026-11-19T13:00:43Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Five Straight Losses, One Divergence: Where the Major Indexes Stand Now",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/five-straight-losses-one-divergence-130000760.html?.tsrc=rss",
-      "published": "2026-11-19T13:00:00Z",
-      "sentiment": "neutral"
     },
     {
       "category": "other",
@@ -312,17 +320,9 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=9c77baf9-3e1a-4013-a27c-e077a60fa714&amp;mod=mw_rss_bulletins",
       "published": "2026-11-18T22:08:12Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "What\u2019s next for the AI trade after Nvidia\u2019s blowout results are met with a shrug",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=eafdb624-64f5-4c2b-89e2-927ea73ab283&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-18T21:33:25Z",
-      "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-11-19T15:03:19Z",
+  "newest_item_published": "2026-11-19T16:06:24Z",
   "source_item_count": 68,
   "sources": {
     "cnbc": {
@@ -331,7 +331,7 @@
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-11-19T14:57:38Z",
+      "newest": "2026-11-19T16:00:34Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,7 +340,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-11-19T15:01:00Z",
+      "newest": "2026-11-19T15:57:00Z",
       "ok": true
     },
     "mw_bulletins": {
@@ -349,7 +349,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-11-19T15:03:19Z",
+      "newest": "2026-11-19T15:41:30Z",
       "ok": true
     },
     "yahoo_dji": {
@@ -358,7 +358,7 @@
       "fetched": 18,
       "fresh": 16,
       "label": "Yahoo Finance",
-      "newest": "2026-11-19T14:53:23Z",
+      "newest": "2026-11-19T16:06:24Z",
       "ok": true
     }
   }
