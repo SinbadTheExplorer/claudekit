@@ -1,12 +1,68 @@
 {
-  "generated_at": "2026-11-19T21:12:06Z",
+  "generated_at": "2026-11-19T21:25:56Z",
   "headlines": [
+    {
+      "category": "other",
+      "headline": "Gap names new Athleta CEO, lowers full-year guidance",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/19/gap-gap-q3-2026-earnings.html",
+      "published": "2026-11-19T21:22:23Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "healthcare",
+      "headline": "UnitedHealth\u2019s stock plunged after government signals crackdown on Medicare Advantage fraud",
+      "image": "news-images/e9396d747a5240e8d1ef0f1c.jpg",
+      "link": "https://www.marketwatch.com/story/unitedhealths-stock-keeps-plunging-after-government-signals-crackdown-on-medicare-advantage-fraud-c4770a45?mod=mw_rss_topstories",
+      "published": "2026-11-19T21:22:00Z",
+      "sentiment": "bearish"
+    },
     {
       "category": "tech",
       "headline": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says",
       "image": null,
       "link": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html",
-      "published": "2026-11-19T21:08:45Z",
+      "published": "2026-11-19T21:21:24Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Anthropic\u2019s stock closes 17% higher as AI company completes largest-ever IPO",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=a02fb71e-07cb-4461-8a07-baed66400a9b&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-19T21:17:10Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Anthropic IPO: Investors who flip the stock may face brokerage penalty",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/19/anthropic-ipo-flipping-rules.html",
+      "published": "2026-11-19T21:16:41Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "The Home Depot Declares Quarterly Dividend of $2.33",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/home-depot-declares-quarterly-dividend-211500958.html?.tsrc=rss",
+      "published": "2026-11-19T21:15:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "international",
+      "headline": "AMD dives on short-seller report of alleged China exposure",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
+      "published": "2026-11-19T21:14:46Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "consumer",
+      "headline": "Why Walmart is making a bigger bet on fast-food delivery",
+      "image": "news-images/e0791cf68a8857b0d97cd439.jpg",
+      "link": "https://www.marketwatch.com/story/why-walmart-is-making-a-bigger-bet-on-fast-food-delivery-27263735?mod=mw_rss_topstories",
+      "published": "2026-11-19T21:13:00Z",
       "sentiment": "neutral"
     },
     {
@@ -122,27 +178,11 @@
       "sentiment": "neutral"
     },
     {
-      "category": "consumer",
-      "headline": "Why Walmart is making a bigger bet on fast-food delivery",
-      "image": "news-images/e0791cf68a8857b0d97cd439.jpg",
-      "link": "https://www.marketwatch.com/story/why-walmart-is-making-a-bigger-bet-on-fast-food-delivery-27263735?mod=mw_rss_topstories",
-      "published": "2026-11-19T20:24:00Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "other",
       "headline": "3-step method to influence people and win them over, from a Stanford expert: \u2018Your voice is like a muscle\u2019",
       "image": null,
       "link": "https://www.cnbc.com/make-it/2026/11/19/matt-abrahams-persuasive-speaking-tips.html",
       "published": "2026-11-19T20:17:36Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "S&P 500 heads for 6th straight decline. Plus, J&J advances two key products",
-      "image": null,
-      "link": "https://www.cnbc.com/investingclub/2026/11/19/sp-500-heads-for-6th-straight-decline-plus-jj-advances-two-key-products.html",
-      "published": "2026-11-19T20:10:21Z",
       "sentiment": "neutral"
     },
     {
@@ -159,22 +199,6 @@
       "image": null,
       "link": "https://finance.yahoo.com/m/81d1d9ec-afbb-3e6f-882b-7e094a9a305e/stock-market-today%3A-anthropic.html?.tsrc=rss",
       "published": "2026-11-19T20:00:26Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "consumer",
-      "headline": "Walmart hikes outlook as CEO tells CNBC retailer aims to keep prices low despite soaring fuel costs",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html",
-      "published": "2026-11-19T19:58:30Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "federal",
-      "headline": "Trump bought Nvidia, Palantir, SpaceX in September as federal deals, White House ties grew",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/19/trump-nvidia-spacex-palantir-stock-trades-september.html",
-      "published": "2026-11-19T19:43:08Z",
       "sentiment": "neutral"
     },
     {
@@ -242,14 +266,6 @@
       "sentiment": "bullish"
     },
     {
-      "category": "healthcare",
-      "headline": "Medicare beneficiaries could skip the nursing home for cheaper care at home under new bill",
-      "image": "news-images/3ceb514bf93819c2c564f0e1.jpg",
-      "link": "https://www.marketwatch.com/story/medicare-beneficiaries-could-skip-the-nursing-home-for-cheaper-care-at-home-under-new-bill-e289c8d0?mod=mw_rss_topstories",
-      "published": "2026-11-19T18:54:00Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "energy",
       "headline": "Sector Update: Energy Stocks Lower Thursday Afternoon",
       "image": null,
@@ -283,14 +299,6 @@
     },
     {
       "category": "other",
-      "headline": "Anthropic Stock Sinks, Bringing Whole Market With It",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/f1cb9339-0d88-3fee-a0b3-3126b1f1a3a1/anthropic-stock-sinks%2C.html?.tsrc=rss",
-      "published": "2026-11-19T17:37:18Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
       "headline": "Anthropic\u2019s stock pops more than 30% in trading debut: live updates",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=c2f2c5f7-640c-4be1-a604-0eb283928b06&amp;mod=mw_rss_bulletins",
@@ -312,18 +320,10 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=9f2819cc-afda-430c-88de-a42ca3ef39dc&amp;mod=mw_rss_bulletins",
       "published": "2026-11-19T15:03:19Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Dow, S&P 500, Nasdaq open higher after Anthropic prices IPO",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=e5b73baf-f87b-4472-a48e-10ee6fc19165&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-19T14:31:25Z",
-      "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-11-19T21:08:45Z",
-  "source_item_count": 65,
+  "newest_item_published": "2026-11-19T21:22:23Z",
+  "source_item_count": 64,
   "sources": {
     "cnbc": {
       "contributed": 10,
@@ -331,7 +331,7 @@
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-11-19T21:08:45Z",
+      "newest": "2026-11-19T21:22:23Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,7 +340,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-11-19T21:06:00Z",
+      "newest": "2026-11-19T21:22:00Z",
       "ok": true
     },
     "mw_bulletins": {
@@ -349,16 +349,16 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-11-19T21:03:05Z",
+      "newest": "2026-11-19T21:17:10Z",
       "ok": true
     },
     "yahoo_dji": {
       "contributed": 10,
       "error": null,
-      "fetched": 15,
-      "fresh": 14,
+      "fetched": 14,
+      "fresh": 13,
       "label": "Yahoo Finance",
-      "newest": "2026-11-19T20:57:36Z",
+      "newest": "2026-11-19T21:15:00Z",
       "ok": true
     }
   }
