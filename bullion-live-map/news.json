@@ -1,6 +1,110 @@
 {
-  "generated_at": "2026-11-19T19:12:05Z",
+  "generated_at": "2026-11-19T20:12:20Z",
   "headlines": [
+    {
+      "category": "other",
+      "headline": "S&P 500 heads for 6th straight decline. Plus, J&J advances two key products",
+      "image": null,
+      "link": "https://www.cnbc.com/investingclub/2026/11/19/sp-500-heads-for-6th-straight-decline-plus-jj-advances-two-key-products.html",
+      "published": "2026-11-19T20:10:21Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Dow down 1,000 points, S&P 500 and Nasdaq slide as Anthropic goes public \u2014 live",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=2438a995-47f5-48c5-b3da-cfb80cde18fb&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-19T20:02:36Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "consumer",
+      "headline": "Walmart hikes outlook as CEO tells CNBC retailer aims to keep prices low despite soaring fuel costs",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html",
+      "published": "2026-11-19T19:58:30Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "federal",
+      "headline": "Trump bought Nvidia, Palantir, SpaceX in September as federal deals, White House ties grew",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/19/trump-nvidia-spacex-palantir-stock-trades-september.html",
+      "published": "2026-11-19T19:43:08Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Why Micron, Broadcom and other AI stocks have given up their gains",
+      "image": "news-images/95a4947e5c95fb87a49c0720.jpg",
+      "link": "https://www.marketwatch.com/story/why-micron-intel-and-other-ai-stocks-are-getting-a-lift-on-thursday-cf6f59f8?mod=mw_rss_topstories",
+      "published": "2026-11-19T19:43:00Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "healthcare",
+      "headline": "As Sanofi's Pompe drug shortage drags on, some patients struggle to access treatments",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/19/as-pompe-drug-shortage-drags-on-patients-struggle-to-get-treatments.html",
+      "published": "2026-11-19T19:38:33Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Big bets against AI debt, from CoreWeave to Oracle and the Mag 7, could soon hit the ETF market",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/18/ai-credit-default-swaps-coreweave-debt.html",
+      "published": "2026-11-19T19:31:10Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "consumer",
+      "headline": "Amazon launches in-app push against Mamdani-backed delivery bill in New York City",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/19/amazon-nyc-delivery-protection-act.html",
+      "published": "2026-11-19T19:29:31Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "energy",
+      "headline": "Update: US Equity Indexes Drop After Anthropic's Nasdaq Debut, Crude Oil Climbs",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-drop-anthropic-192433303.html?.tsrc=rss",
+      "published": "2026-11-19T19:24:33Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "The surprising reason the economy is speeding up \u2014 and may have more room to run",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=3d1d749e-1970-41d4-af12-ac0b974aea16&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-19T19:22:35Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "We\u2019re in our 50s and terrified of a market crash. Should we put $400,000 of our $1 million retirement savings into an annuity?",
+      "image": "news-images/0487cd7d62df71b7795d7964.jpg",
+      "link": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
+      "published": "2026-11-19T19:15:00Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "The surprising reason the U.S. economy is speeding up \u2014 and might have more room to run",
+      "image": "news-images/2d033fda1331608778aeeb12.jpg",
+      "link": "https://www.marketwatch.com/story/the-surprising-reason-the-u-s-economy-is-speeding-up-and-might-have-more-room-to-run-9016c8db?mod=mw_rss_topstories",
+      "published": "2026-11-19T19:13:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "financials",
+      "headline": "Bitcoin Enters Death Cross as Anthropic IPO Fails to Lift Wall Street",
+      "image": null,
+      "link": "https://decrypt.co/383655/bitcoin-enters-death-cross-anthropic-ipo?.tsrc=rss",
+      "published": "2026-11-19T19:08:24Z",
+      "sentiment": "neutral"
+    },
     {
       "category": "financials",
       "headline": "Amid recent banking outages, should you start carrying cash again? Top advisors weigh in",
@@ -10,12 +114,20 @@
       "sentiment": "neutral"
     },
     {
-      "category": "healthcare",
-      "headline": "As Sanofi's Pompe drug shortage drags on, some patients struggle to access treatments",
+      "category": "realestate",
+      "headline": "Kraken parent's acquisition of Tribe Capital flags new chapter in evolution of crypto exchanges",
       "image": null,
-      "link": "https://www.cnbc.com/2026/11/19/as-pompe-drug-shortage-drags-on-patients-struggle-to-get-treatments.html",
-      "published": "2026-11-19T18:55:57Z",
+      "link": "https://www.cnbc.com/2026/11/19/acquisition-of-tribe-capital-flags-new-chapter-in-evolution-of-crypto-exchanges.html",
+      "published": "2026-11-19T19:06:50Z",
       "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Equities Fall Intraday Even as Anthropic Soars in Market Debut",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/equities-fall-intraday-even-anthropic-190432896.html?.tsrc=rss",
+      "published": "2026-11-19T19:04:32Z",
+      "sentiment": "bullish"
     },
     {
       "category": "healthcare",
@@ -31,14 +143,6 @@
       "image": "news-images/8925660ac3039f86e50535e5.jpg",
       "link": "https://www.marketwatch.com/story/social-security-should-be-shut-down-this-republican-senator-says-8f7fef81?mod=mw_rss_topstories",
       "published": "2026-11-19T18:53:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Anthropic's historic IPO is a boon to these 12 portfolio stocks. Here's how they benefit",
-      "image": null,
-      "link": "https://www.cnbc.com/investingclub/2026/11/19/anthropics-historic-ipo-is-a-boon-to-these-12-portfolio-stocks-heres-how-they-benefit.html",
-      "published": "2026-11-19T18:48:29Z",
       "sentiment": "neutral"
     },
     {
@@ -82,14 +186,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "international",
-      "headline": "AMD dives on short-seller report of alleged China exposure",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
-      "published": "2026-11-19T18:24:54Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "other",
       "headline": "Exchange-Traded Funds Lower as US Equities Fall After Midday",
       "image": null,
@@ -122,14 +218,6 @@
       "sentiment": "bullish"
     },
     {
-      "category": "consumer",
-      "headline": "Amazon launches in-app push against Mamdani-backed delivery bill in New York City",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/19/amazon-nyc-delivery-protection-act.html",
-      "published": "2026-11-19T18:03:03Z",
-      "sentiment": "bullish"
-    },
-    {
       "category": "healthcare",
       "headline": "UnitedHealth\u2019s stock keeps plunging after government signals crackdown on Medicare Advantage fraud",
       "image": "news-images/e9396d747a5240e8d1ef0f1c.jpg",
@@ -143,14 +231,6 @@
       "image": "news-images/6c9cca92956be90fcea1f75e.jpg",
       "link": "https://www.marketwatch.com/story/forget-data-centers-the-next-great-ai-stocks-are-hiding-in-plain-sight-in-these-four-sectors-ee9833b1?mod=mw_rss_topstories",
       "published": "2026-11-19T18:00:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Trump bought Nvidia, Palantir, SpaceX in September as federal deals, White House ties grew",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/19/trump-nvidia-spacex-palantir-stock-trades-september.html",
-      "published": "2026-11-19T17:59:04Z",
       "sentiment": "neutral"
     },
     {
@@ -171,51 +251,11 @@
     },
     {
       "category": "other",
-      "headline": "A CoreWeave co-founder just made an unconventional $30 million wager on its battered bonds",
-      "image": "news-images/2bbbc4b45d816910a9263992.jpg",
-      "link": "https://www.marketwatch.com/story/a-coreweave-co-founder-just-made-an-unconventional-30-million-wager-on-its-battered-bonds-5586b0e9?mod=mw_rss_topstories",
-      "published": "2026-11-19T17:21:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "energy",
-      "headline": "Trump, Xi, Putin said they plan to boost oil production, revamp UN after trilateral talks",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/19/trump-xi-putin-trilateral-meeting-china.html",
-      "published": "2026-11-19T17:01:41Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "\u2018I\u2019ve been a stay-at-home mom\u2019: I\u2019m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
-      "image": "news-images/63a75f5f6759f4004fd8b6fc.jpg",
-      "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
-      "published": "2026-11-19T17:00:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
       "headline": "Anthropic\u2019s stock pops more than 30% in trading debut: live updates",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=c2f2c5f7-640c-4be1-a604-0eb283928b06&amp;mod=mw_rss_bulletins",
       "published": "2026-11-19T16:56:49Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Anthropic is coming to your 401(k). Love it or hate it, AI is becoming a bigger part of your financial plan.",
-      "image": "news-images/27b461316f7cbf6a5c718d48.jpg",
-      "link": "https://www.marketwatch.com/story/anthropic-is-coming-to-your-401-k-love-it-or-hate-it-ai-is-becoming-a-bigger-part-of-your-financial-plan-2e9ae533?mod=mw_rss_topstories",
-      "published": "2026-11-19T16:53:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Big bets against AI debt, from CoreWeave to Oracle and the Mag 7, could soon hit the ETF market",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/18/ai-credit-default-swaps-coreweave-debt.html",
-      "published": "2026-11-19T16:34:17Z",
-      "sentiment": "bullish"
     },
     {
       "category": "other",
@@ -250,30 +290,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "other",
-      "headline": "Revenue Rose, Yet Erste Group Cut Freeport-McMoRan (FCX). Why?",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/revenue-rose-yet-erste-group-151843034.html?.tsrc=rss",
-      "published": "2026-11-19T15:18:43Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "What Erste Group Doubts About GE Vernova (GEV) Next Year",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/erste-group-doubts-ge-vernova-151756375.html?.tsrc=rss",
-      "published": "2026-11-19T15:17:56Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "The Concern Behind Erste Group\u2019s Call on Eaton (ETN)",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/concern-behind-erste-group-call-151651946.html?.tsrc=rss",
-      "published": "2026-11-19T15:16:51Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "tech",
       "headline": "Why Micron, Intel and other AI stocks are getting a lift on Thursday",
       "image": null,
@@ -304,26 +320,10 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=5c0d48ca-8b02-4fec-a1ee-6f52fd430a4c&amp;mod=mw_rss_bulletins",
       "published": "2026-11-19T10:23:12Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Here's when Bridgewater says cyberattacks started increasing exponentially",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=ace81779-4f5e-41a4-af1c-bdef0ee1c384&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-19T09:45:54Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "\u2018GTA 6\u2019 is the biggest game of all time. What it means for Take-Two\u2019s stock.",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=2db35b31-7900-4305-b9cd-5ed5cd1c3625&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-19T00:50:14Z",
-      "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-11-19T19:06:56Z",
-  "source_item_count": 64,
+  "newest_item_published": "2026-11-19T20:10:21Z",
+  "source_item_count": 65,
   "sources": {
     "cnbc": {
       "contributed": 10,
@@ -331,7 +331,7 @@
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-11-19T19:06:56Z",
+      "newest": "2026-11-19T20:10:21Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,7 +340,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-11-19T18:54:00Z",
+      "newest": "2026-11-19T19:43:00Z",
       "ok": true
     },
     "mw_bulletins": {
@@ -349,16 +349,16 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-11-19T18:16:51Z",
+      "newest": "2026-11-19T20:02:36Z",
       "ok": true
     },
     "yahoo_dji": {
       "contributed": 10,
       "error": null,
-      "fetched": 14,
-      "fresh": 14,
+      "fetched": 15,
+      "fresh": 15,
       "label": "Yahoo Finance",
-      "newest": "2026-11-19T18:43:47Z",
+      "newest": "2026-11-19T19:24:33Z",
       "ok": true
     }
   }
