@@ -1,12 +1,84 @@
 {
-  "generated_at": "2026-11-19T17:12:04Z",
+  "generated_at": "2026-11-19T18:12:21Z",
   "headlines": [
     {
-      "category": "other",
-      "headline": "We're adding to a consumer stock as the market enters oversold territory",
+      "category": "financials",
+      "headline": "Amid recent banking outages, should you start carrying cash again? Top advisors weigh in",
       "image": null,
-      "link": "https://www.cnbc.com/investingclub/2026/11/19/were-adding-to-a-consumer-stock-as-the-market-enters-oversold-territory.html",
-      "published": "2026-11-19T17:11:00Z",
+      "link": "https://www.cnbc.com/2026/11/19/banking-outages-emergency-cash.html",
+      "published": "2026-11-19T18:07:30Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "\u2018Rockets are hard\u2019 \u2014 yet this analyst thinks AST SpaceMobile\u2019s stock is ready to rebound",
+      "image": "news-images/a09e5dd6a9313fc4e9c6a686.jpg",
+      "link": "https://www.marketwatch.com/story/rockets-are-hard-yet-this-analyst-thinks-ast-spacemobiles-stock-is-ready-to-rebound-b9ce6f9c?mod=mw_rss_topstories",
+      "published": "2026-11-19T18:07:00Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "consumer",
+      "headline": "Amazon launches in-app push against Mamdani-backed delivery bill in New York City",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/19/amazon-nyc-delivery-protection-act.html",
+      "published": "2026-11-19T18:03:03Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "healthcare",
+      "headline": "UnitedHealth\u2019s stock keeps plunging after government signals crackdown on Medicare Advantage fraud",
+      "image": "news-images/e9396d747a5240e8d1ef0f1c.jpg",
+      "link": "https://www.marketwatch.com/story/unitedhealths-stock-keeps-plunging-after-government-signals-crackdown-on-medicare-advantage-fraud-c4770a45?mod=mw_rss_topstories",
+      "published": "2026-11-19T18:03:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Forget data centers. The next great AI stocks are hiding in plain sight in these four sectors.",
+      "image": "news-images/6c9cca92956be90fcea1f75e.jpg",
+      "link": "https://www.marketwatch.com/story/forget-data-centers-the-next-great-ai-stocks-are-hiding-in-plain-sight-in-these-four-sectors-ee9833b1?mod=mw_rss_topstories",
+      "published": "2026-11-19T18:00:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Trump bought Nvidia, Palantir, SpaceX in September as federal deals, White House ties grew",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/19/trump-nvidia-spacex-palantir-stock-trades-september.html",
+      "published": "2026-11-19T17:59:04Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "realestate",
+      "headline": "With home sales at a record low, buyers are now calling the shots",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=37c8c451-31a1-4316-a55b-d948b1e49860&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-19T17:44:20Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Jensen Huang's \u2014 and Nvidia's \u2014 legal exposure balloons",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/19/nvidia-jensen-huang-legal.html",
+      "published": "2026-11-19T17:32:50Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "A CoreWeave co-founder just made an unconventional $30 million wager on its battered bonds",
+      "image": "news-images/2bbbc4b45d816910a9263992.jpg",
+      "link": "https://www.marketwatch.com/story/a-coreweave-co-founder-just-made-an-unconventional-30-million-wager-on-its-battered-bonds-5586b0e9?mod=mw_rss_topstories",
+      "published": "2026-11-19T17:21:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Jim Cramer says to buy stock in this sleeping tech giant 'aggressively, aggressively'",
+      "image": null,
+      "link": "https://www.cnbc.com/investingclub/2026/11/19/jim-cramer-says-to-buy-stock-in-this-sleeping-tech-giant-aggressively.html",
+      "published": "2026-11-19T17:15:33Z",
       "sentiment": "neutral"
     },
     {
@@ -99,22 +171,6 @@
     },
     {
       "category": "other",
-      "headline": "Palo Alto stock jumps on earnings beat and company's big bet on securing open-weight models",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/19/palo-alto-networks-earnings-applied-compute.html",
-      "published": "2026-11-19T16:28:06Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "other",
-      "headline": "A CoreWeave co-founder just made an unconventional $30 million wager on its battered bonds",
-      "image": "news-images/2bbbc4b45d816910a9263992.jpg",
-      "link": "https://www.marketwatch.com/story/a-coreweave-co-founder-just-made-an-unconventional-30-million-wager-on-its-battered-bonds-5586b0e9?mod=mw_rss_topstories",
-      "published": "2026-11-19T16:27:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
       "headline": "Want to create more competition in grocery delivery? Let DoorDash and Instacart merge.",
       "image": "news-images/e2b825fbeb750921b863a99c.jpg",
       "link": "https://www.marketwatch.com/story/want-to-create-more-competition-in-grocery-delivery-let-doordash-and-instacart-merge-10505ad0?mod=mw_rss_topstories",
@@ -130,14 +186,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "consumer",
-      "headline": "Amazon launches in-app push against Mamdani-backed delivery bill in New York City",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/19/amazon-nyc-delivery-protection-act.html",
-      "published": "2026-11-19T16:15:40Z",
-      "sentiment": "bullish"
-    },
-    {
       "category": "other",
       "headline": "We\u2019re in our 50s and terrified of a market crash. Should we put $400,000 of our $1 million retirement savings into an annuity?",
       "image": "news-images/0487cd7d62df71b7795d7964.jpg",
@@ -146,35 +194,19 @@
       "sentiment": "bearish"
     },
     {
-      "category": "realestate",
-      "headline": "\u2018Buyers are out for blood\u2019: With home sales at a record low, buyers are calling the shots",
-      "image": "news-images/ec030edb984c24e56f347015.jpg",
-      "link": "https://www.marketwatch.com/story/buyers-are-out-for-blood-as-housing-market-finally-hits-rock-bottom-fa5093a6?mod=mw_rss_topstories",
-      "published": "2026-11-19T16:14:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Tech outages are rattling Americans so much that they\u2019re stockpiling cash and supplies",
-      "image": "news-images/ad8bdb5b97bb46d10d9c8d21.jpg",
-      "link": "https://www.marketwatch.com/story/why-are-these-tech-outages-rattling-americans-so-much-that-theyre-stockpiling-cash-and-supplies-07516bdd?mod=mw_rss_topstories",
-      "published": "2026-11-19T15:57:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Can Anthropic\u2019s IPO do for the stock market what Nvidia\u2019s earnings couldn\u2019t?",
-      "image": "news-images/53c9c0d6a965573a1c3791b8.jpg",
-      "link": "https://www.marketwatch.com/story/can-anthropics-ipo-do-for-the-stock-market-what-nvidias-earnings-couldnt-be67a434?mod=mw_rss_topstories",
-      "published": "2026-11-19T15:51:00Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "other",
       "headline": "Anthropic\u2019s stock starts trading soon. Here\u2019s what to know.",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=ca6a9a7a-5ddf-4f5f-a23a-7a72d0bcf091&amp;mod=mw_rss_bulletins",
       "published": "2026-11-19T15:41:30Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Anthropic stock pops 30% to $2 trillion market cap, in mega IPO",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/anthropic-stock-pops-30-2-152857677.html?.tsrc=rss",
+      "published": "2026-11-19T15:28:57Z",
       "sentiment": "neutral"
     },
     {
@@ -234,14 +266,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "tech",
-      "headline": "Anthropic IPO, AI wealth spawn a new, leaner kind of family office",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ai-wealth-spawn-a-new-leaner-kind-of-family-office.html",
-      "published": "2026-11-19T14:57:38Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "consumer",
       "headline": "Walmart Tops Q3 Forecasts; Why The Stock Is Lower",
       "image": null,
@@ -250,27 +274,11 @@
       "sentiment": "neutral"
     },
     {
-      "category": "tech",
-      "headline": "The AI Rally Finally Gets a Win",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/c7d32d69-025a-3587-879d-c88c694a5e52/the-ai-rally-finally-gets-a.html?.tsrc=rss",
-      "published": "2026-11-19T14:32:52Z",
-      "sentiment": "bullish"
-    },
-    {
       "category": "other",
       "headline": "Dow, S&P 500, Nasdaq open higher after Anthropic prices IPO",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=e5b73baf-f87b-4472-a48e-10ee6fc19165&amp;mod=mw_rss_bulletins",
       "published": "2026-11-19T14:31:25Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Kash Patel skips House hearing after Mar-a-Lago gala with $50,000 access",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/18/kash-patel-hearing-mar-a-lago-gala.html",
-      "published": "2026-11-19T14:15:18Z",
       "sentiment": "neutral"
     },
     {
@@ -312,17 +320,9 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=f8b4825c-94dd-4455-9f16-ea7248370123&amp;mod=mw_rss_bulletins",
       "published": "2026-11-19T00:21:25Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Stock market being rocked by biggest shake-up in a generation as tech falters",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=b611d40e-f691-4beb-9dff-fc10142aea41&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-18T23:26:35Z",
-      "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-11-19T17:11:00Z",
+  "newest_item_published": "2026-11-19T18:07:30Z",
   "source_item_count": 65,
   "sources": {
     "cnbc": {
@@ -331,7 +331,7 @@
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-11-19T17:11:00Z",
+      "newest": "2026-11-19T18:07:30Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,7 +340,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-11-19T17:00:00Z",
+      "newest": "2026-11-19T18:07:00Z",
       "ok": true
     },
     "mw_bulletins": {
@@ -349,14 +349,14 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-11-19T16:56:49Z",
+      "newest": "2026-11-19T17:44:20Z",
       "ok": true
     },
     "yahoo_dji": {
       "contributed": 10,
       "error": null,
       "fetched": 15,
-      "fresh": 13,
+      "fresh": 14,
       "label": "Yahoo Finance",
       "newest": "2026-11-19T17:04:31Z",
       "ok": true
