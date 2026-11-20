@@ -1,6 +1,78 @@
 {
-  "generated_at": "2026-11-20T20:12:07Z",
+  "generated_at": "2026-11-20T21:01:34Z",
   "headlines": [
+    {
+      "category": "federal",
+      "headline": "Update: S&P 500, Dow Slide Into Correction Territory as Investors Seek Treasury Cover Amid Big-Tech Plunge",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-dow-slide-correction-205308024.html?.tsrc=rss",
+      "published": "2026-11-20T20:53:08Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "Trump says he still has confidence in Lutnick",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/20/trump-lutnick-commerce-china-ai.html",
+      "published": "2026-11-20T20:52:08Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "The tech wreck is one stock trade Trump can\u2019t \u2018TACO\u2019 away",
+      "image": "news-images/cdcdba4616d2309c6c46817a.jpg",
+      "link": "https://www.marketwatch.com/story/the-tech-wreck-is-one-stock-trade-trump-cant-taco-away-516b3883?mod=mw_rss_topstories",
+      "published": "2026-11-20T20:52:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Trump vows to stop U.S. companies from building data centers abroad, threatens 'tremendous tax'",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html",
+      "published": "2026-11-20T20:47:58Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Stock Market Today: Nasdaq Tanks 5%; These AI Data Center Names Slammed (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/4b546235-124e-3fa4-b951-41a067ff7bf2/stock-market-today%3A-nasdaq.html?.tsrc=rss",
+      "published": "2026-11-20T20:34:36Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "\u2018GTA 6\u2019 has taken over. Is it too late to buy the developer\u2019s stock?",
+      "image": "news-images/8202d0b45e1ad346841ee452.jpg",
+      "link": "https://www.marketwatch.com/story/gta-6-has-taken-over-is-it-too-late-to-buy-the-developers-stock-69a5cbc5?mod=mw_rss_topstories",
+      "published": "2026-11-20T20:32:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "My husband spent $80,000 on a boat, yet says my plans for a $100,000 pottery studio are irresponsible. Who\u2019s right?",
+      "image": "news-images/f703625eb18067adc70efdac.jpg",
+      "link": "https://www.marketwatch.com/story/my-husband-spent-80-000-on-a-boat-yet-says-my-plans-for-a-100-000-pottery-studio-are-irresponsible-whos-right-1a69436a?mod=mw_rss_topstories",
+      "published": "2026-11-20T20:31:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "I\u2019m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
+      "image": "news-images/1669f5b3f293a4134d601b4e.jpg",
+      "link": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
+      "published": "2026-11-20T20:30:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "I\u2019m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
+      "image": "news-images/0428784cd10a3cb9f0814fc0.jpg",
+      "link": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
+      "published": "2026-11-20T20:30:00Z",
+      "sentiment": "bearish"
+    },
     {
       "category": "other",
       "headline": "Dow, S&P 500 in correction territory in final hour; Nasdaq wipes out 2026 gains",
@@ -19,14 +91,6 @@
     },
     {
       "category": "tech",
-      "headline": "The tech wreck is one stock trade Trump can\u2019t \u2018TACO\u2019 away",
-      "image": "news-images/cdcdba4616d2309c6c46817a.jpg",
-      "link": "https://www.marketwatch.com/story/the-tech-wreck-is-one-stock-trade-trump-cant-taco-away-516b3883?mod=mw_rss_topstories",
-      "published": "2026-11-20T20:07:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
       "headline": "Intensifying AI rout wipes out Nasdaq's 2026 gains. Alphabet is a tech bright spot",
       "image": null,
       "link": "https://www.cnbc.com/investingclub/2026/11/20/ai-rout-wipes-out-nasdaqs-2026-gains-alphabet-is-a-tech-bright-spot.html",
@@ -40,14 +104,6 @@
       "link": "https://www.marketwatch.com/story/everyones-making-money-off-gta-6-this-week-except-investors-in-take-twos-stock-489ee01b?mod=mw_rss_topstories",
       "published": "2026-11-20T20:03:00Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Prediction markets outlook for stocks in 2026 dims amid AI sell-off",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/20/sp-500-8000-kalshi-odds-ai-selloff.html",
-      "published": "2026-11-20T19:59:03Z",
-      "sentiment": "bearish"
     },
     {
       "category": "tech",
@@ -99,26 +155,26 @@
     },
     {
       "category": "tech",
-      "headline": "A massive bearish trade just happened in the chip stocks",
+      "headline": "Nasdaq wipes out gains for the year as Anthropic IPO fails to quell AI nerves",
       "image": null,
-      "link": "https://www.cnbc.com/2026/11/20/a-massive-bearish-trade-just-happened-in-the-chip-stocks.html",
-      "published": "2026-11-20T19:33:31Z",
+      "link": "https://www.cnn.com/2026/11/20/investing/us-stocks-anthropic-ai?.tsrc=rss",
+      "published": "2026-11-20T19:39:22Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "tech",
+      "headline": "Trump is trying to stop Big Tech\u2019s push to build data centers outside the U.S.",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=0609ce20-a8d3-41b3-a1b1-ac4d39e8806f&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-20T19:33:49Z",
       "sentiment": "neutral"
     },
     {
       "category": "tech",
-      "headline": "Alphabet just overtook Nvidia in market value for the first time in over 2 years",
-      "image": "news-images/c8ee13bc97f2aca257ac5e63.jpg",
-      "link": "https://www.marketwatch.com/story/alphabet-just-overtook-nvidia-in-market-value-for-the-first-time-in-over-2-years-23e296ee?mod=mw_rss_topstories",
-      "published": "2026-11-20T19:23:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Trump says he still has confidence in Lutnick",
+      "headline": "A massive bearish trade just happened in the chip stocks",
       "image": null,
-      "link": "https://www.cnbc.com/2026/11/20/trump-lutnick-commerce-china-ai.html",
-      "published": "2026-11-20T19:16:14Z",
+      "link": "https://www.cnbc.com/2026/11/20/a-massive-bearish-trade-just-happened-in-the-chip-stocks.html",
+      "published": "2026-11-20T19:33:31Z",
       "sentiment": "neutral"
     },
     {
@@ -127,30 +183,6 @@
       "image": null,
       "link": "https://www.cnbc.com/2026/11/20/treasury-secretary-scott-bessent.html",
       "published": "2026-11-20T19:15:44Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Trump vows to stop U.S. companies from building data centers abroad, threatens 'tremendous tax'",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html",
-      "published": "2026-11-20T19:15:01Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "SpaceX\u2019s stock falls back below its IPO price \u2014\u00a0and Anthropic\u2019s could be next",
-      "image": "news-images/b7be5426a165a98bfde8a563.jpg",
-      "link": "https://www.marketwatch.com/story/spacexs-stock-falls-back-below-its-ipo-price-and-anthropics-could-be-next-079d2a4a?mod=mw_rss_topstories",
-      "published": "2026-11-20T19:14:00Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "consumer",
-      "headline": "Stock Market Today: Nasdaq Turns Negative For 2026 As Fear Gauge Spikes; Walmart Advances (Live Coverage)",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/4b546235-124e-3fa4-b951-41a067ff7bf2/stock-market-today%3A-nasdaq.html?.tsrc=rss",
-      "published": "2026-11-20T19:10:42Z",
       "sentiment": "neutral"
     },
     {
@@ -170,14 +202,6 @@
       "sentiment": "bearish"
     },
     {
-      "category": "tech",
-      "headline": "Trump is trying to stop Big Tech\u2019s push to build data centers outside the U.S.",
-      "image": "news-images/a33f0a6e526438269b9944cf.jpg",
-      "link": "https://www.marketwatch.com/story/trump-is-trying-to-stop-big-techs-push-to-build-data-centers-outside-the-u-s-86f32f7f?mod=mw_rss_topstories",
-      "published": "2026-11-20T18:57:00Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "energy",
       "headline": "A wave of 'pent-up quits' could boost turnover in the job market, expert says: 'The labor market is a bit like a coiled spring'",
       "image": null,
@@ -191,22 +215,6 @@
       "image": null,
       "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-advance-friday-184902915.html?.tsrc=rss",
       "published": "2026-11-20T18:49:02Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Nasdaq wipes out gains for the year as Anthropic IPO fails to quell AI nerves",
-      "image": null,
-      "link": "https://www.cnn.com/2026/11/20/investing/us-stocks-anthropic-ai?.tsrc=rss",
-      "published": "2026-11-20T18:29:40Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "other",
-      "headline": "\u2018I\u2019ve been a stay-at-home mom\u2019: I\u2019m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
-      "image": "news-images/63a75f5f6759f4004fd8b6fc.jpg",
-      "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
-      "published": "2026-11-20T18:15:00Z",
       "sentiment": "neutral"
     },
     {
@@ -256,14 +264,6 @@
       "link": "https://www.fool.com/coverage/stock-market-today/2026/11/20/stock-market-midday-nov-20-nasdaq-plunges-nearly-3-as-amd-and-micron-lead-a-brutal-semiconductor-sell-off/?.tsrc=rss",
       "published": "2026-11-20T17:20:02Z",
       "sentiment": "bearish"
-    },
-    {
-      "category": "other",
-      "headline": "The Nasdaq\u2019s 2026 Gain Is Gone",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/88e54213-4fcf-3e1d-afdd-c6657e27b7e4/the-nasdaq%E2%80%99s-2026-gain-is-gone.html?.tsrc=rss",
-      "published": "2026-11-20T16:50:11Z",
-      "sentiment": "bullish"
     },
     {
       "category": "federal",
@@ -322,16 +322,16 @@
       "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-11-20T20:08:57Z",
+  "newest_item_published": "2026-11-20T20:53:08Z",
   "source_item_count": 64,
   "sources": {
     "cnbc": {
-      "contributed": 12,
+      "contributed": 11,
       "error": null,
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-11-20T20:06:12Z",
+      "newest": "2026-11-20T20:52:08Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,11 +340,11 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-11-20T20:08:00Z",
+      "newest": "2026-11-20T20:52:00Z",
       "ok": true
     },
     "mw_bulletins": {
-      "contributed": 8,
+      "contributed": 9,
       "error": null,
       "fetched": 10,
       "fresh": 10,
@@ -358,7 +358,7 @@
       "fetched": 14,
       "fresh": 13,
       "label": "Yahoo Finance",
-      "newest": "2026-11-20T19:51:38Z",
+      "newest": "2026-11-20T20:53:08Z",
       "ok": true
     }
   }
