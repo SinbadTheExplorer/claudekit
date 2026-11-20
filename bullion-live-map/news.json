@@ -1,6 +1,102 @@
 {
-  "generated_at": "2026-11-20T13:12:06Z",
+  "generated_at": "2026-11-20T14:12:04Z",
   "headlines": [
+    {
+      "category": "tech",
+      "headline": "SpaceX\u2019s subsidiary Cursor tells lawmakers it's considering phasing out Chinese AI models",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html",
+      "published": "2026-11-20T14:07:24Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Stock Market Today: Tech Futures Sell Off As Anthropic Plunges 10% After IPO (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/4b546235-124e-3fa4-b951-41a067ff7bf2/stock-market-today%3A-tech.html?.tsrc=rss",
+      "published": "2026-11-20T14:05:56Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "Anthropic Stock Falls Sharply After Record IPO",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/ca3ca304-3c18-390a-b39d-ddebc8a727e5/anthropic-stock-falls-sharply.html?.tsrc=rss",
+      "published": "2026-11-20T14:00:47Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "tech",
+      "headline": "Exchange-Traded Funds, Equity Futures Fall Pre-Bell Friday Amid Continued AI Stock Selloff",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-140012643.html?.tsrc=rss",
+      "published": "2026-11-20T14:00:12Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "These little-known investments could be among the best bargains in a crash",
+      "image": "news-images/f300bc524e7d6a04ea26265b.jpg",
+      "link": "https://www.marketwatch.com/story/these-little-known-investments-could-be-among-the-best-bargains-in-a-crash-78a379b4?mod=mw_rss_topstories",
+      "published": "2026-11-20T14:00:00Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "Anthropic raises $93.5 billion total as underwriters scoop up \u2018greenshoe\u2019 overallotment",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/20/anthropic-ipo-greenshoe.html",
+      "published": "2026-11-20T13:56:23Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Update: US Equity Futures Drop Pre-Bell as Anthropic Shares Decline One Day After Debut",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-drop-pre-135320294.html?.tsrc=rss",
+      "published": "2026-11-20T13:53:20Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "tech",
+      "headline": "Anthropic\u2019s stock slides closer to IPO price and drags down the AI trade",
+      "image": "news-images/b88036b004fea352ea3eaba3.jpg",
+      "link": "https://www.marketwatch.com/story/anthropics-stock-slides-closer-to-ipo-price-and-drags-down-the-ai-trade-cc43a0c4?mod=mw_rss_topstories",
+      "published": "2026-11-20T13:48:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Anthropic\u2019s stock slides closer to IPO price, dragging the AI trade",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=c739630e-74bb-492d-91d9-53c530667e07&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-20T13:46:11Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/20/apec-summit-trump-xi-china-trade-taiwan.html",
+      "published": "2026-11-20T13:29:50Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Anthropic defies the odds, holding record IPO despite \u2018massively disruptive\u2019 market",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/20/anthropic-defies-odds-holding-ipo-despite-massively-disruptive-market.html",
+      "published": "2026-11-20T13:25:56Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "AI can help find holiday deals \u2014 but it's not great at spotting scams, experts say",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/20/ai-holiday-shopping-scams.html",
+      "published": "2026-11-20T13:15:01Z",
+      "sentiment": "neutral"
+    },
     {
       "category": "other",
       "headline": "Cathie Wood's ARK Invest was a big buyer of Anthropic, tells CNBC she's 'quite optimistic'",
@@ -26,14 +122,6 @@
       "sentiment": "bullish"
     },
     {
-      "category": "tech",
-      "headline": "Stock Market Today: Tech Futures Sell Off As Anthropic Plunges 10% After IPO (Live Coverage)",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/4b546235-124e-3fa4-b951-41a067ff7bf2/stock-market-today%3A-tech.html?.tsrc=rss",
-      "published": "2026-11-20T12:57:50Z",
-      "sentiment": "bearish"
-    },
-    {
       "category": "other",
       "headline": "Dow Jones Futures: Techs Tumble, Anthropic Dives After Ugly Market Reversal To New Lows",
       "image": null,
@@ -56,14 +144,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-drop-pre-125211794.html?.tsrc=rss",
       "published": "2026-11-20T12:52:11Z",
       "sentiment": "bearish"
-    },
-    {
-      "category": "other",
-      "headline": "Anthropic defies the odds, holding record IPO despite \u2018massively disruptive\u2019 market",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/20/anthropic-defies-odds-holding-ipo-despite-massively-disruptive-market.html",
-      "published": "2026-11-20T12:45:11Z",
-      "sentiment": "neutral"
     },
     {
       "category": "other",
@@ -155,22 +235,6 @@
     },
     {
       "category": "tech",
-      "headline": "\u2018Nvidia\u2019s turmoil has me spooked\u2019: Should I sell my stocks and buy real estate \u2014 or ride out the storm?",
-      "image": "news-images/d614f939562eaaf70c13752f.jpg",
-      "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
-      "published": "2026-11-20T12:00:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Citi warns a key stock-market signal is close to flashing red",
-      "image": "news-images/cb0fbab2a71ffb6d1749fe93.jpg",
-      "link": "https://www.marketwatch.com/story/citi-warns-a-key-stock-market-signal-is-close-to-flashing-red-5cbee1c3?mod=mw_rss_topstories",
-      "published": "2026-11-20T11:45:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
       "headline": "AI Unease Undermines Wall Street Pre-Bell; Asia, Europe Off",
       "image": null,
       "link": "https://finance.yahoo.com/markets/stocks/articles/ai-unease-undermines-wall-street-110827735.html?.tsrc=rss",
@@ -192,62 +256,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/premarket-movers-anthropic-slides-debut-105600121.html?.tsrc=rss",
       "published": "2026-11-20T10:56:00Z",
       "sentiment": "bearish"
-    },
-    {
-      "category": "tech",
-      "headline": "It's All Going Wrong for the AI Trade as Tech Selloff Gathers Pace",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/52ce0df1-dc33-3309-ab16-020305a69b92/it%27s-all-going-wrong-for-the.html?.tsrc=rss",
-      "published": "2026-11-20T10:42:28Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "international",
-      "headline": "Kushner says Russia 'comfortable' with idea of NATO-like security guarantees for Ukraine",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/20/kushner-ukraine-nato-russia-trump-putin.html",
-      "published": "2026-11-20T09:56:03Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "US Stock Futures Fall as Anthropic Shares Retreat and AI Concerns Weigh on Global Markets: Dow Jones, S&P, Nasdaq, Wall Street",
-      "image": null,
-      "link": "https://investorshub.advfn.com/market-news/article/40431/us-stock-futures-fall-as-anthropic-shares-retreat-and-ai-concerns-weigh-on-global-markets-dow-jones-sp-nasdaq-wall-street?.tsrc=rss",
-      "published": "2026-11-20T09:44:20Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "tech",
-      "headline": "Anthropic dips after-hours as AI jitters persist - what\u2019s moving markets",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/anthropic-dips-hours-ai-jitters-093716104.html?.tsrc=rss",
-      "published": "2026-11-20T09:37:16Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "international",
-      "headline": "Putin scores \u2018massive win\u2019 at first trilateral meeting, rebuilding standing as Ukraine war grinds on",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/20/putin-xi-china-trump-russia-ukraine-.html",
-      "published": "2026-11-20T09:26:45Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "SoftBank suffers worst day in over two years as AI sell-off hits Asian tech stocks",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/20/softbank-ai-tech-stocks-slide-anthropic-debut.html",
-      "published": "2026-11-20T07:23:06Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "other",
-      "headline": "\u2018More than just a game\u2019: How GTA VI\u2019s blockbuster launch fuels a booming content economy",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/20/gta-vi-launch-streaming-content-economy.html",
-      "published": "2026-11-20T07:08:36Z",
-      "sentiment": "neutral"
     },
     {
       "category": "other",
@@ -312,17 +320,9 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=2438a995-47f5-48c5-b3da-cfb80cde18fb&amp;mod=mw_rss_bulletins",
       "published": "2026-11-19T20:02:36Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "The surprising reason the economy is speeding up \u2014 and may have more room to run",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=3d1d749e-1970-41d4-af12-ac0b974aea16&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-19T19:22:35Z",
-      "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-11-20T13:11:25Z",
+  "newest_item_published": "2026-11-20T14:07:24Z",
   "source_item_count": 66,
   "sources": {
     "cnbc": {
@@ -331,7 +331,7 @@
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-11-20T13:11:25Z",
+      "newest": "2026-11-20T14:07:24Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,7 +340,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-11-20T13:00:00Z",
+      "newest": "2026-11-20T14:00:00Z",
       "ok": true
     },
     "mw_bulletins": {
@@ -349,7 +349,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-11-20T12:14:52Z",
+      "newest": "2026-11-20T13:46:11Z",
       "ok": true
     },
     "yahoo_dji": {
@@ -358,7 +358,7 @@
       "fetched": 16,
       "fresh": 16,
       "label": "Yahoo Finance",
-      "newest": "2026-11-20T12:57:50Z",
+      "newest": "2026-11-20T14:05:56Z",
       "ok": true
     }
   }
