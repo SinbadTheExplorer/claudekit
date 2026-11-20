@@ -1,6 +1,46 @@
 {
-  "generated_at": "2026-11-20T21:01:34Z",
+  "generated_at": "2026-11-20T21:12:06Z",
   "headlines": [
+    {
+      "category": "other",
+      "headline": "Warsh wants Fed officials to talk less. Instead, they\u2019re talking more",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/20/warsh-fed-forward-guidance-rate-hikes.html",
+      "published": "2026-11-20T21:10:48Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Dow and S&P 500 close in correction, Nasdaq slides 5.3% to erase 2026 gains",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=7584d1dd-3ec7-43fa-8e57-63eae6a76eed&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-20T21:07:33Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "Gap names new Athleta CEO, says Old Navy turnaround is seeing signs of progress",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/19/gap-gap-q3-2026-earnings.html",
+      "published": "2026-11-20T21:04:48Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html",
+      "published": "2026-11-20T21:03:41Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "healthcare",
+      "headline": "Here\u2019s what\u2019s been proven to help GLP-1 users from losing too much muscle from the drug",
+      "image": "news-images/cfa2b9020607ac4bee8f572b.jpg",
+      "link": "https://www.marketwatch.com/story/heres-whats-been-proven-to-help-glp-1-users-who-have-lost-muscle-from-the-drug-2c71cdbf?mod=mw_rss_topstories",
+      "published": "2026-11-20T21:01:00Z",
+      "sentiment": "neutral"
+    },
     {
       "category": "federal",
       "headline": "Update: S&P 500, Dow Slide Into Correction Territory as Investors Seek Treasury Cover Amid Big-Tech Plunge",
@@ -107,14 +147,6 @@
     },
     {
       "category": "tech",
-      "headline": "Nvidia stock plunges 12%, rides longest weekly losing streak since 2008 financial crisis",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html",
-      "published": "2026-11-20T19:54:31Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "tech",
       "headline": "Spooked by Nvidia\u2019s turmoil? Play Grand Theft Auto VI instead of peeking at your 401(k).",
       "image": "news-images/d614f939562eaaf70c13752f.jpg",
       "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
@@ -135,14 +167,6 @@
       "image": null,
       "link": "https://finance.yahoo.com/m/85df41c3-2805-316d-905a-5d0a0872055e/the-selloff-is-gaining-speed.html?.tsrc=rss",
       "published": "2026-11-20T19:51:38Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "financials",
-      "headline": "Stocks could face a \u2018doom loop\u2019 if Wall Street underestimates the risk of an economic downturn, strategist warns",
-      "image": "news-images/be6cd735658903aabf18e6a8.jpg",
-      "link": "https://www.marketwatch.com/story/bank-of-america-strategist-warns-doom-loop-could-hit-stocks-with-wall-street-underpricing-hard-landing-risks-c3181e57?mod=mw_rss_topstories",
-      "published": "2026-11-20T19:43:00Z",
       "sentiment": "neutral"
     },
     {
@@ -226,14 +250,6 @@
       "sentiment": "bullish"
     },
     {
-      "category": "crypto",
-      "headline": "Bitcoin sell-off: Crypto is failing the 'digital gold' test again as it sinks with stocks",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/20/bitcoin-price-gold-market-hedge.html",
-      "published": "2026-11-20T17:25:19Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "tech",
       "headline": "Anthropic Stock Falls Sharply After Record IPO. Why AI Anxiety Is Rising.",
       "image": null,
@@ -248,14 +264,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-slide-anthropic-172138782.html?.tsrc=rss",
       "published": "2026-11-20T17:21:38Z",
       "sentiment": "bearish"
-    },
-    {
-      "category": "consumer",
-      "headline": "Gap stock soars as retailer says Old Navy turnaround shows signs of improvement",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/19/gap-gap-q3-2026-earnings.html",
-      "published": "2026-11-20T17:20:29Z",
-      "sentiment": "bullish"
     },
     {
       "category": "tech",
@@ -312,17 +320,9 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=5025db1a-a0e6-4e5f-8dfd-29277c663b17&amp;mod=mw_rss_bulletins",
       "published": "2026-11-20T00:00:23Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "These were the only stocks that rose amid the stock market\u2019s wipeout Thursday",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=5862f89a-0447-45e6-b76b-86f064a02486&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-19T23:13:44Z",
-      "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-11-20T20:53:08Z",
+  "newest_item_published": "2026-11-20T21:10:48Z",
   "source_item_count": 64,
   "sources": {
     "cnbc": {
@@ -331,7 +331,7 @@
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-11-20T20:52:08Z",
+      "newest": "2026-11-20T21:10:48Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,7 +340,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-11-20T20:52:00Z",
+      "newest": "2026-11-20T21:01:00Z",
       "ok": true
     },
     "mw_bulletins": {
@@ -349,7 +349,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-11-20T20:08:57Z",
+      "newest": "2026-11-20T21:07:33Z",
       "ok": true
     },
     "yahoo_dji": {
