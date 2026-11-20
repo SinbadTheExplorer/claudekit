@@ -1,21 +1,173 @@
 {
-  "generated_at": "2026-11-20T19:12:14Z",
+  "generated_at": "2026-11-20T20:12:07Z",
   "headlines": [
     {
       "category": "other",
-      "headline": "Trump says he discussed Jensen Huang with Xi, contradicting Bessent",
+      "headline": "Dow, S&P 500 in correction territory in final hour; Nasdaq wipes out 2026 gains",
       "image": null,
-      "link": "https://www.cnbc.com/2026/11/20/treasury-secretary-scott-bessent.html",
-      "published": "2026-11-20T19:10:33Z",
-      "sentiment": "neutral"
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=637c4718-e771-4db0-99c7-f2407a3cc48b&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-20T20:08:57Z",
+      "sentiment": "bullish"
     },
     {
       "category": "tech",
       "headline": "Nvidia\u2019s stock heads for a stretch of weekly losses not seen since 2008",
       "image": "news-images/2b9bbfa9a5809c9c25c1dda3.jpg",
       "link": "https://www.marketwatch.com/story/nvidias-stock-heads-for-a-stretch-of-weekly-losses-unseen-since-2008-91aba9a6?mod=mw_rss_topstories",
-      "published": "2026-11-20T19:04:00Z",
+      "published": "2026-11-20T20:08:00Z",
       "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "The tech wreck is one stock trade Trump can\u2019t \u2018TACO\u2019 away",
+      "image": "news-images/cdcdba4616d2309c6c46817a.jpg",
+      "link": "https://www.marketwatch.com/story/the-tech-wreck-is-one-stock-trade-trump-cant-taco-away-516b3883?mod=mw_rss_topstories",
+      "published": "2026-11-20T20:07:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Intensifying AI rout wipes out Nasdaq's 2026 gains. Alphabet is a tech bright spot",
+      "image": null,
+      "link": "https://www.cnbc.com/investingclub/2026/11/20/ai-rout-wipes-out-nasdaqs-2026-gains-alphabet-is-a-tech-bright-spot.html",
+      "published": "2026-11-20T20:06:12Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "Everyone\u2019s making money off \u2018GTA 6\u2019 this week \u2014 except investors in Take-Two\u2019s stock",
+      "image": "news-images/5edbf349c65a6884cc61ced3.jpg",
+      "link": "https://www.marketwatch.com/story/everyones-making-money-off-gta-6-this-week-except-investors-in-take-twos-stock-489ee01b?mod=mw_rss_topstories",
+      "published": "2026-11-20T20:03:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Prediction markets outlook for stocks in 2026 dims amid AI sell-off",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/20/sp-500-8000-kalshi-odds-ai-selloff.html",
+      "published": "2026-11-20T19:59:03Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "tech",
+      "headline": "Nvidia stock plunges 12%, rides longest weekly losing streak since 2008 financial crisis",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html",
+      "published": "2026-11-20T19:54:31Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "tech",
+      "headline": "Spooked by Nvidia\u2019s turmoil? Play Grand Theft Auto VI instead of peeking at your 401(k).",
+      "image": "news-images/d614f939562eaaf70c13752f.jpg",
+      "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+      "published": "2026-11-20T19:53:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "The Fed is too busy fighting inflation to rescue the stock market",
+      "image": "news-images/e799f2a3f49a16405dd111b8.jpg",
+      "link": "https://www.marketwatch.com/story/the-fed-is-too-busy-fighting-inflation-to-rescue-the-stock-market-11dda598?mod=mw_rss_topstories",
+      "published": "2026-11-20T19:53:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "The Selloff Is Gaining Speed",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/85df41c3-2805-316d-905a-5d0a0872055e/the-selloff-is-gaining-speed.html?.tsrc=rss",
+      "published": "2026-11-20T19:51:38Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "financials",
+      "headline": "Stocks could face a \u2018doom loop\u2019 if Wall Street underestimates the risk of an economic downturn, strategist warns",
+      "image": "news-images/be6cd735658903aabf18e6a8.jpg",
+      "link": "https://www.marketwatch.com/story/bank-of-america-strategist-warns-doom-loop-could-hit-stocks-with-wall-street-underpricing-hard-landing-risks-c3181e57?mod=mw_rss_topstories",
+      "published": "2026-11-20T19:43:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "financials",
+      "headline": "Jensen Huang to testify publicly before Senate banking panel, Chairman Scott says",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/20/jensen-huang-nvidia-senate-testimony.html",
+      "published": "2026-11-20T19:42:53Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "A massive bearish trade just happened in the chip stocks",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/20/a-massive-bearish-trade-just-happened-in-the-chip-stocks.html",
+      "published": "2026-11-20T19:33:31Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Alphabet just overtook Nvidia in market value for the first time in over 2 years",
+      "image": "news-images/c8ee13bc97f2aca257ac5e63.jpg",
+      "link": "https://www.marketwatch.com/story/alphabet-just-overtook-nvidia-in-market-value-for-the-first-time-in-over-2-years-23e296ee?mod=mw_rss_topstories",
+      "published": "2026-11-20T19:23:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Trump says he still has confidence in Lutnick",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/20/trump-lutnick-commerce-china-ai.html",
+      "published": "2026-11-20T19:16:14Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "realestate",
+      "headline": "Trump says he discussed Jensen Huang with Xi, apparently contradicting Bessent",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/20/treasury-secretary-scott-bessent.html",
+      "published": "2026-11-20T19:15:44Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Trump vows to stop U.S. companies from building data centers abroad, threatens 'tremendous tax'",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html",
+      "published": "2026-11-20T19:15:01Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "SpaceX\u2019s stock falls back below its IPO price \u2014\u00a0and Anthropic\u2019s could be next",
+      "image": "news-images/b7be5426a165a98bfde8a563.jpg",
+      "link": "https://www.marketwatch.com/story/spacexs-stock-falls-back-below-its-ipo-price-and-anthropics-could-be-next-079d2a4a?mod=mw_rss_topstories",
+      "published": "2026-11-20T19:14:00Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "consumer",
+      "headline": "Stock Market Today: Nasdaq Turns Negative For 2026 As Fear Gauge Spikes; Walmart Advances (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/4b546235-124e-3fa4-b951-41a067ff7bf2/stock-market-today%3A-nasdaq.html?.tsrc=rss",
+      "published": "2026-11-20T19:10:42Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Update: S&P 500, Dow Enter Correction Territory; Anthropic Tumbles Following Record Debut",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-dow-enter-correction-190855362.html?.tsrc=rss",
+      "published": "2026-11-20T19:08:55Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "industrials",
+      "headline": "These 4 Conservative Dow Jones Industrials Dividend Stocks Are Built for Sell-Offs",
+      "image": null,
+      "link": "https://247wallst.com/investing/2026/11/20/these-4-conservative-dow-jones-industrials-dividend-stocks-are-built-for-sell-offs/?.tsrc=rss",
+      "published": "2026-11-20T19:02:05Z",
+      "sentiment": "bearish"
     },
     {
       "category": "tech",
@@ -34,14 +186,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "other",
-      "headline": "Trump says he still has confidence in Lutnick",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/20/trump-lutnick-commerce-china-ai.html",
-      "published": "2026-11-20T18:52:20Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "energy",
       "headline": "Sector Update: Energy Stocks Advance Friday Afternoon",
       "image": null,
@@ -51,35 +195,11 @@
     },
     {
       "category": "tech",
-      "headline": "Prediction markets outlook for stocks in 2026 dims amid AI sell-off",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/20/sp-500-8000-kalshi-odds-ai-selloff.html",
-      "published": "2026-11-20T18:41:12Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "tech",
-      "headline": "Trump vows to stop U.S. companies from building data centers abroad, threatens 'tremendous tax'",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html",
-      "published": "2026-11-20T18:35:16Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
       "headline": "Nasdaq wipes out gains for the year as Anthropic IPO fails to quell AI nerves",
       "image": null,
       "link": "https://www.cnn.com/2026/11/20/investing/us-stocks-anthropic-ai?.tsrc=rss",
       "published": "2026-11-20T18:29:40Z",
       "sentiment": "bullish"
-    },
-    {
-      "category": "other",
-      "headline": "Home Depot vs. Lowe's: Which stock has the edge after earnings and our support?",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/20/home-depot-vs-lowes-which-stock-has-the-edge-after-earnings-and-our-support.html",
-      "published": "2026-11-20T18:26:09Z",
-      "sentiment": "neutral"
     },
     {
       "category": "other",
@@ -96,38 +216,6 @@
       "link": "https://www.cnbc.com/2026/11/20/bitcoin-price-catalysts-tokenization-regulation.html",
       "published": "2026-11-20T18:07:18Z",
       "sentiment": "bullish"
-    },
-    {
-      "category": "other",
-      "headline": "Stock Market Today: Nasdaq Dives 3.5% As S&P 500 Enters Correction; Anthropic Tanks 13% (Live Coverage)",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/4b546235-124e-3fa4-b951-41a067ff7bf2/stock-market-today%3A-nasdaq.html?.tsrc=rss",
-      "published": "2026-11-20T18:02:05Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Is Social Security a Ponzi scheme? No. Don\u2019t get carried away with 1930s-era prophecies of doom.",
-      "image": "news-images/d614f939562eaaf70c13752f.jpg",
-      "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-      "published": "2026-11-20T18:00:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Why year-end portfolio rebalancing is a risky bet that bonds will beat stocks in 2027",
-      "image": "news-images/88e49a38a9069564b878cadd.jpg",
-      "link": "https://www.marketwatch.com/story/why-year-end-portfolio-rebalancing-is-a-risky-bet-that-bonds-will-beat-stocks-in-2027-1b438892?mod=mw_rss_topstories",
-      "published": "2026-11-20T17:49:00Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "tech",
-      "headline": "Anthropic\u2019s stock slides closer to IPO price and drags down the AI trade",
-      "image": "news-images/b88036b004fea352ea3eaba3.jpg",
-      "link": "https://www.marketwatch.com/story/anthropics-stock-slides-closer-to-ipo-price-and-drags-down-the-ai-trade-cc43a0c4?mod=mw_rss_topstories",
-      "published": "2026-11-20T17:47:00Z",
-      "sentiment": "neutral"
     },
     {
       "category": "crypto",
@@ -170,38 +258,6 @@
       "sentiment": "bearish"
     },
     {
-      "category": "healthcare",
-      "headline": "Medicare beneficiaries could skip the nursing home for cheaper care at home under new bill",
-      "image": "news-images/3ceb514bf93819c2c564f0e1.jpg",
-      "link": "https://www.marketwatch.com/story/medicare-beneficiaries-could-skip-the-nursing-home-for-cheaper-care-at-home-under-new-bill-e289c8d0?mod=mw_rss_topstories",
-      "published": "2026-11-20T17:15:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "My husband spent $80,000 on a boat, yet says my plans for a $100,000 pottery studio are irresponsible. Who\u2019s right?",
-      "image": "news-images/f703625eb18067adc70efdac.jpg",
-      "link": "https://www.marketwatch.com/story/my-husband-spent-80-000-on-a-boat-yet-says-my-plans-for-a-100-000-pottery-studio-are-irresponsible-whos-right-1a69436a?mod=mw_rss_topstories",
-      "published": "2026-11-20T17:15:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "I\u2019m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
-      "image": "news-images/0428784cd10a3cb9f0814fc0.jpg",
-      "link": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
-      "published": "2026-11-20T17:05:00Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "tech",
-      "headline": "Data center construction costs soar 13% in 2026",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/20/data-center-construction-costs-soar-13-percent-in-2026.html",
-      "published": "2026-11-20T16:52:08Z",
-      "sentiment": "bullish"
-    },
-    {
       "category": "other",
       "headline": "The Nasdaq\u2019s 2026 Gain Is Gone",
       "image": null,
@@ -210,52 +266,12 @@
       "sentiment": "bullish"
     },
     {
-      "category": "realestate",
-      "headline": "\u2018Buyers are out for blood\u2019: With home sales at a record low, buyers are calling the shots",
-      "image": "news-images/ec030edb984c24e56f347015.jpg",
-      "link": "https://www.marketwatch.com/story/buyers-are-out-for-blood-as-housing-market-finally-hits-rock-bottom-fa5093a6?mod=mw_rss_topstories",
-      "published": "2026-11-20T16:37:00Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "federal",
       "headline": "This proposed Social Security fix could add trillions to the national debt",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=6fe4a0e2-ebef-48c6-8eec-3bfb4fd04b24&amp;mod=mw_rss_bulletins",
       "published": "2026-11-20T16:33:04Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Anthropic shares slump on second day of trading as markets reel from AI sell-off",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/anthropic-shares-slump-second-day-162607608.html?.tsrc=rss",
-      "published": "2026-11-20T16:26:07Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "other",
-      "headline": "Cathie Wood\u2019s Ark Invest was a big buyer of Anthropic as she tells CNBC she\u2019s \u2018quite optimistic\u2019",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/20/cathie-woods-ark-invest-was-a-big-buyer-of-anthropic-during-debut.html",
-      "published": "2026-11-20T16:18:04Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "MU, SNDK, Other Chipmakers Plunge Amid AI Trade Weakness \u2014 UBS Says Risk-Reward In Equities Has Become \u2018More Balanced\u2019",
-      "image": null,
-      "link": "https://stocktwits.com/news-articles/markets/equity/mu-sndk-other-chipmakers-plunge-amid-ai-trade-weakness-ubs-says-risk-reward-in-equities-has-become-more-balanced/cNbSZa1R91c?.tsrc=rss",
-      "published": "2026-11-20T16:11:54Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "other",
-      "headline": "Stocks plunge as investors take cover amid growing uncertainty",
-      "image": null,
-      "link": "https://www.cbsnews.com/news/dow-tumbles-wall-street-ai-fears/?.tsrc=rss",
-      "published": "2026-11-20T15:23:30Z",
-      "sentiment": "bearish"
     },
     {
       "category": "other",
@@ -304,34 +320,18 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=5862f89a-0447-45e6-b76b-86f064a02486&amp;mod=mw_rss_bulletins",
       "published": "2026-11-19T23:13:44Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Markets are sending troubling signals about the state of the economy",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=e0f73b8e-8b5d-4729-8262-66a007fd05f5&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-19T22:04:52Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Anthropic\u2019s stock closes 17% higher as AI company completes largest-ever IPO",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=a02fb71e-07cb-4461-8a07-baed66400a9b&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-19T21:17:10Z",
-      "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-11-20T19:10:33Z",
-  "source_item_count": 65,
+  "newest_item_published": "2026-11-20T20:08:57Z",
+  "source_item_count": 64,
   "sources": {
     "cnbc": {
-      "contributed": 11,
+      "contributed": 12,
       "error": null,
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-11-20T19:10:33Z",
+      "newest": "2026-11-20T20:06:12Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,25 +340,25 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-11-20T19:04:00Z",
+      "newest": "2026-11-20T20:08:00Z",
       "ok": true
     },
     "mw_bulletins": {
-      "contributed": 9,
+      "contributed": 8,
       "error": null,
       "fetched": 10,
       "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-11-20T17:36:01Z",
+      "newest": "2026-11-20T20:08:57Z",
       "ok": true
     },
     "yahoo_dji": {
       "contributed": 10,
       "error": null,
-      "fetched": 15,
+      "fetched": 14,
       "fresh": 13,
       "label": "Yahoo Finance",
-      "newest": "2026-11-20T18:49:02Z",
+      "newest": "2026-11-20T19:51:38Z",
       "ok": true
     }
   }
