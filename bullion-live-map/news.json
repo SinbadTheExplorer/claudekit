@@ -1,6 +1,94 @@
 {
-  "generated_at": "2026-11-20T18:12:05Z",
+  "generated_at": "2026-11-20T19:12:14Z",
   "headlines": [
+    {
+      "category": "other",
+      "headline": "Trump says he discussed Jensen Huang with Xi, contradicting Bessent",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/20/treasury-secretary-scott-bessent.html",
+      "published": "2026-11-20T19:10:33Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Nvidia\u2019s stock heads for a stretch of weekly losses not seen since 2008",
+      "image": "news-images/2b9bbfa9a5809c9c25c1dda3.jpg",
+      "link": "https://www.marketwatch.com/story/nvidias-stock-heads-for-a-stretch-of-weekly-losses-unseen-since-2008-91aba9a6?mod=mw_rss_topstories",
+      "published": "2026-11-20T19:04:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Trump is trying to stop Big Tech\u2019s push to build data centers outside the U.S.",
+      "image": "news-images/a33f0a6e526438269b9944cf.jpg",
+      "link": "https://www.marketwatch.com/story/trump-is-trying-to-stop-big-techs-push-to-build-data-centers-outside-the-u-s-86f32f7f?mod=mw_rss_topstories",
+      "published": "2026-11-20T18:57:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "energy",
+      "headline": "A wave of 'pent-up quits' could boost turnover in the job market, expert says: 'The labor market is a bit like a coiled spring'",
+      "image": null,
+      "link": "https://www.cnbc.com/make-it/2026/11/20/worker-turnover-quits-hiring-2027.html",
+      "published": "2026-11-20T18:55:39Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Trump says he still has confidence in Lutnick",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/20/trump-lutnick-commerce-china-ai.html",
+      "published": "2026-11-20T18:52:20Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "energy",
+      "headline": "Sector Update: Energy Stocks Advance Friday Afternoon",
+      "image": null,
+      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-advance-friday-184902915.html?.tsrc=rss",
+      "published": "2026-11-20T18:49:02Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Prediction markets outlook for stocks in 2026 dims amid AI sell-off",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/20/sp-500-8000-kalshi-odds-ai-selloff.html",
+      "published": "2026-11-20T18:41:12Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "tech",
+      "headline": "Trump vows to stop U.S. companies from building data centers abroad, threatens 'tremendous tax'",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html",
+      "published": "2026-11-20T18:35:16Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Nasdaq wipes out gains for the year as Anthropic IPO fails to quell AI nerves",
+      "image": null,
+      "link": "https://www.cnn.com/2026/11/20/investing/us-stocks-anthropic-ai?.tsrc=rss",
+      "published": "2026-11-20T18:29:40Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "Home Depot vs. Lowe's: Which stock has the edge after earnings and our support?",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/20/home-depot-vs-lowes-which-stock-has-the-edge-after-earnings-and-our-support.html",
+      "published": "2026-11-20T18:26:09Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "\u2018I\u2019ve been a stay-at-home mom\u2019: I\u2019m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
+      "image": "news-images/63a75f5f6759f4004fd8b6fc.jpg",
+      "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
+      "published": "2026-11-20T18:15:00Z",
+      "sentiment": "neutral"
+    },
     {
       "category": "crypto",
       "headline": "Bitcoin's regulation bull case is played out. What could drive crypto gains moving forward",
@@ -10,11 +98,11 @@
       "sentiment": "bullish"
     },
     {
-      "category": "tech",
-      "headline": "Trump vows to stop U.S. companies from building data centers abroad, threatens 'tremendous tax'",
+      "category": "other",
+      "headline": "Stock Market Today: Nasdaq Dives 3.5% As S&P 500 Enters Correction; Anthropic Tanks 13% (Live Coverage)",
       "image": null,
-      "link": "https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html",
-      "published": "2026-11-20T18:01:41Z",
+      "link": "https://finance.yahoo.com/m/4b546235-124e-3fa4-b951-41a067ff7bf2/stock-market-today%3A-nasdaq.html?.tsrc=rss",
+      "published": "2026-11-20T18:02:05Z",
       "sentiment": "neutral"
     },
     {
@@ -24,14 +112,6 @@
       "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
       "published": "2026-11-20T18:00:00Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "We\u2019re making another small buy as the market sell-off deepens",
-      "image": null,
-      "link": "https://www.cnbc.com/investingclub/2026/11/20/were-making-another-small-buy-as-the-market-sell-off-deepens.html",
-      "published": "2026-11-20T17:51:14Z",
-      "sentiment": "bearish"
     },
     {
       "category": "other",
@@ -47,14 +127,6 @@
       "image": "news-images/b88036b004fea352ea3eaba3.jpg",
       "link": "https://www.marketwatch.com/story/anthropics-stock-slides-closer-to-ipo-price-and-drags-down-the-ai-trade-cc43a0c4?mod=mw_rss_topstories",
       "published": "2026-11-20T17:47:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Nvidia\u2019s stock heads for a stretch of weekly losses not seen since 2008",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=4844649e-b874-4033-b895-8b6174b4217f&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-20T17:36:01Z",
       "sentiment": "neutral"
     },
     {
@@ -114,14 +186,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "international",
-      "headline": "Jensen Huang wasn't mentioned in latest talks with China, Bessent says",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/20/treasury-secretary-scott-bessent.html",
-      "published": "2026-11-20T17:11:54Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "other",
       "headline": "I\u2019m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
       "image": "news-images/0428784cd10a3cb9f0814fc0.jpg",
@@ -139,10 +203,10 @@
     },
     {
       "category": "other",
-      "headline": "Stock Market Today: Nasdaq Correction Gains Steam; Anthropic Dives 10% (Live Coverage)",
+      "headline": "The Nasdaq\u2019s 2026 Gain Is Gone",
       "image": null,
-      "link": "https://finance.yahoo.com/m/4b546235-124e-3fa4-b951-41a067ff7bf2/stock-market-today%3A-nasdaq.html?.tsrc=rss",
-      "published": "2026-11-20T16:43:20Z",
+      "link": "https://finance.yahoo.com/m/88e54213-4fcf-3e1d-afdd-c6657e27b7e4/the-nasdaq%E2%80%99s-2026-gain-is-gone.html?.tsrc=rss",
+      "published": "2026-11-20T16:50:11Z",
       "sentiment": "bullish"
     },
     {
@@ -170,14 +234,6 @@
       "sentiment": "bearish"
     },
     {
-      "category": "tech",
-      "headline": "Nvidia\u2019s stock heads for a stretch of weekly losses unseen since 2008",
-      "image": "news-images/2b9bbfa9a5809c9c25c1dda3.jpg",
-      "link": "https://www.marketwatch.com/story/nvidias-stock-heads-for-a-stretch-of-weekly-losses-unseen-since-2008-91aba9a6?mod=mw_rss_topstories",
-      "published": "2026-11-20T16:19:00Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "other",
       "headline": "Cathie Wood\u2019s Ark Invest was a big buyer of Anthropic as she tells CNBC she\u2019s \u2018quite optimistic\u2019",
       "image": null,
@@ -186,52 +242,12 @@
       "sentiment": "neutral"
     },
     {
-      "category": "other",
-      "headline": "The Nasdaq\u2019s 2026 Gain Is Gone",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/88e54213-4fcf-3e1d-afdd-c6657e27b7e4/the-nasdaq%E2%80%99s-2026-gain-is-gone.html?.tsrc=rss",
-      "published": "2026-11-20T16:16:14Z",
-      "sentiment": "bullish"
-    },
-    {
       "category": "tech",
       "headline": "MU, SNDK, Other Chipmakers Plunge Amid AI Trade Weakness \u2014 UBS Says Risk-Reward In Equities Has Become \u2018More Balanced\u2019",
       "image": null,
       "link": "https://stocktwits.com/news-articles/markets/equity/mu-sndk-other-chipmakers-plunge-amid-ai-trade-weakness-ubs-says-risk-reward-in-equities-has-become-more-balanced/cNbSZa1R91c?.tsrc=rss",
       "published": "2026-11-20T16:11:54Z",
       "sentiment": "bearish"
-    },
-    {
-      "category": "healthcare",
-      "headline": "Investors fled to healthcare stocks for safety. Now insurance and hospital shares are plunging.",
-      "image": "news-images/7870d0aedddf211bda4dc260.jpg",
-      "link": "https://www.marketwatch.com/story/investors-fled-to-healthcare-stocks-for-safety-now-insurance-and-hospital-shares-are-plunging-9cb6a96c?mod=mw_rss_topstories",
-      "published": "2026-11-20T15:53:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "White House replaces cyber director Sean Cairncross amid widespread tech outages",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/20/sean-cairncross-white-house-cyber-director.html",
-      "published": "2026-11-20T15:52:45Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Ex-GM CEO on Mary Barra succession planning: 'It's going to be tough'",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/20/gm-ceo-succession-mary-barra-dan-akerson.html",
-      "published": "2026-11-20T15:50:27Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Sen. Ron Johnson\u2019s Social Security fix could add trillions to the national debt",
-      "image": "news-images/b554addc098473fc3daecdc0.jpg",
-      "link": "https://www.marketwatch.com/story/this-proposed-social-security-fix-could-add-trillions-to-the-national-debt-17197e91?mod=mw_rss_topstories",
-      "published": "2026-11-20T15:28:00Z",
-      "sentiment": "neutral"
     },
     {
       "category": "other",
@@ -248,22 +264,6 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=560dc1cc-6c82-4e98-9150-9d9e6a471b16&amp;mod=mw_rss_bulletins",
       "published": "2026-11-20T14:33:14Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "S&P 500 Skid Enters Seventh Day as Dow Nears Correction",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/ca55014b-ff18-32d0-94f4-7d18cce100ef/s%26p-500-skid-enters-seventh.html?.tsrc=rss",
-      "published": "2026-11-20T14:32:17Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Exchange-Traded Funds, Equity Futures Fall Pre-Bell Friday Amid Continued AI Stock Selloff",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-140012643.html?.tsrc=rss",
-      "published": "2026-11-20T14:00:12Z",
-      "sentiment": "bearish"
     },
     {
       "category": "tech",
@@ -322,16 +322,16 @@
       "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-11-20T18:07:18Z",
+  "newest_item_published": "2026-11-20T19:10:33Z",
   "source_item_count": 65,
   "sources": {
     "cnbc": {
-      "contributed": 10,
+      "contributed": 11,
       "error": null,
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-11-20T18:07:18Z",
+      "newest": "2026-11-20T19:10:33Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,11 +340,11 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-11-20T18:00:00Z",
+      "newest": "2026-11-20T19:04:00Z",
       "ok": true
     },
     "mw_bulletins": {
-      "contributed": 10,
+      "contributed": 9,
       "error": null,
       "fetched": 10,
       "fresh": 10,
@@ -358,7 +358,7 @@
       "fetched": 15,
       "fresh": 13,
       "label": "Yahoo Finance",
-      "newest": "2026-11-20T17:45:34Z",
+      "newest": "2026-11-20T18:49:02Z",
       "ok": true
     }
   }
