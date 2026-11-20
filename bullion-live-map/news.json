@@ -1,13 +1,77 @@
 {
-  "generated_at": "2026-11-20T16:12:04Z",
+  "generated_at": "2026-11-20T17:12:05Z",
   "headlines": [
     {
       "category": "international",
       "headline": "Jensen Huang wasn't mentioned in latest talks with China, Bessent says",
       "image": null,
       "link": "https://www.cnbc.com/2026/11/20/treasury-secretary-scott-bessent.html",
-      "published": "2026-11-20T16:09:57Z",
+      "published": "2026-11-20T17:11:54Z",
       "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "I\u2019m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
+      "image": "news-images/0428784cd10a3cb9f0814fc0.jpg",
+      "link": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
+      "published": "2026-11-20T17:05:00Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "tech",
+      "headline": "Data center construction costs soar 13% in 2026",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/20/data-center-construction-costs-soar-13-percent-in-2026.html",
+      "published": "2026-11-20T16:52:08Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "Stock Market Today: Nasdaq Correction Gains Steam; Anthropic Dives 10% (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/4b546235-124e-3fa4-b951-41a067ff7bf2/stock-market-today%3A-nasdaq.html?.tsrc=rss",
+      "published": "2026-11-20T16:43:20Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "realestate",
+      "headline": "\u2018Buyers are out for blood\u2019: With home sales at a record low, buyers are calling the shots",
+      "image": "news-images/ec030edb984c24e56f347015.jpg",
+      "link": "https://www.marketwatch.com/story/buyers-are-out-for-blood-as-housing-market-finally-hits-rock-bottom-fa5093a6?mod=mw_rss_topstories",
+      "published": "2026-11-20T16:37:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Nvidia\u2019s stock heads for a stretch of weekly losses unseen since 2008",
+      "image": "news-images/2b9bbfa9a5809c9c25c1dda3.jpg",
+      "link": "https://www.marketwatch.com/story/nvidias-stock-heads-for-a-stretch-of-weekly-losses-unseen-since-2008-91aba9a6?mod=mw_rss_topstories",
+      "published": "2026-11-20T16:19:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Cathie Wood\u2019s Ark Invest was a big buyer of Anthropic as she tells CNBC she\u2019s \u2018quite optimistic\u2019",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/20/cathie-woods-ark-invest-was-a-big-buyer-of-anthropic-during-debut.html",
+      "published": "2026-11-20T16:18:04Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "The Nasdaq\u2019s 2026 Gain Is Gone",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/88e54213-4fcf-3e1d-afdd-c6657e27b7e4/the-nasdaq%E2%80%99s-2026-gain-is-gone.html?.tsrc=rss",
+      "published": "2026-11-20T16:16:14Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "tech",
+      "headline": "MU, SNDK, Other Chipmakers Plunge Amid AI Trade Weakness \u2014 UBS Says Risk-Reward In Equities Has Become \u2018More Balanced\u2019",
+      "image": null,
+      "link": "https://stocktwits.com/news-articles/markets/equity/mu-sndk-other-chipmakers-plunge-amid-ai-trade-weakness-ubs-says-risk-reward-in-equities-has-become-more-balanced/cNbSZa1R91c?.tsrc=rss",
+      "published": "2026-11-20T16:11:54Z",
+      "sentiment": "bearish"
     },
     {
       "category": "crypto",
@@ -50,22 +114,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "tech",
-      "headline": "Nvidia\u2019s stock heads for a stretch of weekly losses unseen since 2008",
-      "image": "news-images/2b9bbfa9a5809c9c25c1dda3.jpg",
-      "link": "https://www.marketwatch.com/story/nvidias-stock-heads-for-a-stretch-of-weekly-losses-unseen-since-2008-91aba9a6?mod=mw_rss_topstories",
-      "published": "2026-11-20T15:38:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Stock Market Today: Nasdaq Slides As AI Trade, IPO Anthropic Suffer (Live Coverage)",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/4b546235-124e-3fa4-b951-41a067ff7bf2/stock-market-today%3A-nasdaq.html?.tsrc=rss",
-      "published": "2026-11-20T15:31:04Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "federal",
       "headline": "This proposed Social Security fix could add trillions to the national debt",
       "image": "news-images/b554addc098473fc3daecdc0.jpg",
@@ -95,14 +143,6 @@
       "image": null,
       "link": "https://www.cnbc.com/2026/11/20/warsh-fed-forward-guidance-rate-hikes.html",
       "published": "2026-11-20T15:20:54Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Cathie Wood\u2019s ARK Invest was a big buyer of Anthropic as she tells CNBC she\u2019s \u2018quite optimistic\u2019",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/20/cathie-woods-ark-invest-was-a-big-buyer-of-anthropic-during-debut.html",
-      "published": "2026-11-20T15:17:03Z",
       "sentiment": "neutral"
     },
     {
@@ -160,14 +200,6 @@
       "link": "https://finance.yahoo.com/m/ca55014b-ff18-32d0-94f4-7d18cce100ef/s%26p-500-skid-enters-seventh.html?.tsrc=rss",
       "published": "2026-11-20T14:32:17Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "I\u2019m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
-      "image": "news-images/0428784cd10a3cb9f0814fc0.jpg",
-      "link": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
-      "published": "2026-11-20T14:30:00Z",
-      "sentiment": "bearish"
     },
     {
       "category": "other",
@@ -235,30 +267,6 @@
     },
     {
       "category": "other",
-      "headline": "Stock Market Today: S&P 500, Nasdaq Sink in Early Trading; Anthropic Shares Plunge as Glow of Historic IPO Fades",
-      "image": null,
-      "link": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-11202026-12266027?.tsrc=rss",
-      "published": "2026-11-20T13:13:03Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "federal",
-      "headline": "Is Social Security a Ponzi scheme? No. Don\u2019t get carried away with 1930s-era prophecies of doom.",
-      "image": "news-images/d614f939562eaaf70c13752f.jpg",
-      "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-      "published": "2026-11-20T13:00:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Dow Jones Futures: Techs Tumble, Anthropic Dives After Ugly Market Reversal To New Lows",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/9e02231d-41cd-31ac-b37f-993325b8a4ca/dow-jones-futures%3A-techs.html?.tsrc=rss",
-      "published": "2026-11-20T12:55:55Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "other",
       "headline": "Economic calendar: University of Michigan's consumer-sentiment survey",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=8d3f72d5-a9cd-47d3-9ce4-d4987e7b6ef6&amp;mod=mw_rss_bulletins",
@@ -312,26 +320,18 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=fa6d8e6f-85c6-45e6-9477-7f2f95ffef4f&amp;mod=mw_rss_bulletins",
       "published": "2026-11-19T21:03:05Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Nvidia\u2019s stock falls further \u2014 and has lost $611 billion in six trading days",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=81730ce0-d6a6-47eb-a19e-3a7fa5770442&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-19T20:46:33Z",
-      "sentiment": "bearish"
     }
   ],
-  "newest_item_published": "2026-11-20T16:09:57Z",
-  "source_item_count": 67,
+  "newest_item_published": "2026-11-20T17:11:54Z",
+  "source_item_count": 66,
   "sources": {
     "cnbc": {
-      "contributed": 10,
+      "contributed": 11,
       "error": null,
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-11-20T16:09:57Z",
+      "newest": "2026-11-20T17:11:54Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,25 +340,25 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-11-20T15:53:00Z",
+      "newest": "2026-11-20T17:05:00Z",
       "ok": true
     },
     "mw_bulletins": {
-      "contributed": 10,
+      "contributed": 9,
       "error": null,
       "fetched": 10,
       "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-11-20T14:33:14Z",
+      "newest": "2026-11-20T16:33:04Z",
       "ok": true
     },
     "yahoo_dji": {
       "contributed": 10,
       "error": null,
-      "fetched": 17,
-      "fresh": 16,
+      "fetched": 16,
+      "fresh": 14,
       "label": "Yahoo Finance",
-      "newest": "2026-11-20T15:31:04Z",
+      "newest": "2026-11-20T16:43:20Z",
       "ok": true
     }
   }
