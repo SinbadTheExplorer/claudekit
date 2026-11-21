@@ -1,6 +1,222 @@
 {
-  "generated_at": "2026-11-20T21:12:06Z",
+  "generated_at": "2026-11-21T02:08:00Z",
   "headlines": [
+    {
+      "category": "tech",
+      "headline": "Nasdaq 100 Ends Worst Week Since 2020, S&P 500 In Correction Territory As AI Rout Sours Sentiment \u2014   ANT, NVDA, TTWO, ZS, CRWD In Focus",
+      "image": null,
+      "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-100-ends-worst-week-since-2020-s-and-p-500-in-correction-territory-as-ai-rout-sours-sentiment-ant-nvda-ttwo-zs-crwd-in-focus/cNbm3xQR91W?.tsrc=rss",
+      "published": "2026-11-21T01:30:25Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Review & Preview: Hype Halted",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/7f9bf2d2-c34f-310e-9971-12201d455bb0/review-%26-preview%3A-hype-halted.html?.tsrc=rss",
+      "published": "2026-11-21T00:55:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Tech stocks analyst on worst stock market week in over a year: \u2018Dark day in tech\u2019",
+      "image": null,
+      "link": "https://www.cnn.com/2026/11/20/business/video/ebofdan-ives-markets-drop-tech-stocks?cid=external-feeds_iluminar_yahoo&amp;.tsrc=rss",
+      "published": "2026-11-21T00:41:38Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Dow Jones Futures: Market Has Worst Week Since Covid Amid Nvidia, Anthropic. Does Fear Gauge Offer Hope?",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/9ef9da98-bccf-3565-9a30-9bc3e57ad4b9/dow-jones-futures%3A-market-has.html?.tsrc=rss",
+      "published": "2026-11-21T00:34:27Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "energy",
+      "headline": "One thing Thanksgiving travelers can be thankful for: lower gas prices",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=6bb78ea4-00af-4916-8720-0d396222d337&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-21T00:31:55Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html",
+      "published": "2026-11-20T22:59:33Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "Dow, S&P 500 enter correction as Nasdaq suffers worst week since 2020",
+      "image": "news-images/c5c10051612e5708060e6b00.jpg",
+      "link": "https://www.marketwatch.com/story/dow-s-p-500-enter-correction-as-nasdaq-suffers-worst-week-since-2020-bd74dadf?mod=mw_rss_topstories",
+      "published": "2026-11-20T22:46:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Chip stocks see $2.3 trillion weekly wipeout as panic grips the AI trade",
+      "image": "news-images/997a62e12b0a1762b6af0339.jpg",
+      "link": "https://www.marketwatch.com/story/chip-stocks-see-2-3-trillion-weekly-wipeout-as-panic-grips-the-ai-trade-371f2f03?mod=mw_rss_topstories",
+      "published": "2026-11-20T22:44:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "These stocks were crushed the most this week as the tech wreck accelerated",
+      "image": "news-images/b1eb58bb88156d6338827bc1.jpg",
+      "link": "https://www.marketwatch.com/story/these-stocks-were-crushed-the-most-this-week-as-the-tech-wreck-accelerated-8d6f7323?mod=mw_rss_topstories",
+      "published": "2026-11-20T22:44:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Stock Market Today, Nov. 20: Stocks Plunge as AI Trade Unwinds",
+      "image": null,
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/11/20/stock-market-today-nov-20-stocks-plunge-as-ai-trade-unwinds/?.tsrc=rss",
+      "published": "2026-11-20T22:35:13Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "tech",
+      "headline": "Update: AI Worries Send S&P 500 Into Correction Territory as Nasdaq Turns Negative For The Year",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ai-worries-send-p-500-221555530.html?.tsrc=rss",
+      "published": "2026-11-20T22:15:55Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Trump says he discussed Jensen Huang with Xi; Bessent tells CNBC Nvidia chip export policy is unchanged",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/20/treasury-secretary-scott-bessent.html",
+      "published": "2026-11-20T22:08:41Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Tilray Brands, Inc. (TLRY) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tilray-brands-inc-tlry-sees-220002534.html?.tsrc=rss",
+      "published": "2026-11-20T22:00:02Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Nvidia\u2019s stock clinches a stretch of weekly losses not seen since 2008",
+      "image": "news-images/2b9bbfa9a5809c9c25c1dda3.jpg",
+      "link": "https://www.marketwatch.com/story/nvidias-stock-heads-for-a-stretch-of-weekly-losses-unseen-since-2008-91aba9a6?mod=mw_rss_topstories",
+      "published": "2026-11-20T21:58:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Stock Market Today: Nasdaq Tanks 5% With AI Trade Thrashed; Nvidia, Anthropic Dive",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/4b546235-124e-3fa4-b951-41a067ff7bf2/stock-market-today%3A-nasdaq.html?.tsrc=rss",
+      "published": "2026-11-20T21:55:21Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Does Friday's AI sell-off point to a bigger financial crisis? Dan Niles weighs in",
+      "image": null,
+      "link": "https://finance.yahoo.com/video/does-fridays-ai-sell-off-point-to-a-bigger-financial-crisis-dan-niles-weighs-in-214730628.html?.tsrc=rss",
+      "published": "2026-11-20T21:47:30Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "financials",
+      "headline": "Wells Fargo (WFC) Stock Moves -2.88%: What You Should Know",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-wfc-stock-moves-214502386.html?.tsrc=rss",
+      "published": "2026-11-20T21:45:02Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Synopsys (SNPS) Dips More Than Broader Market: What You Should Know",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/synopsys-snps-dips-more-broader-214502752.html?.tsrc=rss",
+      "published": "2026-11-20T21:45:02Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Update: S&P 500, Dow Sink Into Correction Territory as Investors Seek Treasury Cover Amid Plunging Big-Tech",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-dow-sink-correction-214248905.html?.tsrc=rss",
+      "published": "2026-11-20T21:42:48Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "The tech wreck is one stock trade Trump can\u2019t \u2018TACO\u2019 away",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=b3ba621e-78f5-4b70-b3e0-a09bb91856b6&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-20T21:40:05Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Everyone\u2019s making money off \u2018GTA 6\u2019 this week \u2014 except investors in Take-Two\u2019s stock",
+      "image": "news-images/5edbf349c65a6884cc61ced3.jpg",
+      "link": "https://www.marketwatch.com/story/everyones-making-money-off-gta-6-this-week-except-investors-in-take-twos-stock-489ee01b?mod=mw_rss_topstories",
+      "published": "2026-11-20T21:39:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "The hidden catch in Anthropic\u2019s IPO: Billions of locked-up shares are waiting in the wings",
+      "image": "news-images/0e5140596cfa2a742856256d.jpg",
+      "link": "https://www.marketwatch.com/story/the-hidden-catch-in-anthropics-ipo-billions-of-locked-up-shares-are-waiting-in-the-wings-279d33ce?mod=mw_rss_topstories",
+      "published": "2026-11-20T21:39:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "BNP Paribas sees \u2018panic selling\u2019 as the AI selloff drags the S&P 500 into a correction and wipes out the Nasdaq\u2019s 2026 gains",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bnp-paribas-sees-panic-selling-213850846.html?.tsrc=rss",
+      "published": "2026-11-20T21:38:50Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "Micron and Sandisk stocks might look like bargains, but analysts say that\u2019s actually a red flag",
+      "image": "news-images/f5ff12e469b10647223fba96.jpg",
+      "link": "https://www.marketwatch.com/story/micron-and-sandisk-stocks-might-look-like-bargains-but-analysts-say-thats-actually-a-red-flag-da1f1f5d?mod=mw_rss_topstories",
+      "published": "2026-11-20T21:36:00Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "Zscaler stock jumps 18% on report that CrowdStrike in talks to buy security vendor",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/20/zscaler-crowdstrike-deal.html",
+      "published": "2026-11-20T21:35:24Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "energy",
+      "headline": "One thing Thanksgiving travelers can be thankful for: Gas prices are down 75 cents from this year\u2019s peak",
+      "image": "news-images/05efaa12899b1218526adb44.jpg",
+      "link": "https://www.marketwatch.com/story/one-thing-thanksgiving-travelers-can-be-thankful-for-gas-prices-are-down-75-cents-from-this-years-peak-efac1809?mod=mw_rss_topstories",
+      "published": "2026-11-20T21:34:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Anthropic\u2019s stock sees dramatic slide but manages to stay above its IPO price",
+      "image": "news-images/b88036b004fea352ea3eaba3.jpg",
+      "link": "https://www.marketwatch.com/story/anthropics-stock-slides-closer-to-ipo-price-and-drags-down-the-ai-trade-cc43a0c4?mod=mw_rss_topstories",
+      "published": "2026-11-20T21:25:00Z",
+      "sentiment": "neutral"
+    },
     {
       "category": "other",
       "headline": "Warsh wants Fed officials to talk less. Instead, they\u2019re talking more",
@@ -26,28 +242,12 @@
       "sentiment": "neutral"
     },
     {
-      "category": "tech",
-      "headline": "Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html",
-      "published": "2026-11-20T21:03:41Z",
-      "sentiment": "bearish"
-    },
-    {
       "category": "healthcare",
       "headline": "Here\u2019s what\u2019s been proven to help GLP-1 users from losing too much muscle from the drug",
       "image": "news-images/cfa2b9020607ac4bee8f572b.jpg",
       "link": "https://www.marketwatch.com/story/heres-whats-been-proven-to-help-glp-1-users-who-have-lost-muscle-from-the-drug-2c71cdbf?mod=mw_rss_topstories",
       "published": "2026-11-20T21:01:00Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Update: S&P 500, Dow Slide Into Correction Territory as Investors Seek Treasury Cover Amid Big-Tech Plunge",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-dow-slide-correction-205308024.html?.tsrc=rss",
-      "published": "2026-11-20T20:53:08Z",
-      "sentiment": "bearish"
     },
     {
       "category": "other",
@@ -59,59 +259,11 @@
     },
     {
       "category": "tech",
-      "headline": "The tech wreck is one stock trade Trump can\u2019t \u2018TACO\u2019 away",
-      "image": "news-images/cdcdba4616d2309c6c46817a.jpg",
-      "link": "https://www.marketwatch.com/story/the-tech-wreck-is-one-stock-trade-trump-cant-taco-away-516b3883?mod=mw_rss_topstories",
-      "published": "2026-11-20T20:52:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
       "headline": "Trump vows to stop U.S. companies from building data centers abroad, threatens 'tremendous tax'",
       "image": null,
       "link": "https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html",
       "published": "2026-11-20T20:47:58Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Stock Market Today: Nasdaq Tanks 5%; These AI Data Center Names Slammed (Live Coverage)",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/4b546235-124e-3fa4-b951-41a067ff7bf2/stock-market-today%3A-nasdaq.html?.tsrc=rss",
-      "published": "2026-11-20T20:34:36Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "\u2018GTA 6\u2019 has taken over. Is it too late to buy the developer\u2019s stock?",
-      "image": "news-images/8202d0b45e1ad346841ee452.jpg",
-      "link": "https://www.marketwatch.com/story/gta-6-has-taken-over-is-it-too-late-to-buy-the-developers-stock-69a5cbc5?mod=mw_rss_topstories",
-      "published": "2026-11-20T20:32:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "My husband spent $80,000 on a boat, yet says my plans for a $100,000 pottery studio are irresponsible. Who\u2019s right?",
-      "image": "news-images/f703625eb18067adc70efdac.jpg",
-      "link": "https://www.marketwatch.com/story/my-husband-spent-80-000-on-a-boat-yet-says-my-plans-for-a-100-000-pottery-studio-are-irresponsible-whos-right-1a69436a?mod=mw_rss_topstories",
-      "published": "2026-11-20T20:31:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "I\u2019m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
-      "image": "news-images/1669f5b3f293a4134d601b4e.jpg",
-      "link": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
-      "published": "2026-11-20T20:30:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "I\u2019m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
-      "image": "news-images/0428784cd10a3cb9f0814fc0.jpg",
-      "link": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
-      "published": "2026-11-20T20:30:00Z",
-      "sentiment": "bearish"
     },
     {
       "category": "other",
@@ -123,14 +275,6 @@
     },
     {
       "category": "tech",
-      "headline": "Nvidia\u2019s stock heads for a stretch of weekly losses not seen since 2008",
-      "image": "news-images/2b9bbfa9a5809c9c25c1dda3.jpg",
-      "link": "https://www.marketwatch.com/story/nvidias-stock-heads-for-a-stretch-of-weekly-losses-unseen-since-2008-91aba9a6?mod=mw_rss_topstories",
-      "published": "2026-11-20T20:08:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
       "headline": "Intensifying AI rout wipes out Nasdaq's 2026 gains. Alphabet is a tech bright spot",
       "image": null,
       "link": "https://www.cnbc.com/investingclub/2026/11/20/ai-rout-wipes-out-nasdaqs-2026-gains-alphabet-is-a-tech-bright-spot.html",
@@ -138,36 +282,12 @@
       "sentiment": "bullish"
     },
     {
-      "category": "other",
-      "headline": "Everyone\u2019s making money off \u2018GTA 6\u2019 this week \u2014 except investors in Take-Two\u2019s stock",
-      "image": "news-images/5edbf349c65a6884cc61ced3.jpg",
-      "link": "https://www.marketwatch.com/story/everyones-making-money-off-gta-6-this-week-except-investors-in-take-twos-stock-489ee01b?mod=mw_rss_topstories",
-      "published": "2026-11-20T20:03:00Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "tech",
-      "headline": "Spooked by Nvidia\u2019s turmoil? Play Grand Theft Auto VI instead of peeking at your 401(k).",
-      "image": "news-images/d614f939562eaaf70c13752f.jpg",
-      "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
-      "published": "2026-11-20T19:53:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "The Fed is too busy fighting inflation to rescue the stock market",
-      "image": "news-images/e799f2a3f49a16405dd111b8.jpg",
-      "link": "https://www.marketwatch.com/story/the-fed-is-too-busy-fighting-inflation-to-rescue-the-stock-market-11dda598?mod=mw_rss_topstories",
-      "published": "2026-11-20T19:53:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "The Selloff Is Gaining Speed",
+      "headline": "Prediction markets outlook for stocks in 2026 dims amid AI sell-off",
       "image": null,
-      "link": "https://finance.yahoo.com/m/85df41c3-2805-316d-905a-5d0a0872055e/the-selloff-is-gaining-speed.html?.tsrc=rss",
-      "published": "2026-11-20T19:51:38Z",
-      "sentiment": "neutral"
+      "link": "https://www.cnbc.com/2026/11/20/sp-500-8000-kalshi-odds-ai-selloff.html",
+      "published": "2026-11-20T19:59:03Z",
+      "sentiment": "bearish"
     },
     {
       "category": "financials",
@@ -179,14 +299,6 @@
     },
     {
       "category": "tech",
-      "headline": "Nasdaq wipes out gains for the year as Anthropic IPO fails to quell AI nerves",
-      "image": null,
-      "link": "https://www.cnn.com/2026/11/20/investing/us-stocks-anthropic-ai?.tsrc=rss",
-      "published": "2026-11-20T19:39:22Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "tech",
       "headline": "Trump is trying to stop Big Tech\u2019s push to build data centers outside the U.S.",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=0609ce20-a8d3-41b3-a1b1-ac4d39e8806f&amp;mod=mw_rss_bulletins",
@@ -195,83 +307,11 @@
     },
     {
       "category": "tech",
-      "headline": "A massive bearish trade just happened in the chip stocks",
+      "headline": "Nvidia\u2019s stock heads for a stretch of weekly losses not seen since 2008",
       "image": null,
-      "link": "https://www.cnbc.com/2026/11/20/a-massive-bearish-trade-just-happened-in-the-chip-stocks.html",
-      "published": "2026-11-20T19:33:31Z",
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=4844649e-b874-4033-b895-8b6174b4217f&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-20T17:36:01Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "realestate",
-      "headline": "Trump says he discussed Jensen Huang with Xi, apparently contradicting Bessent",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/20/treasury-secretary-scott-bessent.html",
-      "published": "2026-11-20T19:15:44Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Update: S&P 500, Dow Enter Correction Territory; Anthropic Tumbles Following Record Debut",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-dow-enter-correction-190855362.html?.tsrc=rss",
-      "published": "2026-11-20T19:08:55Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "industrials",
-      "headline": "These 4 Conservative Dow Jones Industrials Dividend Stocks Are Built for Sell-Offs",
-      "image": null,
-      "link": "https://247wallst.com/investing/2026/11/20/these-4-conservative-dow-jones-industrials-dividend-stocks-are-built-for-sell-offs/?.tsrc=rss",
-      "published": "2026-11-20T19:02:05Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "energy",
-      "headline": "A wave of 'pent-up quits' could boost turnover in the job market, expert says: 'The labor market is a bit like a coiled spring'",
-      "image": null,
-      "link": "https://www.cnbc.com/make-it/2026/11/20/worker-turnover-quits-hiring-2027.html",
-      "published": "2026-11-20T18:55:39Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "energy",
-      "headline": "Sector Update: Energy Stocks Advance Friday Afternoon",
-      "image": null,
-      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-advance-friday-184902915.html?.tsrc=rss",
-      "published": "2026-11-20T18:49:02Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "crypto",
-      "headline": "Bitcoin's regulation bull case is played out. What could drive crypto gains moving forward",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/20/bitcoin-price-catalysts-tokenization-regulation.html",
-      "published": "2026-11-20T18:07:18Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "tech",
-      "headline": "Anthropic Stock Falls Sharply After Record IPO. Why AI Anxiety Is Rising.",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/ca3ca304-3c18-390a-b39d-ddebc8a727e5/anthropic-stock-falls-sharply.html?.tsrc=rss",
-      "published": "2026-11-20T17:21:39Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "tech",
-      "headline": "Update: US Equity Indexes Slide as Anthropic Leads Big-Tech Plunge",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-slide-anthropic-172138782.html?.tsrc=rss",
-      "published": "2026-11-20T17:21:38Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "tech",
-      "headline": "Stock Market Midday, Nov. 20: Nasdaq Plunges Nearly 3% as AMD and Micron Lead a Brutal Semiconductor Sell-Off",
-      "image": null,
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/11/20/stock-market-midday-nov-20-nasdaq-plunges-nearly-3-as-amd-and-micron-lead-a-brutal-semiconductor-sell-off/?.tsrc=rss",
-      "published": "2026-11-20T17:20:02Z",
-      "sentiment": "bearish"
     },
     {
       "category": "federal",
@@ -280,58 +320,18 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=6fe4a0e2-ebef-48c6-8eec-3bfb4fd04b24&amp;mod=mw_rss_bulletins",
       "published": "2026-11-20T16:33:04Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "S&P 500 and Nasdaq open lower, on pace for worst week since April 2025",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=560dc1cc-6c82-4e98-9150-9d9e6a471b16&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-20T14:33:14Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Anthropic\u2019s stock slides closer to IPO price, dragging the AI trade",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=c739630e-74bb-492d-91d9-53c530667e07&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-20T13:46:11Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Economic calendar: University of Michigan's consumer-sentiment survey",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=8d3f72d5-a9cd-47d3-9ce4-d4987e7b6ef6&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-20T12:14:52Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "After Anthropic\u2019s \u2018bittersweet\u2019 IPO, here\u2019s what lies ahead",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=5d8f174e-240d-4c21-81aa-2ea1a9827b6e&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-20T00:00:44Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "realestate",
-      "headline": "With home sales at a record low, buyers are now in the driver's seat",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=5025db1a-a0e6-4e5f-8dfd-29277c663b17&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-20T00:00:23Z",
-      "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-11-20T21:10:48Z",
-  "source_item_count": 64,
+  "newest_item_published": "2026-11-21T01:30:25Z",
+  "source_item_count": 65,
   "sources": {
     "cnbc": {
-      "contributed": 11,
+      "contributed": 10,
       "error": null,
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-11-20T21:10:48Z",
+      "newest": "2026-11-20T22:59:33Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,25 +340,25 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-11-20T21:01:00Z",
+      "newest": "2026-11-20T22:46:00Z",
       "ok": true
     },
     "mw_bulletins": {
-      "contributed": 9,
+      "contributed": 7,
       "error": null,
       "fetched": 10,
       "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-11-20T21:07:33Z",
+      "newest": "2026-11-21T00:31:55Z",
       "ok": true
     },
     "yahoo_dji": {
-      "contributed": 10,
+      "contributed": 13,
       "error": null,
-      "fetched": 14,
-      "fresh": 13,
+      "fetched": 15,
+      "fresh": 14,
       "label": "Yahoo Finance",
-      "newest": "2026-11-20T20:53:08Z",
+      "newest": "2026-11-21T01:30:25Z",
       "ok": true
     }
   }
