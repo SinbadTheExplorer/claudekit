@@ -43,16 +43,16 @@
     "fed_decision_kalshi": {
       "cadence": "fomc",
       "class": "measured",
-      "published": "2026-11-21",
-      "ref_date": "2026-11-21",
+      "published": "2026-11-22",
+      "ref_date": "2026-11-22",
       "source": "Kalshi KXFED ladder, bucketed against FRED DFEDTARU",
       "value": {
         "buckets": {
           "cut25": 0.0,
           "cut50plus": 0.005,
-          "hike25": 0.89,
-          "hike50plus": 0.025,
-          "hold": 0.08
+          "hike25": 0.895,
+          "hike50plus": 0.04,
+          "hold": 0.06
         },
         "current_upper": 4.0,
         "event": "KXFED-26DEC",
@@ -236,7 +236,7 @@
       "value": 90.46
     }
   },
-  "generated_at": "2026-11-21T17:18:52Z",
+  "generated_at": "2026-11-22T17:44:30Z",
   "history": {
     "2025-11-01": {
       "cpi_yoy": 2.6,
@@ -245,21 +245,8 @@
     },
     "2025-11-21": {
       "dow": 46245.41,
-      "dxy": 100.18,
-      "ffr": 3.88,
-      "gold_px": 4079.5,
-      "hy_oas": 3.19,
-      "ig_oas": 0.86,
       "nasdaq": 22273.08,
-      "nfci": -0.51,
-      "rrp": 2.5,
-      "sofr": 3.93,
       "spx": 6602.99,
-      "tbill_3m": 3.75,
-      "us10y": 4.06,
-      "us2y": 3.51,
-      "vix": 23.4,
-      "wti_px": 58.86,
       "xle": 44.71,
       "xlf": 51.67,
       "xlk": 136.6,
