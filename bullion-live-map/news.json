@@ -1,6 +1,118 @@
 {
-  "generated_at": "2026-11-23T15:12:05Z",
+  "generated_at": "2026-11-23T16:12:05Z",
   "headlines": [
+    {
+      "category": "tech",
+      "headline": "Trump tells CNBC \u2018I made the deal\u2019 to reinstate Nvidia\u2019s Jensen Huang",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/23/trump-nvidia-jensen-huang.html",
+      "published": "2026-11-23T16:10:59Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Stock market jumps after Jensen Huang reinstated as Nvidia CEO",
+      "image": null,
+      "link": "https://www.cbsnews.com/news/us-stock-futures-rebound-tech-rout/?.tsrc=rss",
+      "published": "2026-11-23T16:08:55Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "tech",
+      "headline": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 33%",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+      "published": "2026-11-23T16:08:10Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "The surprising reason businesses can\u2019t keep up with customer demand. Hint: It\u2019s not just a strong U.S. economy.",
+      "image": "news-images/8baefd8f1c8b085a9b8d3e8c.jpg",
+      "link": "https://www.marketwatch.com/story/the-surprising-reason-businesses-cant-keep-up-with-customer-demand-hint-its-not-just-a-strong-u-s-economy-70be4a01?mod=mw_rss_topstories",
+      "published": "2026-11-23T16:03:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Oversold Indices and Spiking Volatility Leave Markets Searching for Footing",
+      "image": null,
+      "link": "https://finance.yahoo.com/news/oversold-indices-spiking-volatility-leave-160100573.html?.tsrc=rss",
+      "published": "2026-11-23T16:01:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Semiconductor Stocks like Micron, Marvell, and Bloom Energy See Massive Gains as Jensen Huang Returns to NVIDIA",
+      "image": null,
+      "link": "https://247wallst.com/videos/semiconductor-stocks-like-micron-marvell-and-bloom-energy-see-massive-gains-as-jensen-huang-returns-to-nvidia/?.tsrc=rss",
+      "published": "2026-11-23T15:52:20Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "tech",
+      "headline": "Tech stocks rally after Nvidia board approves Jensen Huang's return as CEO",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/23/anthropic-nvidia-shares.html",
+      "published": "2026-11-23T15:36:12Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "tech",
+      "headline": "Stock Market Today: Dow, Nasdaq Surge As Jensen Huang Returns To Nvidia; Chip Plays Rocket (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/8751de70-467e-380a-82cb-f4ee42adc461/stock-market-today%3A-dow%2C.html?.tsrc=rss",
+      "published": "2026-11-23T15:36:02Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "tech",
+      "headline": "Tech stocks are up 10%. So are luxury-linked ones. Ongoing live coverage.",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=4c24908a-9876-4e06-9e89-4c8ad86553d2&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-23T15:30:42Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Tokenized stocks face pushback as NYSE, Nasdaq pivot for a new market",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/23/tokenized-stocks-face-pushback-as-nyse-nasdaq-pivot-for-a-new-market-.html",
+      "published": "2026-11-23T15:30:27Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "realestate",
+      "headline": "Stuck: How a frozen housing market is hitting buyers, sellers and the economy",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/23/housing-market-real-estate-economy.html",
+      "published": "2026-11-23T15:22:03Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "crypto",
+      "headline": "Netflix\u2019s \u2018The Altruists\u2019 sparks FTX portrayal debate among crypto bigwigs from CZ to Star Xu",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/23/netflix-the-altruists-crypto-ftx-collapse.html",
+      "published": "2026-11-23T15:18:51Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "industrials",
+      "headline": "Investors give a thumbs down to Tata Steel-APL Apollo $1.67 billion deal, plunging shares",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/23/tata-steel-acquisition-deal-apl-india.html",
+      "published": "2026-11-23T15:18:36Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Nvidia\u2019s stock soars 30%-plus as Jensen Huang returns as CEO",
+      "image": "news-images/4a27b6e76036617eb9dbb708.jpg",
+      "link": "https://www.marketwatch.com/story/nvidia-stock-bounces-as-trump-administration-pushes-for-rehiring-of-jensen-huang-08057c29?mod=mw_rss_topstories",
+      "published": "2026-11-23T15:15:00Z",
+      "sentiment": "bullish"
+    },
     {
       "category": "other",
       "headline": "That was the biggest opening gain for the Nasdaq since at least 1991",
@@ -10,11 +122,11 @@
       "sentiment": "bullish"
     },
     {
-      "category": "tech",
-      "headline": "Nvidia skyrockets 30% on Huang\u2019s return as CEO, recovering nearly all the losses since he disclosed affair",
+      "category": "financials",
+      "headline": "Morgan Stanley Sees 14% Earnings Growth as Stocks Price In a 6% Decline",
       "image": null,
-      "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
-      "published": "2026-11-23T15:10:17Z",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-sees-14-earnings-151024182.html?.tsrc=rss",
+      "published": "2026-11-23T15:10:24Z",
       "sentiment": "neutral"
     },
     {
@@ -31,14 +143,6 @@
       "image": null,
       "link": "https://stocktwits.com/news-articles/markets/equity/dow-jumps-over-1-300-points-nasdaq-surges-nearly-7-as-jensen-huang-s-return-lifts-market-sentiment/cNbpPZhR9ja?.tsrc=rss",
       "published": "2026-11-23T14:52:09Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "tech",
-      "headline": "Stock Market Today: Dow Surges 1,200 Points As Nvidia Soars 30% On Jensen Huang's Return (Live Coverage)",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/8751de70-467e-380a-82cb-f4ee42adc461/stock-market-today%3A-dow.html?.tsrc=rss",
-      "published": "2026-11-23T14:50:41Z",
       "sentiment": "bullish"
     },
     {
@@ -82,10 +186,18 @@
       "sentiment": "neutral"
     },
     {
-      "category": "tech",
-      "headline": "Nvidia\u2019s stock soars 30%-plus as Jensen Huang returns as CEO",
-      "image": "news-images/4a27b6e76036617eb9dbb708.jpg",
-      "link": "https://www.marketwatch.com/story/nvidia-stock-bounces-as-trump-administration-pushes-for-rehiring-of-jensen-huang-08057c29?mod=mw_rss_topstories",
+      "category": "other",
+      "headline": "Nasdaq Surges 7% After Huang's Return Shakes Up Markets",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/41683c2d-348b-308e-8fc5-a77eb333145c/nasdaq-surges-7%25-after.html?.tsrc=rss",
+      "published": "2026-11-23T14:33:33Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "Take the Zacks Approach to Beat the Markets: BRK.B, VRA & ULTA",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-approach-beat-markets-brk-143300578.html?.tsrc=rss",
       "published": "2026-11-23T14:33:00Z",
       "sentiment": "bullish"
     },
@@ -114,14 +226,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "other",
-      "headline": "Jim Cramer's top 10 things to watch in the stock market Monday",
-      "image": null,
-      "link": "https://www.cnbc.com/investingclub/2026/11/23/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html",
-      "published": "2026-11-23T14:17:05Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "crypto",
       "headline": "Trump hosts crypto gala as his meme coin falls below $1",
       "image": null,
@@ -146,14 +250,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "financials",
-      "headline": "Wall Street's 'Fear Gauge' just flashed a buy sign",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/23/wall-streets-fear-gauge-just-flashed-a-buy-sign.html",
-      "published": "2026-11-23T14:14:28Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "consumer",
       "headline": "Grocery stores have \u2018staggering deals\u2019 for Thanksgiving \u2014 but don\u2019t get used to these lower prices just yet",
       "image": "news-images/504d61edeb611fe7352524af.jpg",
@@ -168,38 +264,6 @@
       "link": "https://www.marketwatch.com/story/the-number-of-401-k-millionaires-drops-amid-stock-market-swings-23939b94?mod=mw_rss_topstories",
       "published": "2026-11-23T14:10:00Z",
       "sentiment": "bearish"
-    },
-    {
-      "category": "other",
-      "headline": "Tokenized stocks face pushback as NYSE, Nasdaq pivot for a new market",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/23/tokenized-stocks-face-pushback-as-nyse-nasdaq-pivot-for-a-new-market-.html",
-      "published": "2026-11-23T14:07:16Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Stock futures rise, erasing some losses after tech rout",
-      "image": null,
-      "link": "https://www.cbsnews.com/news/us-stock-futures-rebound-tech-rout/?.tsrc=rss",
-      "published": "2026-11-23T13:56:09Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Dow Jones, Nasdaq, S&P 500 preview: Consumer spending in focus after AI rout",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dow-jones-nasdaq-p-500-135515185.html?.tsrc=rss",
-      "published": "2026-11-23T13:55:15Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Update: US Equity Futures Rise Pre-Bell as Nvidia Starts Off Week Strong",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-rise-pre-135359421.html?.tsrc=rss",
-      "published": "2026-11-23T13:53:59Z",
-      "sentiment": "neutral"
     },
     {
       "category": "tech",
@@ -218,60 +282,12 @@
       "sentiment": "neutral"
     },
     {
-      "category": "international",
-      "headline": "Zelenskyy praises \u2018exemplary\u2019 drone operation that sank Russian warship in a Libyan port",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/23/ukraine-russia-warship-libya.html",
-      "published": "2026-11-23T13:28:15Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Buy 3 Stocks With Double-Digit Returns in November Defying Market Rout",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/buy-3-stocks-double-digit-132000038.html?.tsrc=rss",
-      "published": "2026-11-23T13:20:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "\u2018Worst COP ever\u2019: Climate talks collapse after draft deal fails to include fossil fuels",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/23/cop31-climate-summit-fossil-fuels.html",
-      "published": "2026-11-23T13:16:38Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "More Americans pay this Obama-era investment tax every year \u2014 how to avoid it",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/23/net-investment-income-tax-niit.html",
-      "published": "2026-11-23T13:15:01Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "US Equity Futures Rise Pre-Bell as Nvidia Starts Off Week Strong",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-rise-pre-130523697.html?.tsrc=rss",
-      "published": "2026-11-23T13:05:23Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "industrials",
       "headline": "Economic calendar: Week opens with manufacturing and service-sector data",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=0891f9ad-efbc-4ce0-bb45-6d3e232f07b9&amp;mod=mw_rss_bulletins",
       "published": "2026-11-23T12:59:43Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Premarket movers: Chip stocks lead AI rebound; CrowdStrike falls",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/premarket-movers-chip-stocks-lead-124424524.html?.tsrc=rss",
-      "published": "2026-11-23T12:44:24Z",
-      "sentiment": "bearish"
     },
     {
       "category": "financials",
@@ -298,40 +314,24 @@
       "sentiment": "bearish"
     },
     {
-      "category": "other",
-      "headline": "James Bond films were shot all over the world. Here are 5 properties made famous by 007.",
-      "image": "news-images/8dfb5e82249ae47264fbcaf6.jpg",
-      "link": "https://www.marketwatch.com/story/james-bond-films-were-shot-all-over-the-world-here-are-5-properties-made-famous-by-007-dabafbe6?mod=mw_rss_topstories",
-      "published": "2026-11-23T10:02:00Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "consumer",
       "headline": "Grocery stores have \u2018staggering deals\u2019 for Thanksgiving\u2014but don\u2019t get used to it",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=865dc883-dffb-42c2-b118-5705742a222f&amp;mod=mw_rss_bulletins",
       "published": "2026-11-21T16:21:01Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "How a brutal week for stocks almost wiped out their gains for the entire year",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=51a347e8-6c56-44bf-9ec5-6b13a5e01c7e&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-21T15:37:46Z",
-      "sentiment": "bullish"
     }
   ],
-  "newest_item_published": "2026-11-23T15:10:55Z",
-  "source_item_count": 67,
+  "newest_item_published": "2026-11-23T16:10:59Z",
+  "source_item_count": 65,
   "sources": {
     "cnbc": {
       "contributed": 10,
       "error": null,
       "fetched": 30,
-      "fresh": 24,
+      "fresh": 26,
       "label": "CNBC",
-      "newest": "2026-11-23T15:10:17Z",
+      "newest": "2026-11-23T16:10:59Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,7 +340,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-11-23T14:39:00Z",
+      "newest": "2026-11-23T16:03:00Z",
       "ok": true
     },
     "mw_bulletins": {
@@ -349,16 +349,16 @@
       "fetched": 10,
       "fresh": 8,
       "label": "MW Bulletins",
-      "newest": "2026-11-23T15:10:55Z",
+      "newest": "2026-11-23T15:30:42Z",
       "ok": true
     },
     "yahoo_dji": {
       "contributed": 12,
       "error": null,
-      "fetched": 17,
+      "fetched": 15,
       "fresh": 15,
       "label": "Yahoo Finance",
-      "newest": "2026-11-23T15:04:04Z",
+      "newest": "2026-11-23T16:08:55Z",
       "ok": true
     }
   }
