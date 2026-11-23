@@ -1,12 +1,100 @@
 {
-  "generated_at": "2026-11-23T13:12:05Z",
+  "generated_at": "2026-11-23T14:12:06Z",
   "headlines": [
+    {
+      "category": "tech",
+      "headline": "Nvidia reinstates Jensen Huang as CEO. Stock skyrockets 27%",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+      "published": "2026-11-23T14:11:41Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Tokenized stocks face pushback as NYSE, Nasdaq pivot for a new market",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/23/tokenized-stocks-face-pushback-as-nyse-nasdaq-pivot-for-a-new-market-.html",
+      "published": "2026-11-23T14:07:16Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Nvidia stock soars as Jensen Huang returns as CEO",
+      "image": "news-images/4a27b6e76036617eb9dbb708.jpg",
+      "link": "https://www.marketwatch.com/story/nvidia-stock-bounces-as-trump-administration-pushes-for-rehiring-of-jensen-huang-08057c29?mod=mw_rss_topstories",
+      "published": "2026-11-23T14:07:00Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "tech",
+      "headline": "Stock Market Today: Tech Futures Surge After Market Sell-Off; Nvidia Soars 30% On Jensen Huang Return (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/8751de70-467e-380a-82cb-f4ee42adc461/stock-market-today%3A-tech.html?.tsrc=rss",
+      "published": "2026-11-23T14:06:03Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "tech",
+      "headline": "Dow Jones, Nasdaq, S&P 500 preview: Consumer spending in focus after AI rout",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dow-jones-nasdaq-p-500-135515185.html?.tsrc=rss",
+      "published": "2026-11-23T13:55:15Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Update: US Equity Futures Rise Pre-Bell as Nvidia Starts Off Week Strong",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-rise-pre-135359421.html?.tsrc=rss",
+      "published": "2026-11-23T13:53:59Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Cybersecurity stocks have been hot \u2014 and now CrowdStrike inks deal to buy Zscaler",
+      "image": "news-images/8e49f436a35c2eda5fa2a5f4.jpg",
+      "link": "https://www.marketwatch.com/story/cybersecurity-stocks-have-been-hot-and-now-crowdstrike-inks-deal-to-buy-zscaler-df8fd163?mod=mw_rss_topstories",
+      "published": "2026-11-23T13:47:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "A 66-year-old nurse faces retirement with just $500 saved. Who\u2019s to blame?",
+      "image": "news-images/0e7083d4b2f52d0bfc5508fb.jpg",
+      "link": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
+      "published": "2026-11-23T13:45:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "healthcare",
+      "headline": "UnitedHealth, Humana and CVS stocks slide as U.S targets Medicare Advantage ratings",
+      "image": "news-images/60e8301acf85d82be1dc9cf3.jpg",
+      "link": "https://www.marketwatch.com/story/unitedhealth-humana-and-cvs-stocks-slide-as-u-s-targets-medicare-advantage-ratings-6c2be5bb?mod=mw_rss_topstories",
+      "published": "2026-11-23T13:35:00Z",
+      "sentiment": "neutral"
+    },
     {
       "category": "international",
       "headline": "Zelenskyy praises \u2018exemplary\u2019 drone operation that sank Russian warship in a Libyan port",
       "image": null,
       "link": "https://www.cnbc.com/2026/11/23/ukraine-russia-warship-libya.html",
-      "published": "2026-11-23T13:05:38Z",
+      "published": "2026-11-23T13:28:15Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "\u2018Worst COP ever\u2019: Climate talks collapse after draft deal fails to include fossil fuels",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/23/cop31-climate-summit-fossil-fuels.html",
+      "published": "2026-11-23T13:16:38Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "More Americans pay this Obama-era investment tax every year \u2014 how to avoid it",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/23/net-investment-income-tax-niit.html",
+      "published": "2026-11-23T13:15:01Z",
       "sentiment": "neutral"
     },
     {
@@ -58,36 +146,12 @@
       "sentiment": "bearish"
     },
     {
-      "category": "tech",
-      "headline": "Nvidia stock bounces as Trump administration pushes for rehiring of Jensen Huang",
-      "image": "news-images/4a27b6e76036617eb9dbb708.jpg",
-      "link": "https://www.marketwatch.com/story/nvidia-stock-bounces-as-trump-administration-pushes-for-rehiring-of-jensen-huang-08057c29?mod=mw_rss_topstories",
-      "published": "2026-11-23T12:26:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Cybersecurity stocks have been hot \u2014 and now CrowdStrike inks deal to buy Zscaler",
-      "image": "news-images/8e49f436a35c2eda5fa2a5f4.jpg",
-      "link": "https://www.marketwatch.com/story/cybersecurity-stocks-have-been-hot-and-now-crowdstrike-inks-deal-to-buy-zscaler-df8fd163?mod=mw_rss_topstories",
-      "published": "2026-11-23T12:16:00Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "financials",
       "headline": "Morgan Stanley Strategists Spot A \u2018Fat Pitch\u2019 In Market Selloff \u2014 See Buying Opportunities In Hyperscalers",
       "image": null,
       "link": "https://stocktwits.com/news-articles/markets/equity/morgan-stanley-strategists-spot-a-fat-pitch-in-market-selloff-see-buying-opportunities-in-hyperscalers/cNbpG7xR9Sx?.tsrc=rss",
       "published": "2026-11-23T12:08:12Z",
       "sentiment": "bearish"
-    },
-    {
-      "category": "other",
-      "headline": "Tokenized stocks face pushback as NYSE, Nasdaq pivot for a new market",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/23/tokenized-stocks-face-pushback-as-nyse-nasdaq-pivot-for-a-new-market-.html",
-      "published": "2026-11-23T12:05:06Z",
-      "sentiment": "neutral"
     },
     {
       "category": "other",
@@ -170,30 +234,6 @@
       "sentiment": "bearish"
     },
     {
-      "category": "federal",
-      "headline": "Treasury yields jump as stock futures rebound, investors await New York Fed President Williams speech",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/23/treasury-yields-bonds-fed.html",
-      "published": "2026-11-23T10:15:19Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "other",
-      "headline": "A 66-year-old nurse faces retirement with just $500 saved. Who\u2019s to blame?",
-      "image": "news-images/0e7083d4b2f52d0bfc5508fb.jpg",
-      "link": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
-      "published": "2026-11-23T10:15:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "\u2018Worst COP ever\u2019: Climate talks collapse after draft deal fails to include fossil fuels",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/23/cop31-climate-summit-fossil-fuels.html",
-      "published": "2026-11-23T10:13:30Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "financials",
       "headline": "Morgan Stanley's Wilson Says Buying Opportunity Too Good to Miss",
       "image": null,
@@ -234,14 +274,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "other",
-      "headline": "Stock Market Sell-Off: Here's My Honest Take On What Every Long-Term Investor Should Do Right Now",
-      "image": null,
-      "link": "https://www.fool.com/investing/2026/11/23/stock-market-sell-off-heres-my-honest-take-on-what-every-long-term-investor-should-do-right-now/?.tsrc=rss",
-      "published": "2026-11-23T09:46:02Z",
-      "sentiment": "bearish"
-    },
-    {
       "category": "tech",
       "headline": "French biotech rejects short seller\u2019s cancer-risk claims after shares plunge 17%",
       "image": null,
@@ -258,35 +290,11 @@
       "sentiment": "neutral"
     },
     {
-      "category": "federal",
-      "headline": "Fed Chair Kevin Warsh and the FOMC Have a New Concern, and It Has Nothing to Do With Trumpflation",
-      "image": null,
-      "link": "https://www.fool.com/investing/2026/11/23/fed-chair-kevin-warsh-fomc-have-new-concern-nothing-to-do-with-trumpflation/?.tsrc=rss",
-      "published": "2026-11-23T09:26:02Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "international",
       "headline": "Forget Anthropic: In Europe, the IPO hype is about a blue lagoon",
       "image": null,
       "link": "https://www.cnbc.com/2026/11/20/anthropic-ipo-iceland-blue-lagoon.html",
       "published": "2026-11-23T08:48:36Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Stock-market slides this steep and fast trigger a rebound 91% of the time over the last decade",
-      "image": "news-images/d5c94217157751c07ec85d3a.jpg",
-      "link": "https://www.marketwatch.com/story/stock-market-slides-this-steep-and-fast-trigger-a-rebound-91-of-the-time-over-the-last-decade-798bd2c2?mod=mw_rss_topstories",
-      "published": "2026-11-23T08:37:00Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "industrials",
-      "headline": "Investors gives a thumbs down to Tata Steel-APL Apollo $1.67 billion deal, plunging shares",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/23/tata-steel-acquisition-deal-apl-india.html",
-      "published": "2026-11-23T07:25:24Z",
       "sentiment": "neutral"
     },
     {
@@ -312,26 +320,18 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=a62375af-d903-4733-9192-735e87bcccb5&amp;mod=mw_rss_bulletins",
       "published": "2026-11-21T14:31:53Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Yes, the U.S. is rich enough to fix Social Security. Medicare, too. Here\u2019s how.",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=8f940f38-8cf9-42b1-9cce-67f9d60c0c3c&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-21T14:00:49Z",
-      "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-11-23T13:05:38Z",
-  "source_item_count": 67,
+  "newest_item_published": "2026-11-23T14:11:41Z",
+  "source_item_count": 68,
   "sources": {
     "cnbc": {
       "contributed": 10,
       "error": null,
       "fetched": 30,
-      "fresh": 27,
+      "fresh": 26,
       "label": "CNBC",
-      "newest": "2026-11-23T13:05:38Z",
+      "newest": "2026-11-23T14:11:41Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,25 +340,25 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-11-23T12:26:00Z",
+      "newest": "2026-11-23T14:07:00Z",
       "ok": true
     },
     "mw_bulletins": {
-      "contributed": 7,
+      "contributed": 6,
       "error": null,
       "fetched": 10,
-      "fresh": 7,
+      "fresh": 6,
       "label": "MW Bulletins",
       "newest": "2026-11-23T12:59:43Z",
       "ok": true
     },
     "yahoo_dji": {
-      "contributed": 13,
+      "contributed": 14,
       "error": null,
-      "fetched": 17,
+      "fetched": 18,
       "fresh": 16,
       "label": "Yahoo Finance",
-      "newest": "2026-11-23T13:05:23Z",
+      "newest": "2026-11-23T14:06:03Z",
       "ok": true
     }
   }
