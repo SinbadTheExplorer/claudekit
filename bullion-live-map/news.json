@@ -1,6 +1,102 @@
 {
-  "generated_at": "2026-11-23T18:12:04Z",
+  "generated_at": "2026-11-23T19:12:08Z",
   "headlines": [
+    {
+      "category": "federal",
+      "headline": "Trump is open to capping credit-card interest rates \u2014 but holiday shoppers shouldn\u2019t bank on it yet",
+      "image": "news-images/86b65f3cd90eb3cf2058149d.jpg",
+      "link": "https://www.marketwatch.com/story/trump-is-open-to-capping-credit-card-interest-rates-but-holiday-shoppers-shouldnt-bank-on-it-yet-34260705?mod=mw_rss_topstories",
+      "published": "2026-11-23T18:55:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Stock Market Today: Nasdaq, Dow Leap On Huang-Driven Nvidia Rally; Gold Plays Pop (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/8751de70-467e-380a-82cb-f4ee42adc461/stock-market-today%3A-nasdaq%2C.html?.tsrc=rss",
+      "published": "2026-11-23T18:53:55Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "tech",
+      "headline": "An options strategy for making even more of your money back in Nvidia",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/23/an-options-strategy-for-making-even-more-of-your-money-back-in-nvidia-.html",
+      "published": "2026-11-23T18:52:46Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Amazon may have just found a \u2018cheap\u2019 way to get a lot more out of its chips",
+      "image": "news-images/a4d7414c37d500ebc8850b38.jpg",
+      "link": "https://www.marketwatch.com/story/amazon-may-have-just-found-a-cheap-way-to-get-a-lot-more-out-of-its-chips-bd822bd5?mod=mw_rss_topstories",
+      "published": "2026-11-23T18:47:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Trump\u2019s push to reinstate Jensen Huang signals Nvidia\u2019s CEO is too big to fail",
+      "image": "news-images/e02a88a885290802a82cc066.jpg",
+      "link": "https://www.marketwatch.com/story/trumps-push-to-reinstate-jensen-huang-signals-nvidias-ceo-is-too-big-to-fail-10709210?mod=mw_rss_topstories",
+      "published": "2026-11-23T18:43:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Update: Equities Jump Intraday as Nvidia Soars on Huang's Reinstatement",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/equities-jump-intraday-nvidia-soars-183714017.html?.tsrc=rss",
+      "published": "2026-11-23T18:37:14Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "energy",
+      "headline": "Sector Update: Energy Stocks Softer Monday Afternoon",
+      "image": null,
+      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-softer-monday-183223532.html?.tsrc=rss",
+      "published": "2026-11-23T18:32:23Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Update: US Equity Indexes Surge as Nvidia's Move to Reinstate Jensen Huang as CEO Fires Up AI Trade",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-surge-nvidia-182720949.html?.tsrc=rss",
+      "published": "2026-11-23T18:27:20Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "tech",
+      "headline": "Amazon to acquire AI startup Decart's chip software, hire founders",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/23/amazon-decarts-ai-acquisition.html",
+      "published": "2026-11-23T18:23:55Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Trump administration proposes rule that could curb ESG investing in 401(k)s",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/23/labor-department-esg-401k-rule.html",
+      "published": "2026-11-23T18:14:18Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "See how much more money the richest Americans are spending on the holidays compared to everyone else",
+      "image": "news-images/1c14a306f0a5de8ac1b74bd1.jpg",
+      "link": "https://www.marketwatch.com/story/see-how-much-more-money-the-richest-americans-are-spending-on-the-holidays-compared-to-everyone-else-f0ff3f4b?mod=mw_rss_topstories",
+      "published": "2026-11-23T18:14:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Stock Market Correction: The Most Expensive Mistake Investors Make During a 10% Drop",
+      "image": null,
+      "link": "https://www.fool.com/investing/2026/11/23/stock-market-correction-the-most-expensive-mistake-investors-make-during-a-10-drop/?.tsrc=rss",
+      "published": "2026-11-23T18:13:02Z",
+      "sentiment": "bearish"
+    },
     {
       "category": "other",
       "headline": "\u2018This establishes a bottom\u2019: Jensen Huang\u2019s return seen as likely to stop market sell-off, for now",
@@ -8,14 +104,6 @@
       "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo-market-rally.html",
       "published": "2026-11-23T18:00:47Z",
       "sentiment": "bearish"
-    },
-    {
-      "category": "tech",
-      "headline": "Stock Market Today: Dow Surges As Trump Says This On Huang's Nvidia Return; AI Plays Rocket (Live Coverage)",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/8751de70-467e-380a-82cb-f4ee42adc461/stock-market-today%3A-dow.html?.tsrc=rss",
-      "published": "2026-11-23T17:55:51Z",
-      "sentiment": "bullish"
     },
     {
       "category": "tech",
@@ -40,6 +128,14 @@
       "link": "https://www.cnbc.com/2026/11/23/fidelity-401k-ira-balances-q3-2026.html",
       "published": "2026-11-23T17:48:58Z",
       "sentiment": "bearish"
+    },
+    {
+      "category": "tech",
+      "headline": "Is the AI Rally Safe With Jensen Huang Back at Nvidia\u2014Here\u2019s What Wall Street Thinks",
+      "image": null,
+      "link": "https://www.investopedia.com/is-the-ai-rally-safe-with-jensen-huang-back-at-nvidia-what-wall-street-thinks-nvda-stock-12274433?.tsrc=rss",
+      "published": "2026-11-23T17:42:56Z",
+      "sentiment": "bullish"
     },
     {
       "category": "tech",
@@ -178,38 +274,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "other",
-      "headline": "Oversold Indices and Spiking Volatility Leave Markets Searching for Footing",
-      "image": null,
-      "link": "https://finance.yahoo.com/news/oversold-indices-spiking-volatility-leave-160100573.html?.tsrc=rss",
-      "published": "2026-11-23T16:01:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Semiconductor Stocks like Micron, Marvell, and Bloom Energy See Massive Gains as Jensen Huang Returns to NVIDIA",
-      "image": null,
-      "link": "https://247wallst.com/videos/semiconductor-stocks-like-micron-marvell-and-bloom-energy-see-massive-gains-as-jensen-huang-returns-to-nvidia/?.tsrc=rss",
-      "published": "2026-11-23T15:52:20Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "other",
-      "headline": "Markets Expert Rebecca Walser Delivers Outlook for Remainder of 2026",
-      "image": null,
-      "link": "https://finance.yahoo.com/video/markets-expert-rebecca-walser-delivers-154534736.html?.tsrc=rss",
-      "published": "2026-11-23T15:45:34Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Tech stocks rally after Nvidia board approves Jensen Huang's return as CEO",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/23/anthropic-nvidia-shares.html",
-      "published": "2026-11-23T15:36:12Z",
-      "sentiment": "bullish"
-    },
-    {
       "category": "tech",
       "headline": "Tech stocks are up 10%. So are luxury-linked ones. Ongoing live coverage.",
       "image": null,
@@ -219,59 +283,11 @@
     },
     {
       "category": "other",
-      "headline": "Tokenized stocks face pushback as NYSE, Nasdaq pivot for a new market",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/23/tokenized-stocks-face-pushback-as-nyse-nasdaq-pivot-for-a-new-market-.html",
-      "published": "2026-11-23T15:30:27Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Nvidia\u2019s stock soars 30%-plus as Jensen Huang returns as CEO",
-      "image": "news-images/4a27b6e76036617eb9dbb708.jpg",
-      "link": "https://www.marketwatch.com/story/nvidia-stock-bounces-as-trump-administration-pushes-for-rehiring-of-jensen-huang-08057c29?mod=mw_rss_topstories",
-      "published": "2026-11-23T15:15:00Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "other",
       "headline": "That was the biggest opening gain for the Nasdaq since at least 1991",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=17b8f39d-8d88-47e4-b91d-b26f55f6e2ea&amp;mod=mw_rss_bulletins",
       "published": "2026-11-23T15:10:55Z",
       "sentiment": "bullish"
-    },
-    {
-      "category": "financials",
-      "headline": "Morgan Stanley Sees 14% Earnings Growth as Stocks Price In a 6% Decline",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-sees-14-earnings-151024182.html?.tsrc=rss",
-      "published": "2026-11-23T15:10:24Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Nasdaq Soars 6%, Dow Jumps 1,200 Points as Nvidia's CEO Comeback Sends Shares Skyrocketing",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-soars-6-dow-jumps-150404656.html?.tsrc=rss",
-      "published": "2026-11-23T15:04:04Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "healthcare",
-      "headline": "UnitedHealth, Humana and CVS stocks slide as U.S targets Medicare Advantage ratings",
-      "image": "news-images/60e8301acf85d82be1dc9cf3.jpg",
-      "link": "https://www.marketwatch.com/story/unitedhealth-humana-and-cvs-stocks-slide-as-u-s-targets-medicare-advantage-ratings-6c2be5bb?mod=mw_rss_topstories",
-      "published": "2026-11-23T14:39:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Jensen Huang is back at Nvidia, and the stock market is surging. Can it last?",
-      "image": "news-images/e2aa2cc9e97cf93824176d44.jpg",
-      "link": "https://www.marketwatch.com/story/trump-wants-jensen-huang-back-at-nvidia-what-will-it-take-to-stop-the-tech-selloff-3f6b091f?mod=mw_rss_topstories",
-      "published": "2026-11-23T14:37:00Z",
-      "sentiment": "neutral"
     },
     {
       "category": "tech",
@@ -290,14 +306,6 @@
       "sentiment": "bullish"
     },
     {
-      "category": "consumer",
-      "headline": "Grocery stores have \u2018staggering deals\u2019 for Thanksgiving \u2014 but don\u2019t get used to these lower prices just yet",
-      "image": "news-images/504d61edeb611fe7352524af.jpg",
-      "link": "https://www.marketwatch.com/story/grocery-stores-have-staggering-deals-for-thanksgiving-but-dont-get-used-to-these-lower-prices-just-yet-7adfc7f5?mod=mw_rss_topstories",
-      "published": "2026-11-23T14:14:00Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "industrials",
       "headline": "Economic calendar: Week opens with manufacturing and service-sector data",
       "image": null,
@@ -312,26 +320,18 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=c41f49fd-0f54-40fc-a731-c14ee917f8f5&amp;mod=mw_rss_bulletins",
       "published": "2026-11-23T12:36:22Z",
       "sentiment": "bullish"
-    },
-    {
-      "category": "federal",
-      "headline": "The Fed risks a recession if it raises interest rates: Bill Ackman",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=9ba83848-30c5-4771-b8ea-16e8a2e90822&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-23T11:09:26Z",
-      "sentiment": "bearish"
     }
   ],
-  "newest_item_published": "2026-11-23T18:00:47Z",
+  "newest_item_published": "2026-11-23T18:55:00Z",
   "source_item_count": 66,
   "sources": {
     "cnbc": {
-      "contributed": 10,
+      "contributed": 11,
       "error": null,
       "fetched": 30,
-      "fresh": 27,
+      "fresh": 29,
       "label": "CNBC",
-      "newest": "2026-11-23T18:00:47Z",
+      "newest": "2026-11-23T18:52:46Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,16 +340,16 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-11-23T17:54:00Z",
+      "newest": "2026-11-23T18:55:00Z",
       "ok": true
     },
     "mw_bulletins": {
-      "contributed": 10,
+      "contributed": 9,
       "error": null,
       "fetched": 10,
       "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-11-23T17:31:23Z",
+      "newest": "2026-11-23T18:45:55Z",
       "ok": true
     },
     "yahoo_dji": {
@@ -358,7 +358,7 @@
       "fetched": 16,
       "fresh": 16,
       "label": "Yahoo Finance",
-      "newest": "2026-11-23T17:55:51Z",
+      "newest": "2026-11-23T18:53:55Z",
       "ok": true
     }
   }
