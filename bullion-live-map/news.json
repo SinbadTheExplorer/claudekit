@@ -1,6 +1,110 @@
 {
-  "generated_at": "2026-11-23T20:12:04Z",
+  "generated_at": "2026-11-23T21:12:06Z",
   "headlines": [
+    {
+      "category": "tech",
+      "headline": "U.S. stocks book best day since April 2025 as Huang's Nvidia return sparks rally",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=22e77dfe-cf2c-438d-a1c4-a1fa9fe67451&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-23T21:09:09Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "tech",
+      "headline": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 31%",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+      "published": "2026-11-23T21:08:05Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "CrowdStrike to buy Zscaler in $44 billion deal as AI supercharges cyberattacks",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-aquisition-ai-cyberattacks.html",
+      "published": "2026-11-23T21:04:03Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html",
+      "published": "2026-11-23T21:02:17Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "I\u2019ve been married for 58 years. It\u2019s \u2018our\u2019 money, not \u2018his\u2019 and \u2018hers.\u2019 Why do so many couples keep their finances separate?",
+      "image": "news-images/0a0c87a10e18a60e48151710.jpg",
+      "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
+      "published": "2026-11-23T21:00:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Update: US Equity Indexes Soar as Jensen Huang's Return to Nvidia as CEO Boosts AI Trade",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-soar-jensen-205834530.html?.tsrc=rss",
+      "published": "2026-11-23T20:58:34Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "tech",
+      "headline": "Jensen Huang cheered by Nvidia employees after return, pledges to be a better CEO",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/23/jensen-huang-nvidia-ceo-return.html",
+      "published": "2026-11-23T20:57:41Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Jensen Huang\u2019s return to Nvidia saved the stock market \u2014 for now. Will the rebound last?",
+      "image": "news-images/6997e5c4a23d18e50c33eeb6.jpg",
+      "link": "https://www.marketwatch.com/story/the-return-of-jensen-huang-has-saved-the-u-s-stock-market-for-now-why-the-rebound-may-not-last-f72656ce?mod=mw_rss_topstories",
+      "published": "2026-11-23T20:51:00Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "tech",
+      "headline": "Stock Market Today: Dow Surges On Jensen Huang's Nvidia Return; Boeing Flies On This (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/8751de70-467e-380a-82cb-f4ee42adc461/stock-market-today%3A-dow.html?.tsrc=rss",
+      "published": "2026-11-23T20:50:45Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "tech",
+      "headline": "Short sellers get smoked as Nvidia tallies biggest one-day gain in stock-market history",
+      "image": "news-images/7c7d3aa96fb4b665e15c0325.jpg",
+      "link": "https://www.marketwatch.com/story/short-sellers-get-smoked-as-nvidia-tallies-biggest-one-day-gain-in-stock-market-history-e9dc6e9c?mod=mw_rss_topstories",
+      "published": "2026-11-23T20:40:00Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "tech",
+      "headline": "Dow up 1,500 points, Nasdaq soaring nearly 7% after Huang returns as Nvidia CEO",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=dfc9ffff-098d-4c6f-9ea1-4cb1a9374960&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-23T20:32:18Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "The Stock Market Just Fell 10% From The Highs. Here\u2019s Exactly What I\u2019m Doing With My Own Money.",
+      "image": null,
+      "link": "https://www.fool.com/investing/2026/11/23/the-stock-market-just-fell-10-from-the-highs-here-s-exactly-what-i-m-doing-with-my-own-money/?.tsrc=rss",
+      "published": "2026-11-23T20:32:02Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Oracle and CoreWeave stocks stage big gains as investors bet the AI cash will keep flowing",
+      "image": "news-images/1cfb1a4db54939fe4148f585.jpg",
+      "link": "https://www.marketwatch.com/story/oracle-and-coreweave-stocks-stage-big-gains-as-investors-bet-the-ai-cash-will-keep-flowing-eeb1aa85?mod=mw_rss_topstories",
+      "published": "2026-11-23T20:25:00Z",
+      "sentiment": "bullish"
+    },
     {
       "category": "tech",
       "headline": "Nvidia breathes new life into the AI trade. Plus, Qnity inks a smart deal to get stronger",
@@ -27,14 +131,6 @@
     },
     {
       "category": "tech",
-      "headline": "Nvidia surge: What investors should do with the stock and the AI trade now",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/23/nvidia-stock-jensen-huang-ai-trade.html",
-      "published": "2026-11-23T19:52:21Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "tech",
       "headline": "These stocks are Monday's biggest gainers after Jensen Huang\u2019s return to Nvidia",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=628fa666-69c5-4876-b13b-8ea2254e5cdf&amp;mod=mw_rss_bulletins",
@@ -56,14 +152,6 @@
       "link": "https://www.marketwatch.com/story/these-stocks-are-the-biggest-gainers-after-jensen-huangs-return-to-nvidia-bb886140?mod=mw_rss_topstories",
       "published": "2026-11-23T19:44:00Z",
       "sentiment": "bullish"
-    },
-    {
-      "category": "tech",
-      "headline": "Stock Market Today: Dow, Nasdaq Leap On Jensen Huang's Nvidia Return; Cruise Play Eyes Entry (Live Coverage)",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/8751de70-467e-380a-82cb-f4ee42adc461/stock-market-today%3A-dow%2C.html?.tsrc=rss",
-      "published": "2026-11-23T19:37:01Z",
-      "sentiment": "neutral"
     },
     {
       "category": "tech",
@@ -123,14 +211,6 @@
     },
     {
       "category": "tech",
-      "headline": "An options strategy for making even more of your money back in Nvidia",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/23/an-options-strategy-for-making-even-more-of-your-money-back-in-nvidia-.html",
-      "published": "2026-11-23T18:52:46Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
       "headline": "Amazon may have just found a \u2018cheap\u2019 way to get a lot more out of its chips",
       "image": "news-images/a4d7414c37d500ebc8850b38.jpg",
       "link": "https://www.marketwatch.com/story/amazon-may-have-just-found-a-cheap-way-to-get-a-lot-more-out-of-its-chips-bd822bd5?mod=mw_rss_topstories",
@@ -163,43 +243,11 @@
     },
     {
       "category": "other",
-      "headline": "See how much more money the richest Americans are spending on the holidays compared to everyone else",
-      "image": "news-images/1c14a306f0a5de8ac1b74bd1.jpg",
-      "link": "https://www.marketwatch.com/story/see-how-much-more-money-the-richest-americans-are-spending-on-the-holidays-compared-to-everyone-else-f0ff3f4b?mod=mw_rss_topstories",
-      "published": "2026-11-23T18:14:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
       "headline": "Stock Market Correction: The Most Expensive Mistake Investors Make During a 10% Drop",
       "image": null,
       "link": "https://www.fool.com/investing/2026/11/23/stock-market-correction-the-most-expensive-mistake-investors-make-during-a-10-drop/?.tsrc=rss",
       "published": "2026-11-23T18:13:02Z",
       "sentiment": "bearish"
-    },
-    {
-      "category": "other",
-      "headline": "\u2018This establishes a bottom\u2019: Jensen Huang\u2019s return seen as likely to stop market sell-off, for now",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo-market-rally.html",
-      "published": "2026-11-23T18:00:47Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "tech",
-      "headline": "Consumer stocks, seen as safe bet amid cracks in AI trade, are among the S&P 500\u2019s biggest losers Monday",
-      "image": "news-images/cca8c5f0f98caec61a55a65d.jpg",
-      "link": "https://www.marketwatch.com/story/consumer-stocks-seen-as-safe-bet-amid-cracks-in-ai-trade-are-among-the-s-p-500s-biggest-losers-monday-80cf8f81?mod=mw_rss_topstories",
-      "published": "2026-11-23T17:54:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "CrowdStrike to buy Zscaler in $44 billion deal as AI supercharges cyberattacks",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-aquisition-ai-cyberattacks.html",
-      "published": "2026-11-23T17:50:30Z",
-      "sentiment": "neutral"
     },
     {
       "category": "tech",
@@ -208,14 +256,6 @@
       "link": "https://www.investopedia.com/is-the-ai-rally-safe-with-jensen-huang-back-at-nvidia-what-wall-street-thinks-nvda-stock-12274433?.tsrc=rss",
       "published": "2026-11-23T17:42:56Z",
       "sentiment": "bullish"
-    },
-    {
-      "category": "tech",
-      "headline": "More AI jobs are coming. That\u2019s one of the big hiring trends in 2027.",
-      "image": "news-images/5affe2e6bf3a7dc036c85925.jpg",
-      "link": "https://www.marketwatch.com/story/more-ai-jobs-are-coming-thats-one-of-the-big-hiring-trends-in-2027-3d810209?mod=mw_rss_topstories",
-      "published": "2026-11-23T17:37:00Z",
-      "sentiment": "neutral"
     },
     {
       "category": "tech",
@@ -234,14 +274,6 @@
       "sentiment": "bullish"
     },
     {
-      "category": "other",
-      "headline": "A 66-year-old nurse faces retirement with just $500 saved. Who\u2019s to blame?",
-      "image": "news-images/0e7083d4b2f52d0bfc5508fb.jpg",
-      "link": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
-      "published": "2026-11-23T17:30:00Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "tech",
       "headline": "Stock market jumps after Jensen Huang reinstated as Nvidia CEO",
       "image": null,
@@ -258,27 +290,11 @@
       "sentiment": "neutral"
     },
     {
-      "category": "tech",
-      "headline": "Update: US Equity Indexes Soar as Jensen Huang's Return as Nvidia's CEO Energizes AI Trade",
-      "image": null,
-      "link": "https://finance.yahoo.com/technology/ai/articles/us-equity-indexes-soar-jensen-165319278.html?.tsrc=rss",
-      "published": "2026-11-23T16:53:19Z",
-      "sentiment": "bullish"
-    },
-    {
       "category": "other",
       "headline": "A surprising reason businesses can\u2019t keep up with customer demand",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=ad8dedff-933a-4a2f-8cd2-5ff75e1556b6&amp;mod=mw_rss_bulletins",
       "published": "2026-11-23T16:38:48Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "industrials",
-      "headline": "Tesla Leaps 13%, Retakes Key Levels. New FSD Update Announced.",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/a757c49c-201b-3bc8-9e79-335de30a7b50/tesla-leaps-13%25%2C-retakes-key.html?.tsrc=rss",
-      "published": "2026-11-23T16:29:14Z",
       "sentiment": "neutral"
     },
     {
@@ -304,26 +320,10 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=a65ca62a-ff57-4bee-96ea-01a499ea9017&amp;mod=mw_rss_bulletins",
       "published": "2026-11-23T14:27:21Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Stock-market rebound accelerates as Nvidia reinstates CEO Huang \u2014 live updates",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=72e2d797-3e89-4b6e-8d67-343c20454565&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-23T14:15:15Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "industrials",
-      "headline": "Economic calendar: Week opens with manufacturing and service-sector data",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=0891f9ad-efbc-4ce0-bb45-6d3e232f07b9&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-23T12:59:43Z",
-      "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-11-23T20:03:25Z",
-  "source_item_count": 66,
+  "newest_item_published": "2026-11-23T21:09:09Z",
+  "source_item_count": 65,
   "sources": {
     "cnbc": {
       "contributed": 11,
@@ -331,7 +331,7 @@
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-11-23T20:03:25Z",
+      "newest": "2026-11-23T21:08:05Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,7 +340,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-11-23T19:54:00Z",
+      "newest": "2026-11-23T21:00:00Z",
       "ok": true
     },
     "mw_bulletins": {
@@ -349,16 +349,16 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-11-23T19:48:10Z",
+      "newest": "2026-11-23T21:09:09Z",
       "ok": true
     },
     "yahoo_dji": {
       "contributed": 10,
       "error": null,
-      "fetched": 16,
-      "fresh": 16,
+      "fetched": 15,
+      "fresh": 15,
       "label": "Yahoo Finance",
-      "newest": "2026-11-23T19:37:01Z",
+      "newest": "2026-11-23T20:58:34Z",
       "ok": true
     }
   }
