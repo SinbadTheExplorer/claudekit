@@ -1,13 +1,149 @@
 {
-  "generated_at": "2026-11-24T14:12:17Z",
+  "generated_at": "2026-11-24T15:12:07Z",
   "headlines": [
     {
+      "category": "federal",
+      "headline": "Commercial real estate activity falls 14% in October, as interest rates rise",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/24/commercial-real-estate-activity-falls-14percent-in-october.html",
+      "published": "2026-11-24T15:05:14Z",
+      "sentiment": "bearish"
+    },
+    {
       "category": "tech",
-      "headline": "Jensen Huang is back as Nvidia CEO, but investigations and risks remain",
+      "headline": "Nvidia brought Jensen Huang back. But the investigations aren\u2019t over",
       "image": null,
       "link": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-ceo-return.html",
-      "published": "2026-11-24T14:09:18Z",
+      "published": "2026-11-24T15:03:36Z",
       "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "I\u2019ve been married for 58 years. It\u2019s \u2018our\u2019 money, not \u2018his\u2019 and \u2018hers.\u2019 Why do so many couples keep their finances separate?",
+      "image": "news-images/0a0c87a10e18a60e48151710.jpg",
+      "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
+      "published": "2026-11-24T15:00:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "The number of 401(k) millionaires drops as the stock market swings",
+      "image": "news-images/39a55149754aa2e4246e8a28.jpg",
+      "link": "https://www.marketwatch.com/story/the-number-of-401-k-millionaires-drops-amid-stock-market-swings-23939b94?mod=mw_rss_topstories",
+      "published": "2026-11-24T14:59:00Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "tech",
+      "headline": "Nvidia\u2019s stock drops as these major questions loom over Jensen Huang\u2019s return",
+      "image": "news-images/823ce1076194520be324e40b.jpg",
+      "link": "https://www.marketwatch.com/story/nvidias-stock-drops-as-these-major-questions-loom-over-jensen-huangs-return-9096636f?mod=mw_rss_topstories",
+      "published": "2026-11-24T14:59:00Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "What to do if your Thanksgiving flight gets delayed \u2014 especially with a nor\u2019easter brewing",
+      "image": "news-images/9f26d76700d9e9765e47beeb.jpg",
+      "link": "https://www.marketwatch.com/story/what-to-do-if-your-thanksgiving-flight-gets-delayed-especially-with-a-noreaster-brewing-566fe933?mod=mw_rss_topstories",
+      "published": "2026-11-24T14:56:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Anthropic\u2019s stock just broke below its IPO price for the first time",
+      "image": "news-images/b1732d0387b3d6fe528926fd.jpg",
+      "link": "https://www.marketwatch.com/story/anthropics-stock-just-broke-below-its-ipo-price-for-the-first-time-5dc82668?mod=mw_rss_topstories",
+      "published": "2026-11-24T14:55:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Anthropic stock falls below $83 IPO price, but analysts are still largely positive",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html",
+      "published": "2026-11-24T14:52:20Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "Best Buy reports comparable sales growth of 6.1%, highest in five years",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/24/best-buy-bby-q3-2027-earnings.html",
+      "published": "2026-11-24T14:51:58Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Signal joins United Airlines, banks in limiting AI agents over customer risks",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/24/signal-airlines-banks-ai-limit.html",
+      "published": "2026-11-24T14:46:01Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Nvidia shares fall over 5% after Huang comeback rally",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/24/nvidia-stock-jensen-huang-return.html",
+      "published": "2026-11-24T14:43:53Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Stock Market Today: Nasdaq Sells Off After Big Market Surge; AMD, Anthropic, Nvidia All Dive (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/4aa4ff31-269f-346e-80c4-e681510af7ae/stock-market-today%3A-nasdaq.html?.tsrc=rss",
+      "published": "2026-11-24T14:42:48Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "healthcare",
+      "headline": "Drugmaker Insmed shares rally 14% after Sanofi agrees to buy it in pharma\u2019s biggest deal in three years",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/24/insmed-sanofi-deal-stock-pharma.html",
+      "published": "2026-11-24T14:35:05Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "tech",
+      "headline": "Nasdaq opens lower, a day after a historic rally led by Nvidia\u2019s 30% surge",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=b05b7e27-175c-45f6-932a-b981ba88abf3&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-24T14:32:10Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "The newest addition to the S&P 500 is a maker of viral ice-cream machines",
+      "image": "news-images/ef3a364239f3a848fe82ec8e.jpg",
+      "link": "https://www.marketwatch.com/story/the-newest-addition-to-the-s-p-500-is-a-maker-of-viral-ice-cream-machines-5c6e209a?mod=mw_rss_topstories",
+      "published": "2026-11-24T14:28:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Tuesday as Investors Pull Back From AI-Related Stocks",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-141922343.html?.tsrc=rss",
+      "published": "2026-11-24T14:19:22Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
+      "image": "news-images/2bf715750cfdffea8ac2f234.jpg",
+      "link": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
+      "published": "2026-11-24T14:17:00Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "tech",
+      "headline": "US Stock Futures Decline Following Wall Street Rally as Technology Shares Retreat: Dow Jones, S&P, Nasdaq",
+      "image": null,
+      "link": "https://investorshub.advfn.com/market-news/article/40635/us-stock-futures-decline-following-wall-street-rally-as-technology-shares-retreat-dow-jones-sp-nasdaq?.tsrc=rss",
+      "published": "2026-11-24T14:13:28Z",
+      "sentiment": "bullish"
     },
     {
       "category": "other",
@@ -23,14 +159,6 @@
       "image": null,
       "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-slide-pre-135142573.html?.tsrc=rss",
       "published": "2026-11-24T13:51:42Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "tech",
-      "headline": "Stock Market Today: Tech Futures Sell Off After Big Market Surge; AMD, Anthropic, Nvidia Dive (Live Coverage)",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/4aa4ff31-269f-346e-80c4-e681510af7ae/stock-market-today%3A-tech.html?.tsrc=rss",
-      "published": "2026-11-24T13:51:40Z",
       "sentiment": "bullish"
     },
     {
@@ -51,18 +179,18 @@
     },
     {
       "category": "other",
-      "headline": "I\u2019ve paid for long-term-care insurance for 20 years. Is it still worth it?",
-      "image": "news-images/b0b805439f30187abccf86cf.jpg",
-      "link": "https://www.marketwatch.com/story/ive-paid-for-long-term-care-insurance-for-20-years-is-it-still-worth-it-1b2cd52d?mod=mw_rss_topstories",
-      "published": "2026-11-24T13:41:00Z",
+      "headline": "Here's Why Investors Should Go Defensive Now: ETFs in Focus",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/heres-why-investors-defensive-now-134200178.html?.tsrc=rss",
+      "published": "2026-11-24T13:42:00Z",
       "sentiment": "neutral"
     },
     {
       "category": "other",
-      "headline": "I\u2019m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
-      "image": "news-images/8d37735bfe6c06437ecf2a68.jpg",
-      "link": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
-      "published": "2026-11-24T13:40:00Z",
+      "headline": "I\u2019ve paid for long-term-care insurance for 20 years. Is it still worth it?",
+      "image": "news-images/b0b805439f30187abccf86cf.jpg",
+      "link": "https://www.marketwatch.com/story/ive-paid-for-long-term-care-insurance-for-20-years-is-it-still-worth-it-1b2cd52d?mod=mw_rss_topstories",
+      "published": "2026-11-24T13:41:00Z",
       "sentiment": "neutral"
     },
     {
@@ -87,14 +215,6 @@
       "image": null,
       "link": "https://www.wsj.com/finance/stocks/nasdaq-futures-fall-as-questions-linger-over-ai-trade-68ba6d71?.tsrc=rss",
       "published": "2026-11-24T13:28:00Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "federal",
-      "headline": "Commercial real estate activity falls 14% in October, as interest rates rise",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/24/commercial-real-estate-activity-falls-14percent-in-october.html",
-      "published": "2026-11-24T13:17:16Z",
       "sentiment": "bearish"
     },
     {
@@ -123,66 +243,10 @@
     },
     {
       "category": "other",
-      "headline": "Best Buy reports comparable sales growth of 6.1%, highest in five years",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/24/best-buy-bby-q3-2027-earnings.html",
-      "published": "2026-11-24T12:57:35Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Sunday\u2019s pot roast now costs more than a Thanksgiving feast. Why beef won\u2019t get cheaper for years.",
-      "image": "news-images/9521af7d72046162f370cc19.jpg",
-      "link": "https://www.marketwatch.com/story/sundays-pot-roast-now-costs-more-than-a-thanksgiving-feast-why-beef-wont-get-cheaper-for-years-7daa1b3f?mod=mw_rss_topstories",
-      "published": "2026-11-24T12:56:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "HPE just posted its strongest growth ever \u2014 but its stock is sinking",
-      "image": "news-images/58132c38255d9d94c0ee224d.jpg",
-      "link": "https://www.marketwatch.com/story/hpe-just-posted-its-strongest-growth-ever-and-its-stock-is-tacking-on-more-big-gains-4421cebb?mod=mw_rss_topstories",
-      "published": "2026-11-24T12:54:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "The biggest biotech deal in nearly three years carries a hefty $41 billion price tag",
-      "image": "news-images/f74df2e7297b84c7444e9bf1.jpg",
-      "link": "https://www.marketwatch.com/story/the-biggest-biotech-deal-in-nearly-three-years-carries-a-hefty-41-billion-price-tag-dd7fa228?mod=mw_rss_topstories",
-      "published": "2026-11-24T12:50:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
       "headline": "Economic calendar: data on home prices, consumer confidence",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=3c79de5e-99ef-45c6-bee1-ca52331907e4&amp;mod=mw_rss_bulletins",
       "published": "2026-11-24T12:34:08Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "healthcare",
-      "headline": "Drugmaker Insmed shares rally 14% after Sanofi agrees to buy it in pharma\u2019s biggest deal in three years",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/24/insmed-sanofi-deal-stock-pharma.html",
-      "published": "2026-11-24T12:33:41Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "tech",
-      "headline": "Jensen Huang\u2019s return was worth nearly $950 billion to Nvidia. How much of the stock market should ride on one man?",
-      "image": "news-images/a781a81f9c1849d5fdd3c5d0.jpg",
-      "link": "https://www.marketwatch.com/story/jensen-huangs-return-was-worth-nearly-950-billion-to-nvidia-how-much-of-the-stock-market-should-ride-on-one-man-c7129e95?mod=mw_rss_topstories",
-      "published": "2026-11-24T12:21:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "I\u2019ve been married for 58 years. It\u2019s \u2018our\u2019 money, not \u2018his\u2019 and \u2018hers.\u2019 Why do so many couples keep their finances separate?",
-      "image": "news-images/0a0c87a10e18a60e48151710.jpg",
-      "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
-      "published": "2026-11-24T12:15:00Z",
       "sentiment": "neutral"
     },
     {
@@ -192,14 +256,6 @@
       "link": "https://www.cnbc.com/2026/11/24/us-food-banks-demand-snap.html",
       "published": "2026-11-24T12:00:01Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "This billionaire bought Nvidia in anticipation of Jensen Huang\u2019s return \u2014 and warns the S&P 500 could fall by a third",
-      "image": "news-images/f5cf49210d79cdd0268bee51.jpg",
-      "link": "https://www.marketwatch.com/story/this-billionaire-bought-nvidia-in-anticipation-of-jensen-huangs-return-and-warns-the-s-p-500-could-fall-by-a-third-dcff9489?mod=mw_rss_topstories",
-      "published": "2026-11-24T11:59:00Z",
-      "sentiment": "bearish"
     },
     {
       "category": "other",
@@ -234,14 +290,6 @@
       "sentiment": "bullish"
     },
     {
-      "category": "other",
-      "headline": "Why France is at risk of recession \u2014 and what could keep it out of one",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/24/france-recession-risk-pmi.html",
-      "published": "2026-11-24T11:15:30Z",
-      "sentiment": "bearish"
-    },
-    {
       "category": "financials",
       "headline": "Huang-Over Damps Wall Street Pre-Bell; Asia Up, Europe Off",
       "image": null,
@@ -258,46 +306,6 @@
       "sentiment": "bearish"
     },
     {
-      "category": "tech",
-      "headline": "Jensen Huang is \u2018too big to fire,\u2019 putting Nvidia\u2019s governance in focus: analysts",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-governance.html",
-      "published": "2026-11-24T10:56:56Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "US Stock Futures Mixed After Nvidia-Led Rally as Investors Assess Federal Reserve Rate Outlook: Dow Jones, S&P, Nasdaq, Wall Street",
-      "image": null,
-      "link": "https://investorshub.advfn.com/market-news/article/40577/us-stock-futures-mixed-after-nvidia-led-rally-as-investors-assess-federal-reserve-rate-outlook-dow-jones-sp-nasdaq-wall-street?.tsrc=rss",
-      "published": "2026-11-24T10:14:42Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "tech",
-      "headline": "US Futures Mixed After Monday\u2019s Nvidia-Led Chip Rally \u2014 ZM, HPE, AMD, BABA In Focus",
-      "image": null,
-      "link": "https://stocktwits.com/news-articles/markets/equity/us-futures-mixed-after-monday-s-nvidia-led-chip-rally-zm-hpe-amd-baba-in-focus/cNbs23VR9kf?.tsrc=rss",
-      "published": "2026-11-24T09:30:16Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "tech",
-      "headline": "Stock market today: Dow, S&P 500, Nasdaq futures fall as chip stocks fall, investors test Nvidia-fueled rally",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-24-dow-sp-500-nasdaq-chip-stocks-nvidia-140629923.html?.tsrc=rss",
-      "published": "2026-11-24T09:06:14Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "The newest addition to the S&P 500 is a maker of viral ice-cream machines",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=6a532d28-7ac8-4a28-addf-90b57aea80f4&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-23T23:23:15Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "other",
       "headline": "HPE just posted its strongest growth ever \u2014 but its stock is wavering",
       "image": null,
@@ -312,26 +320,18 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=a4f1ebae-17bf-495e-a06d-21c4d132e172&amp;mod=mw_rss_bulletins",
       "published": "2026-11-23T22:18:12Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Short sellers get smoked as Nvidia shares tally biggest one-day gain in history",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=1ae855e5-decc-41a1-8791-a22413ea01b9&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-23T21:26:33Z",
-      "sentiment": "bullish"
     }
   ],
-  "newest_item_published": "2026-11-24T14:09:18Z",
-  "source_item_count": 69,
+  "newest_item_published": "2026-11-24T15:05:14Z",
+  "source_item_count": 68,
   "sources": {
     "cnbc": {
-      "contributed": 12,
+      "contributed": 13,
       "error": null,
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-11-24T14:09:18Z",
+      "newest": "2026-11-24T15:05:14Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,25 +340,25 @@
       "fetched": 10,
       "fresh": 9,
       "label": "MarketWatch",
-      "newest": "2026-11-24T13:50:00Z",
+      "newest": "2026-11-24T15:00:00Z",
       "ok": true
     },
     "mw_bulletins": {
-      "contributed": 9,
+      "contributed": 8,
       "error": null,
       "fetched": 10,
       "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-11-24T13:07:06Z",
+      "newest": "2026-11-24T14:32:10Z",
       "ok": true
     },
     "yahoo_dji": {
       "contributed": 10,
       "error": null,
-      "fetched": 19,
-      "fresh": 18,
+      "fetched": 18,
+      "fresh": 16,
       "label": "Yahoo Finance",
-      "newest": "2026-11-24T13:51:42Z",
+      "newest": "2026-11-24T14:42:48Z",
       "ok": true
     }
   }
