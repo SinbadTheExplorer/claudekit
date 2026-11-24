@@ -1,13 +1,101 @@
 {
-  "generated_at": "2026-11-24T13:12:09Z",
+  "generated_at": "2026-11-24T14:12:17Z",
   "headlines": [
     {
       "category": "tech",
-      "headline": "Stock Market Today: Tech Futures Sell Off After Market Surge; AMD, Anthropic, Nvidia Dive (Live Coverage)",
+      "headline": "Jensen Huang is back as Nvidia CEO, but investigations and risks remain",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-ceo-return.html",
+      "published": "2026-11-24T14:09:18Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
+      "image": null,
+      "link": "https://www.cnbc.com/investingclub/2026/11/24/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
+      "published": "2026-11-24T13:53:37Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Update: US Equity Futures Slide Pre-Bell as Traders Assess Nvidia-Led Market Rally",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-slide-pre-135142573.html?.tsrc=rss",
+      "published": "2026-11-24T13:51:42Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "tech",
+      "headline": "Stock Market Today: Tech Futures Sell Off After Big Market Surge; AMD, Anthropic, Nvidia Dive (Live Coverage)",
       "image": null,
       "link": "https://finance.yahoo.com/m/4aa4ff31-269f-346e-80c4-e681510af7ae/stock-market-today%3A-tech.html?.tsrc=rss",
-      "published": "2026-11-24T13:07:59Z",
+      "published": "2026-11-24T13:51:40Z",
       "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "Roth IRA conversions aren\u2019t free money. Watch out for these 5 costly mistakes.",
+      "image": "news-images/0dc766ae875c994f97d75cae.jpg",
+      "link": "https://www.marketwatch.com/story/roth-ira-conversions-arent-free-money-watch-out-for-these-5-costly-mistakes-39b182d3?mod=mw_rss_topstories",
+      "published": "2026-11-24T13:48:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "international",
+      "headline": "Russia accuses NATO member Estonia of hostile actions \u2018on the verge of unleashing open war\u2019",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/24/russia-estonia-ukraine-war-nato-finland.html",
+      "published": "2026-11-24T13:42:55Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "I\u2019ve paid for long-term-care insurance for 20 years. Is it still worth it?",
+      "image": "news-images/b0b805439f30187abccf86cf.jpg",
+      "link": "https://www.marketwatch.com/story/ive-paid-for-long-term-care-insurance-for-20-years-is-it-still-worth-it-1b2cd52d?mod=mw_rss_topstories",
+      "published": "2026-11-24T13:41:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "I\u2019m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
+      "image": "news-images/8d37735bfe6c06437ecf2a68.jpg",
+      "link": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
+      "published": "2026-11-24T13:40:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html",
+      "published": "2026-11-24T13:33:26Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Six key questions raised by Jensen Huang's return to Nvidia",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-politics-market.html",
+      "published": "2026-11-24T13:31:29Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Nasdaq Futures Fall as Questions Linger Over AI Trade",
+      "image": null,
+      "link": "https://www.wsj.com/finance/stocks/nasdaq-futures-fall-as-questions-linger-over-ai-trade-68ba6d71?.tsrc=rss",
+      "published": "2026-11-24T13:28:00Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "federal",
+      "headline": "Commercial real estate activity falls 14% in October, as interest rates rise",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/24/commercial-real-estate-activity-falls-14percent-in-october.html",
+      "published": "2026-11-24T13:17:16Z",
+      "sentiment": "bearish"
     },
     {
       "category": "other",
@@ -16,14 +104,6 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=b31bd7b8-1129-49b3-a476-d1eee757a53d&amp;mod=mw_rss_bulletins",
       "published": "2026-11-24T13:07:06Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Property Play: Commercial real estate activity falls 14% in October, as interest rates rise",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/24/commercial-real-estate-activity-falls-14percent-in-october.html",
-      "published": "2026-11-24T13:05:43Z",
-      "sentiment": "bearish"
     },
     {
       "category": "tech",
@@ -90,14 +170,6 @@
       "sentiment": "bullish"
     },
     {
-      "category": "international",
-      "headline": "Russia accuses NATO member Estonia of hostile actions \u2018on the verge of unleashing open war\u2019",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/24/russia-estonia-ukraine-war-nato-finland.html",
-      "published": "2026-11-24T12:32:24Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "tech",
       "headline": "Jensen Huang\u2019s return was worth nearly $950 billion to Nvidia. How much of the stock market should ride on one man?",
       "image": "news-images/a781a81f9c1849d5fdd3c5d0.jpg",
@@ -111,14 +183,6 @@
       "image": "news-images/0a0c87a10e18a60e48151710.jpg",
       "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
       "published": "2026-11-24T12:15:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Roth IRA conversions aren\u2019t free money. Watch out for these 5 costly mistakes.",
-      "image": "news-images/0dc766ae875c994f97d75cae.jpg",
-      "link": "https://www.marketwatch.com/story/roth-ira-conversions-arent-free-money-watch-out-for-these-5-costly-mistakes-39b182d3?mod=mw_rss_topstories",
-      "published": "2026-11-24T12:01:00Z",
       "sentiment": "neutral"
     },
     {
@@ -146,20 +210,20 @@
       "sentiment": "neutral"
     },
     {
+      "category": "tech",
+      "headline": "MARKETS LIVE: Nvidia leads technology sell-off as US stock futures fall",
+      "image": null,
+      "link": "https://www.proactiveinvestors.com/companies/news/1102307/markets-live-nvidia-leads-technology-sell-off-as-us-stock-futures-fall-1102307.html?.tsrc=rss",
+      "published": "2026-11-24T11:50:00Z",
+      "sentiment": "bearish"
+    },
+    {
       "category": "other",
       "headline": "Anthropic stock falls below IPO price: live updates",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=cb62e45a-2595-49e8-9966-dd12c0eeea7b&amp;mod=mw_rss_bulletins",
       "published": "2026-11-24T11:40:35Z",
       "sentiment": "bearish"
-    },
-    {
-      "category": "tech",
-      "headline": "The \u2018epic\u2019 buying of retail investors paid off after Nvidia\u2019s 31% stock surge, says strategist",
-      "image": "news-images/81f2554dc858c3d16ad3ef55.jpg",
-      "link": "https://www.marketwatch.com/story/the-epic-buying-of-retail-investors-paid-off-after-nvidias-31-stock-surge-says-strategist-c8f9a502?mod=mw_rss_topstories",
-      "published": "2026-11-24T11:39:00Z",
-      "sentiment": "bullish"
     },
     {
       "category": "other",
@@ -176,14 +240,6 @@
       "link": "https://www.cnbc.com/2026/11/24/france-recession-risk-pmi.html",
       "published": "2026-11-24T11:15:30Z",
       "sentiment": "bearish"
-    },
-    {
-      "category": "other",
-      "headline": "A 66-year-old nurse is facing down retirement with just $500 saved. Who\u2019s to blame?",
-      "image": "news-images/0e7083d4b2f52d0bfc5508fb.jpg",
-      "link": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
-      "published": "2026-11-24T11:15:00Z",
-      "sentiment": "neutral"
     },
     {
       "category": "financials",
@@ -210,36 +266,12 @@
       "sentiment": "neutral"
     },
     {
-      "category": "other",
-      "headline": "I\u2019m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
-      "image": "news-images/8d37735bfe6c06437ecf2a68.jpg",
-      "link": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
-      "published": "2026-11-24T10:15:00Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "federal",
       "headline": "US Stock Futures Mixed After Nvidia-Led Rally as Investors Assess Federal Reserve Rate Outlook: Dow Jones, S&P, Nasdaq, Wall Street",
       "image": null,
       "link": "https://investorshub.advfn.com/market-news/article/40577/us-stock-futures-mixed-after-nvidia-led-rally-as-investors-assess-federal-reserve-rate-outlook-dow-jones-sp-nasdaq-wall-street?.tsrc=rss",
       "published": "2026-11-24T10:14:42Z",
       "sentiment": "bullish"
-    },
-    {
-      "category": "tech",
-      "headline": "Nasdaq Futures Fall as Questions Linger Over AI Trade",
-      "image": null,
-      "link": "https://www.wsj.com/finance/stocks/nasdaq-futures-fall-as-questions-linger-over-ai-trade-68ba6d71?.tsrc=rss",
-      "published": "2026-11-24T10:13:00Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "tech",
-      "headline": "Asian tech stocks recover from \u2018collateral damage\u2019 of Jensen Huang\u2019s departure",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-asia-chip-stocks.html",
-      "published": "2026-11-24T09:46:01Z",
-      "sentiment": "neutral"
     },
     {
       "category": "tech",
@@ -251,42 +283,10 @@
     },
     {
       "category": "tech",
-      "headline": "Stock market today: Dow, S&P 500, Nasdaq futures fall as investors test Nvidia-fueled rally",
+      "headline": "Stock market today: Dow, S&P 500, Nasdaq futures fall as chip stocks fall, investors test Nvidia-fueled rally",
       "image": null,
-      "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-24-dow-sp-500-nasdaq-rebound-090614276.html?.tsrc=rss",
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-24-dow-sp-500-nasdaq-chip-stocks-nvidia-140629923.html?.tsrc=rss",
       "published": "2026-11-24T09:06:14Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "The Stock Market Just Entered a Correction. History Says Investors Who Make This 1 Move Right Now Will Win Out.",
-      "image": null,
-      "link": "https://www.fool.com/investing/2026/11/24/the-stock-market-just-entered-a-correction-history-says-investors-who-make-this-1-move-right-now-will-win-out/?.tsrc=rss",
-      "published": "2026-11-24T08:20:02Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Stock Market News for Nov 24, 2026",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-nov-24-080800306.html?.tsrc=rss",
-      "published": "2026-11-24T08:08:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Signal joins United Airlines, banks in limiting AI agents over customer risks",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/24/signal-airlines-banks-ai-limit.html",
-      "published": "2026-11-24T07:25:41Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "I\u2019ve paid for long-term-care insurance for 20 years. Is it still worth it?",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=f0451c86-49f6-4fae-b2fa-e3f8edbc165c&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-24T00:18:30Z",
       "sentiment": "neutral"
     },
     {
@@ -322,29 +322,29 @@
       "sentiment": "bullish"
     }
   ],
-  "newest_item_published": "2026-11-24T13:07:59Z",
+  "newest_item_published": "2026-11-24T14:09:18Z",
   "source_item_count": 69,
   "sources": {
     "cnbc": {
-      "contributed": 10,
+      "contributed": 12,
       "error": null,
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-11-24T13:05:43Z",
+      "newest": "2026-11-24T14:09:18Z",
       "ok": true
     },
     "marketwatch": {
-      "contributed": 10,
+      "contributed": 9,
       "error": null,
       "fetched": 10,
-      "fresh": 10,
+      "fresh": 9,
       "label": "MarketWatch",
-      "newest": "2026-11-24T12:56:00Z",
+      "newest": "2026-11-24T13:50:00Z",
       "ok": true
     },
     "mw_bulletins": {
-      "contributed": 10,
+      "contributed": 9,
       "error": null,
       "fetched": 10,
       "fresh": 10,
@@ -356,9 +356,9 @@
       "contributed": 10,
       "error": null,
       "fetched": 19,
-      "fresh": 19,
+      "fresh": 18,
       "label": "Yahoo Finance",
-      "newest": "2026-11-24T13:07:59Z",
+      "newest": "2026-11-24T13:51:42Z",
       "ok": true
     }
   }
