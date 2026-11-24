@@ -1,6 +1,78 @@
 {
-  "generated_at": "2026-11-24T16:12:04Z",
+  "generated_at": "2026-11-24T17:12:05Z",
   "headlines": [
+    {
+      "category": "realestate",
+      "headline": "\u2018Buyers are out for blood\u2019: With home sales at a record low, buyers are calling the shots",
+      "image": "news-images/ec030edb984c24e56f347015.jpg",
+      "link": "https://www.marketwatch.com/story/buyers-are-out-for-blood-as-housing-market-finally-hits-rock-bottom-fa5093a6?mod=mw_rss_topstories",
+      "published": "2026-11-24T17:10:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Stock Market Today: Jensen\u2019s Return to Nvidia Is Causing Index Indigestion",
+      "image": null,
+      "link": "https://247wallst.com/investing/2026/11/24/stock-market-today-jensens-return-to-nvidia-is-causing-index-indigestion/?.tsrc=rss",
+      "published": "2026-11-24T16:50:01Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Anthropic sinks 12%, falling below $83 IPO price, but analysts are still largely positive",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html",
+      "published": "2026-11-24T16:48:49Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "tech",
+      "headline": "Jensen Huang to face DC grilling the same day Nvidia releases new products at GTC",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-congress-gtc.html",
+      "published": "2026-11-24T16:42:57Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Stock Market Today: Dow Dips, Nasdaq Skids As Nvidia Dives; Anthropic Plunges Below IPO Price (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/4aa4ff31-269f-346e-80c4-e681510af7ae/stock-market-today%3A-dow-dips%2C.html?.tsrc=rss",
+      "published": "2026-11-24T16:42:25Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "tech",
+      "headline": "Nvidia shares fall 8% as Huang comeback rally cools",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/24/nvidia-stock-jensen-huang-return.html",
+      "published": "2026-11-24T16:38:21Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Americans don\u2019t like Trump\u2019s tariffs. He\u2019s doubling down anyway \u2014 as soon as this week.",
+      "image": "news-images/9235cb062dfde60adc8844de.jpg",
+      "link": "https://www.marketwatch.com/story/americans-dont-like-trumps-tariffs-hes-doubling-down-anyway-as-soon-as-this-week-74c8bed5?mod=mw_rss_topstories",
+      "published": "2026-11-24T16:24:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "HPE just posted its strongest growth ever \u2014 but its stock is sinking",
+      "image": "news-images/58132c38255d9d94c0ee224d.jpg",
+      "link": "https://www.marketwatch.com/story/hpe-just-posted-its-strongest-growth-ever-and-its-stock-is-tacking-on-more-big-gains-4421cebb?mod=mw_rss_topstories",
+      "published": "2026-11-24T16:23:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "healthcare",
+      "headline": "Coming next year: Medicare Advantage plans without drug coverage for almost 640,000 people and fewer choices for the rest",
+      "image": "news-images/f1bdb9b4cd25f16ab9dececd.jpg",
+      "link": "https://www.marketwatch.com/story/coming-next-year-medicare-advantage-plans-without-drug-coverage-for-almost-640-000-people-and-fewer-choices-for-the-rest-25242d69?mod=mw_rss_topstories",
+      "published": "2026-11-24T16:18:00Z",
+      "sentiment": "neutral"
+    },
     {
       "category": "federal",
       "headline": "A 10% cap on credit-card interest rates? Holiday shoppers shouldn\u2019t bank on it.",
@@ -16,6 +88,14 @@
       "link": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html",
       "published": "2026-11-24T16:06:07Z",
       "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Nvidia\u2019s stock drops as these major questions loom over Jensen Huang\u2019s return",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=d8e35a26-32b5-45d0-95f9-7957aed2cecf&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-24T16:00:53Z",
+      "sentiment": "bearish"
     },
     {
       "category": "other",
@@ -34,22 +114,6 @@
       "sentiment": "bullish"
     },
     {
-      "category": "other",
-      "headline": "Anthropic stock falls below $83 IPO price, but analysts are still largely positive",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html",
-      "published": "2026-11-24T15:47:46Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "tech",
-      "headline": "Jensen Huang faces DC grilling the same day Nvidia releases new products at GTC",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-congress-gtc.html",
-      "published": "2026-11-24T15:47:17Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "tech",
       "headline": "Tech Stocks Backslide After Epic Rally",
       "image": null,
@@ -59,18 +123,10 @@
     },
     {
       "category": "tech",
-      "headline": "Stock Market Today: Dow Up But Nasdaq Skids As Nvidia Dives; Bears Bite Chips (Live Coverage)",
+      "headline": "Nvidia shares tumble as Jensen Huang comeback rally fizzles, legal troubles mount",
       "image": null,
-      "link": "https://finance.yahoo.com/m/4aa4ff31-269f-346e-80c4-e681510af7ae/stock-market-today%3A-dow-up.html?.tsrc=rss",
-      "published": "2026-11-24T15:39:08Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Nvidia shares fall over 5% after Huang comeback rally",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/24/nvidia-stock-jensen-huang-return.html",
-      "published": "2026-11-24T15:36:34Z",
+      "link": "https://nypost.com/2026/11/24/business/nvidia-shares-tumble-as-jensen-huang-comeback-rally-fizzles-legal-troubles-mount/?.tsrc=rss",
+      "published": "2026-11-24T15:38:54Z",
       "sentiment": "neutral"
     },
     {
@@ -178,35 +234,11 @@
       "sentiment": "bearish"
     },
     {
-      "category": "tech",
-      "headline": "Nvidia\u2019s stock drops as these major questions loom over Jensen Huang\u2019s return",
-      "image": "news-images/823ce1076194520be324e40b.jpg",
-      "link": "https://www.marketwatch.com/story/nvidias-stock-drops-as-these-major-questions-loom-over-jensen-huangs-return-9096636f?mod=mw_rss_topstories",
-      "published": "2026-11-24T14:59:00Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "other",
-      "headline": "What to do if your Thanksgiving flight gets delayed \u2014 especially with a nor\u2019easter brewing",
-      "image": "news-images/9f26d76700d9e9765e47beeb.jpg",
-      "link": "https://www.marketwatch.com/story/what-to-do-if-your-thanksgiving-flight-gets-delayed-especially-with-a-noreaster-brewing-566fe933?mod=mw_rss_topstories",
-      "published": "2026-11-24T14:56:00Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "other",
       "headline": "Best Buy reports comparable sales growth of 6.1%, highest in five years",
       "image": null,
       "link": "https://www.cnbc.com/2026/11/24/best-buy-bby-q3-2027-earnings.html",
       "published": "2026-11-24T14:51:58Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Signal joins United Airlines, banks in limiting AI agents over customer risks",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/24/signal-airlines-banks-ai-limit.html",
-      "published": "2026-11-24T14:46:01Z",
       "sentiment": "neutral"
     },
     {
@@ -227,51 +259,11 @@
     },
     {
       "category": "other",
-      "headline": "The newest addition to the S&P 500 is a maker of viral ice-cream machines",
-      "image": "news-images/ef3a364239f3a848fe82ec8e.jpg",
-      "link": "https://www.marketwatch.com/story/the-newest-addition-to-the-s-p-500-is-a-maker-of-viral-ice-cream-machines-5c6e209a?mod=mw_rss_topstories",
-      "published": "2026-11-24T14:28:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
       "headline": "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Tuesday as Investors Pull Back From AI-Related Stocks",
       "image": null,
       "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-141922343.html?.tsrc=rss",
       "published": "2026-11-24T14:19:22Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
-      "image": "news-images/2bf715750cfdffea8ac2f234.jpg",
-      "link": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
-      "published": "2026-11-24T14:17:00Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "tech",
-      "headline": "US Stock Futures Decline Following Wall Street Rally as Technology Shares Retreat: Dow Jones, S&P, Nasdaq",
-      "image": null,
-      "link": "https://investorshub.advfn.com/market-news/article/40635/us-stock-futures-decline-following-wall-street-rally-as-technology-shares-retreat-dow-jones-sp-nasdaq?.tsrc=rss",
-      "published": "2026-11-24T14:13:28Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "other",
-      "headline": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
-      "image": null,
-      "link": "https://www.cnbc.com/investingclub/2026/11/24/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
-      "published": "2026-11-24T13:53:37Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Update: US Equity Futures Slide Pre-Bell as Traders Assess Nvidia-Led Market Rally",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-slide-pre-135142573.html?.tsrc=rss",
-      "published": "2026-11-24T13:51:42Z",
-      "sentiment": "bullish"
     },
     {
       "category": "other",
@@ -320,18 +312,26 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=f0451c86-49f6-4fae-b2fa-e3f8edbc165c&amp;mod=mw_rss_bulletins",
       "published": "2026-11-24T00:18:30Z",
       "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "The newest addition to the S&P 500 is a maker of viral ice-cream machines",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=6a532d28-7ac8-4a28-addf-90b57aea80f4&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-23T23:23:15Z",
+      "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-11-24T16:08:00Z",
-  "source_item_count": 67,
+  "newest_item_published": "2026-11-24T17:10:00Z",
+  "source_item_count": 66,
   "sources": {
     "cnbc": {
-      "contributed": 13,
+      "contributed": 11,
       "error": null,
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-11-24T16:06:07Z",
+      "newest": "2026-11-24T16:48:49Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,11 +340,11 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-11-24T16:08:00Z",
+      "newest": "2026-11-24T17:10:00Z",
       "ok": true
     },
     "mw_bulletins": {
-      "contributed": 7,
+      "contributed": 9,
       "error": null,
       "fetched": 10,
       "fresh": 10,
@@ -355,10 +355,10 @@
     "yahoo_dji": {
       "contributed": 10,
       "error": null,
-      "fetched": 17,
+      "fetched": 16,
       "fresh": 15,
       "label": "Yahoo Finance",
-      "newest": "2026-11-24T16:00:42Z",
+      "newest": "2026-11-24T16:50:01Z",
       "ok": true
     }
   }
