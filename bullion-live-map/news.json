@@ -1,12 +1,132 @@
 {
-  "generated_at": "2026-11-24T18:12:06Z",
+  "generated_at": "2026-11-24T19:12:08Z",
   "headlines": [
+    {
+      "category": "other",
+      "headline": "Feeling tired and losing your hair? You might have low iron \u2014 even if you\u2019ve tested \u2018normal\u2019 before.",
+      "image": "news-images/25de980aee2a92597fd1bd71.jpg",
+      "link": "https://www.marketwatch.com/story/feeling-tired-and-losing-your-hair-you-might-have-low-iron-even-if-youve-tested-normal-before-96fe0d29?mod=mw_rss_topstories",
+      "published": "2026-11-24T19:02:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "energy",
+      "headline": "Sector Update: Energy Stocks Advance in Afternoon Trading",
+      "image": null,
+      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-advance-afternoon-185352296.html?.tsrc=rss",
+      "published": "2026-11-24T18:53:52Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Update: Equities Mostly Down Intraday as Nvidia-Fueled Rally Fizzles Out",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/equities-mostly-down-intraday-nvidia-185018469.html?.tsrc=rss",
+      "published": "2026-11-24T18:50:18Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "Visiting Las Vegas is getting too expensive \u2014 but don\u2019t blame airfares",
+      "image": "news-images/7560928c80280d81c9530471.jpg",
+      "link": "https://www.marketwatch.com/story/visiting-las-vegas-is-getting-too-expensive-but-dont-blame-airfares-12e2c588?mod=mw_rss_topstories",
+      "published": "2026-11-24T18:48:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Kalshi daily volume of \u2018perps\u2019 trading begins to top its prediction markets",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/24/kalshi-perps-volume-prediction-markets.html",
+      "published": "2026-11-24T18:34:55Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Consumer confidence shoots up after Democrats' midterm victories \u2014 though inflation worries persist",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html",
+      "published": "2026-11-24T18:34:43Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Micron\u2019s stock falls as an analyst warns about a future supply glut",
+      "image": "news-images/95a4947e5c95fb87a49c0720.jpg",
+      "link": "https://www.marketwatch.com/story/microns-stock-falls-as-an-analyst-warns-about-a-future-supply-glut-f7fbeefb?mod=mw_rss_topstories",
+      "published": "2026-11-24T18:33:00Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "tech",
+      "headline": "Nvidia shares fall 7% as Huang comeback rally cools",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/24/nvidia-stock-jensen-huang-return.html",
+      "published": "2026-11-24T18:30:58Z",
+      "sentiment": "neutral"
+    },
     {
       "category": "tech",
       "headline": "Op-ed: Trump\u2019s Nvidia board intervention put a price on national security. Our adversaries will take note",
       "image": null,
       "link": "https://www.cnbc.com/2026/11/24/trump-nvidia-jensen-huang-national-security-china-chips.html",
-      "published": "2026-11-24T18:04:20Z",
+      "published": "2026-11-24T18:30:06Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Utah drops criminal charges against Kalshi founders after company suspended operations in state",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/24/utah-drops-charges-against-kalshi-after-it-halted-operations-in-state.html",
+      "published": "2026-11-24T18:28:33Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "industrials",
+      "headline": "Tesla has a \u2018legitimate multitrillion-dollar opportunity\u2019 in robotaxis, says former skeptic",
+      "image": "news-images/3e750cb9480db719e4b075e9.jpg",
+      "link": "https://www.marketwatch.com/story/tesla-has-a-legitimate-multitrillion-dollar-opportunity-in-robotaxis-says-former-skeptic-23507364?mod=mw_rss_topstories",
+      "published": "2026-11-24T18:28:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Stock Market Today: Nasdaq Skids As Nvidia Dives; New Trump Tariffs Loom; Anthropic Plunges (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/4aa4ff31-269f-346e-80c4-e681510af7ae/stock-market-today%3A-nasdaq.html?.tsrc=rss",
+      "published": "2026-11-24T18:23:35Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "consumer",
+      "headline": "Retail turnarounds are taking hold just in time for the holiday season",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/24/retail-turnarounds-holiday-season.html",
+      "published": "2026-11-24T18:21:35Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "As Anthropic falls below its IPO price, here's how big-money traders are reacting",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/24/anthropic-options-trading-ipo-price.html",
+      "published": "2026-11-24T18:17:12Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "I\u2019ve been married for 58 years. It\u2019s \u2018our\u2019 money, not \u2018his\u2019 and \u2018hers.\u2019 Why do so many couples keep their finances separate?",
+      "image": "news-images/0a0c87a10e18a60e48151710.jpg",
+      "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
+      "published": "2026-11-24T18:15:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "The wealthiest 10% of Americans are pulling ahead of everyone else. This is what\u2019s making them richer.",
+      "image": "news-images/15c13ed1627c18aa2b19640e.jpg",
+      "link": "https://www.marketwatch.com/story/the-wealthiest-10-of-americans-are-pulling-ahead-of-everyone-else-this-is-whats-making-them-richer-bd83c2f6?mod=mw_rss_topstories",
+      "published": "2026-11-24T18:14:00Z",
       "sentiment": "neutral"
     },
     {
@@ -75,14 +195,6 @@
     },
     {
       "category": "other",
-      "headline": "Anthropic sinks 8%, falling below $83 IPO price, but analysts are still largely positive",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html",
-      "published": "2026-11-24T17:30:26Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "other",
       "headline": "I\u2019m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
       "image": "news-images/8d37735bfe6c06437ecf2a68.jpg",
       "link": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
@@ -98,36 +210,12 @@
       "sentiment": "neutral"
     },
     {
-      "category": "tech",
-      "headline": "Nvidia shares fall 7% as Huang comeback rally cools",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/24/nvidia-stock-jensen-huang-return.html",
-      "published": "2026-11-24T17:22:30Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "We're adding to our position in a tech giant that is too cheap to ignore",
-      "image": null,
-      "link": "https://www.cnbc.com/investingclub/2026/11/24/were-adding-to-our-position-in-a-tech-giant-that-is-too-cheap-to-ignore-.html",
-      "published": "2026-11-24T17:19:52Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "other",
       "headline": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
       "image": "news-images/2bf715750cfdffea8ac2f234.jpg",
       "link": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
       "published": "2026-11-24T17:15:00Z",
       "sentiment": "bearish"
-    },
-    {
-      "category": "realestate",
-      "headline": "\u2018Buyers are out for blood\u2019: With home sales at a record low, buyers are calling the shots",
-      "image": "news-images/ec030edb984c24e56f347015.jpg",
-      "link": "https://www.marketwatch.com/story/buyers-are-out-for-blood-as-housing-market-finally-hits-rock-bottom-fa5093a6?mod=mw_rss_topstories",
-      "published": "2026-11-24T17:10:00Z",
-      "sentiment": "neutral"
     },
     {
       "category": "tech",
@@ -147,54 +235,6 @@
     },
     {
       "category": "tech",
-      "headline": "Stock Market Today: Dow Dips, Nasdaq Skids As Nvidia Dives; Anthropic Plunges Below IPO Price (Live Coverage)",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/4aa4ff31-269f-346e-80c4-e681510af7ae/stock-market-today%3A-dow-dips%2C.html?.tsrc=rss",
-      "published": "2026-11-24T16:42:25Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "federal",
-      "headline": "Americans don\u2019t like Trump\u2019s tariffs. He\u2019s doubling down anyway \u2014 as soon as this week.",
-      "image": "news-images/9235cb062dfde60adc8844de.jpg",
-      "link": "https://www.marketwatch.com/story/americans-dont-like-trumps-tariffs-hes-doubling-down-anyway-as-soon-as-this-week-74c8bed5?mod=mw_rss_topstories",
-      "published": "2026-11-24T16:24:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "HPE just posted its strongest growth ever \u2014 but its stock is sinking",
-      "image": "news-images/58132c38255d9d94c0ee224d.jpg",
-      "link": "https://www.marketwatch.com/story/hpe-just-posted-its-strongest-growth-ever-and-its-stock-is-tacking-on-more-big-gains-4421cebb?mod=mw_rss_topstories",
-      "published": "2026-11-24T16:23:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "healthcare",
-      "headline": "Coming next year: Medicare Advantage plans without drug coverage for almost 640,000 people and fewer choices for the rest",
-      "image": "news-images/f1bdb9b4cd25f16ab9dececd.jpg",
-      "link": "https://www.marketwatch.com/story/coming-next-year-medicare-advantage-plans-without-drug-coverage-for-almost-640-000-people-and-fewer-choices-for-the-rest-25242d69?mod=mw_rss_topstories",
-      "published": "2026-11-24T16:18:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "A 10% cap on credit-card interest rates? Holiday shoppers shouldn\u2019t bank on it.",
-      "image": "news-images/86b65f3cd90eb3cf2058149d.jpg",
-      "link": "https://www.marketwatch.com/story/trump-is-open-to-capping-credit-card-interest-rates-but-holiday-shoppers-shouldnt-bank-on-it-yet-34260705?mod=mw_rss_topstories",
-      "published": "2026-11-24T16:08:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Consumer confidence shoots up after Democrats' midterm victories \u2014 though inflation worries persist",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html",
-      "published": "2026-11-24T16:06:07Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
       "headline": "Nvidia\u2019s stock drops as these major questions loom over Jensen Huang\u2019s return",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=d8e35a26-32b5-45d0-95f9-7957aed2cecf&amp;mod=mw_rss_bulletins",
@@ -210,14 +250,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "healthcare",
-      "headline": "Drugmaker Insmed shares rally 14% after Sanofi agrees to buy it in pharma\u2019s biggest deal in three years",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/24/insmed-sanofi-deal-stock-pharma.html",
-      "published": "2026-11-24T15:49:27Z",
-      "sentiment": "bullish"
-    },
-    {
       "category": "tech",
       "headline": "Nvidia shares tumble as Jensen Huang comeback rally fizzles, legal troubles mount",
       "image": null,
@@ -227,42 +259,10 @@
     },
     {
       "category": "other",
-      "headline": "The Dow Is Back Up. Most of the Market Is, Too.",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/6d4f8653-7604-3ba3-a5bd-2de0ecc6f5e1/the-dow-is-back-up.-most-of.html?.tsrc=rss",
-      "published": "2026-11-24T15:35:46Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "financials",
-      "headline": "Kushner-backed OakNorth secures U.S. bank charter as global digital banks push into America",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/24/oaknorth-us-bank-charter.html",
-      "published": "2026-11-24T15:34:10Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Matson (MATX) Stock Is Down 6.0% Today Without Company News",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/matson-matx-stock-down-6-153309583.html?.tsrc=rss",
-      "published": "2026-11-24T15:33:09Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
       "headline": "Anthropic\u2019s stock just broke below its IPO price for the first time",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=d526c9bb-40a8-4a28-9ab5-a2c61638f61d&amp;mod=mw_rss_bulletins",
       "published": "2026-11-24T15:27:28Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "The biggest biotech deal in nearly three years carries a hefty $41 billion price tag",
-      "image": "news-images/f74df2e7297b84c7444e9bf1.jpg",
-      "link": "https://www.marketwatch.com/story/the-biggest-biotech-deal-in-nearly-three-years-carries-a-hefty-41-billion-price-tag-dd7fa228?mod=mw_rss_topstories",
-      "published": "2026-11-24T15:21:00Z",
       "sentiment": "neutral"
     },
     {
@@ -322,8 +322,8 @@
       "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-11-24T18:04:20Z",
-  "source_item_count": 66,
+  "newest_item_published": "2026-11-24T19:02:00Z",
+  "source_item_count": 65,
   "sources": {
     "cnbc": {
       "contributed": 10,
@@ -331,7 +331,7 @@
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-11-24T18:04:20Z",
+      "newest": "2026-11-24T18:34:55Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,7 +340,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-11-24T18:00:00Z",
+      "newest": "2026-11-24T19:02:00Z",
       "ok": true
     },
     "mw_bulletins": {
@@ -355,10 +355,10 @@
     "yahoo_dji": {
       "contributed": 10,
       "error": null,
-      "fetched": 16,
+      "fetched": 15,
       "fresh": 15,
       "label": "Yahoo Finance",
-      "newest": "2026-11-24T17:45:02Z",
+      "newest": "2026-11-24T18:53:52Z",
       "ok": true
     }
   }
