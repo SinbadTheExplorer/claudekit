@@ -1,6 +1,150 @@
 {
-  "generated_at": "2026-11-24T15:12:07Z",
+  "generated_at": "2026-11-24T16:12:04Z",
   "headlines": [
+    {
+      "category": "federal",
+      "headline": "A 10% cap on credit-card interest rates? Holiday shoppers shouldn\u2019t bank on it.",
+      "image": "news-images/86b65f3cd90eb3cf2058149d.jpg",
+      "link": "https://www.marketwatch.com/story/trump-is-open-to-capping-credit-card-interest-rates-but-holiday-shoppers-shouldnt-bank-on-it-yet-34260705?mod=mw_rss_topstories",
+      "published": "2026-11-24T16:08:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Consumer confidence shoots up after Democrats' midterm victories \u2014 though inflation worries persist",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html",
+      "published": "2026-11-24T16:06:07Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Icahn Enterprises (IEP) Stock Is Down 6.4% Today Without Company News",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/icahn-enterprises-iep-stock-down-160042155.html?.tsrc=rss",
+      "published": "2026-11-24T16:00:42Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "healthcare",
+      "headline": "Drugmaker Insmed shares rally 14% after Sanofi agrees to buy it in pharma\u2019s biggest deal in three years",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/24/insmed-sanofi-deal-stock-pharma.html",
+      "published": "2026-11-24T15:49:27Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "Anthropic stock falls below $83 IPO price, but analysts are still largely positive",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html",
+      "published": "2026-11-24T15:47:46Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "tech",
+      "headline": "Jensen Huang faces DC grilling the same day Nvidia releases new products at GTC",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-congress-gtc.html",
+      "published": "2026-11-24T15:47:17Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Tech Stocks Backslide After Epic Rally",
+      "image": null,
+      "link": "https://www.wsj.com/finance/stocks/nasdaq-futures-fall-as-questions-linger-over-ai-trade-68ba6d71?.tsrc=rss",
+      "published": "2026-11-24T15:44:00Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "tech",
+      "headline": "Stock Market Today: Dow Up But Nasdaq Skids As Nvidia Dives; Bears Bite Chips (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/4aa4ff31-269f-346e-80c4-e681510af7ae/stock-market-today%3A-dow-up.html?.tsrc=rss",
+      "published": "2026-11-24T15:39:08Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Nvidia shares fall over 5% after Huang comeback rally",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/24/nvidia-stock-jensen-huang-return.html",
+      "published": "2026-11-24T15:36:34Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "The Dow Is Back Up. Most of the Market Is, Too.",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/6d4f8653-7604-3ba3-a5bd-2de0ecc6f5e1/the-dow-is-back-up.-most-of.html?.tsrc=rss",
+      "published": "2026-11-24T15:35:46Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "financials",
+      "headline": "Kushner-backed OakNorth secures U.S. bank charter as global digital banks push into America",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/24/oaknorth-us-bank-charter.html",
+      "published": "2026-11-24T15:34:10Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Matson (MATX) Stock Is Down 6.0% Today Without Company News",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/matson-matx-stock-down-6-153309583.html?.tsrc=rss",
+      "published": "2026-11-24T15:33:09Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "A 66-year-old nurse is facing down retirement with just $500 saved. Who\u2019s to blame?",
+      "image": "news-images/0e7083d4b2f52d0bfc5508fb.jpg",
+      "link": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
+      "published": "2026-11-24T15:30:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Quitting can actually be the key to success, says expert: It's one of the 'most courageous moves you can make'",
+      "image": null,
+      "link": "https://www.cnbc.com/make-it/2026/11/24/how-to-know-when-to-quit.html",
+      "published": "2026-11-24T15:25:37Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "The biggest biotech deal in nearly three years carries a hefty $41 billion price tag",
+      "image": "news-images/f74df2e7297b84c7444e9bf1.jpg",
+      "link": "https://www.marketwatch.com/story/the-biggest-biotech-deal-in-nearly-three-years-carries-a-hefty-41-billion-price-tag-dd7fa228?mod=mw_rss_topstories",
+      "published": "2026-11-24T15:21:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Anthropic\u2019s stock just broke below its IPO price for the first time",
+      "image": "news-images/b1732d0387b3d6fe528926fd.jpg",
+      "link": "https://www.marketwatch.com/story/anthropics-stock-just-broke-below-its-ipo-price-for-the-first-time-5dc82668?mod=mw_rss_topstories",
+      "published": "2026-11-24T15:21:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "What Jensen Huang\u2019s return means for Nvidia\u2019s Colette Kress",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-returns-colette-kress-cfo.html",
+      "published": "2026-11-24T15:19:46Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Tech stocks back in the red after euphoria of Huang's Nvidia return",
+      "image": null,
+      "link": "https://finance.yahoo.com/technology/ai/articles/tech-firms-soar-huangs-return-023753159.html?.tsrc=rss",
+      "published": "2026-11-24T15:13:14Z",
+      "sentiment": "neutral"
+    },
     {
       "category": "federal",
       "headline": "Commercial real estate activity falls 14% in October, as interest rates rise",
@@ -51,22 +195,6 @@
     },
     {
       "category": "other",
-      "headline": "Anthropic\u2019s stock just broke below its IPO price for the first time",
-      "image": "news-images/b1732d0387b3d6fe528926fd.jpg",
-      "link": "https://www.marketwatch.com/story/anthropics-stock-just-broke-below-its-ipo-price-for-the-first-time-5dc82668?mod=mw_rss_topstories",
-      "published": "2026-11-24T14:55:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Anthropic stock falls below $83 IPO price, but analysts are still largely positive",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html",
-      "published": "2026-11-24T14:52:20Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "other",
       "headline": "Best Buy reports comparable sales growth of 6.1%, highest in five years",
       "image": null,
       "link": "https://www.cnbc.com/2026/11/24/best-buy-bby-q3-2027-earnings.html",
@@ -83,35 +211,19 @@
     },
     {
       "category": "tech",
-      "headline": "Nvidia shares fall over 5% after Huang comeback rally",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/24/nvidia-stock-jensen-huang-return.html",
-      "published": "2026-11-24T14:43:53Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Stock Market Today: Nasdaq Sells Off After Big Market Surge; AMD, Anthropic, Nvidia All Dive (Live Coverage)",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/4aa4ff31-269f-346e-80c4-e681510af7ae/stock-market-today%3A-nasdaq.html?.tsrc=rss",
-      "published": "2026-11-24T14:42:48Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "healthcare",
-      "headline": "Drugmaker Insmed shares rally 14% after Sanofi agrees to buy it in pharma\u2019s biggest deal in three years",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/24/insmed-sanofi-deal-stock-pharma.html",
-      "published": "2026-11-24T14:35:05Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "tech",
       "headline": "Nasdaq opens lower, a day after a historic rally led by Nvidia\u2019s 30% surge",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=b05b7e27-175c-45f6-932a-b981ba88abf3&amp;mod=mw_rss_bulletins",
       "published": "2026-11-24T14:32:10Z",
       "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "The Nasdaq Did Exactly What We Thought. How to Know the Bounce Is Real.",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/2edaf190-6868-35c4-84b9-83e505c0707d/the-nasdaq-did-exactly-what.html?.tsrc=rss",
+      "published": "2026-11-24T14:31:23Z",
+      "sentiment": "neutral"
     },
     {
       "category": "other",
@@ -163,82 +275,10 @@
     },
     {
       "category": "other",
-      "headline": "Roth IRA conversions aren\u2019t free money. Watch out for these 5 costly mistakes.",
-      "image": "news-images/0dc766ae875c994f97d75cae.jpg",
-      "link": "https://www.marketwatch.com/story/roth-ira-conversions-arent-free-money-watch-out-for-these-5-costly-mistakes-39b182d3?mod=mw_rss_topstories",
-      "published": "2026-11-24T13:48:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "international",
-      "headline": "Russia accuses NATO member Estonia of hostile actions \u2018on the verge of unleashing open war\u2019",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/24/russia-estonia-ukraine-war-nato-finland.html",
-      "published": "2026-11-24T13:42:55Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Here's Why Investors Should Go Defensive Now: ETFs in Focus",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/heres-why-investors-defensive-now-134200178.html?.tsrc=rss",
-      "published": "2026-11-24T13:42:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "I\u2019ve paid for long-term-care insurance for 20 years. Is it still worth it?",
-      "image": "news-images/b0b805439f30187abccf86cf.jpg",
-      "link": "https://www.marketwatch.com/story/ive-paid-for-long-term-care-insurance-for-20-years-is-it-still-worth-it-1b2cd52d?mod=mw_rss_topstories",
-      "published": "2026-11-24T13:41:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html",
-      "published": "2026-11-24T13:33:26Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Six key questions raised by Jensen Huang's return to Nvidia",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-politics-market.html",
-      "published": "2026-11-24T13:31:29Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Nasdaq Futures Fall as Questions Linger Over AI Trade",
-      "image": null,
-      "link": "https://www.wsj.com/finance/stocks/nasdaq-futures-fall-as-questions-linger-over-ai-trade-68ba6d71?.tsrc=rss",
-      "published": "2026-11-24T13:28:00Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "other",
       "headline": "The billionaire who bet on Jensen Huang's return has a warning about the S&P 500",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=b31bd7b8-1129-49b3-a476-d1eee757a53d&amp;mod=mw_rss_bulletins",
       "published": "2026-11-24T13:07:06Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "US Equity Futures Slide Pre-Bell as Traders Assess Nvidia-Led Market Rally",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-slide-pre-130353339.html?.tsrc=rss",
-      "published": "2026-11-24T13:03:53Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "tech",
-      "headline": "Stock Futures Down as Traders Digest Jensen Huang's Return to Nvidia as CEO",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stock-futures-down-traders-digest-125827657.html?.tsrc=rss",
-      "published": "2026-11-24T12:58:27Z",
       "sentiment": "neutral"
     },
     {
@@ -248,30 +288,6 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=3c79de5e-99ef-45c6-bee1-ca52331907e4&amp;mod=mw_rss_bulletins",
       "published": "2026-11-24T12:34:08Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "financials",
-      "headline": "Some U.S. food banks see demand top pandemic levels",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/24/us-food-banks-demand-snap.html",
-      "published": "2026-11-24T12:00:01Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "U.S. court clears the way for Army\u2019s planned ammunition detonation in Iowa",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/24/iowa-detonation-bomb-court-.html",
-      "published": "2026-11-24T11:56:49Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "MARKETS LIVE: Nvidia leads technology sell-off as US stock futures fall",
-      "image": null,
-      "link": "https://www.proactiveinvestors.com/companies/news/1102307/markets-live-nvidia-leads-technology-sell-off-as-us-stock-futures-fall-1102307.html?.tsrc=rss",
-      "published": "2026-11-24T11:50:00Z",
-      "sentiment": "bearish"
     },
     {
       "category": "other",
@@ -290,14 +306,6 @@
       "sentiment": "bullish"
     },
     {
-      "category": "financials",
-      "headline": "Huang-Over Damps Wall Street Pre-Bell; Asia Up, Europe Off",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/huang-over-damps-wall-street-110942839.html?.tsrc=rss",
-      "published": "2026-11-24T11:09:42Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "tech",
       "headline": "Nasdaq futures slump and Nvidia shares fall 6% premarket: live updates",
       "image": null,
@@ -307,23 +315,15 @@
     },
     {
       "category": "other",
-      "headline": "HPE just posted its strongest growth ever \u2014 but its stock is wavering",
+      "headline": "I\u2019ve paid for long-term-care insurance for 20 years. Is it still worth it?",
       "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=3b46e602-2bd8-452b-9b3d-d2d390a867e2&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-23T22:19:25Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Trump is open to capping credit-card interest rates. But don't bank on it.",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=a4f1ebae-17bf-495e-a06d-21c4d132e172&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-23T22:18:12Z",
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=f0451c86-49f6-4fae-b2fa-e3f8edbc165c&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-24T00:18:30Z",
       "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-11-24T15:05:14Z",
-  "source_item_count": 68,
+  "newest_item_published": "2026-11-24T16:08:00Z",
+  "source_item_count": 67,
   "sources": {
     "cnbc": {
       "contributed": 13,
@@ -331,34 +331,34 @@
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-11-24T15:05:14Z",
+      "newest": "2026-11-24T16:06:07Z",
       "ok": true
     },
     "marketwatch": {
-      "contributed": 9,
+      "contributed": 10,
       "error": null,
       "fetched": 10,
-      "fresh": 9,
+      "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-11-24T15:00:00Z",
+      "newest": "2026-11-24T16:08:00Z",
       "ok": true
     },
     "mw_bulletins": {
-      "contributed": 8,
+      "contributed": 7,
       "error": null,
       "fetched": 10,
       "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-11-24T14:32:10Z",
+      "newest": "2026-11-24T16:00:53Z",
       "ok": true
     },
     "yahoo_dji": {
       "contributed": 10,
       "error": null,
-      "fetched": 18,
-      "fresh": 16,
+      "fetched": 17,
+      "fresh": 15,
       "label": "Yahoo Finance",
-      "newest": "2026-11-24T14:42:48Z",
+      "newest": "2026-11-24T16:00:42Z",
       "ok": true
     }
   }
