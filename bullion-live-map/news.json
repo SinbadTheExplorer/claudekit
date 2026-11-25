@@ -1,6 +1,70 @@
 {
-  "generated_at": "2026-11-25T20:12:05Z",
+  "generated_at": "2026-11-25T21:12:06Z",
   "headlines": [
+    {
+      "category": "financials",
+      "headline": "Wall Street rebounds amid fragile sentiment as Nasdaq recovers from steep morning drop",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-rebounds-amid-fragile-210348853.html?.tsrc=rss",
+      "published": "2026-11-25T21:03:48Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "Dow closes higher after big comeback; S&P 500, Nasdaq fall but end well off lows",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=3e0785ac-4ee8-482e-96ea-bb9b37898ccd&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-25T21:02:45Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "federal",
+      "headline": "10-year Treasury yield slides despite sticky inflation data as investors buy bonds for protection",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/25/treasury-yields-bonds-inflation.html",
+      "published": "2026-11-25T21:02:05Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Vance says he was assured Jensen Huang was not under DOJ investigation",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/25/vance-jensen-huang-nvidia-doj-investigation.html",
+      "published": "2026-11-25T21:00:08Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Update: US Equity Indexes Mixed, Treasury Yields Drop as Investors Rotate Out of Chipmakers",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-treasury-205803677.html?.tsrc=rss",
+      "published": "2026-11-25T20:58:03Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "energy",
+      "headline": "Sector Update: Energy Stocks Rise Late Afternoon",
+      "image": null,
+      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-rise-afternoon-205633406.html?.tsrc=rss",
+      "published": "2026-11-25T20:56:33Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Small Caps and Blue Chips Outpace Broader Market Through Midweek Session",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/small-caps-blue-chips-outpace-205500309.html?.tsrc=rss",
+      "published": "2026-11-25T20:55:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Nvidia heading for first \u2018death cross\u2019 since March 2025 as the stock struggles",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=792b6c57-7eb1-45a0-9bf0-d84258507eea&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-25T20:42:10Z",
+      "sentiment": "neutral"
+    },
     {
       "category": "other",
       "headline": "Dow up 200 points, S&P 500 and Nasdaq pare back losses as stocks bounce off lows",
@@ -16,6 +80,14 @@
       "link": "https://finance.yahoo.com/m/90407e46-3b17-34e8-8c82-527bf00b63e4/stock-market-today%3A-dow.html?.tsrc=rss",
       "published": "2026-11-25T19:57:02Z",
       "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "We're buying more of a stock down big from its July highs",
+      "image": null,
+      "link": "https://www.cnbc.com/investingclub/2026/11/25/were-buying-more-of-a-stock-down-big-from-its-july-highs.html",
+      "published": "2026-11-25T19:55:18Z",
+      "sentiment": "neutral"
     },
     {
       "category": "other",
@@ -63,14 +135,6 @@
       "image": "news-images/0b5704edd976ddf03e8fc515.jpg",
       "link": "https://www.marketwatch.com/story/new-home-sales-just-hit-a-2026-high-as-builders-dangle-low-mortgages-and-black-friday-deals-291a3b62?mod=mw_rss_topstories",
       "published": "2026-11-25T19:20:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html",
-      "published": "2026-11-25T19:19:05Z",
       "sentiment": "neutral"
     },
     {
@@ -138,14 +202,6 @@
       "sentiment": "bearish"
     },
     {
-      "category": "federal",
-      "headline": "10-year Treasury yield slides despite sticky inflation data as investors buy bonds for protection",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/25/treasury-yields-bonds-inflation.html",
-      "published": "2026-11-25T18:08:08Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "tech",
       "headline": "Update: Nasdaq Heads for Bear Market as Sellers Descend on AI Trade",
       "image": null,
@@ -171,26 +227,10 @@
     },
     {
       "category": "other",
-      "headline": "Stock Market Trading Hours For Thanksgiving And Black Friday",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/b9c07147-90c9-300a-9712-4f1b0d4b57b3/stock-market-trading-hours.html?.tsrc=rss",
-      "published": "2026-11-25T17:39:16Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
       "headline": "Why this stock-market selloff is probably going to get worse before it gets better",
       "image": "news-images/d409a2b95191a4bb27e8cb32.jpg",
       "link": "https://www.marketwatch.com/story/why-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better-fce63a89?mod=mw_rss_topstories",
       "published": "2026-11-25T17:39:00Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "federal",
-      "headline": "Stock Market Midday, Nov. 25: Nasdaq Plunges 4% as AI Sell-Off Deepens and Inflation Remains Stubborn",
-      "image": null,
-      "link": "https://www.fool.com/coverage/stock-market-today/2026/11/25/stock-market-midday-nov-25-nasdaq-plunges-4-as-ai-sell-off-deepens-and-inflation-remains-stubborn/?.tsrc=rss",
-      "published": "2026-11-25T17:37:05Z",
       "sentiment": "bearish"
     },
     {
@@ -234,22 +274,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "other",
-      "headline": "The Nasdaq Is Approaching Bear Market Territory: 2 Stocks Down 22% and 37% to Buy Right Now",
-      "image": null,
-      "link": "https://www.fool.com/investing/2026/11/25/the-nasdaq-is-approaching-bear-market-territory-2-stocks-down-22-and-37-to-buy-right-now/?.tsrc=rss",
-      "published": "2026-11-25T17:02:48Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Nebius Plunges 12%, Oracle Sinks 8% as AI Cloud Selloff Deepens; IBM Rises 2%: Is IBM a Safer AI Play?",
-      "image": null,
-      "link": "https://247wallst.com/investing/2026/11/25/nebius-plunges-12-oracle-sinks-8-as-ai-cloud-selloff-deepens-ibm-rises-2-is-ibm-a-safer-ai-play/?.tsrc=rss",
-      "published": "2026-11-25T16:56:01Z",
-      "sentiment": "bearish"
-    },
-    {
       "category": "tech",
       "headline": "Nvidia\u2019s stock is giving back more than half of Monday\u2019s rally",
       "image": null,
@@ -263,14 +287,6 @@
       "image": null,
       "link": "https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html",
       "published": "2026-11-25T16:17:13Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Anthropic's stock has been a clunker post-IPO. Why that matters for the AI trade",
-      "image": null,
-      "link": "https://www.cnbc.com/investingclub/2026/11/25/anthropics-stock-has-been-a-clunker-post-ipo-why-that-matters-for-the-ai-trade.html",
-      "published": "2026-11-25T16:05:25Z",
       "sentiment": "neutral"
     },
     {
@@ -304,25 +320,9 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=3d24283f-a15b-49cd-ba0b-aedfbfad62bd&amp;mod=mw_rss_bulletins",
       "published": "2026-11-25T12:02:50Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "financials",
-      "headline": "Futures point to ugly Wall Street start, with Nasdaq seen down 2%: live updates",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=4d73bd15-7732-4d31-90bf-98c7697e1199&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-25T10:20:41Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Roth IRA conversions aren\u2019t free money. Watch out for these 5 costly mistakes.",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=49f7e7c5-811f-4dff-97d4-71bec056c156&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-24T23:54:39Z",
-      "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-11-25T20:07:30Z",
+  "newest_item_published": "2026-11-25T21:03:48Z",
   "source_item_count": 65,
   "sources": {
     "cnbc": {
@@ -331,7 +331,7 @@
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-11-25T19:52:47Z",
+      "newest": "2026-11-25T21:02:05Z",
       "ok": true
     },
     "marketwatch": {
@@ -349,7 +349,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-11-25T20:07:30Z",
+      "newest": "2026-11-25T21:02:45Z",
       "ok": true
     },
     "yahoo_dji": {
@@ -358,7 +358,7 @@
       "fetched": 15,
       "fresh": 15,
       "label": "Yahoo Finance",
-      "newest": "2026-11-25T19:57:02Z",
+      "newest": "2026-11-25T21:03:48Z",
       "ok": true
     }
   }
