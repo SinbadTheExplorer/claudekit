@@ -1,12 +1,116 @@
 {
-  "generated_at": "2026-11-25T15:12:04Z",
+  "generated_at": "2026-11-25T16:12:10Z",
   "headlines": [
+    {
+      "category": "tech",
+      "headline": "Anthropic's stock has been a clunker post-IPO. Why that matters for the AI trade",
+      "image": null,
+      "link": "https://www.cnbc.com/investingclub/2026/11/25/anthropics-stock-has-been-a-clunker-post-ipo-why-that-matters-for-the-ai-trade.html",
+      "published": "2026-11-25T16:05:25Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "international",
+      "headline": "U.S. proposes new tariffs on 14 trading partners, including China and the EU",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html",
+      "published": "2026-11-25T16:02:52Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "energy",
+      "headline": "Investors led by U.S. billionaire Todd Boehly to buy Lukoil's oil and gas assets outside Russia, sources say",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/25/investors-led-by-todd-boehly-to-buy-lukoil-oil-and-gas-assets-outside-russia.html",
+      "published": "2026-11-25T16:00:45Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
+      "image": "news-images/2bf715750cfdffea8ac2f234.jpg",
+      "link": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
+      "published": "2026-11-25T16:00:00Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "tech",
+      "headline": "Stock Market Today: Huangover Is Causing Headache for Tech Stocks",
+      "image": null,
+      "link": "https://247wallst.com/investing/2026/11/25/stock-market-today-huangover-is-causing-headache-for-tech-stocks/?.tsrc=rss",
+      "published": "2026-11-25T15:56:42Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Saudi national charged in OpenAI bugging to be released on $1 million bond",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/24/openai-bugging-aflozan-release-saudi.html",
+      "published": "2026-11-25T15:55:40Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "US inflation hits highest since May after prices climb 3.8% over the last year",
+      "image": null,
+      "link": "https://finance.yahoo.com/economy/policy/articles/consumer-prices-highest-since-may-135406011.html?.tsrc=rss",
+      "published": "2026-11-25T15:46:15Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Nvidia\u2019s stock is giving back more than half of Monday\u2019s rally as dip buyers cash in",
+      "image": "news-images/c248110996f2faa41eefe307.jpg",
+      "link": "https://www.marketwatch.com/story/nvidias-stock-is-giving-back-more-than-half-of-mondays-rally-as-dip-buyers-cash-in-ee4fa52c?mod=mw_rss_topstories",
+      "published": "2026-11-25T15:43:00Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "Stock Market Today: Dow Slammed 800 Points; Dell Falls Hard Despite Big Earnings (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/90407e46-3b17-34e8-8c82-527bf00b63e4/stock-market-today%3A-dow.html?.tsrc=rss",
+      "published": "2026-11-25T15:41:42Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "Visiting Las Vegas is getting too expensive \u2014 but don\u2019t blame airfares",
+      "image": "news-images/7560928c80280d81c9530471.jpg",
+      "link": "https://www.marketwatch.com/story/visiting-las-vegas-is-getting-too-expensive-but-dont-blame-airfares-12e2c588?mod=mw_rss_topstories",
+      "published": "2026-11-25T15:41:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Kalshi traders say the odds of states imposing data center moratoriums is more likely than not",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/25/kalshi-traders-say-the-odds-of-states-imposing-data-center-moratoriums-is-more-likely-than-not.html",
+      "published": "2026-11-25T15:40:22Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Stock Market Trading Hours For Thanksgiving And Black Friday",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/b9c07147-90c9-300a-9712-4f1b0d4b57b3/stock-market-trading-hours.html?.tsrc=rss",
+      "published": "2026-11-25T15:14:29Z",
+      "sentiment": "neutral"
+    },
     {
       "category": "federal",
       "headline": "Inflation gets worse. Now the Fed no choice but to raise U.S. interest rates.",
       "image": "news-images/6b039d651c4a07e8c34dd2d5.jpg",
       "link": "https://www.marketwatch.com/story/inflation-gets-worse-now-the-fed-no-choice-but-to-raise-u-s-interest-rates-8b0c2c1f?mod=mw_rss_topstories",
       "published": "2026-11-25T15:08:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Dow Craters Over 1000 Points, Nasdaq Slips 4% As AI Trade Unravels \u2013 Investors Digest PCE Inflation, Fresh Tariff Proposal",
+      "image": null,
+      "link": "https://stocktwits.com/news-articles/markets/equity/dow-craters-over-1000-points-nasdaq-slips-4-as-ai-trade-unravels-investors-digest-pce-inflation-fresh-tariff-proposal/cNbHjJvR9mj?.tsrc=rss",
+      "published": "2026-11-25T15:05:03Z",
       "sentiment": "neutral"
     },
     {
@@ -39,14 +143,6 @@
       "image": null,
       "link": "https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html",
       "published": "2026-11-25T14:55:10Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Stock Market Today: Dow Dives 700 Points As Nvidia Sells Off, Inflation Rises; Anthropic Sinks (Live Coverage)",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/90407e46-3b17-34e8-8c82-527bf00b63e4/stock-market-today%3A-dow-dives.html?.tsrc=rss",
-      "published": "2026-11-25T14:50:50Z",
       "sentiment": "neutral"
     },
     {
@@ -138,54 +234,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "other",
-      "headline": "Budget carrier Norse Atlantic falls 78% after warning its finances are \u2018critical\u2019 amid soaring fuel costs",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/25/norse-atlantic-financial-warning-fuel-costs.html",
-      "published": "2026-11-25T14:24:04Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "federal",
-      "headline": "Fed\u2019s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
-      "published": "2026-11-25T14:18:45Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Secondhand shopping is going mainstream this holiday season as consumers seek value",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/25/secondhand-holiday-shopping-grows-as-shoppers-seek-value.html",
-      "published": "2026-11-25T14:17:01Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Our top 10 things to watch in the stock market Wednesday",
-      "image": null,
-      "link": "https://www.cnbc.com/investingclub/2026/11/25/our-top-10-things-to-watch-in-the-stock-market-wednesday.html",
-      "published": "2026-11-25T14:15:30Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "U.S. proposes fresh tariffs on China and others as Trump doubles down on his favorite trade weapon",
-      "image": "news-images/305f5e68ab31eb3c9bc78741.jpg",
-      "link": "https://www.marketwatch.com/story/u-s-proposes-fresh-tariffs-on-china-others-as-trump-doubles-down-on-his-favorite-trade-weapon-cd9a1df9?mod=mw_rss_topstories",
-      "published": "2026-11-25T14:14:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "healthcare",
-      "headline": "Coming next year: Medicare Advantage plans without drug coverage for almost 640,000 people and fewer choices for the rest",
-      "image": "news-images/f1bdb9b4cd25f16ab9dececd.jpg",
-      "link": "https://www.marketwatch.com/story/coming-next-year-medicare-advantage-plans-without-drug-coverage-for-almost-640-000-people-and-fewer-choices-for-the-rest-25242d69?mod=mw_rss_topstories",
-      "published": "2026-11-25T14:13:00Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "federal",
       "headline": "Update: Potential New US Tariffs Weigh on US Equity Futures Pre-Bell",
       "image": null,
@@ -202,60 +250,12 @@
       "sentiment": "neutral"
     },
     {
-      "category": "tech",
-      "headline": "I hate that Jensen Huang is back at Nvidia, but I love what it\u2019s done for my 401(k). Am I a hypocrite?",
-      "image": "news-images/5b7c7c95be1da02e122650d0.jpg",
-      "link": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
-      "published": "2026-11-25T14:01:00Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "federal",
       "headline": "Inflation worsens. The Fed has no choice but to raise interest rates.",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=5d33d7f1-8246-4f86-be6e-a047bb374f6c&amp;mod=mw_rss_bulletins",
       "published": "2026-11-25T13:39:13Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "international",
-      "headline": "U.S. proposes new tariffs on 14 trading partners, including China and the EU",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html",
-      "published": "2026-11-25T13:37:35Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Stock Market Today: Futures Plunge as AI Rout Resumes; Nvidia Leads Chip Stocks Lower, Anthropic Drops Further Below IPO Price",
-      "image": null,
-      "link": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-11252026-12279355?.tsrc=rss",
-      "published": "2026-11-25T13:32:40Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "tech",
-      "headline": "Nasdaq Futures Tumble as AI Selloff Returns",
-      "image": null,
-      "link": "https://www.wsj.com/finance/stocks/nasdaq-futures-slide-as-ai-growth-fears-return-to-center-stage-ff9a6d6b?.tsrc=rss",
-      "published": "2026-11-25T13:28:00Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "tech",
-      "headline": "Investors Are 'Over' the AI Trade\u2014and the Stock Market Is in Trouble",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/41615497-454e-30a0-832b-fb57024ef73b/investors-are-%27over%27-the-ai.html?.tsrc=rss",
-      "published": "2026-11-25T13:15:11Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Dow Jones Futures Fall, Techs Dive; Trump Says 'Not Too Late' For U.S. To Take Nvidia Stake",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/d96603c1-fe7f-3bf3-8158-0728b464d469/dow-jones-futures-fall%2C-techs.html?.tsrc=rss",
-      "published": "2026-11-25T13:12:43Z",
-      "sentiment": "bearish"
     },
     {
       "category": "tech",
@@ -322,8 +322,8 @@
       "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-11-25T15:08:00Z",
-  "source_item_count": 67,
+  "newest_item_published": "2026-11-25T16:05:25Z",
+  "source_item_count": 66,
   "sources": {
     "cnbc": {
       "contributed": 10,
@@ -331,7 +331,7 @@
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-11-25T15:00:01Z",
+      "newest": "2026-11-25T16:05:25Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,7 +340,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-11-25T15:08:00Z",
+      "newest": "2026-11-25T16:00:00Z",
       "ok": true
     },
     "mw_bulletins": {
@@ -355,10 +355,10 @@
     "yahoo_dji": {
       "contributed": 10,
       "error": null,
-      "fetched": 17,
-      "fresh": 16,
+      "fetched": 16,
+      "fresh": 15,
       "label": "Yahoo Finance",
-      "newest": "2026-11-25T14:50:50Z",
+      "newest": "2026-11-25T15:56:42Z",
       "ok": true
     }
   }
