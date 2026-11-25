@@ -1,12 +1,100 @@
 {
-  "generated_at": "2026-11-25T19:12:03Z",
+  "generated_at": "2026-11-25T20:12:05Z",
   "headlines": [
+    {
+      "category": "other",
+      "headline": "Dow up 200 points, S&P 500 and Nasdaq pare back losses as stocks bounce off lows",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=8729df74-1dfa-472b-a24a-3dbbd60045df&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-25T20:07:30Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Stock Market Today: Dow Reverses For 275-Point Gain; This Ad Firm Breaks Out (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/90407e46-3b17-34e8-8c82-527bf00b63e4/stock-market-today%3A-dow.html?.tsrc=rss",
+      "published": "2026-11-25T19:57:02Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "Disney Stock Offers A Sizable Dividend. Ramp It Up With A Covered-Call Trade.",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/22f44b26-f8a3-3ba4-8c88-1c18b8115fc7/disney-stock-offers-a-sizable.html?.tsrc=rss",
+      "published": "2026-11-25T19:53:23Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html",
+      "published": "2026-11-25T19:52:47Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Fed says inflation hasn\u2019t gotten any better ahead of key December vote on rates",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=9c1a90f8-948c-4f54-b8df-e4b29931f037&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-25T19:49:47Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Nvidia is heading for its first \u2018death cross\u2019 since March 2025 as stock continues to struggle",
+      "image": "news-images/dbae50606d1a646f00f95b36.jpg",
+      "link": "https://www.marketwatch.com/story/nvidia-is-heading-for-its-first-death-cross-since-march-2025-as-stock-continues-to-struggle-a611b99c?mod=mw_rss_topstories",
+      "published": "2026-11-25T19:43:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "The Fed says inflation hasn\u2019t gotten any better ahead of its key December vote to raise rates",
+      "image": "news-images/749d62a424eea14dc3a31efa.jpg",
+      "link": "https://www.marketwatch.com/story/the-fed-says-inflation-hasnt-gotten-any-better-ahead-of-its-key-december-vote-to-raise-rates-65024d33?mod=mw_rss_topstories",
+      "published": "2026-11-25T19:39:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "realestate",
+      "headline": "New-home sales just hit a 2026 high as builders dangle low mortgages and Black Friday deals",
+      "image": "news-images/0b5704edd976ddf03e8fc515.jpg",
+      "link": "https://www.marketwatch.com/story/new-home-sales-just-hit-a-2026-high-as-builders-dangle-low-mortgages-and-black-friday-deals-291a3b62?mod=mw_rss_topstories",
+      "published": "2026-11-25T19:20:00Z",
+      "sentiment": "neutral"
+    },
     {
       "category": "tech",
       "headline": "Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return",
       "image": null,
       "link": "https://www.cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html",
-      "published": "2026-11-25T19:04:20Z",
+      "published": "2026-11-25T19:19:05Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "crypto",
+      "headline": "Why macro investor Raoul Pal says the dollar is the signal to watch for stocks and crypto",
+      "image": "news-images/27ec100c0ffaf3b64258b0e1.jpg",
+      "link": "https://www.marketwatch.com/story/why-macro-investor-raoul-pal-says-the-dollar-is-the-signal-to-watch-for-stocks-and-crypto-d36f3c49?mod=mw_rss_topstories",
+      "published": "2026-11-25T19:16:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Bullish hopes spring as traders bet against a higher VIX: Options Action Live",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/25/bullish-hopes-spring-as-traders-bet-against-a-higher-vix-options-action-live.html",
+      "published": "2026-11-25T19:12:45Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "Saudi national in OpenAI bugging case is out on bond after DOJ tries to block release",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/25/openai-bugging-aflozan-bond-release-saudi.html",
+      "published": "2026-11-25T19:11:53Z",
       "sentiment": "neutral"
     },
     {
@@ -47,30 +135,6 @@
       "image": null,
       "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-while-184032886.html?.tsrc=rss",
       "published": "2026-11-25T18:40:32Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "other",
-      "headline": "Saudi national in OpenAI bugging case is out on bond after DOJ tries to block release",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/25/openai-bugging-aflozan-bond-release-saudi.html",
-      "published": "2026-11-25T18:23:12Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html",
-      "published": "2026-11-25T18:22:59Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Stock Market Today: Dow Cuts Loss Of 1,100 Points, Equal-Weighted S&P 500 Fund Up (Live Coverage)",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/90407e46-3b17-34e8-8c82-527bf00b63e4/stock-market-today%3A-dow-cuts.html?.tsrc=rss",
-      "published": "2026-11-25T18:17:37Z",
       "sentiment": "bearish"
     },
     {
@@ -178,51 +242,11 @@
       "sentiment": "neutral"
     },
     {
-      "category": "federal",
-      "headline": "How soon Trump\u2019s new tariffs could hit the economy \u2014 and your wallet",
-      "image": "news-images/305f5e68ab31eb3c9bc78741.jpg",
-      "link": "https://www.marketwatch.com/story/u-s-proposes-fresh-tariffs-on-china-others-as-trump-doubles-down-on-his-favorite-trade-weapon-cd9a1df9?mod=mw_rss_topstories",
-      "published": "2026-11-25T16:59:00Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "tech",
       "headline": "Nebius Plunges 12%, Oracle Sinks 8% as AI Cloud Selloff Deepens; IBM Rises 2%: Is IBM a Safer AI Play?",
       "image": null,
       "link": "https://247wallst.com/investing/2026/11/25/nebius-plunges-12-oracle-sinks-8-as-ai-cloud-selloff-deepens-ibm-rises-2-is-ibm-a-safer-ai-play/?.tsrc=rss",
       "published": "2026-11-25T16:56:01Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "other",
-      "headline": "The latest stock-market drop could lower your tax bill over your lifetime",
-      "image": "news-images/f06d1886385c08ce98426d2c.jpg",
-      "link": "https://www.marketwatch.com/story/the-latest-stock-market-drop-could-lower-your-tax-bill-over-your-lifetime-99420b97?mod=mw_rss_topstories",
-      "published": "2026-11-25T16:53:00Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "tech",
-      "headline": "Oracle\u2019s stock sinks toward a 3-year low as the AI trade continues to unravel",
-      "image": "news-images/87eb6168164cf3dd8d5101fb.jpg",
-      "link": "https://www.marketwatch.com/story/oracles-stock-sinks-toward-a-3-year-low-as-the-ai-trade-continues-to-unravel-d4698d77?mod=mw_rss_topstories",
-      "published": "2026-11-25T16:52:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "\u2018My life is in the stock market\u2019: Recent volatility is shaking up holiday spending plans for these shoppers",
-      "image": "news-images/8286633729ac576305c7a35c.jpg",
-      "link": "https://www.marketwatch.com/story/my-life-is-in-the-stock-market-recent-volatility-is-shaking-up-holiday-spending-plans-for-these-shoppers-bd9485b3?mod=mw_rss_topstories",
-      "published": "2026-11-25T16:49:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Nasdaq tumbles 4% as Nvidia leads AI sell-off, inflation and tariffs weigh on investors",
-      "image": null,
-      "link": "https://nypost.com/2026/11/25/business/nasdaq-tumbles-4-as-nvidia-leads-ai-sell-off-inflation-and-tariffs-weigh-on-investors/?.tsrc=rss",
-      "published": "2026-11-25T16:43:13Z",
       "sentiment": "bearish"
     },
     {
@@ -247,14 +271,6 @@
       "image": null,
       "link": "https://www.cnbc.com/investingclub/2026/11/25/anthropics-stock-has-been-a-clunker-post-ipo-why-that-matters-for-the-ai-trade.html",
       "published": "2026-11-25T16:05:25Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "international",
-      "headline": "U.S. proposes new tariffs on 14 trading partners, including China and the EU",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html",
-      "published": "2026-11-25T16:02:52Z",
       "sentiment": "neutral"
     },
     {
@@ -304,25 +320,9 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=49f7e7c5-811f-4dff-97d4-71bec056c156&amp;mod=mw_rss_bulletins",
       "published": "2026-11-24T23:54:39Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "What to do if your Thanksgiving flight gets delayed",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=62547414-4798-46ea-914b-bfe2ca7d8664&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-24T22:41:25Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Dell shares rise on earnings report, as the AI boom helps sales more than double",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=6fe21887-6f4a-4ae4-91ba-9f1f8fe6a227&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-24T21:22:08Z",
-      "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-11-25T19:04:20Z",
+  "newest_item_published": "2026-11-25T20:07:30Z",
   "source_item_count": 65,
   "sources": {
     "cnbc": {
@@ -331,7 +331,7 @@
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-11-25T19:04:20Z",
+      "newest": "2026-11-25T19:52:47Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,7 +340,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-11-25T18:52:00Z",
+      "newest": "2026-11-25T19:43:00Z",
       "ok": true
     },
     "mw_bulletins": {
@@ -349,7 +349,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-11-25T17:44:50Z",
+      "newest": "2026-11-25T20:07:30Z",
       "ok": true
     },
     "yahoo_dji": {
@@ -358,7 +358,7 @@
       "fetched": 15,
       "fresh": 15,
       "label": "Yahoo Finance",
-      "newest": "2026-11-25T18:59:47Z",
+      "newest": "2026-11-25T19:57:02Z",
       "ok": true
     }
   }
