@@ -1,20 +1,124 @@
 {
-  "generated_at": "2026-11-25T13:12:07Z",
+  "generated_at": "2026-11-25T14:12:06Z",
   "headlines": [
     {
+      "category": "federal",
+      "headline": "Fed\u2019s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
+      "published": "2026-11-25T14:11:08Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "I hate that Jensen Huang is back at Nvidia, but I love what it\u2019s done for my 401(k). Am I a hypocrite?",
+      "image": "news-images/5b7c7c95be1da02e122650d0.jpg",
+      "link": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
+      "published": "2026-11-25T14:01:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Stock Market Today: Dow Dives On Surprise Inflation Data; Nvidia, Anthropic Plunge (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/90407e46-3b17-34e8-8c82-527bf00b63e4/stock-market-today%3A-dow-dives.html?.tsrc=rss",
+      "published": "2026-11-25T13:54:31Z",
+      "sentiment": "bearish"
+    },
+    {
       "category": "other",
-      "headline": "S&P 500\u2019s slide through a key trendline \u2014 again \u2014 is an ominous sign, history suggests",
-      "image": "news-images/1ab16f949524177a2070e3a3.jpg",
-      "link": "https://www.marketwatch.com/story/s-p-500s-slide-through-a-key-trendline-again-is-an-ominous-sign-history-suggests-def8b99f?mod=mw_rss_topstories",
-      "published": "2026-11-25T13:09:00Z",
-      "sentiment": "bullish"
+      "headline": "Tech\u2019s slump is deepening. Are Americans heading into Black Friday with less buying power?",
+      "image": "news-images/cd4a2ad1bff781e14af52c90.jpg",
+      "link": "https://www.marketwatch.com/story/techs-slump-is-deepening-are-americans-heading-into-black-friday-with-less-buying-power-7f9da81c?mod=mw_rss_topstories",
+      "published": "2026-11-25T13:50:00Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "federal",
+      "headline": "Third-quarter GDP already looked great. Now it looks even better.",
+      "image": "news-images/6ce2fab436b223ba061d104a.jpg",
+      "link": "https://www.marketwatch.com/story/third-quarter-gdp-already-looked-great-now-it-looks-even-better-12057da5?mod=mw_rss_topstories",
+      "published": "2026-11-25T13:41:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Inflation worsens. The Fed has no choice but to raise interest rates.",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=5d33d7f1-8246-4f86-be6e-a047bb374f6c&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-25T13:39:13Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "international",
+      "headline": "U.S. proposes new tariffs on 14 trading partners, including China and the EU",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html",
+      "published": "2026-11-25T13:37:35Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Inflation gets worse. Now the Fed no choice but to raise U.S. interest rates.",
+      "image": "news-images/6b039d651c4a07e8c34dd2d5.jpg",
+      "link": "https://www.marketwatch.com/story/inflation-gets-worse-now-the-fed-no-choice-but-to-raise-u-s-interest-rates-8b0c2c1f?mod=mw_rss_topstories",
+      "published": "2026-11-25T13:34:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "The real price of Jensen Huang\u2019s return to Nvidia: Higher regulatory costs for the company \u2014 and the entire AI industry",
+      "image": "news-images/1446fe5caed19743d451bd08.jpg",
+      "link": "https://www.marketwatch.com/story/the-real-price-of-jensen-huangs-return-to-nvidia-higher-regulatory-costs-for-the-company-and-the-entire-ai-industry-982002d4?mod=mw_rss_topstories",
+      "published": "2026-11-25T13:30:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "U.S. proposes fresh tariffs on China, others as Trump doubles down on his favorite trade weapon",
+      "image": "news-images/305f5e68ab31eb3c9bc78741.jpg",
+      "link": "https://www.marketwatch.com/story/u-s-proposes-fresh-tariffs-on-china-others-as-trump-doubles-down-on-his-favorite-trade-weapon-cd9a1df9?mod=mw_rss_topstories",
+      "published": "2026-11-25T13:30:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Nasdaq Futures Tumble as AI Selloff Returns",
+      "image": null,
+      "link": "https://www.wsj.com/finance/stocks/nasdaq-futures-slide-as-ai-growth-fears-return-to-center-stage-ff9a6d6b?.tsrc=rss",
+      "published": "2026-11-25T13:28:00Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "financials",
+      "headline": "The S&P 500 is headed to 8,200 \u2014 and downturns like this one are actually part of the reason, says JPMorgan",
+      "image": "news-images/a9b9fa16e71cf2b6bbd8a9a3.jpg",
+      "link": "https://www.marketwatch.com/story/the-s-p-500-is-headed-to-8-200-and-downturns-like-this-one-are-actually-part-of-the-reason-why-says-jpmorgan-b6acae4b?mod=mw_rss_topstories",
+      "published": "2026-11-25T13:23:00Z",
+      "sentiment": "neutral"
     },
     {
       "category": "other",
       "headline": "Trump\u2019s meddling in Huang scandal reignites voter angst over tech\u2019s outsized political power",
       "image": null,
       "link": "https://www.cnbc.com/2026/11/25/huang-reinstatement-reignites-voter-angst-over-techs-outsized-power.html",
-      "published": "2026-11-25T13:05:38Z",
+      "published": "2026-11-25T13:20:34Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "What the options market says to do with Nvidia\u2019s stock \u2014 and the rest of the stock market",
+      "image": "news-images/1078e44e285c2af34d907a7c.jpg",
+      "link": "https://www.marketwatch.com/story/what-the-options-market-says-to-do-with-nvidias-stock-and-the-rest-of-the-stock-market-de9584ae?mod=mw_rss_topstories",
+      "published": "2026-11-25T13:16:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "The Fed is likely to raise rates in December. What it means for your holiday spending",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/25/fed-december-rate-hike-consumer-impact.html",
+      "published": "2026-11-25T13:15:01Z",
       "sentiment": "neutral"
     },
     {
@@ -22,24 +126,16 @@
       "headline": "Dow Jones Futures Fall, Techs Dive; Trump Says 'Not Too Late' For U.S. To Take Nvidia Stake",
       "image": null,
       "link": "https://finance.yahoo.com/m/d96603c1-fe7f-3bf3-8158-0728b464d469/dow-jones-futures-fall%2C-techs.html?.tsrc=rss",
-      "published": "2026-11-25T13:05:11Z",
+      "published": "2026-11-25T13:12:43Z",
       "sentiment": "bearish"
     },
     {
-      "category": "crypto",
-      "headline": "Liquidity peaked. First bitcoin fell, then gold and now stocks. How long the downturn will last, according to this veteran strategist.",
-      "image": "news-images/c42bf7e61af783c37d75bf23.jpg",
-      "link": "https://www.marketwatch.com/story/liquidity-peaked-first-bitcoin-fell-then-gold-and-now-stocks-how-long-the-downturn-will-last-according-to-this-veteran-strategist-bb91d6c4?mod=mw_rss_topstories",
-      "published": "2026-11-25T13:05:00Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "other",
-      "headline": "Even the price of toys is on the rise. How Americans are scaling back holiday plans",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html",
-      "published": "2026-11-25T13:01:01Z",
-      "sentiment": "neutral"
+      "headline": "S&P 500\u2019s slide through a key trendline \u2014 again \u2014 is an ominous sign, history suggests",
+      "image": "news-images/1ab16f949524177a2070e3a3.jpg",
+      "link": "https://www.marketwatch.com/story/s-p-500s-slide-through-a-key-trendline-again-is-an-ominous-sign-history-suggests-def8b99f?mod=mw_rss_topstories",
+      "published": "2026-11-25T13:09:00Z",
+      "sentiment": "bullish"
     },
     {
       "category": "federal",
@@ -59,22 +155,6 @@
     },
     {
       "category": "tech",
-      "headline": "Here\u2019s how to find value in cybersecurity stocks after a strong year",
-      "image": "news-images/b388a828bc0663958f74037b.jpg",
-      "link": "https://www.marketwatch.com/story/heres-how-to-find-value-in-cybersecurity-stocks-after-a-strong-year-7fbe1f80?mod=mw_rss_topstories",
-      "published": "2026-11-25T12:30:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "This strategist\u2019s bond-trading model is outperforming by a wide margin. A Fed that\u2019s slowing the economy is a good thing, he says.",
-      "image": "news-images/3ccd6ba68328caeb8c08693a.jpg",
-      "link": "https://www.marketwatch.com/story/this-strategists-bond-trading-model-is-outperforming-by-a-wide-margin-the-fed-slowing-the-economy-is-a-good-thing-he-argues-f39dfc5f?mod=mw_rss_topstories",
-      "published": "2026-11-25T12:29:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
       "headline": "Liesman: Nvidia whiplash tests Kevin Warsh\u2019s push to read market signals",
       "image": null,
       "link": "https://www.cnbc.com/2026/11/25/nvidia-kevin-warsh-fed-market-signals.html",
@@ -88,14 +168,6 @@
       "link": "https://247wallst.com/investing/2026/11/25/jim-cramer-says-tuesdays-stock-market-pullback-is-actually-good-news/?.tsrc=rss",
       "published": "2026-11-25T12:22:51Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Tech\u2019s slump is deepening. Are Americans heading into Black Friday with less buying power?",
-      "image": "news-images/cd4a2ad1bff781e14af52c90.jpg",
-      "link": "https://www.marketwatch.com/story/techs-slump-is-deepening-are-americans-heading-into-black-friday-with-less-buying-power-7f9da81c?mod=mw_rss_topstories",
-      "published": "2026-11-25T12:20:00Z",
-      "sentiment": "bearish"
     },
     {
       "category": "tech",
@@ -162,14 +234,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "financials",
-      "headline": "The S&P 500 is headed to 8,200 \u2014 and downturns like this one are actually part of the reason, says JPMorgan",
-      "image": "news-images/a9b9fa16e71cf2b6bbd8a9a3.jpg",
-      "link": "https://www.marketwatch.com/story/the-s-p-500-is-headed-to-8-200-and-downturns-like-this-one-are-actually-part-of-the-reason-why-says-jpmorgan-b6acae4b?mod=mw_rss_topstories",
-      "published": "2026-11-25T11:27:00Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "other",
       "headline": "Budget carrier Norse Atlantic falls 77% after warning its finances are \u2018critical\u2019 amid soaring fuel costs",
       "image": null,
@@ -178,52 +242,12 @@
       "sentiment": "bearish"
     },
     {
-      "category": "tech",
-      "headline": "U.S. chip stocks extend losses premarket as AI spending concerns resurface",
-      "image": null,
-      "link": "https://finance.yahoo.com/technology/ai/articles/u-chip-stocks-extend-losses-104903644.html?.tsrc=rss",
-      "published": "2026-11-25T10:49:03Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "financials",
       "headline": "Futures point to ugly Wall Street start, with Nasdaq seen down 2%: live updates",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=4d73bd15-7732-4d31-90bf-98c7697e1199&amp;mod=mw_rss_bulletins",
       "published": "2026-11-25T10:20:41Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Kylie Jenner again relists concrete mansion in L.A. for $38 million",
-      "image": "news-images/01471e37b2dc3de68d8711b6.jpg",
-      "link": "https://www.marketwatch.com/story/kylie-jenner-again-relists-concrete-mansion-in-l-a-for-38-million-2e5143e5?mod=mw_rss_topstories",
-      "published": "2026-11-25T10:05:00Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "tech",
-      "headline": "I hate that Jensen Huang is back at Nvidia, but I love what it\u2019s done for my 401(k). Am I a hypocrite?",
-      "image": "news-images/5b7c7c95be1da02e122650d0.jpg",
-      "link": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
-      "published": "2026-11-25T10:05:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "NBA star Kevin Durant lists Arizona mansion for $13.9 million, a year after trade to Houston",
-      "image": "news-images/ff51848293e432f638022fbc.jpg",
-      "link": "https://www.marketwatch.com/story/nba-star-kevin-durant-lists-arizona-mansion-for-13-9-million-a-year-after-trade-to-houston-1b0ae57e?mod=mw_rss_topstories",
-      "published": "2026-11-25T10:01:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "US Stock Futures Fall as AI Sector Volatility Returns Ahead of Key PCE Inflation Data: Dow Jones, S&P, Nasdaq, Wall Street",
-      "image": null,
-      "link": "https://investorshub.advfn.com/market-news/article/40674/us-stock-futures-fall-as-ai-sector-volatility-returns-ahead-of-key-pce-inflation-data-dow-jones-sp-nasdaq-wall-street?.tsrc=rss",
-      "published": "2026-11-25T09:51:29Z",
-      "sentiment": "bearish"
     },
     {
       "category": "energy",
@@ -235,34 +259,18 @@
     },
     {
       "category": "tech",
+      "headline": "AI debt worries grow as Nvidia rebound masks Big Tech spending squeeze",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/25/ai-debt-big-tech-spending-nvidia.html",
+      "published": "2026-11-25T06:29:46Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "tech",
       "headline": "Crypto talent will return \u2018when AI implodes,\u2019 Arthur Hayes says",
       "image": null,
       "link": "https://www.cnbc.com/2026/11/25/talents-crypto-ai-investment.html",
       "published": "2026-11-25T06:09:44Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "international",
-      "headline": "\u2018Ready for any storm\u2019: UAE minister optimistic on economy as IMF lifts forecast",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/25/uae-iran-war-economy-oil.html",
-      "published": "2026-11-25T04:06:01Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "consumer",
-      "headline": "China\u2019s Xiamen Airlines to buy 50 Boeing jets in $7.4 billion deal",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/25/china-xiamen-boeing-deal.html",
-      "published": "2026-11-25T03:58:32Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "U.S. jury convicts Huawei in a criminal trial over fraud and trade secrets",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/25/huawei-fraud-trade-trial.html",
-      "published": "2026-11-25T02:43:33Z",
       "sentiment": "neutral"
     },
     {
@@ -312,17 +320,9 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=e86cf291-0047-40d4-aa03-30ad7e6329ee&amp;mod=mw_rss_bulletins",
       "published": "2026-11-24T20:06:24Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "The AI debt market isn\u2019t convinced the worst is over for investors",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=a7e788e3-e346-47a8-8c33-9e68a374d531&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-24T19:15:30Z",
-      "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-11-25T13:09:00Z",
+  "newest_item_published": "2026-11-25T14:11:08Z",
   "source_item_count": 68,
   "sources": {
     "cnbc": {
@@ -331,7 +331,7 @@
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-11-25T13:05:38Z",
+      "newest": "2026-11-25T14:11:08Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,7 +340,7 @@
       "fetched": 10,
       "fresh": 9,
       "label": "MarketWatch",
-      "newest": "2026-11-25T13:09:00Z",
+      "newest": "2026-11-25T14:01:00Z",
       "ok": true
     },
     "mw_bulletins": {
@@ -349,7 +349,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-11-25T12:19:45Z",
+      "newest": "2026-11-25T13:39:13Z",
       "ok": true
     },
     "yahoo_dji": {
@@ -358,7 +358,7 @@
       "fetched": 18,
       "fresh": 18,
       "label": "Yahoo Finance",
-      "newest": "2026-11-25T13:05:11Z",
+      "newest": "2026-11-25T13:54:31Z",
       "ok": true
     }
   }
