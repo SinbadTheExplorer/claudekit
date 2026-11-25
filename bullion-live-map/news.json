@@ -1,6 +1,78 @@
 {
-  "generated_at": "2026-11-25T18:12:12Z",
+  "generated_at": "2026-11-25T19:12:03Z",
   "headlines": [
+    {
+      "category": "tech",
+      "headline": "Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html",
+      "published": "2026-11-25T19:04:20Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Update: Equities Mostly Down Intraday Following Hot Inflation Report",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/equities-mostly-down-intraday-following-185947099.html?.tsrc=rss",
+      "published": "2026-11-25T18:59:47Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "There are 5,100 newly minted Anthropic millionaires \u2014 here\u2019s all the stuff they don\u2019t tell you about when you suddenly get rich",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/25/anthropic-ipo-employee-millionaires-sudden-wealth.html",
+      "published": "2026-11-25T18:52:59Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "consumer",
+      "headline": "Grocery stores have \u2018staggering deals\u2019 for Thanksgiving \u2014 but don\u2019t get used to these lower prices",
+      "image": "news-images/504d61edeb611fe7352524af.jpg",
+      "link": "https://www.marketwatch.com/story/grocery-stores-have-staggering-deals-for-thanksgiving-but-dont-get-used-to-these-lower-prices-just-yet-7adfc7f5?mod=mw_rss_topstories",
+      "published": "2026-11-25T18:52:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "energy",
+      "headline": "Sector Update: Energy Stocks Advance Wednesday Afternoon",
+      "image": null,
+      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-advance-wednesday-184725184.html?.tsrc=rss",
+      "published": "2026-11-25T18:47:25Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Update: US Equity Indexes Mixed While Treasury Yields Drop Amid Sharp Sell-Off in Chipmakers",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-while-184032886.html?.tsrc=rss",
+      "published": "2026-11-25T18:40:32Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "Saudi national in OpenAI bugging case is out on bond after DOJ tries to block release",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/25/openai-bugging-aflozan-bond-release-saudi.html",
+      "published": "2026-11-25T18:23:12Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html",
+      "published": "2026-11-25T18:22:59Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Stock Market Today: Dow Cuts Loss Of 1,100 Points, Equal-Weighted S&P 500 Fund Up (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/90407e46-3b17-34e8-8c82-527bf00b63e4/stock-market-today%3A-dow-cuts.html?.tsrc=rss",
+      "published": "2026-11-25T18:17:37Z",
+      "sentiment": "bearish"
+    },
     {
       "category": "federal",
       "headline": "10-year Treasury yield slides despite sticky inflation data as investors buy bonds for protection",
@@ -90,14 +162,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "tech",
-      "headline": "Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html",
-      "published": "2026-11-25T17:10:17Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "other",
       "headline": "Prediction markets push OpenAI IPO expectations later into 2027",
       "image": null,
@@ -154,35 +218,11 @@
       "sentiment": "neutral"
     },
     {
-      "category": "other",
-      "headline": "I\u2019ve been married for 58 years. It\u2019s \u2018our\u2019 money, not \u2018his\u2019 and \u2018hers.\u2019 Why do so many couples keep their finances separate?",
-      "image": "news-images/0a0c87a10e18a60e48151710.jpg",
-      "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
-      "published": "2026-11-25T16:45:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Stock Market Today: Dow Falls 700 Points, Nasdaq Off 4%; Nutanix Dives On CEO Exit (Live Coverage)",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/90407e46-3b17-34e8-8c82-527bf00b63e4/stock-market-today%3A-dow-falls.html?.tsrc=rss",
-      "published": "2026-11-25T16:43:58Z",
-      "sentiment": "bearish"
-    },
-    {
       "category": "federal",
       "headline": "Nasdaq tumbles 4% as Nvidia leads AI sell-off, inflation and tariffs weigh on investors",
       "image": null,
       "link": "https://nypost.com/2026/11/25/business/nasdaq-tumbles-4-as-nvidia-leads-ai-sell-off-inflation-and-tariffs-weigh-on-investors/?.tsrc=rss",
       "published": "2026-11-25T16:43:13Z",
-      "sentiment": "bearish"
-    },
-    {
-      "category": "other",
-      "headline": "Tom Gardner's Playbook for a Falling Stock Market",
-      "image": null,
-      "link": "https://www.fool.com/investing/2026/11/25/tom-gardner-s-playbook-for-a-falling-stock-market/?.tsrc=rss",
-      "published": "2026-11-25T16:40:18Z",
       "sentiment": "bearish"
     },
     {
@@ -192,30 +232,6 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=aa7bec7d-3ade-46f3-91a7-da9946c220a4&amp;mod=mw_rss_bulletins",
       "published": "2026-11-25T16:37:37Z",
       "sentiment": "bullish"
-    },
-    {
-      "category": "federal",
-      "headline": "Fed\u2019s preferred inflation gauge jumps to 3.8% as Wall Street braces for rate hike",
-      "image": null,
-      "link": "https://nypost.com/2026/11/25/business/feds-preferred-inflation-gauge-jumps-to-3-8-as-wall-street-braces-for-rate-hike/?.tsrc=rss",
-      "published": "2026-11-25T16:34:07Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "other",
-      "headline": "There are 5,100 newly minted Anthropic millionaires\u2014here\u2019s all the stuff they don\u2019t tell you about when you suddenly get rich",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/25/anthropic-ipo-employee-millionaires-sudden-wealth.html",
-      "published": "2026-11-25T16:32:55Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Zacks.com featured highlights include NVIDIA, Arrow Electronics, Super Micro Computer, BP and Ingram Micro",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-com-featured-highlights-nvidia-162000475.html?.tsrc=rss",
-      "published": "2026-11-25T16:20:00Z",
-      "sentiment": "neutral"
     },
     {
       "category": "other",
@@ -239,22 +255,6 @@
       "image": null,
       "link": "https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html",
       "published": "2026-11-25T16:02:52Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "energy",
-      "headline": "Investors led by U.S. billionaire Todd Boehly to buy Lukoil's oil and gas assets outside Russia, sources say",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/25/investors-led-by-todd-boehly-to-buy-lukoil-oil-and-gas-assets-outside-russia.html",
-      "published": "2026-11-25T16:00:45Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Saudi national charged in OpenAI bugging to be released on $1 million bond",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/24/openai-bugging-aflozan-release-saudi.html",
-      "published": "2026-11-25T15:55:40Z",
       "sentiment": "neutral"
     },
     {
@@ -322,8 +322,8 @@
       "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-11-25T18:08:08Z",
-  "source_item_count": 66,
+  "newest_item_published": "2026-11-25T19:04:20Z",
+  "source_item_count": 65,
   "sources": {
     "cnbc": {
       "contributed": 10,
@@ -331,7 +331,7 @@
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-11-25T18:08:08Z",
+      "newest": "2026-11-25T19:04:20Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,7 +340,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-11-25T18:00:00Z",
+      "newest": "2026-11-25T18:52:00Z",
       "ok": true
     },
     "mw_bulletins": {
@@ -355,10 +355,10 @@
     "yahoo_dji": {
       "contributed": 10,
       "error": null,
-      "fetched": 16,
-      "fresh": 16,
+      "fetched": 15,
+      "fresh": 15,
       "label": "Yahoo Finance",
-      "newest": "2026-11-25T18:02:14Z",
+      "newest": "2026-11-25T18:59:47Z",
       "ok": true
     }
   }
