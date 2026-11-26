@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-26T20:12:06Z",
+  "generated_at": "2026-11-26T21:12:05Z",
   "headlines": [
+    {
+      "category": "federal",
+      "headline": "Trump demands probe into \u2018record setting error\u2019 after third-quarter GDP data gets massive revision higher",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
+      "published": "2026-11-26T20:25:28Z",
+      "sentiment": "neutral"
+    },
     {
       "category": "other",
       "headline": "A 66-year-old nurse is facing down retirement with just $500 saved. Who\u2019s to blame?",
       "image": "news-images/0e7083d4b2f52d0bfc5508fb.jpg",
       "link": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
       "published": "2026-11-26T19:00:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Trump demands probe into \u2018record setting error\u2019 after third-quarter GDP data gets massive revision higher",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
-      "published": "2026-11-26T18:44:15Z",
       "sentiment": "neutral"
     },
     {
@@ -88,6 +88,14 @@
       "link": "https://www.fool.com/investing/2026/11/26/sp-500-sell-off-heres-why-im-not-panicking-and-what-im-doing-instead/?.tsrc=rss",
       "published": "2026-11-26T16:05:02Z",
       "sentiment": "bearish"
+    },
+    {
+      "category": "tech",
+      "headline": "Buyer beware? Nvidia's volatile swings expose risks of single-stock ETFs",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/26/nvidias-volatile-swings-expose-risks-of-single-stock-etfs.html",
+      "published": "2026-11-26T16:00:01Z",
+      "sentiment": "neutral"
     },
     {
       "category": "other",
@@ -210,14 +218,6 @@
       "sentiment": "bullish"
     },
     {
-      "category": "financials",
-      "headline": "Switzerland\u2019s biggest bank set for showdown with lawmakers as capital fight intensifies amid crisis planning",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/26/ubs-swiss-capital-rules-finma-crisis-plan.html",
-      "published": "2026-11-26T11:17:39Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "other",
       "headline": "There\u2019s one proven way not to lose during a market downturn. Ignore it and risk blowing up your entire financial future",
       "image": null,
@@ -322,7 +322,7 @@
       "sentiment": "bullish"
     }
   ],
-  "newest_item_published": "2026-11-26T19:00:00Z",
+  "newest_item_published": "2026-11-26T20:25:28Z",
   "source_item_count": 67,
   "sources": {
     "cnbc": {
@@ -331,7 +331,7 @@
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-11-26T18:44:15Z",
+      "newest": "2026-11-26T20:25:28Z",
       "ok": true
     },
     "marketwatch": {
