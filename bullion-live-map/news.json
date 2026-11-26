@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-26T18:12:06Z",
+  "generated_at": "2026-11-26T19:12:06Z",
   "headlines": [
     {
       "category": "other",
-      "headline": "Dow Jones Futures Rise With U.S. Markets Shut; Look For This Bullish Signal",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/158e82fc-b889-34b6-8704-99a49e9a83ae/dow-jones-futures-rise-with.html?.tsrc=rss",
-      "published": "2026-11-26T17:58:34Z",
+      "headline": "A 66-year-old nurse is facing down retirement with just $500 saved. Who\u2019s to blame?",
+      "image": "news-images/0e7083d4b2f52d0bfc5508fb.jpg",
+      "link": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
+      "published": "2026-11-26T19:00:00Z",
       "sentiment": "neutral"
     },
     {
@@ -14,7 +14,31 @@
       "headline": "Trump demands probe into \u2018record setting error\u2019 after third-quarter GDP data gets massive revision higher",
       "image": null,
       "link": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
-      "published": "2026-11-26T17:57:32Z",
+      "published": "2026-11-26T18:44:15Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "I\u2019ve been married for 58 years. It\u2019s \u2018our\u2019 money, not \u2018his\u2019 and \u2018hers.\u2019 Why do so many couples keep their finances separate?",
+      "image": "news-images/0a0c87a10e18a60e48151710.jpg",
+      "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
+      "published": "2026-11-26T18:30:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Microdrama apps chase profits as Hollywood moves into short-form, vertical video",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/26/micro-drama-apps-hollywood-vertical-video.html",
+      "published": "2026-11-26T18:27:43Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Dow Jones Futures Rise With U.S. Markets Shut; Look For This Bullish Signal",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/158e82fc-b889-34b6-8704-99a49e9a83ae/dow-jones-futures-rise-with.html?.tsrc=rss",
+      "published": "2026-11-26T18:11:14Z",
       "sentiment": "neutral"
     },
     {
@@ -23,14 +47,6 @@
       "image": null,
       "link": "https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html",
       "published": "2026-11-26T17:52:15Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Microdrama apps chase profits as Hollywood moves into short-form, vertical video",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/26/micro-drama-apps-hollywood-vertical-video.html",
-      "published": "2026-11-26T17:39:23Z",
       "sentiment": "neutral"
     },
     {
@@ -170,14 +186,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "other",
-      "headline": "\u2018I felt so seen\u2019: Why families across America are laughing \u2014 and crying \u2014 over SNL\u2019s \u2018Sister\u2019 sketch",
-      "image": "news-images/e711ef357192825c96b1795a.jpg",
-      "link": "https://www.marketwatch.com/story/so-sad-and-so-true-has-your-family-talked-about-snls-sister-sketch-yet-19bf9d67?mod=mw_rss_topstories",
-      "published": "2026-11-26T13:06:00Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "consumer",
       "headline": "Planes, trains and automobiles: The best ways to beat travel fatigue\u2014so you can come home feeling rested and fulfilled",
       "image": null,
@@ -191,14 +199,6 @@
       "image": null,
       "link": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html",
       "published": "2026-11-26T12:46:55Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "financials",
-      "headline": "Capital preservation rather than chasing the market is how hedge funds are negotiating this volatility",
-      "image": "news-images/3d2054364dbaab66e435c933.jpg",
-      "link": "https://www.marketwatch.com/story/capital-preservation-rather-than-chasing-the-market-higher-is-how-hedge-funds-are-negotiating-market-volatility-f4288b71?mod=mw_rss_topstories",
-      "published": "2026-11-26T12:37:00Z",
       "sentiment": "neutral"
     },
     {
@@ -322,7 +322,7 @@
       "sentiment": "bullish"
     }
   ],
-  "newest_item_published": "2026-11-26T17:58:34Z",
+  "newest_item_published": "2026-11-26T19:00:00Z",
   "source_item_count": 67,
   "sources": {
     "cnbc": {
@@ -331,7 +331,7 @@
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-11-26T17:57:32Z",
+      "newest": "2026-11-26T18:44:15Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,7 +340,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-11-26T16:30:00Z",
+      "newest": "2026-11-26T19:00:00Z",
       "ok": true
     },
     "mw_bulletins": {
@@ -358,7 +358,7 @@
       "fetched": 17,
       "fresh": 17,
       "label": "Yahoo Finance",
-      "newest": "2026-11-26T17:58:34Z",
+      "newest": "2026-11-26T18:11:14Z",
       "ok": true
     }
   }
