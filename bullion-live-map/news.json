@@ -1,12 +1,36 @@
 {
-  "generated_at": "2026-11-26T17:12:06Z",
+  "generated_at": "2026-11-26T18:12:06Z",
   "headlines": [
     {
       "category": "other",
       "headline": "Dow Jones Futures Rise With U.S. Markets Shut; Look For This Bullish Signal",
       "image": null,
       "link": "https://finance.yahoo.com/m/158e82fc-b889-34b6-8704-99a49e9a83ae/dow-jones-futures-rise-with.html?.tsrc=rss",
-      "published": "2026-11-26T17:00:51Z",
+      "published": "2026-11-26T17:58:34Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Trump demands probe into \u2018record setting error\u2019 after third-quarter GDP data gets massive revision higher",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
+      "published": "2026-11-26T17:57:32Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Semiconductor chips are the new oil. Here's why",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html",
+      "published": "2026-11-26T17:52:15Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Microdrama apps chase profits as Hollywood moves into short-form, vertical video",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/26/micro-drama-apps-hollywood-vertical-video.html",
+      "published": "2026-11-26T17:39:23Z",
       "sentiment": "neutral"
     },
     {
@@ -146,14 +170,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "tech",
-      "headline": "Semiconductor chips are the new oil. Here's why",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html",
-      "published": "2026-11-26T13:19:25Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "other",
       "headline": "\u2018I felt so seen\u2019: Why families across America are laughing \u2014 and crying \u2014 over SNL\u2019s \u2018Sister\u2019 sketch",
       "image": "news-images/e711ef357192825c96b1795a.jpg",
@@ -194,14 +210,6 @@
       "sentiment": "bullish"
     },
     {
-      "category": "other",
-      "headline": "Microdrama apps chase profits as Hollywood moves into short-form, vertical video",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/26/micro-drama-apps-hollywood-vertical-video.html",
-      "published": "2026-11-26T12:00:01Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "financials",
       "headline": "Switzerland\u2019s biggest bank set for showdown with lawmakers as capital fight intensifies amid crisis planning",
       "image": null,
@@ -232,14 +240,6 @@
       "link": "https://www.fool.com/investing/2026/11/26/how-far-could-dow-sp-500-and-nasdaq-composite-plunge-nearly-156-years-history-offer-answer/?.tsrc=rss",
       "published": "2026-11-26T09:26:02Z",
       "sentiment": "bearish"
-    },
-    {
-      "category": "financials",
-      "headline": "Norse Atlantic suspends all flights, warns it may file for bankruptcy after share price collapse",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/26/norse-airline-finance-business.html",
-      "published": "2026-11-26T09:02:30Z",
-      "sentiment": "neutral"
     },
     {
       "category": "tech",
@@ -322,7 +322,7 @@
       "sentiment": "bullish"
     }
   ],
-  "newest_item_published": "2026-11-26T17:00:51Z",
+  "newest_item_published": "2026-11-26T17:58:34Z",
   "source_item_count": 67,
   "sources": {
     "cnbc": {
@@ -331,7 +331,7 @@
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-11-26T16:12:47Z",
+      "newest": "2026-11-26T17:57:32Z",
       "ok": true
     },
     "marketwatch": {
@@ -358,7 +358,7 @@
       "fetched": 17,
       "fresh": 17,
       "label": "Yahoo Finance",
-      "newest": "2026-11-26T17:00:51Z",
+      "newest": "2026-11-26T17:58:34Z",
       "ok": true
     }
   }
