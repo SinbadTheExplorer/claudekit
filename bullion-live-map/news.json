@@ -1,13 +1,53 @@
 {
-  "generated_at": "2026-11-26T16:12:04Z",
+  "generated_at": "2026-11-26T17:12:06Z",
   "headlines": [
+    {
+      "category": "other",
+      "headline": "Dow Jones Futures Rise With U.S. Markets Shut; Look For This Bullish Signal",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/158e82fc-b889-34b6-8704-99a49e9a83ae/dow-jones-futures-rise-with.html?.tsrc=rss",
+      "published": "2026-11-26T17:00:51Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "financials",
+      "headline": "How hedge funds have been navigating stock-market volatility",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=81da3ea0-76aa-43a0-b9cb-21ff0b219994&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-26T16:49:38Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "I hate that Jensen Huang is back at Nvidia, but I love what it\u2019s done for my 401(k). Am I a hypocrite?",
+      "image": "news-images/5b7c7c95be1da02e122650d0.jpg",
+      "link": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
+      "published": "2026-11-26T16:30:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Stock-index futures and global equity markets point to Friday gains on Wall St.",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=aff11f9b-12f2-46e0-9667-35960dd0d790&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-26T16:15:45Z",
+      "sentiment": "bullish"
+    },
     {
       "category": "international",
       "headline": "Trump, NATO chief caution Russia as attacks on Ukraine\u2019s energy infrastructure intensify",
       "image": null,
       "link": "https://www.cnbc.com/2026/11/26/trump-nato-rutte-russia-ukraine-war.html",
-      "published": "2026-11-26T16:05:47Z",
+      "published": "2026-11-26T16:12:47Z",
       "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "S&P 500 Sell-Off: Here's Why I'm Not Panicking -- and What I'm Doing Instead",
+      "image": null,
+      "link": "https://www.fool.com/investing/2026/11/26/sp-500-sell-off-heres-why-im-not-panicking-and-what-im-doing-instead/?.tsrc=rss",
+      "published": "2026-11-26T16:05:02Z",
+      "sentiment": "bearish"
     },
     {
       "category": "other",
@@ -15,14 +55,6 @@
       "image": "news-images/8d37735bfe6c06437ecf2a68.jpg",
       "link": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
       "published": "2026-11-26T16:00:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Dow Jones Futures Rise With U.S. Markets Shut; Look For This Bullish Signal",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/158e82fc-b889-34b6-8704-99a49e9a83ae/dow-jones-futures-rise-with.html?.tsrc=rss",
-      "published": "2026-11-26T15:39:29Z",
       "sentiment": "neutral"
     },
     {
@@ -130,6 +162,14 @@
       "sentiment": "neutral"
     },
     {
+      "category": "consumer",
+      "headline": "Planes, trains and automobiles: The best ways to beat travel fatigue\u2014so you can come home feeling rested and fulfilled",
+      "image": null,
+      "link": "https://www.cnbc.com/make-it/2026/11/26/travel-fatigue-holiday-tips.html",
+      "published": "2026-11-26T13:00:01Z",
+      "sentiment": "bullish"
+    },
+    {
       "category": "federal",
       "headline": "U.S. tariff-hike threats pile pressure on partners to sign trade deals",
       "image": null,
@@ -154,6 +194,14 @@
       "sentiment": "bullish"
     },
     {
+      "category": "other",
+      "headline": "Microdrama apps chase profits as Hollywood moves into short-form, vertical video",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/26/micro-drama-apps-hollywood-vertical-video.html",
+      "published": "2026-11-26T12:00:01Z",
+      "sentiment": "neutral"
+    },
+    {
       "category": "financials",
       "headline": "Switzerland\u2019s biggest bank set for showdown with lawmakers as capital fight intensifies amid crisis planning",
       "image": null,
@@ -168,14 +216,6 @@
       "link": "https://finance.yahoo.com/news/one-proven-way-not-lose-103000392.html?.tsrc=rss",
       "published": "2026-11-26T10:30:00Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "The tech rout should bottom soon, with a 25% rally for the S&P 500 to follow, says Deutsche Bank",
-      "image": "news-images/bc692109ad445fddcbee2aa7.jpg",
-      "link": "https://www.marketwatch.com/story/the-tech-rout-should-bottom-soon-with-a-25-rally-for-the-s-p-500-to-follow-says-deutsche-bank-c9070bf6?mod=mw_rss_topstories",
-      "published": "2026-11-26T10:11:00Z",
-      "sentiment": "bullish"
     },
     {
       "category": "federal",
@@ -203,22 +243,6 @@
     },
     {
       "category": "tech",
-      "headline": "Latin America has the copper and energy the AI build-out needs. Infrastructure is the test",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/26/latin-america-copper-energy-ai-investment.html",
-      "published": "2026-11-26T08:59:11Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "industrials",
-      "headline": "Taking on Starlink: Europe\u2019s largest satellite factory opens in push to rival Musk",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/26/starlink-satellites-aerospacelab-factory-belgium.html",
-      "published": "2026-11-26T07:45:05Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
       "headline": "Asian stocks rally as Taiwan, South Korea rebound; Nvidia risks linger",
       "image": null,
       "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-rally-taiwan-south-053137366.html?.tsrc=rss",
@@ -240,14 +264,6 @@
       "link": "https://finance.yahoo.com/m/2ce69a58-c424-3671-adc7-fd0cf5ff19a5/review-%26-preview%3A-a.html?.tsrc=rss",
       "published": "2026-11-26T00:55:00Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Why this stock-market selloff is probably going to get worse before it gets better",
-      "image": null,
-      "link": "https://www.marketwatch.com/story/why-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better-fce63a89?.tsrc=rss",
-      "published": "2026-11-26T00:33:00Z",
-      "sentiment": "bearish"
     },
     {
       "category": "other",
@@ -304,25 +320,9 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=aa7bec7d-3ade-46f3-91a7-da9946c220a4&amp;mod=mw_rss_bulletins",
       "published": "2026-11-25T16:37:37Z",
       "sentiment": "bullish"
-    },
-    {
-      "category": "other",
-      "headline": "Dow, S&P 500 and Nasdaq open with sharp losses",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=2f92d12e-9193-4dc2-a798-8d5314a27384&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-25T14:30:47Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Inflation worsens. The Fed has no choice but to raise interest rates.",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=5d33d7f1-8246-4f86-be6e-a047bb374f6c&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-25T13:39:13Z",
-      "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-11-26T16:05:47Z",
+  "newest_item_published": "2026-11-26T17:00:51Z",
   "source_item_count": 67,
   "sources": {
     "cnbc": {
@@ -331,7 +331,7 @@
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-11-26T16:05:47Z",
+      "newest": "2026-11-26T16:12:47Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,7 +340,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-11-26T16:00:00Z",
+      "newest": "2026-11-26T16:30:00Z",
       "ok": true
     },
     "mw_bulletins": {
@@ -349,7 +349,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-11-26T15:37:07Z",
+      "newest": "2026-11-26T16:49:38Z",
       "ok": true
     },
     "yahoo_dji": {
@@ -358,7 +358,7 @@
       "fetched": 17,
       "fresh": 17,
       "label": "Yahoo Finance",
-      "newest": "2026-11-26T15:39:29Z",
+      "newest": "2026-11-26T17:00:51Z",
       "ok": true
     }
   }
