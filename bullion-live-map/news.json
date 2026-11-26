@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-11-26T14:12:06Z",
+  "generated_at": "2026-11-26T15:12:05Z",
   "headlines": [
+    {
+      "category": "federal",
+      "headline": "Spain\u2019s Pablo Hern\u00e1ndez de Cos set to lead European Central Bank",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html",
+      "published": "2026-11-26T14:59:47Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Dow Investors Chased Tech Swings\u2014While Amgen Quietly Surged 77%",
+      "image": null,
+      "link": "https://finance.yahoo.com/healthcare/articles/dow-investors-chased-tech-swings-144540662.html?.tsrc=rss",
+      "published": "2026-11-26T14:45:40Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "This retired professor has reinvented himself \u2014 as a Taylor Swift scholar",
+      "image": "news-images/9ef40263065d9fa87b7c34d6.jpg",
+      "link": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
+      "published": "2026-11-26T14:35:00Z",
+      "sentiment": "neutral"
+    },
     {
       "category": "other",
       "headline": "Dow Jones Futures Rise With U.S. Markets Shut; Look For This Bullish Signal",
@@ -75,7 +99,7 @@
     },
     {
       "category": "financials",
-      "headline": "Capital preservation rather than chasing the market higher is how hedge funds are negotiating market volatility",
+      "headline": "Capital preservation rather than chasing the market is how hedge funds are negotiating this volatility",
       "image": "news-images/3d2054364dbaab66e435c933.jpg",
       "link": "https://www.marketwatch.com/story/capital-preservation-rather-than-chasing-the-market-higher-is-how-hedge-funds-are-negotiating-market-volatility-f4288b71?mod=mw_rss_topstories",
       "published": "2026-11-26T12:37:00Z",
@@ -170,14 +194,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "tech",
-      "headline": "Wealthy Europeans look beyond stocks amid AI selloff. Here\u2019s where they\u2019re investing",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/26/wealthy-europeans-alternative-investments-ai.html",
-      "published": "2026-11-26T07:23:42Z",
-      "sentiment": "bearish"
-    },
-    {
       "category": "other",
       "headline": "Is the stock market open for Thanksgiving? The answer might surprise you.",
       "image": "news-images/b9c91efc33fbd02ba8d56b2f.jpg",
@@ -224,22 +240,6 @@
       "link": "https://www.marketwatch.com/story/why-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better-fce63a89?.tsrc=rss",
       "published": "2026-11-26T00:33:00Z",
       "sentiment": "bearish"
-    },
-    {
-      "category": "tech",
-      "headline": "U.S. stock futures turn higher as tech rebound holds after wild swings on Wall St",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-steady-whipsaw-001343016.html?.tsrc=rss",
-      "published": "2026-11-26T00:13:43Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "other",
-      "headline": "A 66-year-old nurse is facing down retirement with just $500 saved. Who\u2019s to blame?",
-      "image": "news-images/0e7083d4b2f52d0bfc5508fb.jpg",
-      "link": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
-      "published": "2026-11-25T23:30:00Z",
-      "sentiment": "neutral"
     },
     {
       "category": "other",
@@ -322,7 +322,7 @@
       "sentiment": "bearish"
     }
   ],
-  "newest_item_published": "2026-11-26T14:07:10Z",
+  "newest_item_published": "2026-11-26T14:59:47Z",
   "source_item_count": 67,
   "sources": {
     "cnbc": {
@@ -331,7 +331,7 @@
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-11-26T13:34:51Z",
+      "newest": "2026-11-26T14:59:47Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,7 +340,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-11-26T14:00:00Z",
+      "newest": "2026-11-26T14:35:00Z",
       "ok": true
     },
     "mw_bulletins": {
@@ -358,7 +358,7 @@
       "fetched": 17,
       "fresh": 17,
       "label": "Yahoo Finance",
-      "newest": "2026-11-26T14:07:10Z",
+      "newest": "2026-11-26T14:45:40Z",
       "ok": true
     }
   }
