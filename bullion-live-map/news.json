@@ -1,6 +1,62 @@
 {
-  "generated_at": "2026-11-26T13:12:07Z",
+  "generated_at": "2026-11-26T14:12:06Z",
   "headlines": [
+    {
+      "category": "other",
+      "headline": "Dow Jones Futures Rise With U.S. Markets Shut; Look For This Bullish Signal",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/158e82fc-b889-34b6-8704-99a49e9a83ae/dow-jones-futures-rise-with.html?.tsrc=rss",
+      "published": "2026-11-26T14:07:10Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Stock Market Trading Hours For Thanksgiving And Black Friday",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/b9c07147-90c9-300a-9712-4f1b0d4b57b3/stock-market-trading-hours.html?.tsrc=rss",
+      "published": "2026-11-26T14:04:15Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Nvidia and the whole AI trade aren\u2019t out of the woods \u2014 not by a long shot",
+      "image": "news-images/c0d697c4addcc2c858b6b7ee.jpg",
+      "link": "https://www.marketwatch.com/story/nvidia-and-the-whole-ai-trade-arent-out-of-the-woods-not-by-a-long-shot-bccc0025?mod=mw_rss_topstories",
+      "published": "2026-11-26T14:00:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "financials",
+      "headline": "Futures point to Black Friday gains for Wall Street as global markets welcome U.S. resilience.",
+      "image": "news-images/10876e3b289588681beee29d.jpg",
+      "link": "https://www.marketwatch.com/story/futures-point-to-black-friday-gains-for-wall-street-as-global-markets-welcome-u-s-resilience-ad6bcef2?mod=mw_rss_topstories",
+      "published": "2026-11-26T13:41:00Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "What is \u2018texture-maxxing\u2019? The food trend putting crunch on the menu",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/26/texture-maxxing-food-trends-gen-z.html",
+      "published": "2026-11-26T13:34:51Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Roth IRA conversions aren\u2019t free money. Watch out for these 5 costly mistakes.",
+      "image": "news-images/0dc766ae875c994f97d75cae.jpg",
+      "link": "https://www.marketwatch.com/story/roth-ira-conversions-arent-free-money-watch-out-for-these-5-costly-mistakes-39b182d3?mod=mw_rss_topstories",
+      "published": "2026-11-26T13:24:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Semiconductor chips are the new oil. Here's why",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html",
+      "published": "2026-11-26T13:19:25Z",
+      "sentiment": "neutral"
+    },
     {
       "category": "other",
       "headline": "\u2018I felt so seen\u2019: Why families across America are laughing \u2014 and crying \u2014 over SNL\u2019s \u2018Sister\u2019 sketch",
@@ -50,14 +106,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "financials",
-      "headline": "Futures point to Black Friday gains for Wall Street as global markets welcome U.S. resilience.",
-      "image": "news-images/10876e3b289588681beee29d.jpg",
-      "link": "https://www.marketwatch.com/story/futures-point-to-black-friday-gains-for-wall-street-as-global-markets-welcome-u-s-resilience-ad6bcef2?mod=mw_rss_topstories",
-      "published": "2026-11-26T10:37:00Z",
-      "sentiment": "bullish"
-    },
-    {
       "category": "other",
       "headline": "There\u2019s one proven way not to lose during a market downturn. Ignore it and risk blowing up your entire financial future",
       "image": null,
@@ -80,14 +128,6 @@
       "link": "https://www.euronews.com/2026/11/26/anxiety-over-the-ai-boom-and-inflation-drags-wall-street-lower?.tsrc=rss",
       "published": "2026-11-26T10:07:16Z",
       "sentiment": "bullish"
-    },
-    {
-      "category": "other",
-      "headline": "Dow Jones Futures Rise After Nasdaq Slashes Losses In Wild Market Ride",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/158e82fc-b889-34b6-8704-99a49e9a83ae/dow-jones-futures-rise-after.html?.tsrc=rss",
-      "published": "2026-11-26T09:55:44Z",
-      "sentiment": "neutral"
     },
     {
       "category": "industrials",
@@ -146,22 +186,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "other",
-      "headline": "SpaceX, Musk pledge to donate a share each to active Trump Accounts",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/25/spacex-musk-trump-account-stock.html",
-      "published": "2026-11-26T06:39:34Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "North Korea's Kim calls for nuclear arsenal expansion, says status 'will never change'",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/26/north-korea-kim-nuclear-weapons-expansion.html",
-      "published": "2026-11-26T05:50:34Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "tech",
       "headline": "Asian stocks rally as Taiwan, South Korea rebound; Nvidia risks linger",
       "image": null,
@@ -210,35 +234,11 @@
       "sentiment": "bullish"
     },
     {
-      "category": "tech",
-      "headline": "S&P 500, Nasdaq End Lower But Dow Rebounds As Traders Rotate Out Of AI \u2014 NVDA, SPCX, PANW  In Focus",
-      "image": null,
-      "link": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-end-lower-but-dow-rebounds-as-traders-rotate-out-of-ai-nvda-spcx-panw-in-focus/cNbx21AR9mC?.tsrc=rss",
-      "published": "2026-11-26T00:09:50Z",
-      "sentiment": "bullish"
-    },
-    {
       "category": "other",
       "headline": "A 66-year-old nurse is facing down retirement with just $500 saved. Who\u2019s to blame?",
       "image": "news-images/0e7083d4b2f52d0bfc5508fb.jpg",
       "link": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
       "published": "2026-11-25T23:30:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "I\u2019m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
-      "image": "news-images/8d37735bfe6c06437ecf2a68.jpg",
-      "link": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
-      "published": "2026-11-25T23:30:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "I\u2019ve been married for 58 years. It\u2019s \u2018our\u2019 money, not \u2018his\u2019 and \u2018hers.\u2019 Why do so many couples keep their finances separate?",
-      "image": "news-images/0a0c87a10e18a60e48151710.jpg",
-      "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
-      "published": "2026-11-25T23:00:00Z",
       "sentiment": "neutral"
     },
     {
@@ -322,7 +322,7 @@
       "sentiment": "bearish"
     }
   ],
-  "newest_item_published": "2026-11-26T13:06:00Z",
+  "newest_item_published": "2026-11-26T14:07:10Z",
   "source_item_count": 67,
   "sources": {
     "cnbc": {
@@ -331,7 +331,7 @@
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-11-26T12:46:55Z",
+      "newest": "2026-11-26T13:34:51Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,7 +340,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-11-26T13:06:00Z",
+      "newest": "2026-11-26T14:00:00Z",
       "ok": true
     },
     "mw_bulletins": {
@@ -358,7 +358,7 @@
       "fetched": 17,
       "fresh": 17,
       "label": "Yahoo Finance",
-      "newest": "2026-11-26T10:30:00Z",
+      "newest": "2026-11-26T14:07:10Z",
       "ok": true
     }
   }
