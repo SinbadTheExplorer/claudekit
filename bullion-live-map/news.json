@@ -1,13 +1,61 @@
 {
-  "generated_at": "2026-11-26T15:12:05Z",
+  "generated_at": "2026-11-26T16:12:04Z",
   "headlines": [
+    {
+      "category": "international",
+      "headline": "Trump, NATO chief caution Russia as attacks on Ukraine\u2019s energy infrastructure intensify",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/26/trump-nato-rutte-russia-ukraine-war.html",
+      "published": "2026-11-26T16:05:47Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "I\u2019m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
+      "image": "news-images/8d37735bfe6c06437ecf2a68.jpg",
+      "link": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
+      "published": "2026-11-26T16:00:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Dow Jones Futures Rise With U.S. Markets Shut; Look For This Bullish Signal",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/158e82fc-b889-34b6-8704-99a49e9a83ae/dow-jones-futures-rise-with.html?.tsrc=rss",
+      "published": "2026-11-26T15:39:29Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Is the U.S. stock market closed for Thanksgiving? Yes and no.",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=2b2f2a55-9284-48db-a2d5-e4dd24c62c0e&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-26T15:37:07Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
+      "image": "news-images/d088713f17d012877697dcd5.jpg",
+      "link": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
+      "published": "2026-11-26T15:30:00Z",
+      "sentiment": "neutral"
+    },
     {
       "category": "federal",
       "headline": "Spain\u2019s Pablo Hern\u00e1ndez de Cos set to lead European Central Bank",
       "image": null,
       "link": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html",
-      "published": "2026-11-26T14:59:47Z",
+      "published": "2026-11-26T15:28:26Z",
       "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
+      "image": "news-images/2bf715750cfdffea8ac2f234.jpg",
+      "link": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
+      "published": "2026-11-26T15:13:00Z",
+      "sentiment": "bearish"
     },
     {
       "category": "tech",
@@ -23,14 +71,6 @@
       "image": "news-images/9ef40263065d9fa87b7c34d6.jpg",
       "link": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
       "published": "2026-11-26T14:35:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Dow Jones Futures Rise With U.S. Markets Shut; Look For This Bullish Signal",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/158e82fc-b889-34b6-8704-99a49e9a83ae/dow-jones-futures-rise-with.html?.tsrc=rss",
-      "published": "2026-11-26T14:07:10Z",
       "sentiment": "neutral"
     },
     {
@@ -51,7 +91,7 @@
     },
     {
       "category": "financials",
-      "headline": "Futures point to Black Friday gains for Wall Street as global markets welcome U.S. resilience.",
+      "headline": "Futures point to Black Friday gains on Wall Street as global markets welcome U.S. resilience",
       "image": "news-images/10876e3b289588681beee29d.jpg",
       "link": "https://www.marketwatch.com/story/futures-point-to-black-friday-gains-for-wall-street-as-global-markets-welcome-u-s-resilience-ad6bcef2?mod=mw_rss_topstories",
       "published": "2026-11-26T13:41:00Z",
@@ -122,14 +162,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "international",
-      "headline": "Trump, NATO chief caution Russia as attacks on Ukraine\u2019s energy infrastructure intensify",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/26/trump-nato-rutte-russia-ukraine-war.html",
-      "published": "2026-11-26T10:45:45Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "other",
       "headline": "There\u2019s one proven way not to lose during a market downturn. Ignore it and risk blowing up your entire financial future",
       "image": null,
@@ -186,22 +218,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "other",
-      "headline": "Robots could be doing household chores in just 1-2 years, Chinese EV firm says",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/26/china-ev-xpeng-humanoid-robots-household-chores.html",
-      "published": "2026-11-26T07:30:11Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Is the stock market open for Thanksgiving? The answer might surprise you.",
-      "image": "news-images/b9c91efc33fbd02ba8d56b2f.jpg",
-      "link": "https://www.marketwatch.com/story/is-the-stock-market-open-for-thanksgiving-the-answer-might-surprise-you-e68114d4?mod=mw_rss_topstories",
-      "published": "2026-11-26T07:16:00Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "tech",
       "headline": "Asian stocks rally as Taiwan, South Korea rebound; Nvidia risks linger",
       "image": null,
@@ -215,14 +231,6 @@
       "image": null,
       "link": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-says-portfolio-discussed-025825540.html?.tsrc=rss",
       "published": "2026-11-26T02:58:25Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "We are living in perilous times if Nvidia\u2019s Jensen Huang dictates your 401(k) balance",
-      "image": "news-images/d088713f17d012877697dcd5.jpg",
-      "link": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
-      "published": "2026-11-26T01:15:00Z",
       "sentiment": "neutral"
     },
     {
@@ -312,35 +320,27 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=5d33d7f1-8246-4f86-be6e-a047bb374f6c&amp;mod=mw_rss_bulletins",
       "published": "2026-11-25T13:39:13Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Nasdaq futures are down 3% as Nvidia, AMD shares slump",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=4b1fd77c-bc03-4fd5-8495-991e6a205fe6&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-25T12:19:45Z",
-      "sentiment": "bearish"
     }
   ],
-  "newest_item_published": "2026-11-26T14:59:47Z",
+  "newest_item_published": "2026-11-26T16:05:47Z",
   "source_item_count": 67,
   "sources": {
     "cnbc": {
-      "contributed": 11,
+      "contributed": 10,
       "error": null,
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-11-26T14:59:47Z",
+      "newest": "2026-11-26T16:05:47Z",
       "ok": true
     },
     "marketwatch": {
-      "contributed": 9,
+      "contributed": 10,
       "error": null,
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-11-26T14:35:00Z",
+      "newest": "2026-11-26T16:00:00Z",
       "ok": true
     },
     "mw_bulletins": {
@@ -349,7 +349,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-11-25T22:08:15Z",
+      "newest": "2026-11-26T15:37:07Z",
       "ok": true
     },
     "yahoo_dji": {
@@ -358,7 +358,7 @@
       "fetched": 17,
       "fresh": 17,
       "label": "Yahoo Finance",
-      "newest": "2026-11-26T14:45:40Z",
+      "newest": "2026-11-26T15:39:29Z",
       "ok": true
     }
   }
