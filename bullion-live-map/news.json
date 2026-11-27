@@ -1,6 +1,14 @@
 {
-  "generated_at": "2026-11-27T20:12:14Z",
+  "generated_at": "2026-11-27T21:12:05Z",
   "headlines": [
+    {
+      "category": "tech",
+      "headline": "These stocks soared the most during a wild week highlighted by Huang\u2019s return to Nvidia",
+      "image": "news-images/588b021373929006c9a4d3b5.jpg",
+      "link": "https://www.marketwatch.com/story/these-stocks-soared-the-most-during-a-wild-week-highlighted-by-huangs-return-to-nvidia-578b3f9a?mod=mw_rss_topstories",
+      "published": "2026-11-27T20:16:00Z",
+      "sentiment": "bullish"
+    },
     {
       "category": "healthcare",
       "headline": "Coming next year: Medicare Advantage plans without drug coverage for almost 640,000 people and fewer choices for the rest",
@@ -40,14 +48,6 @@
       "link": "https://finance.yahoo.com/m/86a4597f-ee47-3048-ae92-1a56fa4711e5/stock-market-today%3A-indexes.html?.tsrc=rss",
       "published": "2026-11-27T19:10:43Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "These stocks soared the most during a wild week highlighted by Huang\u2019s return to Nvidia",
-      "image": "news-images/588b021373929006c9a4d3b5.jpg",
-      "link": "https://www.marketwatch.com/story/these-stocks-soared-the-most-during-a-wild-week-highlighted-by-huangs-return-to-nvidia-578b3f9a?mod=mw_rss_topstories",
-      "published": "2026-11-27T18:53:00Z",
-      "sentiment": "bullish"
     },
     {
       "category": "tech",
@@ -152,6 +152,14 @@
       "link": "https://www.marketwatch.com/story/clearing-out-my-parents-house-was-a-legal-nightmare-how-can-i-downsize-without-putting-my-children-through-the-same-ordeal-6537d804?mod=mw_rss_topstories",
       "published": "2026-11-27T17:31:00Z",
       "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Stocks gain as tech rebound holds, but Nvidia dips",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-mostly-rise-markets-025702679.html?.tsrc=rss",
+      "published": "2026-11-27T17:05:52Z",
+      "sentiment": "bullish"
     },
     {
       "category": "other",
@@ -312,17 +320,9 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=da6056d5-2e1b-4c22-a143-43b3b2515d6b&amp;mod=mw_rss_bulletins",
       "published": "2026-11-25T22:08:15Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Dow closes higher after big comeback; S&P 500, Nasdaq fall but end well off lows",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=3e0785ac-4ee8-482e-96ea-bb9b37898ccd&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-25T21:02:45Z",
-      "sentiment": "bearish"
     }
   ],
-  "newest_item_published": "2026-11-27T19:55:00Z",
+  "newest_item_published": "2026-11-27T20:16:00Z",
   "source_item_count": 67,
   "sources": {
     "cnbc": {
@@ -340,20 +340,20 @@
       "fetched": 10,
       "fresh": 9,
       "label": "MarketWatch",
-      "newest": "2026-11-27T19:55:00Z",
+      "newest": "2026-11-27T20:16:00Z",
       "ok": true
     },
     "mw_bulletins": {
-      "contributed": 10,
+      "contributed": 9,
       "error": null,
       "fetched": 10,
-      "fresh": 10,
+      "fresh": 9,
       "label": "MW Bulletins",
       "newest": "2026-11-27T18:02:49Z",
       "ok": true
     },
     "yahoo_dji": {
-      "contributed": 11,
+      "contributed": 12,
       "error": null,
       "fetched": 17,
       "fresh": 15,
