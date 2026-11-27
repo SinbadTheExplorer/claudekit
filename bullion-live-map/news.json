@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-11-27T21:12:05Z",
+  "generated_at": "2026-11-27T21:55:22Z",
   "headlines": [
+    {
+      "category": "other",
+      "headline": "Even the price of toys is on the rise. How Americans are scaling back holiday plans",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html",
+      "published": "2026-11-27T21:45:41Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "financials",
+      "headline": "These stocks soared the most during the wild week on Wall Street",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=d9baf9af-37f0-4df3-8934-42c904ceaf6a&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-27T21:26:25Z",
+      "sentiment": "bullish"
+    },
     {
       "category": "tech",
       "headline": "These stocks soared the most during a wild week highlighted by Huang\u2019s return to Nvidia",
@@ -154,14 +170,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "tech",
-      "headline": "Stocks gain as tech rebound holds, but Nvidia dips",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-mostly-rise-markets-025702679.html?.tsrc=rss",
-      "published": "2026-11-27T17:05:52Z",
-      "sentiment": "bullish"
-    },
-    {
       "category": "other",
       "headline": "The artificial-intelligence trade is breaking a foundational rule of economics",
       "image": null,
@@ -274,14 +282,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "other",
-      "headline": "The S&P 500 is in a correction. Bear markets and recessions don't always follow",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/27/the-sp-500-is-in-a-correction-bear-markets-and-recessions-dont-always-follow.html",
-      "published": "2026-11-27T13:21:56Z",
-      "sentiment": "bearish"
-    },
-    {
       "category": "consumer",
       "headline": "Economic calendar: wholesale and retail inventories, U.S. trade balance",
       "image": null,
@@ -322,16 +322,16 @@
       "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-11-27T20:16:00Z",
+  "newest_item_published": "2026-11-27T21:45:41Z",
   "source_item_count": 67,
   "sources": {
     "cnbc": {
       "contributed": 10,
       "error": null,
       "fetched": 30,
-      "fresh": 29,
+      "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-11-27T18:46:20Z",
+      "newest": "2026-11-27T21:45:41Z",
       "ok": true
     },
     "marketwatch": {
@@ -344,16 +344,16 @@
       "ok": true
     },
     "mw_bulletins": {
-      "contributed": 9,
+      "contributed": 10,
       "error": null,
       "fetched": 10,
-      "fresh": 9,
+      "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-11-27T18:02:49Z",
+      "newest": "2026-11-27T21:26:25Z",
       "ok": true
     },
     "yahoo_dji": {
-      "contributed": 12,
+      "contributed": 11,
       "error": null,
       "fetched": 17,
       "fresh": 15,
