@@ -1,6 +1,62 @@
 {
-  "generated_at": "2026-11-27T17:12:04Z",
+  "generated_at": "2026-11-27T18:12:04Z",
   "headlines": [
+    {
+      "category": "tech",
+      "headline": "SpaceX shares jump over 4% amid tech rally and after Musk says he will expand on Trump Account share donations",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html",
+      "published": "2026-11-27T18:10:10Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "Dow, S&P 500 clinch best weekly gains of the year",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=e1eacab1-b5ac-4df2-b12a-4dcad71d6731&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-27T18:02:49Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "tech",
+      "headline": "US Equity Markets Higher Amid Broad Rally Led by Technology, Consumer Discretionary Stocks",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-markets-higher-amid-175904719.html?.tsrc=rss",
+      "published": "2026-11-27T17:59:04Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "tech",
+      "headline": "Stock Market Today: Dow, Nasdaq Pop In Post-Holiday Trade; Nvidia Falls, Sandisk Vaults Higher (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/86a4597f-ee47-3048-ae92-1a56fa4711e5/stock-market-today%3A-dow%2C.html?.tsrc=rss",
+      "published": "2026-11-27T17:47:57Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "energy",
+      "headline": "Sector Update: Energy Stocks Rise Friday Afternoon",
+      "image": null,
+      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-rise-friday-174441830.html?.tsrc=rss",
+      "published": "2026-11-27T17:44:41Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Stock Market Midday, Nov. 27: Tech Stocks Recover and Amazon Posts Black Friday Gains",
+      "image": null,
+      "link": "https://www.fool.com/coverage/stock-market-today/2026/11/27/stock-market-midday-nov-27-tech-stocks-recover-and-amazon-posts-black-friday-gains/?.tsrc=rss",
+      "published": "2026-11-27T17:31:17Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "realestate",
+      "headline": "Clearing out my parents\u2019 house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?",
+      "image": "news-images/30337d1c28855fc80a2a8f5d.jpg",
+      "link": "https://www.marketwatch.com/story/clearing-out-my-parents-house-was-a-legal-nightmare-how-can-i-downsize-without-putting-my-children-through-the-same-ordeal-6537d804?mod=mw_rss_topstories",
+      "published": "2026-11-27T17:31:00Z",
+      "sentiment": "neutral"
+    },
     {
       "category": "tech",
       "headline": "Stocks gain as tech rebound holds, but Nvidia dips",
@@ -24,14 +80,6 @@
       "link": "https://www.cnbc.com/2026/11/27/ai-shopping-agents-retailer-blocks.html",
       "published": "2026-11-27T16:43:14Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Stock Market Today: Nasdaq Leads Charge; Nvidia Falls On China Data-Center Chip News (Live Coverage)",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/86a4597f-ee47-3048-ae92-1a56fa4711e5/stock-market-today%3A-nasdaq.html?.tsrc=rss",
-      "published": "2026-11-27T16:38:22Z",
-      "sentiment": "bearish"
     },
     {
       "category": "other",
@@ -194,6 +242,14 @@
       "sentiment": "bullish"
     },
     {
+      "category": "tech",
+      "headline": "Stock Market Today: Major Indexes Surge, on Track for Big Weekly Gains as AI Stocks Rally; Anthropic Jumps 8%",
+      "image": null,
+      "link": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-11272026-12283022?.tsrc=rss",
+      "published": "2026-11-27T14:04:50Z",
+      "sentiment": "bullish"
+    },
+    {
       "category": "financials",
       "headline": "Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding",
       "image": null,
@@ -210,60 +266,12 @@
       "sentiment": "neutral"
     },
     {
-      "category": "realestate",
-      "headline": "Clearing out my parents\u2019 house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?",
-      "image": "news-images/30337d1c28855fc80a2a8f5d.jpg",
-      "link": "https://www.marketwatch.com/story/clearing-out-my-parents-house-was-a-legal-nightmare-how-can-i-downsize-without-putting-my-children-through-the-same-ordeal-6537d804?mod=mw_rss_topstories",
-      "published": "2026-11-27T13:45:00Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "other",
       "headline": "The S&P 500 is in a correction. Bear markets and recessions don't always follow",
       "image": null,
       "link": "https://www.cnbc.com/2026/11/27/the-sp-500-is-in-a-correction-bear-markets-and-recessions-dont-always-follow.html",
       "published": "2026-11-27T13:21:56Z",
       "sentiment": "bearish"
-    },
-    {
-      "category": "other",
-      "headline": "New car prices are at a record high. Here's where to look for deals",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/27/new-car-buying-deals-buying-tips.html",
-      "published": "2026-11-27T13:15:01Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "other",
-      "headline": "US Equity Futures Climb Pre-Bell as Traders Prepare to Wind Down Volatile Holiday Week",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-climb-pre-130855972.html?.tsrc=rss",
-      "published": "2026-11-27T13:08:55Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "financials",
-      "headline": "Stock Futures Rise as Wall Street Heads for Weekly Gains",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stock-futures-rise-wall-street-130854779.html?.tsrc=rss",
-      "published": "2026-11-27T13:08:54Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "tech",
-      "headline": "Rheinmetall reins in growth ambitions as Europe's rearmament boom hits hurdles",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/27/rheinmetall-stock-cmd-guidance-sales.html",
-      "published": "2026-11-27T13:08:07Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Dow Jones Futures Rise; Look For This Bullish Market Signal On Black Friday",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/158e82fc-b889-34b6-8704-99a49e9a83ae/dow-jones-futures-rise%3B-look.html?.tsrc=rss",
-      "published": "2026-11-27T13:06:54Z",
-      "sentiment": "neutral"
     },
     {
       "category": "consumer",
@@ -312,26 +320,18 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=3e0785ac-4ee8-482e-96ea-bb9b37898ccd&amp;mod=mw_rss_bulletins",
       "published": "2026-11-25T21:02:45Z",
       "sentiment": "bearish"
-    },
-    {
-      "category": "tech",
-      "headline": "Nvidia heading for first \u2018death cross\u2019 since March 2025 as the stock struggles",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=792b6c57-7eb1-45a0-9bf0-d84258507eea&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-25T20:42:10Z",
-      "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-11-27T17:05:52Z",
+  "newest_item_published": "2026-11-27T18:10:10Z",
   "source_item_count": 65,
   "sources": {
     "cnbc": {
-      "contributed": 11,
+      "contributed": 10,
       "error": null,
       "fetched": 30,
       "fresh": 29,
       "label": "CNBC",
-      "newest": "2026-11-27T16:43:14Z",
+      "newest": "2026-11-27T18:10:10Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,7 +340,7 @@
       "fetched": 10,
       "fresh": 9,
       "label": "MarketWatch",
-      "newest": "2026-11-27T17:04:00Z",
+      "newest": "2026-11-27T17:31:00Z",
       "ok": true
     },
     "mw_bulletins": {
@@ -349,16 +349,16 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-11-27T17:02:29Z",
+      "newest": "2026-11-27T18:02:49Z",
       "ok": true
     },
     "yahoo_dji": {
-      "contributed": 10,
+      "contributed": 11,
       "error": null,
       "fetched": 15,
       "fresh": 12,
       "label": "Yahoo Finance",
-      "newest": "2026-11-27T17:05:52Z",
+      "newest": "2026-11-27T17:59:04Z",
       "ok": true
     }
   }
