@@ -1,6 +1,78 @@
 {
-  "generated_at": "2026-11-27T15:12:05Z",
+  "generated_at": "2026-11-27T16:12:08Z",
   "headlines": [
+    {
+      "category": "other",
+      "headline": "It\u2019s not just you: Durable goods are getting less reliable, from sputtering cars to glitching smart TVs",
+      "image": null,
+      "link": "https://www.cnbc.com/make-it/2026/11/27/durable-goods-reliability-cars-appliances-tvs.html",
+      "published": "2026-11-27T16:08:10Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "A 66-year-old nurse is facing down retirement with just $500 saved. Who\u2019s to blame?",
+      "image": "news-images/0e7083d4b2f52d0bfc5508fb.jpg",
+      "link": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
+      "published": "2026-11-27T16:00:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Trump demands probe into 'record setting error' after third-quarter GDP data gets massive revision higher",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
+      "published": "2026-11-27T15:52:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "These stocks soared the most during a wild week highlighted by Huang\u2019s return to Nvidia",
+      "image": "news-images/588b021373929006c9a4d3b5.jpg",
+      "link": "https://www.marketwatch.com/story/these-stocks-soared-the-most-during-a-wild-week-highlighted-by-huangs-return-to-nvidia-578b3f9a?mod=mw_rss_topstories",
+      "published": "2026-11-27T15:52:00Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "'The Traitors' ended with a $246,300 prize\u2014here's who won and what they told us about spending it",
+      "image": null,
+      "link": "https://www.cnbc.com/make-it/2026/11/27/the-traitors-ends-with-246300-prize-heres-how-much-goes-to-taxes.html",
+      "published": "2026-11-27T15:49:29Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "I\u2019ve been married for 58 years. It\u2019s \u2018our\u2019 money, not \u2018his\u2019 and \u2018hers.\u2019 Why do so many couples keep their finances separate?",
+      "image": "news-images/0a0c87a10e18a60e48151710.jpg",
+      "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
+      "published": "2026-11-27T15:45:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Stock Market Today: Dow Rises, Nasdaq Up As Anthropic, SpaceX Gain; Biotech Name Plummets (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/86a4597f-ee47-3048-ae92-1a56fa4711e5/stock-market-today%3A-dow.html?.tsrc=rss",
+      "published": "2026-11-27T15:31:10Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
+      "image": "news-images/2bf715750cfdffea8ac2f234.jpg",
+      "link": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
+      "published": "2026-11-27T15:30:00Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "Here's how to spot Black Friday shopping scams",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=5455d023-a5b5-42c7-9e1a-b5d81111b221&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-27T15:18:08Z",
+      "sentiment": "neutral"
+    },
     {
       "category": "other",
       "headline": "Top 10 things to watch in the stock market on Black Friday",
@@ -43,10 +115,10 @@
     },
     {
       "category": "tech",
-      "headline": "Stock Market Today: Dow Jumps 500 Points While Nvidia Wavers; Anthropic, Tesla, SpaceX Rally (Live Coverage)",
+      "headline": "Stocks Rally as AI Fears Fade. Call It a Black Friday Bounce.",
       "image": null,
-      "link": "https://finance.yahoo.com/m/86a4597f-ee47-3048-ae92-1a56fa4711e5/stock-market-today%3A-dow-jumps.html?.tsrc=rss",
-      "published": "2026-11-27T14:51:25Z",
+      "link": "https://finance.yahoo.com/m/05f1578d-68a3-3f47-b2db-e2e55e73dfb0/stocks-rally-as-ai-fears.html?.tsrc=rss",
+      "published": "2026-11-27T14:32:05Z",
       "sentiment": "bullish"
     },
     {
@@ -114,14 +186,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "realestate",
-      "headline": "New-home sales just hit a 2026 high as builders dangle low mortgages and Black Friday deals",
-      "image": "news-images/0b5704edd976ddf03e8fc515.jpg",
-      "link": "https://www.marketwatch.com/story/new-home-sales-just-hit-a-2026-high-as-builders-dangle-low-mortgages-and-black-friday-deals-291a3b62?mod=mw_rss_topstories",
-      "published": "2026-11-27T13:22:00Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "other",
       "headline": "The S&P 500 is in a correction. Bear markets and recessions don't always follow",
       "image": null,
@@ -136,14 +200,6 @@
       "link": "https://www.cnbc.com/2026/11/27/new-car-buying-deals-buying-tips.html",
       "published": "2026-11-27T13:15:01Z",
       "sentiment": "bullish"
-    },
-    {
-      "category": "tech",
-      "headline": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
-      "image": "news-images/d088713f17d012877697dcd5.jpg",
-      "link": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
-      "published": "2026-11-27T13:15:00Z",
-      "sentiment": "neutral"
     },
     {
       "category": "other",
@@ -178,44 +234,12 @@
       "sentiment": "neutral"
     },
     {
-      "category": "other",
-      "headline": "It\u2019s not just you: Durable goods are getting less reliable, from sputtering cars to glitching smart TVs",
-      "image": null,
-      "link": "https://www.cnbc.com/make-it/2026/11/27/durable-goods-reliability-cars-appliances-tvs.html",
-      "published": "2026-11-27T13:05:02Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Spain\u2019s election could pull Madrid closer to Trump\u2019s Washington",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/27/spain-election-trump-sanchez.html",
-      "published": "2026-11-27T13:00:42Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "How to spot Black Friday shopping scams like \u2018bogus boutiques\u2019 and AI-generated product images",
-      "image": "news-images/3c8cf0dadf2f1b0b5ff196a8.jpg",
-      "link": "https://www.marketwatch.com/story/how-to-spot-bogus-boutiques-and-other-black-friday-shopping-scams-86cc182d?mod=mw_rss_topstories",
-      "published": "2026-11-27T12:42:00Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "tech",
       "headline": "Premarket movers: AI stocks rebound, Vertex slides on FDA review",
       "image": null,
       "link": "https://finance.yahoo.com/markets/stocks/articles/premarket-movers-ai-stocks-rebound-123708136.html?.tsrc=rss",
       "published": "2026-11-27T12:37:08Z",
       "sentiment": "bullish"
-    },
-    {
-      "category": "federal",
-      "headline": "A 10% cap on credit-card interest rates? Holiday shoppers shouldn\u2019t bank on it.",
-      "image": "news-images/86b65f3cd90eb3cf2058149d.jpg",
-      "link": "https://www.marketwatch.com/story/trump-is-open-to-capping-credit-card-interest-rates-but-holiday-shoppers-shouldnt-bank-on-it-yet-34260705?mod=mw_rss_topstories",
-      "published": "2026-11-27T12:29:00Z",
-      "sentiment": "neutral"
     },
     {
       "category": "consumer",
@@ -226,16 +250,8 @@
       "sentiment": "neutral"
     },
     {
-      "category": "tech",
-      "headline": "The Tech Download: Will Jensen Huang\u2019s return be the spark the shaky AI market needs?",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/27/tech-download-jensen-huang-ai-market.html",
-      "published": "2026-11-27T12:00:22Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "other",
-      "headline": "MARKETS LIVE: US stock futures jump ahead of shortened Black Friday trading session",
+      "headline": "MARKETS LIVE: US stock markets surge at opening bell on Black Friday",
       "image": null,
       "link": "https://www.proactiveinvestors.com/companies/news/1102556/markets-live-us-stock-futures-jump-ahead-of-shortened-black-friday-trading-session-1102556.html?.tsrc=rss",
       "published": "2026-11-27T11:57:00Z",
@@ -247,14 +263,6 @@
       "image": null,
       "link": "https://finance.yahoo.com/markets/stocks/articles/renewed-tech-optimism-lifts-wall-111258453.html?.tsrc=rss",
       "published": "2026-11-27T11:12:58Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "The Stock Market Is Flashing a Signal Seen Only 6 Times in 156 Years. History Suggests These Stocks Could Take the Biggest Hit.",
-      "image": null,
-      "link": "https://www.fool.com/investing/2026/11/27/the-stock-market-is-flashing-a-signal-seen-only-6-times-in-156-years-history-suggests-these-stocks-could-take-the-biggest-hit/?.tsrc=rss",
-      "published": "2026-11-27T11:05:02Z",
       "sentiment": "neutral"
     },
     {
@@ -312,18 +320,10 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=8729df74-1dfa-472b-a24a-3dbbd60045df&amp;mod=mw_rss_bulletins",
       "published": "2026-11-25T20:07:30Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Fed says inflation hasn\u2019t gotten any better ahead of key December vote on rates",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=9c1a90f8-948c-4f54-b8df-e4b29931f037&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-25T19:49:47Z",
-      "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-11-27T15:08:31Z",
-  "source_item_count": 66,
+  "newest_item_published": "2026-11-27T16:08:10Z",
+  "source_item_count": 65,
   "sources": {
     "cnbc": {
       "contributed": 10,
@@ -331,7 +331,7 @@
       "fetched": 30,
       "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-11-27T15:08:31Z",
+      "newest": "2026-11-27T16:08:10Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,7 +340,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-11-27T15:04:00Z",
+      "newest": "2026-11-27T16:00:00Z",
       "ok": true
     },
     "mw_bulletins": {
@@ -349,16 +349,16 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-11-27T14:31:09Z",
+      "newest": "2026-11-27T15:18:08Z",
       "ok": true
     },
     "yahoo_dji": {
       "contributed": 10,
       "error": null,
-      "fetched": 16,
-      "fresh": 15,
+      "fetched": 15,
+      "fresh": 13,
       "label": "Yahoo Finance",
-      "newest": "2026-11-27T14:51:25Z",
+      "newest": "2026-11-27T15:31:10Z",
       "ok": true
     }
   }
