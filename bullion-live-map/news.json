@@ -1,6 +1,46 @@
 {
-  "generated_at": "2026-11-27T19:12:05Z",
+  "generated_at": "2026-11-27T20:12:14Z",
   "headlines": [
+    {
+      "category": "healthcare",
+      "headline": "Coming next year: Medicare Advantage plans without drug coverage for almost 640,000 people and fewer choices for the rest",
+      "image": "news-images/f1bdb9b4cd25f16ab9dececd.jpg",
+      "link": "https://www.marketwatch.com/story/coming-next-year-medicare-advantage-plans-without-drug-coverage-for-almost-640-000-people-and-fewer-choices-for-the-rest-25242d69?mod=mw_rss_topstories",
+      "published": "2026-11-27T19:55:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Dow Jones Futures: Stock Market Makes Bullish Move, Tesla Leads 7 New Buys; Nvidia's Jensen Huang Heads To Capitol Hill",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/5b917298-e5b5-3d87-b1fa-f7cad345af64/dow-jones-futures%3A-stock.html?.tsrc=rss",
+      "published": "2026-11-27T19:54:29Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "federal",
+      "headline": "Nasdaq Leads Market Rebound as Treasury Yields Hit 5.29% at the Long End",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-leads-market-rebound-treasury-195242969.html?.tsrc=rss",
+      "published": "2026-11-27T19:52:42Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "Update: Equities Climb as Dow Posts Biggest Weekly Jump Since October 2022",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/equities-climb-dow-posts-biggest-192733253.html?.tsrc=rss",
+      "published": "2026-11-27T19:27:33Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "Stock Market Today: Indexes Log Best Thanksgiving Week In 18 Years",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/86a4597f-ee47-3048-ae92-1a56fa4711e5/stock-market-today%3A-indexes.html?.tsrc=rss",
+      "published": "2026-11-27T19:10:43Z",
+      "sentiment": "neutral"
+    },
     {
       "category": "tech",
       "headline": "These stocks soared the most during a wild week highlighted by Huang\u2019s return to Nvidia",
@@ -8,14 +48,6 @@
       "link": "https://www.marketwatch.com/story/these-stocks-soared-the-most-during-a-wild-week-highlighted-by-huangs-return-to-nvidia-578b3f9a?mod=mw_rss_topstories",
       "published": "2026-11-27T18:53:00Z",
       "sentiment": "bullish"
-    },
-    {
-      "category": "tech",
-      "headline": "Dow Jones Futures: Stock Market Makes Bullish Move, Tesla Leads 7 New Buys; Nvidia's Jensen Huang Heads To Capitol Hill",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/5b917298-e5b5-3d87-b1fa-f7cad345af64/dow-jones-futures%3A-stock.html?.tsrc=rss",
-      "published": "2026-11-27T18:48:43Z",
-      "sentiment": "neutral"
     },
     {
       "category": "tech",
@@ -98,14 +130,6 @@
       "sentiment": "bullish"
     },
     {
-      "category": "tech",
-      "headline": "Stock Market Today: Dow, Nasdaq Pop In Post-Holiday Trade; Nvidia Falls, Sandisk Vaults Higher (Live Coverage)",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/86a4597f-ee47-3048-ae92-1a56fa4711e5/stock-market-today%3A-dow%2C.html?.tsrc=rss",
-      "published": "2026-11-27T17:47:57Z",
-      "sentiment": "bearish"
-    },
-    {
       "category": "energy",
       "headline": "Sector Update: Energy Stocks Rise Friday Afternoon",
       "image": null,
@@ -130,14 +154,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "tech",
-      "headline": "Stocks gain as tech rebound holds, but Nvidia dips",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-mostly-rise-markets-025702679.html?.tsrc=rss",
-      "published": "2026-11-27T17:05:52Z",
-      "sentiment": "bullish"
-    },
-    {
       "category": "other",
       "headline": "The artificial-intelligence trade is breaking a foundational rule of economics",
       "image": null,
@@ -151,14 +167,6 @@
       "image": null,
       "link": "https://www.cnbc.com/2026/11/27/ai-shopping-agents-retailer-blocks.html",
       "published": "2026-11-27T16:43:14Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Own SCHD? These 6 Dividend Aristocrats Are Protecting Your Income for 2027",
-      "image": null,
-      "link": "https://247wallst.com/investing/etf/2026/11/27/own-schd-these-6-dividend-aristocrats-are-protecting-your-income-for-2027/?.tsrc=rss",
-      "published": "2026-11-27T16:34:09Z",
       "sentiment": "neutral"
     },
     {
@@ -219,14 +227,6 @@
     },
     {
       "category": "other",
-      "headline": "Top 10 things to watch in the stock market on Black Friday",
-      "image": null,
-      "link": "https://www.cnbc.com/investingclub/2026/11/27/top-10-things-to-watch-in-the-stock-market-on-black-friday.html",
-      "published": "2026-11-27T15:08:31Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
       "headline": "My friends play \u2018credit-card roulette\u2019 to see who pays for dinner \u2014 but one \u2018winner\u2019 still Venmoed me afterward. Should I say something?",
       "image": "news-images/7e066b9c4a7c2d4ebe1ad7fd.jpg",
       "link": "https://www.marketwatch.com/story/my-friends-play-credit-card-roulette-to-see-who-pays-for-dinner-but-one-winner-still-venmoed-me-afterward-should-i-say-something-0a657eee?mod=mw_rss_topstories",
@@ -240,14 +240,6 @@
       "link": "https://www.marketwatch.com/story/artificial-intelligence-usage-is-exploding-yet-spending-is-stalling-why-a-foundational-rule-of-economics-is-breaking-9c7ad4b3?mod=mw_rss_topstories",
       "published": "2026-11-27T15:01:00Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Nvidia\u2019s stock has tumbled 28% over one chaotic month. The next big test lies in the week ahead",
-      "image": "news-images/9f13a8323b2466aef40bb88d.jpg",
-      "link": "https://www.marketwatch.com/story/nvidias-stock-has-tumbled-27-over-one-chaotic-month-the-next-big-test-lies-in-the-week-ahead-06449777?mod=mw_rss_topstories",
-      "published": "2026-11-27T14:56:00Z",
-      "sentiment": "bearish"
     },
     {
       "category": "tech",
@@ -272,6 +264,14 @@
       "link": "https://www.cnbc.com/2026/11/27/eu-budget-2028-2034-deadlock.html",
       "published": "2026-11-27T14:12:55Z",
       "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "The S&P 500 is in a correction. Bear markets and recessions don't always follow",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/27/the-sp-500-is-in-a-correction-bear-markets-and-recessions-dont-always-follow.html",
+      "published": "2026-11-27T13:21:56Z",
+      "sentiment": "bearish"
     },
     {
       "category": "consumer",
@@ -322,8 +322,8 @@
       "sentiment": "bearish"
     }
   ],
-  "newest_item_published": "2026-11-27T18:53:00Z",
-  "source_item_count": 66,
+  "newest_item_published": "2026-11-27T19:55:00Z",
+  "source_item_count": 67,
   "sources": {
     "cnbc": {
       "contributed": 10,
@@ -340,7 +340,7 @@
       "fetched": 10,
       "fresh": 9,
       "label": "MarketWatch",
-      "newest": "2026-11-27T18:53:00Z",
+      "newest": "2026-11-27T19:55:00Z",
       "ok": true
     },
     "mw_bulletins": {
@@ -355,10 +355,10 @@
     "yahoo_dji": {
       "contributed": 11,
       "error": null,
-      "fetched": 16,
-      "fresh": 14,
+      "fetched": 17,
+      "fresh": 15,
       "label": "Yahoo Finance",
-      "newest": "2026-11-27T18:48:43Z",
+      "newest": "2026-11-27T19:54:29Z",
       "ok": true
     }
   }
