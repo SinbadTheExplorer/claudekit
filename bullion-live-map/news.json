@@ -1,6 +1,62 @@
 {
-  "generated_at": "2026-11-27T16:12:08Z",
+  "generated_at": "2026-11-27T17:12:04Z",
   "headlines": [
+    {
+      "category": "tech",
+      "headline": "Stocks gain as tech rebound holds, but Nvidia dips",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-mostly-rise-markets-025702679.html?.tsrc=rss",
+      "published": "2026-11-27T17:05:52Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "other",
+      "headline": "The artificial-intelligence trade is breaking a foundational rule of economics",
+      "image": null,
+      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=4c739c92-c54a-45fa-b6c2-c097bffefee1&amp;mod=mw_rss_bulletins",
+      "published": "2026-11-27T17:02:29Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "AI shopping agents are having a moment, but Amazon and a growing number of sites threaten to stunt their growth",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/27/ai-shopping-agents-retailer-blocks.html",
+      "published": "2026-11-27T16:43:14Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Stock Market Today: Nasdaq Leads Charge; Nvidia Falls On China Data-Center Chip News (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/86a4597f-ee47-3048-ae92-1a56fa4711e5/stock-market-today%3A-nasdaq.html?.tsrc=rss",
+      "published": "2026-11-27T16:38:22Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "Own SCHD? These 6 Dividend Aristocrats Are Protecting Your Income for 2027",
+      "image": null,
+      "link": "https://247wallst.com/investing/etf/2026/11/27/own-schd-these-6-dividend-aristocrats-are-protecting-your-income-for-2027/?.tsrc=rss",
+      "published": "2026-11-27T16:34:09Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Stocks Rally as AI Fears Fade. Call It a Black Friday Bounce.",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/05f1578d-68a3-3f47-b2db-e2e55e73dfb0/stocks-rally-as-ai-fears.html?.tsrc=rss",
+      "published": "2026-11-27T16:31:19Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "tech",
+      "headline": "Update: Consumer Discretionary, Technology Help Push US Equity Indexes Higher",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/consumer-discretionary-technology-help-push-160952748.html?.tsrc=rss",
+      "published": "2026-11-27T16:09:52Z",
+      "sentiment": "neutral"
+    },
     {
       "category": "other",
       "headline": "It\u2019s not just you: Durable goods are getting less reliable, from sputtering cars to glitching smart TVs",
@@ -48,14 +104,6 @@
       "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
       "published": "2026-11-27T15:45:00Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Stock Market Today: Dow Rises, Nasdaq Up As Anthropic, SpaceX Gain; Biotech Name Plummets (Live Coverage)",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/86a4597f-ee47-3048-ae92-1a56fa4711e5/stock-market-today%3A-dow.html?.tsrc=rss",
-      "published": "2026-11-27T15:31:10Z",
-      "sentiment": "bullish"
     },
     {
       "category": "other",
@@ -115,14 +163,6 @@
     },
     {
       "category": "tech",
-      "headline": "Stocks Rally as AI Fears Fade. Call It a Black Friday Bounce.",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/05f1578d-68a3-3f47-b2db-e2e55e73dfb0/stocks-rally-as-ai-fears.html?.tsrc=rss",
-      "published": "2026-11-27T14:32:05Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "tech",
       "headline": "Dow, S&P 500 and Nasdaq open sharply higher as gains broaden beyond tech",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=dfd0d4d5-dd98-400f-9983-2edc6fe37841&amp;mod=mw_rss_bulletins",
@@ -178,14 +218,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "realestate",
-      "headline": "Renters are now a national political constituency that can influence elections",
-      "image": "news-images/21dd9cc37e285a226354464e.jpg",
-      "link": "https://www.marketwatch.com/story/renters-are-now-a-national-political-constituency-that-can-influence-elections-8f028445?mod=mw_rss_topstories",
-      "published": "2026-11-27T13:30:00Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "other",
       "headline": "The S&P 500 is in a correction. Bear markets and recessions don't always follow",
       "image": null,
@@ -234,35 +266,11 @@
       "sentiment": "neutral"
     },
     {
-      "category": "tech",
-      "headline": "Premarket movers: AI stocks rebound, Vertex slides on FDA review",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/premarket-movers-ai-stocks-rebound-123708136.html?.tsrc=rss",
-      "published": "2026-11-27T12:37:08Z",
-      "sentiment": "bullish"
-    },
-    {
       "category": "consumer",
       "headline": "Economic calendar: wholesale and retail inventories, U.S. trade balance",
       "image": null,
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=42d1a4e9-5f16-465e-b293-f57dfaa54feb&amp;mod=mw_rss_bulletins",
       "published": "2026-11-27T12:07:31Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "MARKETS LIVE: US stock markets surge at opening bell on Black Friday",
-      "image": null,
-      "link": "https://www.proactiveinvestors.com/companies/news/1102556/markets-live-us-stock-futures-jump-ahead-of-shortened-black-friday-trading-session-1102556.html?.tsrc=rss",
-      "published": "2026-11-27T11:57:00Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "tech",
-      "headline": "Renewed Tech Optimism Lifts Wall Street Pre-Bell; Asia, Europe Up",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/renewed-tech-optimism-lifts-wall-111258453.html?.tsrc=rss",
-      "published": "2026-11-27T11:12:58Z",
       "sentiment": "neutral"
     },
     {
@@ -312,35 +320,27 @@
       "link": "https://www.marketwatch.com/bulletins/redirect/go?g=792b6c57-7eb1-45a0-9bf0-d84258507eea&amp;mod=mw_rss_bulletins",
       "published": "2026-11-25T20:42:10Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Dow up 200 points, S&P 500 and Nasdaq pare back losses as stocks bounce off lows",
-      "image": null,
-      "link": "https://www.marketwatch.com/bulletins/redirect/go?g=8729df74-1dfa-472b-a24a-3dbbd60045df&amp;mod=mw_rss_bulletins",
-      "published": "2026-11-25T20:07:30Z",
-      "sentiment": "neutral"
     }
   ],
-  "newest_item_published": "2026-11-27T16:08:10Z",
+  "newest_item_published": "2026-11-27T17:05:52Z",
   "source_item_count": 65,
   "sources": {
     "cnbc": {
-      "contributed": 10,
+      "contributed": 11,
       "error": null,
       "fetched": 30,
-      "fresh": 30,
+      "fresh": 29,
       "label": "CNBC",
-      "newest": "2026-11-27T16:08:10Z",
+      "newest": "2026-11-27T16:43:14Z",
       "ok": true
     },
     "marketwatch": {
-      "contributed": 10,
+      "contributed": 9,
       "error": null,
       "fetched": 10,
-      "fresh": 10,
+      "fresh": 9,
       "label": "MarketWatch",
-      "newest": "2026-11-27T16:00:00Z",
+      "newest": "2026-11-27T17:04:00Z",
       "ok": true
     },
     "mw_bulletins": {
@@ -349,16 +349,16 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MW Bulletins",
-      "newest": "2026-11-27T15:18:08Z",
+      "newest": "2026-11-27T17:02:29Z",
       "ok": true
     },
     "yahoo_dji": {
       "contributed": 10,
       "error": null,
       "fetched": 15,
-      "fresh": 13,
+      "fresh": 12,
       "label": "Yahoo Finance",
-      "newest": "2026-11-27T15:31:10Z",
+      "newest": "2026-11-27T17:05:52Z",
       "ok": true
     }
   }
