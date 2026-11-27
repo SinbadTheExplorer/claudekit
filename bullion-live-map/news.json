@@ -1,13 +1,85 @@
 {
-  "generated_at": "2026-11-27T18:12:04Z",
+  "generated_at": "2026-11-27T19:12:05Z",
   "headlines": [
+    {
+      "category": "tech",
+      "headline": "These stocks soared the most during a wild week highlighted by Huang\u2019s return to Nvidia",
+      "image": "news-images/588b021373929006c9a4d3b5.jpg",
+      "link": "https://www.marketwatch.com/story/these-stocks-soared-the-most-during-a-wild-week-highlighted-by-huangs-return-to-nvidia-578b3f9a?mod=mw_rss_topstories",
+      "published": "2026-11-27T18:53:00Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "tech",
+      "headline": "Dow Jones Futures: Stock Market Makes Bullish Move, Tesla Leads 7 New Buys; Nvidia's Jensen Huang Heads To Capitol Hill",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/5b917298-e5b5-3d87-b1fa-f7cad345af64/dow-jones-futures%3A-stock.html?.tsrc=rss",
+      "published": "2026-11-27T18:48:43Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Jensen Huang's return did little to ease AI jitters. We used the weakness to buy",
+      "image": null,
+      "link": "https://www.cnbc.com/investingclub/2026/11/27/jensen-huangs-return-did-little-to-ease-ai-jitters-we-bought-on-weakness.html",
+      "published": "2026-11-27T18:46:20Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "How major US stock indexes fared Friday 11/27/2026",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/major-us-stock-indexes-fared-184551517.html?.tsrc=rss",
+      "published": "2026-11-27T18:45:51Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "The warnings behind this week\u2019s stock-market rally",
+      "image": "news-images/76eca96c507b0f32159f52f1.jpg",
+      "link": "https://www.marketwatch.com/story/the-warnings-behind-this-weeks-stock-market-rally-86e5319c?mod=mw_rss_topstories",
+      "published": "2026-11-27T18:40:00Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "tech",
+      "headline": "US Equity Indexes Rise as Jensen Huang's Return to Nvidia Guardrails AI Trade While Investors Slice Growth Exposure This Week",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-rise-jensen-183902792.html?.tsrc=rss",
+      "published": "2026-11-27T18:39:02Z",
+      "sentiment": "neutral"
+    },
     {
       "category": "tech",
       "headline": "SpaceX shares jump over 4% amid tech rally and after Musk says he will expand on Trump Account share donations",
       "image": null,
       "link": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html",
-      "published": "2026-11-27T18:10:10Z",
+      "published": "2026-11-27T18:24:06Z",
       "sentiment": "bullish"
+    },
+    {
+      "category": "federal",
+      "headline": "Update: US Equity Indexes Jump With Treasury Yields as Consumer Discretionary, Technology Top Sector Charts",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-jump-treasury-182226162.html?.tsrc=rss",
+      "published": "2026-11-27T18:22:26Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "financials",
+      "headline": "Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/27/norse-atlantic-bankruptcy-fuel-costs.html",
+      "published": "2026-11-27T18:20:32Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Stocks Wrap Up Best Thanksgiving Week in Nearly 20 Years",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/9d2f272a-50a9-3cc9-a48e-5e5329282ac3/stocks-wrap-up-best.html?.tsrc=rss",
+      "published": "2026-11-27T18:18:53Z",
+      "sentiment": "neutral"
     },
     {
       "category": "other",
@@ -90,22 +162,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "tech",
-      "headline": "Stocks Rally as AI Fears Fade. Call It a Black Friday Bounce.",
-      "image": null,
-      "link": "https://finance.yahoo.com/m/05f1578d-68a3-3f47-b2db-e2e55e73dfb0/stocks-rally-as-ai-fears.html?.tsrc=rss",
-      "published": "2026-11-27T16:31:19Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "tech",
-      "headline": "Update: Consumer Discretionary, Technology Help Push US Equity Indexes Higher",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/consumer-discretionary-technology-help-push-160952748.html?.tsrc=rss",
-      "published": "2026-11-27T16:09:52Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "other",
       "headline": "It\u2019s not just you: Durable goods are getting less reliable, from sputtering cars to glitching smart TVs",
       "image": null,
@@ -128,14 +184,6 @@
       "link": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
       "published": "2026-11-27T15:52:00Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "These stocks soared the most during a wild week highlighted by Huang\u2019s return to Nvidia",
-      "image": "news-images/588b021373929006c9a4d3b5.jpg",
-      "link": "https://www.marketwatch.com/story/these-stocks-soared-the-most-during-a-wild-week-highlighted-by-huangs-return-to-nvidia-578b3f9a?mod=mw_rss_topstories",
-      "published": "2026-11-27T15:52:00Z",
-      "sentiment": "bullish"
     },
     {
       "category": "other",
@@ -218,60 +266,12 @@
       "sentiment": "bullish"
     },
     {
-      "category": "other",
-      "headline": "How much more are richest Americans spending on the holidays compared to everyone else?",
-      "image": "news-images/1c14a306f0a5de8ac1b74bd1.jpg",
-      "link": "https://www.marketwatch.com/story/see-how-much-more-money-the-richest-americans-are-spending-on-the-holidays-compared-to-everyone-else-f0ff3f4b?mod=mw_rss_topstories",
-      "published": "2026-11-27T14:23:00Z",
-      "sentiment": "neutral"
-    },
-    {
       "category": "international",
       "headline": "EU leaders fail to break $1.7 trillion budget deadlock as political pressure mounts",
       "image": null,
       "link": "https://www.cnbc.com/2026/11/27/eu-budget-2028-2034-deadlock.html",
       "published": "2026-11-27T14:12:55Z",
       "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Friday Amid Technology Stock Rebound",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-140653942.html?.tsrc=rss",
-      "published": "2026-11-27T14:06:53Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "tech",
-      "headline": "Stock Market Today: Major Indexes Surge, on Track for Big Weekly Gains as AI Stocks Rally; Anthropic Jumps 8%",
-      "image": null,
-      "link": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-11272026-12283022?.tsrc=rss",
-      "published": "2026-11-27T14:04:50Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "financials",
-      "headline": "Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/27/norse-atlantic-bankruptcy-fuel-costs.html",
-      "published": "2026-11-27T13:58:19Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Update: US Equity Futures Climb Pre-Bell as Traders Prepare to Wind Down Volatile Holiday Week",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-climb-pre-135223782.html?.tsrc=rss",
-      "published": "2026-11-27T13:52:23Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "The S&P 500 is in a correction. Bear markets and recessions don't always follow",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/27/the-sp-500-is-in-a-correction-bear-markets-and-recessions-dont-always-follow.html",
-      "published": "2026-11-27T13:21:56Z",
-      "sentiment": "bearish"
     },
     {
       "category": "consumer",
@@ -322,8 +322,8 @@
       "sentiment": "bearish"
     }
   ],
-  "newest_item_published": "2026-11-27T18:10:10Z",
-  "source_item_count": 65,
+  "newest_item_published": "2026-11-27T18:53:00Z",
+  "source_item_count": 66,
   "sources": {
     "cnbc": {
       "contributed": 10,
@@ -331,7 +331,7 @@
       "fetched": 30,
       "fresh": 29,
       "label": "CNBC",
-      "newest": "2026-11-27T18:10:10Z",
+      "newest": "2026-11-27T18:46:20Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,7 +340,7 @@
       "fetched": 10,
       "fresh": 9,
       "label": "MarketWatch",
-      "newest": "2026-11-27T17:31:00Z",
+      "newest": "2026-11-27T18:53:00Z",
       "ok": true
     },
     "mw_bulletins": {
@@ -355,10 +355,10 @@
     "yahoo_dji": {
       "contributed": 11,
       "error": null,
-      "fetched": 15,
-      "fresh": 12,
+      "fetched": 16,
+      "fresh": 14,
       "label": "Yahoo Finance",
-      "newest": "2026-11-27T17:59:04Z",
+      "newest": "2026-11-27T18:48:43Z",
       "ok": true
     }
   }
