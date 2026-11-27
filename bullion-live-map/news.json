@@ -1,6 +1,102 @@
 {
-  "generated_at": "2026-11-27T13:12:04Z",
+  "generated_at": "2026-11-27T14:12:05Z",
   "headlines": [
+    {
+      "category": "tech",
+      "headline": "Stock Market Today: Dow Futures Jump 650 Points As Nvidia Rebounds; Anthropic, SpaceX, Tesla Rally (Live Coverage)",
+      "image": null,
+      "link": "https://finance.yahoo.com/m/86a4597f-ee47-3048-ae92-1a56fa4711e5/stock-market-today%3A-dow.html?.tsrc=rss",
+      "published": "2026-11-27T14:00:02Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "financials",
+      "headline": "Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/27/norse-atlantic-bankruptcy-fuel-costs.html",
+      "published": "2026-11-27T13:58:19Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Update: US Equity Futures Climb Pre-Bell as Traders Prepare to Wind Down Volatile Holiday Week",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-climb-pre-135223782.html?.tsrc=rss",
+      "published": "2026-11-27T13:52:23Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "realestate",
+      "headline": "Clearing out my parents\u2019 house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?",
+      "image": "news-images/30337d1c28855fc80a2a8f5d.jpg",
+      "link": "https://www.marketwatch.com/story/clearing-out-my-parents-house-was-a-legal-nightmare-how-can-i-downsize-without-putting-my-children-through-the-same-ordeal-6537d804?mod=mw_rss_topstories",
+      "published": "2026-11-27T13:45:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "realestate",
+      "headline": "Renters are now a national political constituency that can influence elections",
+      "image": "news-images/21dd9cc37e285a226354464e.jpg",
+      "link": "https://www.marketwatch.com/story/renters-are-now-a-national-political-constituency-that-can-influence-elections-8f028445?mod=mw_rss_topstories",
+      "published": "2026-11-27T13:30:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "tech",
+      "headline": "Liesman: Nvidia whiplash tests Kevin Warsh\u2019s push to read market signals",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/25/nvidia-kevin-warsh-fed-market-signals.html",
+      "published": "2026-11-27T13:29:43Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "realestate",
+      "headline": "New-home sales just hit a 2026 high as builders dangle low mortgages and Black Friday deals",
+      "image": "news-images/0b5704edd976ddf03e8fc515.jpg",
+      "link": "https://www.marketwatch.com/story/new-home-sales-just-hit-a-2026-high-as-builders-dangle-low-mortgages-and-black-friday-deals-291a3b62?mod=mw_rss_topstories",
+      "published": "2026-11-27T13:22:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "The S&P 500 is in a correction. Bear markets and recessions don't always follow",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/27/the-sp-500-is-in-a-correction-bear-markets-and-recessions-dont-always-follow.html",
+      "published": "2026-11-27T13:21:56Z",
+      "sentiment": "bearish"
+    },
+    {
+      "category": "other",
+      "headline": "New car prices are at a record high. Here's where to look for deals",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/27/new-car-buying-deals-buying-tips.html",
+      "published": "2026-11-27T13:15:01Z",
+      "sentiment": "bullish"
+    },
+    {
+      "category": "tech",
+      "headline": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
+      "image": "news-images/d088713f17d012877697dcd5.jpg",
+      "link": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
+      "published": "2026-11-27T13:15:00Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "US Equity Futures Climb Pre-Bell as Traders Prepare to Wind Down Volatile Holiday Week",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-climb-pre-130855972.html?.tsrc=rss",
+      "published": "2026-11-27T13:08:55Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "financials",
+      "headline": "Stock Futures Rise as Wall Street Heads for Weekly Gains",
+      "image": null,
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stock-futures-rise-wall-street-130854779.html?.tsrc=rss",
+      "published": "2026-11-27T13:08:54Z",
+      "sentiment": "bullish"
+    },
     {
       "category": "tech",
       "headline": "Rheinmetall reins in growth ambitions as Europe's rearmament boom hits hurdles",
@@ -11,18 +107,26 @@
     },
     {
       "category": "other",
-      "headline": "Spain\u2019s election could pull Madrid closer to Trump\u2019s Washington",
+      "headline": "Dow Jones Futures Rise; Look For This Bullish Market Signal On Black Friday",
       "image": null,
-      "link": "https://www.cnbc.com/2026/11/27/spain-election-trump-sanchez.html",
-      "published": "2026-11-27T13:00:42Z",
+      "link": "https://finance.yahoo.com/m/158e82fc-b889-34b6-8704-99a49e9a83ae/dow-jones-futures-rise%3B-look.html?.tsrc=rss",
+      "published": "2026-11-27T13:06:54Z",
       "sentiment": "neutral"
     },
     {
       "category": "other",
-      "headline": "Dow Jones Futures Rise; Look For This Bullish Market Signal On Black Friday",
+      "headline": "It\u2019s not just you: Durable goods are getting less reliable, from sputtering cars to glitching smart TVs",
       "image": null,
-      "link": "https://finance.yahoo.com/m/158e82fc-b889-34b6-8704-99a49e9a83ae/dow-jones-futures-rise%3B-look.html?.tsrc=rss",
-      "published": "2026-11-27T12:55:29Z",
+      "link": "https://www.cnbc.com/make-it/2026/11/27/durable-goods-reliability-cars-appliances-tvs.html",
+      "published": "2026-11-27T13:05:02Z",
+      "sentiment": "neutral"
+    },
+    {
+      "category": "other",
+      "headline": "Spain\u2019s election could pull Madrid closer to Trump\u2019s Washington",
+      "image": null,
+      "link": "https://www.cnbc.com/2026/11/27/spain-election-trump-sanchez.html",
+      "published": "2026-11-27T13:00:42Z",
       "sentiment": "neutral"
     },
     {
@@ -98,20 +202,20 @@
       "sentiment": "neutral"
     },
     {
+      "category": "other",
+      "headline": "MARKETS LIVE: US stock futures jump ahead of shortened Black Friday trading session",
+      "image": null,
+      "link": "https://www.proactiveinvestors.com/companies/news/1102556/markets-live-us-stock-futures-jump-ahead-of-shortened-black-friday-trading-session-1102556.html?.tsrc=rss",
+      "published": "2026-11-27T11:57:00Z",
+      "sentiment": "bullish"
+    },
+    {
       "category": "tech",
       "headline": "Tech German software major SAP is reportedly weighing cutting at least 10,000 jobs in AI push",
       "image": null,
       "link": "https://www.cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html",
       "published": "2026-11-27T11:49:18Z",
       "sentiment": "bearish"
-    },
-    {
-      "category": "tech",
-      "headline": "I hate that Jensen Huang is back at Nvidia, but I love what it\u2019s done for my 401(k). Am I a hypocrite?",
-      "image": "news-images/5b7c7c95be1da02e122650d0.jpg",
-      "link": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
-      "published": "2026-11-27T11:15:00Z",
-      "sentiment": "neutral"
     },
     {
       "category": "tech",
@@ -130,38 +234,6 @@
       "sentiment": "neutral"
     },
     {
-      "category": "federal",
-      "headline": "Inflation has shoppers hunting for value. That bodes well for Black Friday",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html",
-      "published": "2026-11-27T11:00:01Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "financials",
-      "headline": "Stocks are poised for a Friday jump \u2014 right into a $100 billion wave of automated selling, Goldman Sachs warns",
-      "image": "news-images/fb2c2fcb00b773f1f3f0e023.jpg",
-      "link": "https://www.marketwatch.com/story/stocks-are-poised-for-a-friday-jump-right-into-a-100-billion-wave-of-automated-selling-goldman-sachs-warns-aba6440f?mod=mw_rss_topstories",
-      "published": "2026-11-27T10:54:00Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "tech",
-      "headline": "SAP reportedly set to cut 10,000 jobs \u2014 the latest in a brutal year for tech layoffs",
-      "image": "news-images/a396a51d662365e6a5ff9d16.jpg",
-      "link": "https://www.marketwatch.com/story/sap-reportedly-to-cut-10-000-jobs-it-marks-the-latest-in-a-brutal-year-for-tech-layoffs-c7989744?mod=mw_rss_topstories",
-      "published": "2026-11-27T10:49:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "This investment strategist is 100% in cash \u2014 and warns that buying the Nasdaq dip is like catching a falling knife",
-      "image": "news-images/7a08bba2f9e229eebbd1d26f.jpg",
-      "link": "https://www.marketwatch.com/story/this-investment-strategist-is-100-in-cash-and-warns-that-buying-the-nasdaq-dip-is-like-catching-a-falling-knife-64f5b233?mod=mw_rss_topstories",
-      "published": "2026-11-27T10:37:00Z",
-      "sentiment": "bearish"
-    },
-    {
       "category": "tech",
       "headline": "SpaceX shares jump 4% amid tech rally and after Musk says he will expand on Trump Account share donations",
       "image": null,
@@ -176,78 +248,6 @@
       "link": "https://investorshub.advfn.com/market-news/article/40769/us-stock-futures-rally-as-ai-shares-recover-chip-export-restrictions-disrupt-financing-and-oil-supply-risks-persist-dow-jones-sp-nasdaq-wall-street?.tsrc=rss",
       "published": "2026-11-27T10:08:39Z",
       "sentiment": "bullish"
-    },
-    {
-      "category": "federal",
-      "headline": "The Latest Interest Rate Forecast Is In, and It Spells Trouble for a Historically Expensive AI-Driven Bull Market",
-      "image": null,
-      "link": "https://www.fool.com/investing/2026/11/27/latest-interest-rate-forecast-is-in-spells-trouble-historically-expensive-ai-bull-market/?.tsrc=rss",
-      "published": "2026-11-27T09:26:02Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "Stock market today: Dow, S&P 500, Nasdaq futures gain as AI jitters steady",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/live/stock-market-today-firday-november-27-dow-sp-500-nasdaq-black-friday-holiday-091152065.html?.tsrc=rss",
-      "published": "2026-11-27T09:11:52Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "other",
-      "headline": "Private markets are more accessible than ever for investors. Getting out is another matter",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/27/private-markets-retail-investors-liquidity.html",
-      "published": "2026-11-27T08:05:09Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "other",
-      "headline": "Stock Market News for Nov 27, 2026",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-nov-27-075400531.html?.tsrc=rss",
-      "published": "2026-11-27T07:54:00Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "federal",
-      "headline": "Spain\u2019s Pablo Hern\u00e1ndez de Cos set to lead European Central Bank",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html",
-      "published": "2026-11-27T06:50:38Z",
-      "sentiment": "neutral"
-    },
-    {
-      "category": "tech",
-      "headline": "China\u2019s factories are growing profits again, but the AI boom is picking the winners",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/27/china-industrial-profits-october.html",
-      "published": "2026-11-27T06:09:51Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "other",
-      "headline": "Fast cars, big money: Why sportswear races into Formula 1 as sponsorship spending soars 75%",
-      "image": null,
-      "link": "https://www.cnbc.com/2026/11/27/nike-formula-1-sportswear-brands-sponsorship-adidas-puma.html",
-      "published": "2026-11-27T05:46:04Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "international",
-      "headline": "Asian stocks rally as China shares surge on fresh market-support pledges",
-      "image": null,
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-rise-tech-rebound-041727436.html?.tsrc=rss",
-      "published": "2026-11-27T04:17:27Z",
-      "sentiment": "bullish"
-    },
-    {
-      "category": "other",
-      "headline": "Stocks Are Plunging Right Now. Here's What History Says Investors Should Do.",
-      "image": null,
-      "link": "https://www.fool.com/investing/2026/11/26/stocks-are-plunging-right-now-heres-what-history-s/?.tsrc=rss",
-      "published": "2026-11-27T02:20:00Z",
-      "sentiment": "neutral"
     },
     {
       "category": "financials",
@@ -322,16 +322,16 @@
       "sentiment": "bearish"
     }
   ],
-  "newest_item_published": "2026-11-27T13:08:07Z",
-  "source_item_count": 65,
+  "newest_item_published": "2026-11-27T14:00:02Z",
+  "source_item_count": 67,
   "sources": {
     "cnbc": {
       "contributed": 10,
       "error": null,
       "fetched": 30,
-      "fresh": 29,
+      "fresh": 30,
       "label": "CNBC",
-      "newest": "2026-11-27T13:08:07Z",
+      "newest": "2026-11-27T13:58:19Z",
       "ok": true
     },
     "marketwatch": {
@@ -340,7 +340,7 @@
       "fetched": 10,
       "fresh": 10,
       "label": "MarketWatch",
-      "newest": "2026-11-27T12:42:00Z",
+      "newest": "2026-11-27T13:45:00Z",
       "ok": true
     },
     "mw_bulletins": {
@@ -355,10 +355,10 @@
     "yahoo_dji": {
       "contributed": 10,
       "error": null,
-      "fetched": 15,
-      "fresh": 15,
+      "fetched": 17,
+      "fresh": 17,
       "label": "Yahoo Finance",
-      "newest": "2026-11-27T12:55:29Z",
+      "newest": "2026-11-27T14:00:02Z",
       "ok": true
     }
   }
